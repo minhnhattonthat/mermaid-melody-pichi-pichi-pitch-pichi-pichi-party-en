@@ -355,7 +355,7 @@
     43
    ],
    "jp": "{i20C}や{i20D}や{i20E}など{h }ひょうじされたら\nわたしたちのつよさがへんかしてるの",
-   "en": "When {i20C}, {i20D}, {i20E} etc. show up,\nit means our stats are changing."
+   "en": "When {i20C}, {i20D} or {i20E} show up,\nit means our stats are changing."
   },
   {
    "id": "event_ev003200:08CA",

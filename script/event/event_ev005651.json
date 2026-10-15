@@ -681,7 +681,7 @@
     84
    ],
    "jp": "みさきのてんぼうだいで\nきもちのいいかぜを{h }うけながら",
-   "en": "At the Cape Lookout, in\nthe pleasant breeze..."
+   "en": "At Cape Lookout, in\nthe pleasant breeze..."
   },
   {
    "id": "event_ev005651:0CFC",
@@ -737,7 +737,7 @@
     91
    ],
    "jp": "みさきのてんぼうだいで{h }タキさんと\nゆったりとしたじかんを{h }すごしたよ",
-   "en": "I spent a relaxing time\nwith Taki at the Cape Lookout."
+   "en": "I spent a relaxing time\nwith Taki at Cape Lookout."
   },
   {
    "id": "event_ev005651:0E2E",
@@ -809,7 +809,7 @@
     100
    ],
    "jp": "みさきのてんぼうだいで{h }タキさんと\nゆっくりしたよ",
-   "en": "I relaxed with Taki\nat the Cape Lookout."
+   "en": "I relaxed with Taki\nat Cape Lookout."
   },
   {
    "id": "event_ev005651:0FBC",

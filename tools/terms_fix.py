@@ -21,6 +21,7 @@ FIXES = [
     (r"\"A Gentle Rain\"", "\"Gentle Rain\""),
     (r"Hymn That Wouldn't Start", "Hymn That Won't Start"),
     (r"\b[Tt]he Pearl Piari\b", "Pearl Piari"),
+    (r"\bthe Cape Lookout\b", "Cape Lookout"),
 ]
 
 
