@@ -450,11 +450,12 @@ def assemble(addr, adv, eng):
     return code
 
 
-def check_thumb1(code):
-    """ARM7TDMI has no Thumb-2: keystone silently widens far branches (bhs.w); only BL pairs may be 32-bit."""
+def check_thumb1(code, end=None):
+    """ARM7TDMI has no Thumb-2: keystone silently widens far branches (bhs.w); only BL pairs may be 32-bit.
+    end = offset where the literal pool (data) starts."""
     hw = struct.unpack("<%dH" % (len(code) // 2), code)
     i = 0
-    lit = code.index(struct.pack("<I", 0x020221A0))  # literal pool starts here (data, not code)
+    lit = end if end is not None else code.index(struct.pack("<I", 0x020221A0))
     while i * 2 < lit:
         top = hw[i] >> 11
         if top == 0b11110:
@@ -486,3 +487,4 @@ def install(rom, alloc, adv_table, eng_table):
     mb = at + code.index(MAPB_PROLOGUE)
     hook(rom, RENDER, at)
     hook(rom, MAPB, mb)
+    return adv

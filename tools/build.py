@@ -45,7 +45,9 @@ def build(marker=False, qa=None):
     rom += b"\xff" * (SIZE - len(rom))
     alloc = Alloc(rom, TEXT_LO, GFX_LO)
     adv, eng = font_en.tables()
-    vwf.install(rom, alloc, adv, eng)
+    adv_off = vwf.install(rom, alloc, adv, eng)
+    import patches
+    patches.apply(rom, alloc, adv_off, lambda s: text.encode(s, "en"))
     orig = bytes(rom)
     en_of = text.marker_of if marker else None
     for jp, doc in text.load_all():

@@ -440,7 +440,7 @@
     54
    ],
    "jp": "かみかざり１",
-   "en": "Hairpiece 1"
+   "en": "Hair Ornament 1"
   },
   {
    "id": "mode_clothes_cls_p_msg_item:0206",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "かみかざり２",
-   "en": "Hairpiece 2"
+   "en": "Hair Ornament 2"
   },
   {
    "id": "mode_clothes_cls_p_msg_item:0214",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "うでわ１",
-   "en": "Bangle 1"
+   "en": "Bracelet 1"
   },
   {
    "id": "mode_clothes_cls_p_msg_item:025C",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "うでわ２",
-   "en": "Bangle 2"
+   "en": "Bracelet 2"
   },
   {
    "id": "mode_clothes_cls_p_msg_item:0266",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "うでわ３",
-   "en": "Bangle 3"
+   "en": "Bracelet 3"
   },
   {
    "id": "mode_clothes_cls_p_msg_item:0270",
