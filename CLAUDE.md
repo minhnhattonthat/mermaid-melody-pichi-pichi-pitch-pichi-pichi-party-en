@@ -21,5 +21,16 @@ Prequel (read-only reference, never modify): H:\translation\batch\projects\merma
 - Credits English. All graphics text in scope. Full words, no abbreviations unless flagged.
 - Song lyrics shared with the prequel must match the prequel's English (its script/text.json).
 
+## Pipeline
+- Text: script/event/*.json, script/bms/*.json (tools/text.py dump/identity; tbl from tools/mktbl.py). English via
+  VWF (tools/vwf.py hooks renderer 0x0803843C + map builder 0x08038904; font tools/font_en.py + font_glyphs.py).
+  Batches: tools/batches.py (split/check/merge/pairs/lint), work/tl/. Fixes: tools/fix.py TSV; terms: tools/terms_fix.py.
+  Briefs: docs/translator-brief.md, docs/reviewer-brief.md, docs/style-reference.md.
+- Graphics: tools/gfx/ (export.py, apply.py, redraw*.py), gfx/orig, gfx/en, gfx/layout; brief docs/gfx-brief.md;
+  reports docs/re/gfx_*.md.
+- Debug: tools/debug/mode.lua (mode switch), event.lua (force event), scenes.md.
+
 ## Status
-- Done: Step 0, recon of FS/encoding/font/renderer. Next: phase 1 graphics survey, phase 2 debug tool.
+- Done: phases 0-6 text (all 6866 units translated, reviews b03-b18 fixed), VWF, episode title cards.
+  Running: reviews b19-b34, graphics agents (title, results). Next: reviews b35-b44, gfx groups board/battle/clothes,
+  sysstat + ROM data strings (0x29E710..), name entry, QA tour, release.
