@@ -8,7 +8,7 @@
     0
    ],
    "jp": "わあ　きれいなおみせ\n‥‥かわいいふく{h }うってる",
-   "en": ""
+   "en": "Wow, a pretty shop...\n...They're selling cute clothes."
   },
   {
    "id": "event_ev005016:0032",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "ちょっと\nのぞいていっちゃおうかな",
-   "en": ""
+   "en": "Maybe I'll take\na little peek."
   },
   {
    "id": "event_ev005016:0056",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "このふく{h }いいなあ\nあ{h }こっちも‥‥",
-   "en": ""
+   "en": "These clothes are nice...\nOh, and these too..."
   },
   {
    "id": "event_ev005016:007C",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "ドラマに出てくるような\nきれいなおみせで{h }おかいもの",
-   "en": ""
+   "en": "You went shopping at a pretty\nshop like the ones in TV dramas!"
   },
   {
    "id": "event_ev005016:00B2",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "『ようふくアイテムを手に入れたよ』",
-   "en": ""
+   "en": "\"You got a clothing item!\""
   },
   {
    "id": "event_ev005016:00D6",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +14{i20F}\""
   },
   {
    "id": "event_ev005016:00FA",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "わあ　きれいなおみせ\n‥‥かわいいふく{h }うってる！",
-   "en": ""
+   "en": "Wow, a pretty shop...\n...They're selling cute clothes!"
   },
   {
    "id": "event_ev005016:012E",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "ちょっと\nのぞいていっちゃお",
-   "en": ""
+   "en": "I'll take\na little peek!"
   },
   {
    "id": "event_ev005016:014C",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "このふく{h }かわいい\nあ{h }こっちもかわいいっ",
-   "en": ""
+   "en": "These clothes are cute!\nOh, and these are cute too!"
   },
   {
    "id": "event_ev005016:0178",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "あ〜んもう{h }まよっちゃう",
-   "en": ""
+   "en": "Ahh, geez, I can't decide!"
   },
   {
    "id": "event_ev005016:0192",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "ドラマに出てくるような\nきれいなおみせで{h }おかいもの",
-   "en": ""
+   "en": "You went shopping at a pretty\nshop like the ones in TV dramas!"
   },
   {
    "id": "event_ev005016:01C8",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "『ようふくアイテムを手に入れたよ』",
-   "en": ""
+   "en": "\"You got a clothing item!\""
   },
   {
    "id": "event_ev005016:01EC",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +14{i20F}\""
   },
   {
    "id": "event_ev005016:0210",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "しゃれた{h }みせだな\nショーウィンドウのセンスもいい",
-   "en": ""
+   "en": "A stylish shop.\nThe window display has good taste too."
   },
   {
    "id": "event_ev005016:0244",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "ちょっと\nのぞいていくか",
-   "en": ""
+   "en": "Maybe I'll\ntake a look."
   },
   {
    "id": "event_ev005016:025E",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "これ　いいな‥‥",
-   "en": ""
+   "en": "This is nice..."
   },
   {
    "id": "event_ev005016:0276",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "ドラマに出てくるような\nきれいなおみせで{h }おかいもの",
-   "en": ""
+   "en": "You went shopping at a pretty\nshop like the ones in TV dramas!"
   },
   {
    "id": "event_ev005016:02AC",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "『ようふくアイテムを手に入れたよ』",
-   "en": ""
+   "en": "\"You got a clothing item!\""
   },
   {
    "id": "event_ev005016:02D0",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +14{i20F}\""
   }
  ]
 }

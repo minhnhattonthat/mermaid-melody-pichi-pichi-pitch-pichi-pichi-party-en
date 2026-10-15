@@ -17,7 +17,7 @@
     1
    ],
    "jp": "もう…　こんなにせまいみちなのに\nクルマ　あぶないなあ…",
-   "en": ""
+   "en": "Geez... On a road this narrow...\nThat car's dangerous..."
   },
   {
    "id": "event_ev005004:0042",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "あ〜！　ボール　まてまて〜！",
-   "en": ""
+   "en": "Ah! Ball, wait, waaait!"
   },
   {
    "id": "event_ev005004:0060",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "ちょ　ちょっとボク！\nとびだしたら　あぶないよ！",
-   "en": ""
+   "en": "H-hey, little guy!\nRunning out like that is dangerous!"
   },
   {
    "id": "event_ev005004:0092",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "あ！　またクルマっ！",
-   "en": ""
+   "en": "Oh no! Another car!"
   },
   {
    "id": "event_ev005004:00A8",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "わあああ〜っ！",
-   "en": ""
+   "en": "Waaaaah!"
   },
   {
    "id": "event_ev005004:00B8",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "たすけなきゃっ！",
-   "en": ""
+   "en": "I have to save him!"
   },
   {
    "id": "event_ev005004:00CA",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "（かけよって{h }だきとめ\nどうろのはしへ{h }ころがる！）",
-   "en": ""
+   "en": "(You run over, catch him, and\nroll to the side of the road!)"
   },
   {
    "id": "event_ev005004:0100",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "だいじょうぶ？",
-   "en": ""
+   "en": "Are you okay?"
   },
   {
    "id": "event_ev005004:0110",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "よかった…\nもう　とびだしちゃだめだよ",
-   "en": ""
+   "en": "Thank goodness...\nDon't run out like that again."
   },
   {
    "id": "event_ev005004:0138",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20E}{h }けいかいなステップ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20E} Nimble Steps +2{i20F}\""
   },
   {
    "id": "event_ev005004:0180",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "きゃあ！",
-   "en": ""
+   "en": "Eeek!"
   },
   {
    "id": "event_ev005004:018A",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "もう…　なによあのクルマ",
-   "en": ""
+   "en": "Geez... What's with that car?"
   },
   {
    "id": "event_ev005004:01A4",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "こんなに{h }せまいみちを\nあんなスピードではしって",
-   "en": ""
+   "en": "Driving that fast\non a road this narrow!"
   },
   {
    "id": "event_ev005004:01D6",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "あ〜！　ボール　まてまて〜！",
-   "en": ""
+   "en": "Ah! Ball, wait, waaait!"
   },
   {
    "id": "event_ev005004:01F4",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "ちょ　ちょっとボク！\nとびだしたら　あぶないわよ！",
-   "en": ""
+   "en": "H-hey, little guy!\nRunning out like that is dangerous!"
   },
   {
    "id": "event_ev005004:0228",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "あっ！　またクルマがっ！",
-   "en": ""
+   "en": "Oh no! Another car!"
   },
   {
    "id": "event_ev005004:0242",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "わあああ〜っ！",
-   "en": ""
+   "en": "Waaaaah!"
   },
   {
    "id": "event_ev005004:0252",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "たすけなきゃっ！",
-   "en": ""
+   "en": "I have to save him!"
   },
   {
    "id": "event_ev005004:0264",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "（かけよって{h }だきとめ\nどうろのはしへ{h }ころがる！）",
-   "en": ""
+   "en": "(You run over, catch him, and\nroll to the side of the road!)"
   },
   {
    "id": "event_ev005004:029A",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "だいじょうぶ？",
-   "en": ""
+   "en": "Are you okay?"
   },
   {
    "id": "event_ev005004:02AA",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "よかった…\nもう　とびだしちゃだめよ",
-   "en": ""
+   "en": "Thank goodness...\nDon't run out like that again."
   },
   {
    "id": "event_ev005004:02D0",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20E}{h }けいかいなステップ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20E} Nimble Steps +2{i20F}\""
   },
   {
    "id": "event_ev005004:0318",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "うわ！",
-   "en": ""
+   "en": "Whoa!"
   },
   {
    "id": "event_ev005004:0320",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "‥‥なんだあのクルマ",
-   "en": ""
+   "en": "...What's with that car?"
   },
   {
    "id": "event_ev005004:0336",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "こんなに{h }せまいみちを\nあんなスピードではしって",
-   "en": ""
+   "en": "Driving that fast\non a road this narrow!"
   },
   {
    "id": "event_ev005004:0368",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "あ〜！　ボール　まてまて〜！",
-   "en": ""
+   "en": "Ah! Ball, wait, waaait!"
   },
   {
    "id": "event_ev005004:0386",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "ちょ　ちょっとボク！\nとびだしたら　あぶないぞ！",
-   "en": ""
+   "en": "H-hey, kid!\nRunning out like that is dangerous!"
   },
   {
    "id": "event_ev005004:03B8",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "あっ！　またクルマがっ！",
-   "en": ""
+   "en": "Oh no! Another car!"
   },
   {
    "id": "event_ev005004:03D2",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "わあああ〜っ！",
-   "en": ""
+   "en": "Waaaaah!"
   },
   {
    "id": "event_ev005004:03E2",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "たすけなきゃっ！",
-   "en": ""
+   "en": "I have to save him!"
   },
   {
    "id": "event_ev005004:03F4",
@@ -257,7 +257,7 @@
     31
    ],
    "jp": "（かけよって{h }だきとめ\nどうろのはしへ{h }ころがる！）",
-   "en": ""
+   "en": "(You run over, catch him, and\nroll to the side of the road!)"
   },
   {
    "id": "event_ev005004:042A",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "だいじょうぶか？",
-   "en": ""
+   "en": "You okay?"
   },
   {
    "id": "event_ev005004:043C",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "よかった…\nもう　とびだしたりするなよ",
-   "en": ""
+   "en": "Good...\nDon't go running out again."
   },
   {
    "id": "event_ev005004:0464",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20E}{h }けいかいなステップ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20E} Nimble Steps +2{i20F}\""
   }
  ]
 }

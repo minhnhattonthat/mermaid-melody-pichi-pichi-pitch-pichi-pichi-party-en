@@ -9,7 +9,7 @@
     27
    ],
    "jp": "（ゴロゴロ‥‥）",
-   "en": ""
+   "en": "(RUMBLE...)"
   },
   {
    "id": "event_ev005115:0012",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "きゃあっ！",
-   "en": ""
+   "en": "Eeek!"
   },
   {
    "id": "event_ev005115:001E",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "ええっ？　こんなに\n天気がいいのに{h }カミナリ！？",
-   "en": ""
+   "en": "Whaaat? Thunder,\nwhen the weather's this nice?!"
   },
   {
    "id": "event_ev005115:0050",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "雨ふってきちゃうのかなあ‥‥？",
-   "en": ""
+   "en": "Is it going to start raining...?"
   },
   {
    "id": "event_ev005115:0070",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "あ　また！\nいや〜ん{h }カミナリこわい〜‥‥",
-   "en": ""
+   "en": "Ah, again!\nNooo, thunder's scaaary..."
   },
   {
    "id": "event_ev005115:009C",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "　★ぜんいんにこうか",
-   "en": ""
+   "en": " ★Affects everyone"
   },
   {
    "id": "event_ev005115:00B2",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "カミナリにびっくりして\nはしってたら{h }おとしものしたみたい",
-   "en": ""
+   "en": "The thunder scared me, I ran,\nand I think I dropped something."
   },
   {
    "id": "event_ev005115:00EE",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "『ぜんいんの{h }もっている\nカードを{h }ぜんぶ{h }なくしちゃう』",
-   "en": ""
+   "en": "\"Everyone loses\nall the cards they have.\""
   },
   {
    "id": "event_ev005115:012A",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005115:0170",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "（ゴロゴロ‥‥）",
-   "en": ""
+   "en": "(RUMBLE...)"
   },
   {
    "id": "event_ev005115:0182",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "きゃあっ！",
-   "en": ""
+   "en": "Eeek!"
   },
   {
    "id": "event_ev005115:018E",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "ええっ？　こんなに\n天気がいいのに{h }カミナリ！？",
-   "en": ""
+   "en": "Whaaat? Thunder,\nwhen the weather's this nice?!"
   },
   {
    "id": "event_ev005115:01C0",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "雨ふってきちゃうのかしら‥‥？",
-   "en": ""
+   "en": "Is it going to start raining...?"
   },
   {
    "id": "event_ev005115:01E0",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "あ　また！\nいや〜ん{h }カミナリこわい〜‥‥",
-   "en": ""
+   "en": "Ah, again!\nNooo, thunder's scaaary..."
   },
   {
    "id": "event_ev005115:020C",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "　★ぜんいんにこうか",
-   "en": ""
+   "en": " ★Affects everyone"
   },
   {
    "id": "event_ev005115:0222",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "カミナリにびっくりして\nはしってたら{h }おとしものしたみたい",
-   "en": ""
+   "en": "The thunder scared me, I ran,\nand I think I dropped something."
   },
   {
    "id": "event_ev005115:025E",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "『ぜんいんの{h }もっている\nカードを{h }ぜんぶ{h }なくしちゃう』",
-   "en": ""
+   "en": "\"Everyone loses\nall the cards they have.\""
   },
   {
    "id": "event_ev005115:029A",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005115:02E0",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "（ゴロゴロ‥‥）",
-   "en": ""
+   "en": "(RUMBLE...)"
   },
   {
    "id": "event_ev005115:02F2",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "こんなに{h }天気がいいのに\nカミナリ！？",
-   "en": ""
+   "en": "Thunder, when the weather's\nthis nice?!"
   },
   {
    "id": "event_ev005115:0326",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "雨がふってくるとまずいな‥‥",
-   "en": ""
+   "en": "It'd be bad if it started raining..."
   },
   {
    "id": "event_ev005115:0344",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "これは\nいそいだほうがよさそうだ‥‥",
-   "en": ""
+   "en": "Looks like\nI'd better hurry..."
   },
   {
    "id": "event_ev005115:036A",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "　★ぜんいんにこうか",
-   "en": ""
+   "en": " ★Affects everyone"
   },
   {
    "id": "event_ev005115:0380",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "カミナリにびっくりして\nはしってたら{h }おとしものしたみたい",
-   "en": ""
+   "en": "The thunder scared me, I ran,\nand I think I dropped something."
   },
   {
    "id": "event_ev005115:03BC",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "『ぜんいんの{h }もっている\nカードを{h }ぜんぶ{h }なくしちゃう』",
-   "en": ""
+   "en": "\"Everyone loses\nall the cards they have.\""
   },
   {
    "id": "event_ev005115:03F8",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   }
  ]
 }

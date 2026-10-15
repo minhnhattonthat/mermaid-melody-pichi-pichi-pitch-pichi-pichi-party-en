@@ -9,7 +9,7 @@
     15
    ],
    "jp": "（ぷつんっ！）",
-   "en": ""
+   "en": "(SNAP!)"
   },
   {
    "id": "event_ev005110:0010",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "きゃっ",
-   "en": ""
+   "en": "Eek!"
   },
   {
    "id": "event_ev005110:0018",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "あ〜！　みんなといっしょにつくった\nおまじないのビーズのゆびわが‥‥",
-   "en": ""
+   "en": "Nooo! The bead charm ring\nwe all made together..."
   },
   {
    "id": "event_ev005110:005E",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "みんなでつくったビーズアクセサリが\nこわれて{h }がっかり",
-   "en": ""
+   "en": "The bead accessory we all made\nbroke. So disappointing."
   },
   {
    "id": "event_ev005110:0096",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005110:00DC",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "（ぷつんっ！）",
-   "en": ""
+   "en": "(SNAP!)"
   },
   {
    "id": "event_ev005110:00EC",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "きゃっ",
-   "en": ""
+   "en": "Eek!"
   },
   {
    "id": "event_ev005110:00F4",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "あ〜！　みんなといっしょにつくった\nおまじないのビーズのゆびわが‥‥",
-   "en": ""
+   "en": "Nooo! The bead charm ring\nwe all made together..."
   },
   {
    "id": "event_ev005110:013A",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "みんなでつくったビーズアクセサリが\nこわれて{h }がっかり",
-   "en": ""
+   "en": "The bead accessory we all made\nbroke. So disappointing."
   },
   {
    "id": "event_ev005110:0172",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005110:01B8",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "（ぷつんっ！）",
-   "en": ""
+   "en": "(SNAP!)"
   },
   {
    "id": "event_ev005110:01C8",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "あっ！　と",
-   "en": ""
+   "en": "Ah! Whoa."
   },
   {
    "id": "event_ev005110:01D4",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "‥‥　みんなといっしょにつくった\nおまじないのビーズのゆびわが‥‥",
-   "en": ""
+   "en": "...The bead charm ring\nwe all made together..."
   },
   {
    "id": "event_ev005110:0218",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "みんなでつくったビーズアクセサリが\nこわれて{h }がっかり",
-   "en": ""
+   "en": "The bead accessory we all made\nbroke. So disappointing."
   },
   {
    "id": "event_ev005110:0250",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   }
  ]
 }

@@ -10,7 +10,7 @@
     23
    ],
    "jp": "うみでおよぐのって　きもちいー",
-   "en": ""
+   "en": "Swimming in the sea feels so good!"
   },
   {
    "id": "event_ev005204:0020",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "（キラッ！）",
-   "en": ""
+   "en": "(GLINT!)"
   },
   {
    "id": "event_ev005204:002E",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "あれ？　いま　そこのいわかげで\nなにか　ひかったかも？",
-   "en": ""
+   "en": "Huh? I think something just\nsparkled behind that rock?"
   },
   {
    "id": "event_ev005204:0066",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "‥‥なんだろうこれ？",
-   "en": ""
+   "en": "...What's this?"
   },
   {
    "id": "event_ev005204:007C",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "いわかげから　カードを見つけた！",
-   "en": ""
+   "en": "Found a card behind the rock!"
   },
   {
    "id": "event_ev005204:009E",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "『カードを手に入れたよ』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005204:00B8",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005204:00FC",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "ん〜　いいきもち！",
-   "en": ""
+   "en": "Mmm, this feels great!"
   },
   {
    "id": "event_ev005204:0110",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "やっぱり　およぐと\nみもこころも　あらわれるわねー",
-   "en": ""
+   "en": "Swimming really washes\nyour body and heart clean!"
   },
   {
    "id": "event_ev005204:0144",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "（キラッ！）",
-   "en": ""
+   "en": "(GLINT!)"
   },
   {
    "id": "event_ev005204:0152",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "？？　いま　そこのいわかげで\nなにか　ひからなかった？",
-   "en": ""
+   "en": "?? Didn't something just\nsparkle behind that rock?"
   },
   {
    "id": "event_ev005204:018A",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "‥‥これ{h }なあに‥‥？",
-   "en": ""
+   "en": "...What's this...?"
   },
   {
    "id": "event_ev005204:01A2",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "いわかげから　カードを見つけた！",
-   "en": ""
+   "en": "Found a card behind the rock!"
   },
   {
    "id": "event_ev005204:01C4",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "『カードを手に入れたよ』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005204:01DE",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005204:0222",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "うみで　およぐのは\nやはりきもちいいな‥‥",
-   "en": ""
+   "en": "Swimming in the sea\nreally does feel good..."
   },
   {
    "id": "event_ev005204:024E",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "（キラッ！）",
-   "en": ""
+   "en": "(GLINT!)"
   },
   {
    "id": "event_ev005204:025C",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "おや？　いま　そこのいわかげで\nなにか　ひかったような‥‥",
-   "en": ""
+   "en": "Hm? I think something just\nsparkled behind that rock..."
   },
   {
    "id": "event_ev005204:0298",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "‥‥なんだ{h }これは‥‥？",
-   "en": ""
+   "en": "...What's this...?"
   },
   {
    "id": "event_ev005204:02B2",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "いわかげから　カードを見つけた！",
-   "en": ""
+   "en": "Found a card behind the rock!"
   },
   {
    "id": "event_ev005204:02D4",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "『カードを手に入れたよ』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005204:02EE",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   }
  ]
 }

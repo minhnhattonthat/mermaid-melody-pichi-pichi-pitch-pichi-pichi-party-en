@@ -8,7 +8,7 @@
     0
    ],
    "jp": "ピイ！　ピイ{h }ピイ‥‥",
-   "en": ""
+   "en": "Cheep! Cheep cheep..."
   },
   {
    "id": "event_ev005010:0018",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "‥‥？\nなんの{h }なきごえだろ‥‥？",
-   "en": ""
+   "en": "...?\nWhat's making that sound...?"
   },
   {
    "id": "event_ev005010:003C",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "（ガサガサ）\nえっと　ここらへんから{h }こえが‥‥",
-   "en": ""
+   "en": "(Rustle rustle)\nUm, the voice came from around here..."
   },
   {
    "id": "event_ev005010:006E",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "‥‥こんなところに\nとりのヒナがいる！",
-   "en": ""
+   "en": "...There's a baby bird\nin a place like this!"
   },
   {
    "id": "event_ev005010:0096",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "この木の上の{h }とりのす\nからおちたんだ！",
-   "en": ""
+   "en": "It fell from the bird's nest\nup in this tree!"
   },
   {
    "id": "event_ev005010:00C0",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "もとに{h }もどしてあげなきゃ！",
-   "en": ""
+   "en": "I have to put it back!"
   },
   {
    "id": "event_ev005010:00DE",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "とりのすから{h }おちてた\nヒナを{h }たすけてあげたよ",
-   "en": ""
+   "en": "You rescued a baby bird\nthat fell from its nest!"
   },
   {
    "id": "event_ev005010:0110",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３４{i20F}』\n『{i20E}{h }けいかいなステップ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +34{i20F}\"\n\"{i20E} Nimble Steps +2{i20F}\""
   },
   {
    "id": "event_ev005010:0158",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ピイ！　ピイ{h }ピイ‥‥",
-   "en": ""
+   "en": "Cheep! Cheep cheep..."
   },
   {
    "id": "event_ev005010:0170",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "‥‥？\nなんの{h }なきごえだろ‥‥？",
-   "en": ""
+   "en": "...?\nWhat's making that sound...?"
   },
   {
    "id": "event_ev005010:0194",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "（ガサガサ）\nえっと　ここから{h }こえが‥‥",
-   "en": ""
+   "en": "(Rustle rustle)\nUm, the voice came from here..."
   },
   {
    "id": "event_ev005010:01C0",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "‥‥こんなところに\nとりのヒナがいる！",
-   "en": ""
+   "en": "...There's a baby bird\nin a place like this!"
   },
   {
    "id": "event_ev005010:01E8",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "この木の上の{h }とりのす\nからおちたのね！",
-   "en": ""
+   "en": "It fell from the bird's nest\nup in this tree!"
   },
   {
    "id": "event_ev005010:0212",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "まっててね\nもとにもどしてあげるから",
-   "en": ""
+   "en": "Wait just a moment.\nI'll put you back."
   },
   {
    "id": "event_ev005010:0238",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "とりのすから{h }おちてた\nヒナを{h }たすけてあげたよ",
-   "en": ""
+   "en": "You rescued a baby bird\nthat fell from its nest!"
   },
   {
    "id": "event_ev005010:026A",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３４{i20F}』\n『{i20E}{h }けいかいなステップ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +34{i20F}\"\n\"{i20E} Nimble Steps +2{i20F}\""
   },
   {
    "id": "event_ev005010:02B2",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "ピイ！　ピイ{h }ピイ‥‥",
-   "en": ""
+   "en": "Cheep! Cheep cheep..."
   },
   {
    "id": "event_ev005010:02CA",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "‥‥？\nなんの{h }なきごえだ‥‥？",
-   "en": ""
+   "en": "...?\nWhat's making that sound...?"
   },
   {
    "id": "event_ev005010:02EC",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "（ガサガサ）\nここのあたりから{h }きこえたが‥‥",
-   "en": ""
+   "en": "(Rustle rustle)\nI heard it from around here..."
   },
   {
    "id": "event_ev005010:031C",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "‥‥こんなところに\nとりのヒナが‥‥",
-   "en": ""
+   "en": "...A baby bird,\nin a place like this..."
   },
   {
    "id": "event_ev005010:0342",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "この木の上の{h }とりのす\nからおちたのか",
-   "en": ""
+   "en": "It fell from the bird's nest\nup in this tree, huh?"
   },
   {
    "id": "event_ev005010:036A",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "よし！\nすぐにもどしてやるからな",
-   "en": ""
+   "en": "All right!\nI'll put you right back."
   },
   {
    "id": "event_ev005010:038C",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "とりのすから{h }おちてた\nヒナを{h }たすけてあげたよ",
-   "en": ""
+   "en": "You rescued a baby bird\nthat fell from its nest!"
   },
   {
    "id": "event_ev005010:03BE",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３４{i20F}』\n『{i20E}{h }けいかいなステップ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +34{i20F}\"\n\"{i20E} Nimble Steps +2{i20F}\""
   }
  ]
 }

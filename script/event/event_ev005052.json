@@ -8,7 +8,7 @@
     0
    ],
    "jp": "さあ　ショッピングフェアの\nふくびきだよ",
-   "en": ""
+   "en": "Step right up for the\nshopping fair lucky draw!"
   },
   {
    "id": "event_ev005052:002A",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "あ{h }そういえば{h }さっきおかいもので\nふくびきけん{h }もらったんだった",
-   "en": ""
+   "en": "Oh, that's right, I got a lucky\ndraw ticket when I went shopping."
   },
   {
    "id": "event_ev005052:006E",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "ちょっと{h }やっていこうかな",
-   "en": ""
+   "en": "Maybe I'll give it a try."
   },
   {
    "id": "event_ev005052:008A",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005052:00D4",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "　ふくびきでうんだめし",
-   "en": ""
+   "en": " Lucky Draw Luck Test"
   },
   {
    "id": "event_ev005052:00EC",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "（コロン）",
-   "en": ""
+   "en": "(Clunk)"
   },
   {
    "id": "event_ev005052:00F8",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "お！　おめでとう{h }おじょうちゃん！",
-   "en": ""
+   "en": "Oh! Congratulations, miss!"
   },
   {
    "id": "event_ev005052:011C",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "３とうの{h }\nゲームソフト１年ぶんだよ！",
-   "en": ""
+   "en": "Third prize:\na year's worth of video games!"
   },
   {
    "id": "event_ev005052:0144",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "やったあ！\nほんとにあたるなんて{h }ラッキー！",
-   "en": ""
+   "en": "Yay!\nI can't believe I won! Lucky!"
   },
   {
    "id": "event_ev005052:0172",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ふくびきで{h }しょうひんが\nあたったよ　ラッキー！",
-   "en": ""
+   "en": "You won a prize in\nthe lucky draw! Lucky!"
   },
   {
    "id": "event_ev005052:01A4",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005052:01E8",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "（ころん）",
-   "en": ""
+   "en": "(Clunk)"
   },
   {
    "id": "event_ev005052:01F4",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "はい{h }６とうの\nティッシュひとハコだよ",
-   "en": ""
+   "en": "Here you go, sixth prize:\none box of tissues."
   },
   {
    "id": "event_ev005052:021C",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "ええ〜\nもっといいものがほしかったなあ",
-   "en": ""
+   "en": "Awww...\nI wanted something better..."
   },
   {
    "id": "event_ev005052:0244",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "こんかいは{h }ざんねん\nまたつぎに{h }がんばろう",
-   "en": ""
+   "en": "No luck this time.\nBetter luck next time!"
   },
   {
    "id": "event_ev005052:0272",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005052:02B6",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "さあ　ショッピングフェアの\nふくびきだよ",
-   "en": ""
+   "en": "Step right up for the\nshopping fair lucky draw!"
   },
   {
    "id": "event_ev005052:02E0",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "あ{h }そういえば{h }さっきおかいもので\nふくびきけん{h }もらったんだった",
-   "en": ""
+   "en": "Oh, that's right, I got a lucky\ndraw ticket when I went shopping."
   },
   {
    "id": "event_ev005052:0324",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "ちょっと{h }やっていこうかな",
-   "en": ""
+   "en": "Maybe I'll give it a try."
   },
   {
    "id": "event_ev005052:0340",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005052:038A",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "　ふくびきでうんだめし",
-   "en": ""
+   "en": " Lucky Draw Luck Test"
   },
   {
    "id": "event_ev005052:03A2",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "（コロン）",
-   "en": ""
+   "en": "(Clunk)"
   },
   {
    "id": "event_ev005052:03AE",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "お！　おめでとう{h }おじょうちゃん！",
-   "en": ""
+   "en": "Oh! Congratulations, miss!"
   },
   {
    "id": "event_ev005052:03D2",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "３とうの{h }\nゲームソフト１年ぶんだよ！",
-   "en": ""
+   "en": "Third prize:\na year's worth of video games!"
   },
   {
    "id": "event_ev005052:03FA",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "ほんと？　やった！\nわたしって　ついてる！",
-   "en": ""
+   "en": "Really? Yay!\nI'm so lucky!"
   },
   {
    "id": "event_ev005052:0426",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "ふくびきで{h }しょうひんが\nあたったよ　ラッキー！",
-   "en": ""
+   "en": "You won a prize in\nthe lucky draw! Lucky!"
   },
   {
    "id": "event_ev005052:0458",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005052:049C",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "（ころん）",
-   "en": ""
+   "en": "(Clunk)"
   },
   {
    "id": "event_ev005052:04A8",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "はい{h }６とうの\nティッシュひとハコだよ",
-   "en": ""
+   "en": "Here you go, sixth prize:\none box of tissues."
   },
   {
    "id": "event_ev005052:04D0",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "ええ〜\nなによ{h }ティッシュだけ〜？",
-   "en": ""
+   "en": "Awww...\nWhat, just tissues?"
   },
   {
    "id": "event_ev005052:04F4",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "こんかいは{h }ざんねん\nまたつぎに{h }がんばろう",
-   "en": ""
+   "en": "No luck this time.\nBetter luck next time!"
   },
   {
    "id": "event_ev005052:0522",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005052:0566",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "さあ　ショッピングフェアの\nふくびきだよ",
-   "en": ""
+   "en": "Step right up for the\nshopping fair lucky draw!"
   },
   {
    "id": "event_ev005052:0590",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "そういえば{h }さっきかいもので\nふくびきけん{h }もらったな",
-   "en": ""
+   "en": "Come to think of it, I got a lucky\ndraw ticket when I went shopping."
   },
   {
    "id": "event_ev005052:05C8",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "ちょっと{h }やっていくかな",
-   "en": ""
+   "en": "Maybe I'll give it a try."
   },
   {
    "id": "event_ev005052:05E2",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005052:062C",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "　ふくびきでうんだめし",
-   "en": ""
+   "en": " Lucky Draw Luck Test"
   },
   {
    "id": "event_ev005052:0644",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "（コロン）",
-   "en": ""
+   "en": "(Clunk)"
   },
   {
    "id": "event_ev005052:0650",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "お！　おめでとう{h }おじょうちゃん！",
-   "en": ""
+   "en": "Oh! Congratulations, miss!"
   },
   {
    "id": "event_ev005052:0674",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "３とうの\nゲームソフト１年ぶんだよ！",
-   "en": ""
+   "en": "Third prize:\na year's worth of video games!"
   },
   {
    "id": "event_ev005052:069A",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "まさか{h }ほんとにあたるとは‥‥",
-   "en": ""
+   "en": "I can't believe I actually won..."
   },
   {
    "id": "event_ev005052:06BA",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "ふくびきで{h }しょうひんが\nあたったよ　ラッキー！",
-   "en": ""
+   "en": "You won a prize in\nthe lucky draw! Lucky!"
   },
   {
    "id": "event_ev005052:06EC",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005052:0730",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "（ころん）",
-   "en": ""
+   "en": "(Clunk)"
   },
   {
    "id": "event_ev005052:073C",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "はい{h }６とうの\nティッシュひとハコだよ",
-   "en": ""
+   "en": "Here you go, sixth prize:\none box of tissues."
   },
   {
    "id": "event_ev005052:0764",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "ま　こんなもんだろう",
-   "en": ""
+   "en": "Well, that's about what I expected."
   },
   {
    "id": "event_ev005052:077A",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "こんかいは{h }ざんねん\nまたつぎに{h }がんばろう",
-   "en": ""
+   "en": "No luck this time.\nBetter luck next time!"
   },
   {
    "id": "event_ev005052:07A8",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   }
  ]
 }

@@ -10,7 +10,7 @@
     19
    ],
    "jp": "あれ‥‥　いわばのかげに\nなにか　いるみたい？",
-   "en": ""
+   "en": "Huh... Is there something\nbehind those rocks?"
   },
   {
    "id": "event_ev005251:0030",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "ゴボゴボゴボ‥‥！",
-   "en": ""
+   "en": "Blub blub blub...!"
   },
   {
    "id": "event_ev005251:0044",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "きゃああ\nサメに　見つかっちゃった！",
-   "en": ""
+   "en": "Eeek!\nA shark spotted me!"
   },
   {
    "id": "event_ev005251:006A",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "いや〜ん　おいかけてこないで〜",
-   "en": ""
+   "en": "Nooo, don't chase meee!"
   },
   {
    "id": "event_ev005251:008A",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "サメに　おいかけられる",
-   "en": ""
+   "en": "Chased by a shark!"
   },
   {
    "id": "event_ev005251:00A2",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005251:00E6",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "あら‥‥　いわばのかげに\nなにか　いるみたいね？",
-   "en": ""
+   "en": "Oh... Looks like there's\nsomething behind those rocks?"
   },
   {
    "id": "event_ev005251:0118",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "ゴボゴボゴボ‥‥！",
-   "en": ""
+   "en": "Blub blub blub...!"
   },
   {
    "id": "event_ev005251:012C",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "きゃああ　サメよ　サメ！\n見つかっちゃったみたい〜！！",
-   "en": ""
+   "en": "Eeek, a shark! A shark!\nIt looks like it spotted me!!"
   },
   {
    "id": "event_ev005251:0164",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "いそいで　にげなくちゃ！",
-   "en": ""
+   "en": "I have to get away, fast!"
   },
   {
    "id": "event_ev005251:017E",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "サメに　おいかけられる",
-   "en": ""
+   "en": "Chased by a shark!"
   },
   {
    "id": "event_ev005251:0196",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005251:01DA",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "おや‥‥　いわばのかげに\nなにか　いるみたいだが‥‥",
-   "en": ""
+   "en": "Hm... Looks like there's\nsomething behind those rocks..."
   },
   {
    "id": "event_ev005251:0210",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "ゴボゴボゴボ‥‥！",
-   "en": ""
+   "en": "Blub blub blub...!"
   },
   {
    "id": "event_ev005251:0224",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "うっ‥‥　サメか！\nこちらに　気がついたようだな‥‥",
-   "en": ""
+   "en": "Ugh... A shark!\nLooks like it's noticed me..."
   },
   {
    "id": "event_ev005251:025A",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "ここは‥‥　にげたほうがよさそうだ",
-   "en": ""
+   "en": "I'd better get out of here..."
   },
   {
    "id": "event_ev005251:027E",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "サメに　おいかけられる",
-   "en": ""
+   "en": "Chased by a shark!"
   },
   {
    "id": "event_ev005251:0296",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   }
  ]
 }

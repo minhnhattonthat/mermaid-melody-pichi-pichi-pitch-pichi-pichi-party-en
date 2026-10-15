@@ -11,7 +11,7 @@
     35
    ],
    "jp": "そういえば\nもうすぐ{h }テストがあるんだよね",
-   "en": ""
+   "en": "Come to think of it,\nthere's a test soon."
   },
   {
    "id": "event_ev005502:002C",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "そうだ！　としょかんで\nおべんきょう{h }していこう",
-   "en": ""
+   "en": "I know! I'll go study\nat the Library!"
   },
   {
    "id": "event_ev005502:005E",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "『がんばって{h }おべんきょう！』",
-   "en": ""
+   "en": "\"Study hard!\""
   },
   {
    "id": "event_ev005502:007E",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }６〜１０をねらおう！",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nand aim for 6 to 10!"
   },
   {
    "id": "event_ev005502:00C0",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "　おべんきょう",
-   "en": ""
+   "en": " Study time"
   },
   {
    "id": "event_ev005502:00D0",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "きょうはがんばったかも！",
-   "en": ""
+   "en": "I think I worked hard today!"
   },
   {
    "id": "event_ev005502:00EA",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "こうかてきに\nべんきょうができたよ！",
-   "en": ""
+   "en": "That was some\neffective studying!"
   },
   {
    "id": "event_ev005502:0110",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20D}{h }まけない　こころ　＋５{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20D} Strong Heart +5{i20F}\""
   },
   {
    "id": "event_ev005502:0156",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "う〜ん‥‥\nよくわからなかったかも‥‥",
-   "en": ""
+   "en": "Hmm...\nI don't think I got it..."
   },
   {
    "id": "event_ev005502:017E",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "がんばってみたけど　\nあまり{h }こうかがなかった‥‥",
-   "en": ""
+   "en": "I tried hard, but\nit didn't help much..."
   },
   {
    "id": "event_ev005502:01B2",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５{i20F}』\n『{i20D}{h }まけない　こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15{i20F}\"\n\"{i20D} Strong Heart +1{i20F}\""
   },
   {
    "id": "event_ev005502:01F8",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "もうすぐ{h }テストの日よね‥‥",
-   "en": ""
+   "en": "The test is coming up soon..."
   },
   {
    "id": "event_ev005502:0216",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "そうだ！　としょかんで\nおべんきょう{h }していこう",
-   "en": ""
+   "en": "I know! I'll go study\nat the Library!"
   },
   {
    "id": "event_ev005502:0248",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "『がんばって{h }おべんきょう！』",
-   "en": ""
+   "en": "\"Study hard!\""
   },
   {
    "id": "event_ev005502:0268",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }６〜１０をねらおう！",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nand aim for 6 to 10!"
   },
   {
    "id": "event_ev005502:02AA",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "　おべんきょう",
-   "en": ""
+   "en": " Study time"
   },
   {
    "id": "event_ev005502:02BA",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "きょうはよくできたかも！",
-   "en": ""
+   "en": "I think I did well today!"
   },
   {
    "id": "event_ev005502:02D4",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "こうかてきに\nべんきょうができたよ！",
-   "en": ""
+   "en": "That was some\neffective studying!"
   },
   {
    "id": "event_ev005502:02FA",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20D}{h }まけない　こころ　＋５{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20D} Strong Heart +5{i20F}\""
   },
   {
    "id": "event_ev005502:0340",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "太郎ちゃんに{h }きいたほうが\nよかったかな‥‥",
-   "en": ""
+   "en": "Maybe I should've asked\nTaro..."
   },
   {
    "id": "event_ev005502:036E",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "がんばってみたけど　\nあまり{h }こうかがなかった‥‥",
-   "en": ""
+   "en": "I tried hard, but\nit didn't help much..."
   },
   {
    "id": "event_ev005502:03A2",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５{i20F}』\n『{i20D}{h }まけない　こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15{i20F}\"\n\"{i20D} Strong Heart +1{i20F}\""
   },
   {
    "id": "event_ev005502:03E8",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "もうすぐ{h }テストだな",
-   "en": ""
+   "en": "The test is coming up soon."
   },
   {
    "id": "event_ev005502:03FE",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "いまのうちに{h }\nべんきょう{h }しておこう",
-   "en": ""
+   "en": "I'd better study\nwhile I can."
   },
   {
    "id": "event_ev005502:0426",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "『がんばって{h }おべんきょう！』",
-   "en": ""
+   "en": "\"Study hard!\""
   },
   {
    "id": "event_ev005502:0446",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }６〜１０をねらおう！",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nand aim for 6 to 10!"
   },
   {
    "id": "event_ev005502:0488",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "　おべんきょう",
-   "en": ""
+   "en": " Study time"
   },
   {
    "id": "event_ev005502:0498",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "きょうはよくできたな！",
-   "en": ""
+   "en": "I did well today!"
   },
   {
    "id": "event_ev005502:04B0",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "こうかてきに\nべんきょうができたよ！",
-   "en": ""
+   "en": "That was some\neffective studying!"
   },
   {
    "id": "event_ev005502:04D6",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20D}{h }まけない　こころ　＋５{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20D} Strong Heart +5{i20F}\""
   },
   {
    "id": "event_ev005502:051C",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "なんだか\nあまり{h }はかどらなかったな‥‥",
-   "en": ""
+   "en": "Somehow I didn't\nget much done..."
   },
   {
    "id": "event_ev005502:0546",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "がんばってみたけど　\nあまり{h }こうかがなかった‥‥",
-   "en": ""
+   "en": "I tried hard, but\nit didn't help much..."
   },
   {
    "id": "event_ev005502:057A",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５{i20F}』\n『{i20D}{h }まけない　こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15{i20F}\"\n\"{i20D} Strong Heart +1{i20F}\""
   }
  ]
 }

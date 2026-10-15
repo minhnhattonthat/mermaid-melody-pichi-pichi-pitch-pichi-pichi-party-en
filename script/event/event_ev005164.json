@@ -11,7 +11,7 @@
     11
    ],
    "jp": "あれ？　こんなところで{h }こうじ中だ",
-   "en": ""
+   "en": "Huh? There's construction here."
   },
   {
    "id": "event_ev005164:0024",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "『いまいるばしょに\nつうこうどめがおかれるよ』",
-   "en": ""
+   "en": "\"A roadblock is placed\nwhere you are now.\""
   },
   {
    "id": "event_ev005164:0054",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   },
   {
    "id": "event_ev005164:009C",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "あれ？　こんなところで{h }\nこうじ中なの？",
-   "en": ""
+   "en": "Huh? There's construction\ngoing on here?"
   },
   {
    "id": "event_ev005164:00C6",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "『いまいるばしょに\nつうこうどめがおかれるよ』",
-   "en": ""
+   "en": "\"A roadblock is placed\nwhere you are now.\""
   },
   {
    "id": "event_ev005164:00F6",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   },
   {
    "id": "event_ev005164:013E",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "こんなところで{h }こうじ中か",
-   "en": ""
+   "en": "Construction here, huh."
   },
   {
    "id": "event_ev005164:015A",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "『いまいるばしょに\nつうこうどめがおかれるよ』",
-   "en": ""
+   "en": "\"A roadblock is placed\nwhere you are now.\""
   },
   {
    "id": "event_ev005164:018A",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   }
  ]
 }

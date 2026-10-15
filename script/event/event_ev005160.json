@@ -11,7 +11,7 @@
     83
    ],
    "jp": "（コツン）",
-   "en": ""
+   "en": "(KNOCK)"
   },
   {
    "id": "event_ev005160:000C",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "なにか{h }足にあたった‥‥",
-   "en": ""
+   "en": "Something hit my foot..."
   },
   {
    "id": "event_ev005160:0026",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "なーに？　このハコ？",
-   "en": ""
+   "en": "What's this? A box?"
   },
   {
    "id": "event_ev005160:003C",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "へんなかざりがついてる\nかわったデザインのハコね",
-   "en": ""
+   "en": "It has weird decorations.\nWhat an unusual box."
   },
   {
    "id": "event_ev005160:006E",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "なんで{h }こんなところに\nおちてるんだろ‥‥",
-   "en": ""
+   "en": "Why is it lying\nhere of all places...?"
   },
   {
    "id": "event_ev005160:009A",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "‥‥あけちゃお‥‥",
-   "en": ""
+   "en": "...I'll open it..."
   },
   {
    "id": "event_ev005160:00AE",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "ルーレットの出た目０〜９で\nいろいろなことがおきるよ",
-   "en": ""
+   "en": "Different things happen depending\non the roulette roll, 0 to 9!"
   },
   {
    "id": "event_ev005160:00E4",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "　なにがでてくる？",
-   "en": ""
+   "en": " What will come out?"
   },
   {
    "id": "event_ev005160:00F8",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "ふしぎなひかりにつつまれて\n『‥‥１かい休み！』",
-   "en": ""
+   "en": "Wrapped in a mysterious light...\n\"...Miss 1 turn!\""
   },
   {
    "id": "event_ev005160:012A",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:014A",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "『しばらく\nカードのこうかが{h }きかない』",
-   "en": ""
+   "en": "\"For a while,\ncards have no effect.\""
   },
   {
    "id": "event_ev005160:0174",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0194",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "『しばらく{h }青とむらさきのマスが\nきいろマスとおなじになる』",
-   "en": ""
+   "en": "\"For a while, Blue and Purple Spaces\nact like Yellow Spaces.\""
   },
   {
    "id": "event_ev005160:01D2",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:01F2",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "『ようふくアイテムを\nすべて{h }うしなう』",
-   "en": ""
+   "en": "\"You lose\nall clothing items.\""
   },
   {
    "id": "event_ev005160:021C",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:023C",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "『１マス{h }いどうするごとに\nヒロインポイントにプラス』",
-   "en": ""
+   "en": "\"Heroine Points go up\nfor every space you move.\""
   },
   {
    "id": "event_ev005160:0274",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0294",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "『しばらく{h }ルーレットがＭＡＸ！』\n『しばらく{h }ステータスＵＰ！』",
-   "en": ""
+   "en": "\"Roulette at MAX for a while!\"\n\"Stats UP for a while!\""
   },
   {
    "id": "event_ev005160:02D8",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "ふしぎなひかりにつつまれて\n『どこかへ{h }いどうする』",
-   "en": ""
+   "en": "Wrapped in a mysterious light...\n\"Move somewhere else.\""
   },
   {
    "id": "event_ev005160:030E",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "ふしぎなひかりにつつまれて\n『カードをすべてなくす』",
-   "en": ""
+   "en": "Wrapped in a mysterious light...\n\"Lose all your cards.\""
   },
   {
    "id": "event_ev005160:0344",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0364",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "『つぎのばん\n１マスしか{h }うごけない』",
-   "en": ""
+   "en": "\"Next turn, you can\nonly move 1 space.\""
   },
   {
    "id": "event_ev005160:038C",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:03AC",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "『もう１かい\nじぶんのばんができるよ』",
-   "en": ""
+   "en": "\"You get\none more turn!\""
   },
   {
    "id": "event_ev005160:03D4",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20C}{h }うたう　ちから　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20C} Singing Power -2{i210}\""
   },
   {
    "id": "event_ev005160:0418",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "『{i20D}{h }まけない　こころ　−２{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart -2{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   },
   {
    "id": "event_ev005160:045E",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "（コツン）",
-   "en": ""
+   "en": "(KNOCK)"
   },
   {
    "id": "event_ev005160:046A",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "なにか{h }足にあたった‥‥",
-   "en": ""
+   "en": "Something hit my foot..."
   },
   {
    "id": "event_ev005160:0484",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "なーに？　このハコ？",
-   "en": ""
+   "en": "What's this? A box?"
   },
   {
    "id": "event_ev005160:049A",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "へんなかざりがついてる\nかわったデザインのハコね",
-   "en": ""
+   "en": "It has weird decorations.\nWhat an unusual box."
   },
   {
    "id": "event_ev005160:04CC",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "なんで{h }こんなところに\nおちてるんだろう‥‥？",
-   "en": ""
+   "en": "Why is it lying\nhere of all places...?"
   },
   {
    "id": "event_ev005160:04FC",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "‥‥なにが\nはいってるのかなあ？",
-   "en": ""
+   "en": "...I wonder\nwhat's inside?"
   },
   {
    "id": "event_ev005160:051E",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "ルーレットの出た目０〜９で\nいろいろなことがおきるよ",
-   "en": ""
+   "en": "Different things happen depending\non the roulette roll, 0 to 9!"
   },
   {
    "id": "event_ev005160:0554",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "　なにがでてくる？",
-   "en": ""
+   "en": " What will come out?"
   },
   {
    "id": "event_ev005160:0568",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "ふしぎなひかりにつつまれて\n『‥‥１かい休み！』",
-   "en": ""
+   "en": "Wrapped in a mysterious light...\n\"...Miss 1 turn!\""
   },
   {
    "id": "event_ev005160:059A",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:05BA",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "『しばらく\nカードのこうかが{h }きかない』",
-   "en": ""
+   "en": "\"For a while,\ncards have no effect.\""
   },
   {
    "id": "event_ev005160:05E4",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0604",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "『しばらく{h }青とむらさきのマスが\nきいろマスとおなじになる』",
-   "en": ""
+   "en": "\"For a while, Blue and Purple Spaces\nact like Yellow Spaces.\""
   },
   {
    "id": "event_ev005160:0642",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0662",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "『ようふくアイテムを\nすべて{h }うしなう』",
-   "en": ""
+   "en": "\"You lose\nall clothing items.\""
   },
   {
    "id": "event_ev005160:068C",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:06AC",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "『１マス{h }いどうするごとに\nヒロインポイントにプラス』",
-   "en": ""
+   "en": "\"Heroine Points go up\nfor every space you move.\""
   },
   {
    "id": "event_ev005160:06E4",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0704",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "『しばらく{h }ルーレットがＭＡＸ！』\n『しばらく{h }ステータスＵＰ！』",
-   "en": ""
+   "en": "\"Roulette at MAX for a while!\"\n\"Stats UP for a while!\""
   },
   {
    "id": "event_ev005160:0748",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "ふしぎなひかりにつつまれて\n『どこかへ{h }いどうする』",
-   "en": ""
+   "en": "Wrapped in a mysterious light...\n\"Move somewhere else.\""
   },
   {
    "id": "event_ev005160:077E",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "ふしぎなひかりにつつまれて\n『カードをすべてなくす』",
-   "en": ""
+   "en": "Wrapped in a mysterious light...\n\"Lose all your cards.\""
   },
   {
    "id": "event_ev005160:07B4",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:07D4",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "『つぎのばん\n１マスしか{h }うごけない』",
-   "en": ""
+   "en": "\"Next turn, you can\nonly move 1 space.\""
   },
   {
    "id": "event_ev005160:07FC",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:081C",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "『もう１かい\nじぶんのばんができるよ』",
-   "en": ""
+   "en": "\"You get\none more turn!\""
   },
   {
    "id": "event_ev005160:0844",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20C}{h }うたう　ちから　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20C} Singing Power -2{i210}\""
   },
   {
    "id": "event_ev005160:0888",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "『{i20D}{h }まけない　こころ　−２{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart -2{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   },
   {
    "id": "event_ev005160:08CE",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "（コツン）",
-   "en": ""
+   "en": "(KNOCK)"
   },
   {
    "id": "event_ev005160:08DA",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "なにか{h }足にあたったな",
-   "en": ""
+   "en": "Something hit my foot."
   },
   {
    "id": "event_ev005160:08F2",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "なんだ？　このハコは？",
-   "en": ""
+   "en": "What's this? A box?"
   },
   {
    "id": "event_ev005160:090A",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "へんなかざりがついてる\nかわったデザインのハコだな",
-   "en": ""
+   "en": "It has weird decorations.\nWhat an unusual box."
   },
   {
    "id": "event_ev005160:093E",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "なんで{h }こんなところに\nおちてるんだろうか‥‥",
-   "en": ""
+   "en": "Why would it be lying\nhere of all places...?"
   },
   {
    "id": "event_ev005160:096E",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "ちょっと\n中をのぞいてみようか‥‥",
-   "en": ""
+   "en": "Maybe I'll\ntake a peek inside..."
   },
   {
    "id": "event_ev005160:0992",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "ルーレットの出た目０〜９で\nいろいろなことがおきるよ",
-   "en": ""
+   "en": "Different things happen depending\non the roulette roll, 0 to 9!"
   },
   {
    "id": "event_ev005160:09C8",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "　なにがでてくる？",
-   "en": ""
+   "en": " What will come out?"
   },
   {
    "id": "event_ev005160:09DC",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "ふしぎなひかりにつつまれて\n『‥‥１かい休み！』",
-   "en": ""
+   "en": "Wrapped in a mysterious light...\n\"...Miss 1 turn!\""
   },
   {
    "id": "event_ev005160:0A0E",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0A2E",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "『しばらく\nカードのこうかが{h }きかない』",
-   "en": ""
+   "en": "\"For a while,\ncards have no effect.\""
   },
   {
    "id": "event_ev005160:0A58",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0A78",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "『しばらく{h }青とむらさきのマスが\nきいろマスとおなじになる』",
-   "en": ""
+   "en": "\"For a while, Blue and Purple Spaces\nact like Yellow Spaces.\""
   },
   {
    "id": "event_ev005160:0AB6",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0AD6",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "『ようふくアイテムを\nすべて{h }うしなう』",
-   "en": ""
+   "en": "\"You lose\nall clothing items.\""
   },
   {
    "id": "event_ev005160:0B00",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0B20",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "『１マス{h }いどうするごとに\nヒロインポイントにプラス』",
-   "en": ""
+   "en": "\"Heroine Points go up\nfor every space you move.\""
   },
   {
    "id": "event_ev005160:0B58",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0B78",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "『しばらく{h }ルーレットがＭＡＸ！』\n『しばらく{h }ステータスＵＰ！』",
-   "en": ""
+   "en": "\"Roulette at MAX for a while!\"\n\"Stats UP for a while!\""
   },
   {
    "id": "event_ev005160:0BBC",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "ふしぎなひかりにつつまれて\n『どこかへ{h }いどうする』",
-   "en": ""
+   "en": "Wrapped in a mysterious light...\n\"Move somewhere else.\""
   },
   {
    "id": "event_ev005160:0BF2",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "ふしぎなひかりにつつまれて\n『カードをすべてなくす』",
-   "en": ""
+   "en": "Wrapped in a mysterious light...\n\"Lose all your cards.\""
   },
   {
    "id": "event_ev005160:0C28",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0C48",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "『つぎのばん\n１マスしか{h }うごけない』",
-   "en": ""
+   "en": "\"Next turn, you can\nonly move 1 space.\""
   },
   {
    "id": "event_ev005160:0C70",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "ふしぎなひかりにつつまれて‥‥",
-   "en": ""
+   "en": "Wrapped in a mysterious light..."
   },
   {
    "id": "event_ev005160:0C90",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "『もう１かい\nじぶんのばんができるよ』",
-   "en": ""
+   "en": "\"You get\none more turn!\""
   },
   {
    "id": "event_ev005160:0CB8",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20C}{h }うたう　ちから　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20C} Singing Power -2{i210}\""
   },
   {
    "id": "event_ev005160:0CFC",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "『{i20D}{h }まけない　こころ　−２{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart -2{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   }
  ]
 }

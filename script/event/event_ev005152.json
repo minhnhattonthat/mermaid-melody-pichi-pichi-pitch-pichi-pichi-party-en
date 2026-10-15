@@ -10,7 +10,7 @@
     47
    ],
    "jp": "（きんじょのおばさん）\nあら　るちあちゃんじゃない？",
-   "en": ""
+   "en": "(A neighborhood lady)\nOh, isn't that Lucia?"
   },
   {
    "id": "event_ev005152:0036",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "（あ！　まずい‥‥　このおばさん\nながばなし{h }すきなのよね‥‥）",
-   "en": ""
+   "en": "(Uh-oh... This lady\nloves to talk forever...)"
   },
   {
    "id": "event_ev005152:0078",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "（うまく{h }はなしが早く\nおわるようにしなきゃ）",
-   "en": ""
+   "en": "(I have to find a way\nto end this quickly.)"
   },
   {
    "id": "event_ev005152:00A8",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }ごうけい７いじょうを出そう",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the roulette\nto get a total of 7 or more!"
   },
   {
    "id": "event_ev005152:00F0",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "　せけんばなし",
-   "en": ""
+   "en": " Small talk"
   },
   {
    "id": "event_ev005152:0100",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "あ　それでは{h }わたし{h }ようじが\nあるので　しつれいします",
-   "en": ""
+   "en": "Well, I have something\nto do, so excuse me!"
   },
   {
    "id": "event_ev005152:013A",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "（よし！　うまくおわらせられた〜）",
-   "en": ""
+   "en": "(Yes! I got out of it!)"
   },
   {
    "id": "event_ev005152:015E",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "そつなく{h }はなしをおわらせて\nそのばをだっしゅつ！",
-   "en": ""
+   "en": "Smoothly wrapped up the chat\nand escaped!"
   },
   {
    "id": "event_ev005152:0192",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005152:01B6",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "あ　それじゃあ{h }わたし‥‥",
-   "en": ""
+   "en": "Well, I'd better be..."
   },
   {
    "id": "event_ev005152:01D2",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "（きんじょのおばさん）\nそれでね　るちあちゃん！",
-   "en": ""
+   "en": "(A neighborhood lady)\nAnd then, Lucia!"
   },
   {
    "id": "event_ev005152:0204",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "（あ〜ん\nうまくいかなかったみたい‥‥）",
-   "en": ""
+   "en": "(Waaah...\nGuess that didn't work...)"
   },
   {
    "id": "event_ev005152:022E",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "はなしずきの{h }おばさんにつかまって{h }\nながばなしにつきあわされることに",
-   "en": ""
+   "en": "Caught by a chatty lady\nand stuck listening to her talk forever."
   },
   {
    "id": "event_ev005152:0276",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "『つぎのターン　１かい休み』",
-   "en": ""
+   "en": "\"Miss your next turn.\""
   },
   {
    "id": "event_ev005152:0294",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005152:02DA",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "（きんじょのおばさん）\nあら　波音ちゃんじゃない？",
-   "en": ""
+   "en": "(A neighborhood lady)\nOh, isn't that Hanon?"
   },
   {
    "id": "event_ev005152:030E",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "（あ！　まずい‥‥　このおばさん\nながばなし{h }すきなのよね‥‥）",
-   "en": ""
+   "en": "(Uh-oh... This lady\nloves to talk forever...)"
   },
   {
    "id": "event_ev005152:0350",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "（うまく{h }はなしが早く\nおわるようにしなきゃ）",
-   "en": ""
+   "en": "(I have to find a way\nto end this quickly.)"
   },
   {
    "id": "event_ev005152:0380",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }ごうけい７いじょうを出そう",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the roulette\nto get a total of 7 or more!"
   },
   {
    "id": "event_ev005152:03C8",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "　せけんばなし",
-   "en": ""
+   "en": " Small talk"
   },
   {
    "id": "event_ev005152:03D8",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "あ　それでは{h }わたし{h }ようじが\nあるので　しつれいします",
-   "en": ""
+   "en": "Well, I have something\nto do, so excuse me!"
   },
   {
    "id": "event_ev005152:0412",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "（よし！　うまくおわらせられた！）",
-   "en": ""
+   "en": "(Yes! I got out of it!)"
   },
   {
    "id": "event_ev005152:0436",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "そつなく{h }はなしをおわらせて\nそのばをだっしゅつ！",
-   "en": ""
+   "en": "Smoothly wrapped up the chat\nand escaped!"
   },
   {
    "id": "event_ev005152:046A",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005152:048E",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "あ　それじゃあ{h }わたし‥‥",
-   "en": ""
+   "en": "Well, I'd better be..."
   },
   {
    "id": "event_ev005152:04AA",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "（きんじょのおばさん）\nそれでね　波音ちゃん！",
-   "en": ""
+   "en": "(A neighborhood lady)\nAnd then, Hanon!"
   },
   {
    "id": "event_ev005152:04DA",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "（あ〜ん\nうまくいかなかったみたい‥‥）",
-   "en": ""
+   "en": "(Waaah...\nGuess that didn't work...)"
   },
   {
    "id": "event_ev005152:0504",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "はなしずきの{h }おばさんにつかまって{h }\nながばなしにつきあわされることに",
-   "en": ""
+   "en": "Caught by a chatty lady\nand stuck listening to her talk forever."
   },
   {
    "id": "event_ev005152:054C",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "『つぎのターン　１かい休み』",
-   "en": ""
+   "en": "\"Miss your next turn.\""
   },
   {
    "id": "event_ev005152:056A",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005152:05B0",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "（きんじょのおばさん）\nあら　リナちゃんじゃない？",
-   "en": ""
+   "en": "(A neighborhood lady)\nOh, isn't that Rina?"
   },
   {
    "id": "event_ev005152:05E4",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "（おっと！　まずいな‥‥",
-   "en": ""
+   "en": "(Uh-oh! This is bad..."
   },
   {
    "id": "event_ev005152:05FE",
@@ -266,7 +266,7 @@
     32
    ],
    "jp": "ながばなしでゆうめいな\nおばさんにつかまってしまった‥‥）",
-   "en": ""
+   "en": "I've been caught by the lady\nfamous for talking forever...)"
   },
   {
    "id": "event_ev005152:063A",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "（うまく{h }はなしが早く\nおわるようにしなければ‥‥）",
-   "en": ""
+   "en": "(I have to find a way\nto end this quickly...)"
   },
   {
    "id": "event_ev005152:0670",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }ごうけい７いじょうを出そう",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the roulette\nto get a total of 7 or more!"
   },
   {
    "id": "event_ev005152:06B8",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "　せけんばなし",
-   "en": ""
+   "en": " Small talk"
   },
   {
    "id": "event_ev005152:06C8",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "‥‥それでは　ようじが\nあるので　しつれい！",
-   "en": ""
+   "en": "...Well, I have something\nto do. Excuse me!"
   },
   {
    "id": "event_ev005152:06F6",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "（ふむ‥‥\nうまくにげれたかな‥‥？）",
-   "en": ""
+   "en": "(Hmm...\nDid I get away...?)"
   },
   {
    "id": "event_ev005152:071E",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "そつなく{h }はなしをおわらせて\nそのばをだっしゅつ！",
-   "en": ""
+   "en": "Smoothly wrapped up the chat\nand escaped!"
   },
   {
    "id": "event_ev005152:0752",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005152:0776",
@@ -330,7 +330,7 @@
     40
    ],
    "jp": "あ　もうしわけないが‥‥",
-   "en": ""
+   "en": "Ah, I'm sorry, but..."
   },
   {
    "id": "event_ev005152:0790",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "（きんじょのおばさん）\nそれでね　リナちゃん！",
-   "en": ""
+   "en": "(A neighborhood lady)\nAnd then, Rina!"
   },
   {
    "id": "event_ev005152:07C0",
@@ -346,7 +346,7 @@
     42
    ],
    "jp": "（むむ‥‥\nうまくいかなかったか‥‥）",
-   "en": ""
+   "en": "(Hmm...\nGuess that didn't work...)"
   },
   {
    "id": "event_ev005152:07E8",
@@ -354,7 +354,7 @@
     43
    ],
    "jp": "はなしずきの{h }おばさんにつかまって{h }\nながばなしにつきあわされることに",
-   "en": ""
+   "en": "Caught by a chatty lady\nand stuck listening to her talk forever."
   },
   {
    "id": "event_ev005152:0830",
@@ -362,7 +362,7 @@
     44
    ],
    "jp": "『つぎのターン　１かい休み』",
-   "en": ""
+   "en": "\"Miss your next turn.\""
   },
   {
    "id": "event_ev005152:084E",
@@ -370,7 +370,7 @@
     45
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   }
  ]
 }

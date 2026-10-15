@@ -8,7 +8,7 @@
     0
    ],
    "jp": "ちょっと　ひとやすみしていこうかな",
-   "en": ""
+   "en": "Maybe I'll take a little break."
   },
   {
    "id": "event_ev005500:0024",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "きょうは{h }これをきて{h }いこっと",
-   "en": ""
+   "en": "I'll wear this today!"
   },
   {
    "id": "event_ev005500:0044",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "ひとやすみして　リフレッシュ！",
-   "en": ""
+   "en": "A little break to refresh!"
   },
   {
    "id": "event_ev005500:0064",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\""
   },
   {
    "id": "event_ev005500:0088",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ちょっと{h }休んでいこうかな",
-   "en": ""
+   "en": "Maybe I'll rest a bit."
   },
   {
    "id": "event_ev005500:00A4",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "きょうは{h }これにきがえて\nいこうかな？",
-   "en": ""
+   "en": "Maybe I'll change\ninto this today?"
   },
   {
    "id": "event_ev005500:00CC",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "ひとやすみして　リフレッシュ！",
-   "en": ""
+   "en": "A little break to refresh!"
   },
   {
    "id": "event_ev005500:00EC",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\""
   },
   {
    "id": "event_ev005500:0110",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ふぅ{h }すこし休んでいくか",
-   "en": ""
+   "en": "Phew, I'll rest a little."
   },
   {
    "id": "event_ev005500:012A",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "そうだ{h }あずけておいた\nきがえを{h }もっていこう",
-   "en": ""
+   "en": "Oh right, I'll take the clothes\nI left here."
   },
   {
    "id": "event_ev005500:015A",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "ひとやすみして　リフレッシュ！",
-   "en": ""
+   "en": "A little break to refresh!"
   },
   {
    "id": "event_ev005500:017A",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\""
   }
  ]
 }

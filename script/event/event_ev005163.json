@@ -8,7 +8,7 @@
     0
    ],
    "jp": "ここどこ？\nまよっちゃった‥‥",
-   "en": ""
+   "en": "Where am I?\nI'm lost..."
   },
   {
    "id": "event_ev005163:0020",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "まよいのこみちに{h }まよいこんで\nぜんぜん{h }しらない{h }ばしょへ‥‥",
-   "en": ""
+   "en": "I wandered down a maze of paths\nto a place I don't know at all..."
   },
   {
    "id": "event_ev005163:0062",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "『マップのどこかへ{h }いどう！』",
-   "en": ""
+   "en": "\"Move somewhere on the map!\""
   },
   {
    "id": "event_ev005163:0082",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005163:00A6",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ここ‥‥　どこだろう？\nまよっちゃった‥‥かな？",
-   "en": ""
+   "en": "Where... am I?\nAm I... lost?"
   },
   {
    "id": "event_ev005163:00D8",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "まよいのこみちに{h }まよいこんで\nぜんぜん{h }しらない{h }ばしょへ‥‥",
-   "en": ""
+   "en": "I wandered down a maze of paths\nto a place I don't know at all..."
   },
   {
    "id": "event_ev005163:011A",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "『マップのどこかへ{h }いどう！』",
-   "en": ""
+   "en": "\"Move somewhere on the map!\""
   },
   {
    "id": "event_ev005163:013A",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005163:015E",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ここはどこだ？\nまよったのか‥‥？",
-   "en": ""
+   "en": "Where am I?\nAm I lost...?"
   },
   {
    "id": "event_ev005163:0182",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "まよいのこみちに{h }まよいこんで\nぜんぜん{h }しらない{h }ばしょへ‥‥",
-   "en": ""
+   "en": "I wandered down a maze of paths\nto a place I don't know at all..."
   },
   {
    "id": "event_ev005163:01C4",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "『マップのどこかへ{h }いどう！』",
-   "en": ""
+   "en": "\"Move somewhere on the map!\""
   },
   {
    "id": "event_ev005163:01E4",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   }
  ]
 }

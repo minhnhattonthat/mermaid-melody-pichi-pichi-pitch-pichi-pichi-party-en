@@ -9,7 +9,7 @@
     15
    ],
    "jp": "すまんが\nちょっとみちをおしえてくれんかな？",
-   "en": ""
+   "en": "Sorry to bother you, but could\nyou tell me the way?"
   },
   {
    "id": "event_ev005001:002E",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "え　わたし？\nあ　はい！",
-   "en": ""
+   "en": "Huh, me?\nOh, sure!"
   },
   {
    "id": "event_ev005001:0048",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "えっと…　こっち…　かな？",
-   "en": ""
+   "en": "Um... This way... I think?"
   },
   {
    "id": "event_ev005001:0064",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "こまっている　おじいさんに\nみちをおしえてあげたよ",
-   "en": ""
+   "en": "You showed a lost\nold man the way!"
   },
   {
    "id": "event_ev005001:0098",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "『{i211}{h }ヒロインポイント　{h+}２０{i20F}』\n『{i20D}{h }まけない　こころ　{h+}２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20D} Unbeatable Heart +2{i20F}\""
   },
   {
    "id": "event_ev005001:00DE",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "すまんが\nちょっとみちをおしえてくれんかな？",
-   "en": ""
+   "en": "Sorry to bother you, but could\nyou tell me the way?"
   },
   {
    "id": "event_ev005001:010C",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "あ　はい\nどこにいきたいんですか？",
-   "en": ""
+   "en": "Oh, sure.\nWhere do you want to go?"
   },
   {
    "id": "event_ev005001:0130",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "そこだったら…　こっちですね",
-   "en": ""
+   "en": "If it's there... it's this way."
   },
   {
    "id": "event_ev005001:014E",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "こまっている　おじいさんに\nみちをおしえてあげたよ",
-   "en": ""
+   "en": "You showed a lost\nold man the way!"
   },
   {
    "id": "event_ev005001:0182",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　{h+}２０{i20F}』\n『{i20D}{h }まけない　こころ　{h+}２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20D} Unbeatable Heart +2{i20F}\""
   },
   {
    "id": "event_ev005001:01C8",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "すまんが\nちょっとみちをおしえてくれんかな？",
-   "en": ""
+   "en": "Sorry to bother you, but could\nyou tell me the way?"
   },
   {
    "id": "event_ev005001:01F6",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "あ　はい　どこです？",
-   "en": ""
+   "en": "Oh, sure. Where to?"
   },
   {
    "id": "event_ev005001:020C",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "そこだったら　こちらのみちを\nまっすぐにいって　それから…",
-   "en": ""
+   "en": "If it's there, go straight\ndown this road, and then..."
   },
   {
    "id": "event_ev005001:0248",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "こまっている　おじいさんに\nみちをおしえてあげたよ",
-   "en": ""
+   "en": "You showed a lost\nold man the way!"
   },
   {
    "id": "event_ev005001:027C",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　{h+}２０{i20F}』\n『{i20D}{h }まけない　こころ　{h+}２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20D} Unbeatable Heart +2{i20F}\""
   }
  ]
 }

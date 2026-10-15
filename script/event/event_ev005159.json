@@ -11,7 +11,7 @@
     87
    ],
    "jp": "（ガシャンッ）",
-   "en": ""
+   "en": "(CLANG)"
   },
   {
    "id": "event_ev005159:0010",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "きゃ！　わわ‥‥\nバケツに足つっこんじゃった",
-   "en": ""
+   "en": "Eek! Whoa...\nI stuck my foot in a bucket!"
   },
   {
    "id": "event_ev005159:003E",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "なんでこんなところに\nおいてあるのよ〜",
-   "en": ""
+   "en": "Why is this sitting\nin a place like this?!"
   },
   {
    "id": "event_ev005159:0066",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "わっ　たっ　たっ\nこ{h }ころんじゃう‥‥！",
-   "en": ""
+   "en": "Whoa, whoa, whoa!\nI-I'm gonna fall...!"
   },
   {
    "id": "event_ev005159:0090",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005159:00D8",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "　バランスをとろう",
-   "en": ""
+   "en": " Keep your balance"
   },
   {
    "id": "event_ev005159:00EC",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "よいしょっと\nふう{h }あぶなかった‥‥",
-   "en": ""
+   "en": "There we go.\nPhew, that was close..."
   },
   {
    "id": "event_ev005159:0112",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "なんとか{h }ころばずにすんだけど‥‥",
-   "en": ""
+   "en": "I managed not to fall, but..."
   },
   {
    "id": "event_ev005159:0136",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "バケツに足をつっこんでるなんて\nかっこわるい‥‥",
-   "en": ""
+   "en": "Standing with my foot in a bucket...\nHow uncool..."
   },
   {
    "id": "event_ev005159:0168",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\""
   },
   {
    "id": "event_ev005159:018C",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "（バサッ！）",
-   "en": ""
+   "en": "(FWAP!)"
   },
   {
    "id": "event_ev005159:019A",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "ええ！",
-   "en": ""
+   "en": "Whaaat!"
   },
   {
    "id": "event_ev005159:01A2",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "とんできた{h }しんぶんしが{h }かおに\nはりついて{h }まえが見えない〜",
-   "en": ""
+   "en": "A newspaper blew onto my face\nand I can't see!"
   },
   {
    "id": "event_ev005159:01E2",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい６いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 6 or more!"
   },
   {
    "id": "event_ev005159:022A",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "　ぶつからないように",
-   "en": ""
+   "en": " Don't bump into anything"
   },
   {
    "id": "event_ev005159:0240",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "もう！　びっくりした\nなんだかわたし{h }バカみたい‥‥？",
-   "en": ""
+   "en": "Geez! That surprised me.\nDo I look kind of silly...?"
   },
   {
    "id": "event_ev005159:0278",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "なんとか{h }ころばずにすんだけど‥‥",
-   "en": ""
+   "en": "I managed not to fall, but..."
   },
   {
    "id": "event_ev005159:029C",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "しんぶんしをもって{h }バケツに足を\nつっこんで立ってるのって‥‥",
-   "en": ""
+   "en": "Standing there with a newspaper\nand my foot in a bucket..."
   },
   {
    "id": "event_ev005159:02DC",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\""
   },
   {
    "id": "event_ev005159:0300",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "（ドンッ！）",
-   "en": ""
+   "en": "(BUMP!)"
   },
   {
    "id": "event_ev005159:030E",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "きゃあ！　ころんじゃう〜",
-   "en": ""
+   "en": "Eeek! I'm gonna fall!"
   },
   {
    "id": "event_ev005159:0328",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "（ズテン！　‥‥バシャ！）",
-   "en": ""
+   "en": "(THUD! ...SPLASH!)"
   },
   {
    "id": "event_ev005159:0344",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "『バシャ』って　なにこれ？\n‥‥ペンキ？　そんなあ‥‥",
-   "en": ""
+   "en": "\"Splash\"? What is this?\n...Paint? No way..."
   },
   {
    "id": "event_ev005159:037C",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "しんぶんしを手にもって\nバケツに足をつっこんで‥‥",
-   "en": ""
+   "en": "Newspaper in hand,\nfoot in a bucket..."
   },
   {
    "id": "event_ev005159:03B0",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "ペンキまみれに‥‥\nもう{h }さいあく‥‥！",
-   "en": ""
+   "en": "...and covered in paint!\nThis is the worst...!"
   },
   {
    "id": "event_ev005159:03DA",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "『ようふくアイテムを\nすべてうしなうよ』",
-   "en": ""
+   "en": "\"You lose\nall clothing items.\""
   },
   {
    "id": "event_ev005159:0404",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "『カードアイテムを\nすべてうしなうよ』",
-   "en": ""
+   "en": "\"You lose\nall card items.\""
   },
   {
    "id": "event_ev005159:042C",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "『{i211}{h }ヒロインポイント　−９０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -90{i210}\""
   },
   {
    "id": "event_ev005159:0450",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "（ガシャンッ）",
-   "en": ""
+   "en": "(CLANG)"
   },
   {
    "id": "event_ev005159:0460",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "きゃ！　ええっ！\nバケツに足つっこんじゃった",
-   "en": ""
+   "en": "Eek! Whaaat?!\nI stuck my foot in a bucket!"
   },
   {
    "id": "event_ev005159:048E",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "なんでこんなところに\nおいてあるのよ〜",
-   "en": ""
+   "en": "Why is this sitting\nin a place like this?!"
   },
   {
    "id": "event_ev005159:04B6",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "きゃあ　あ　あ‥‥\nこ{h }ころんじゃう‥‥！",
-   "en": ""
+   "en": "Eeek, ah, ah...\nI-I'm gonna fall...!"
   },
   {
    "id": "event_ev005159:04E2",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005159:052A",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "　バランスをとろう",
-   "en": ""
+   "en": " Keep your balance"
   },
   {
    "id": "event_ev005159:053E",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "よいしょっと\nふう{h }あぶなかった‥‥",
-   "en": ""
+   "en": "There we go.\nPhew, that was close..."
   },
   {
    "id": "event_ev005159:0564",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "なんとか{h }ころばずにすんだけど‥‥",
-   "en": ""
+   "en": "I managed not to fall, but..."
   },
   {
    "id": "event_ev005159:0588",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "バケツに足をつっこんでるなんて\nかっこわるい‥‥",
-   "en": ""
+   "en": "Standing with my foot in a bucket...\nHow uncool..."
   },
   {
    "id": "event_ev005159:05BA",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\""
   },
   {
    "id": "event_ev005159:05DE",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "（バサッ！）",
-   "en": ""
+   "en": "(FWAP!)"
   },
   {
    "id": "event_ev005159:05EC",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "な　なになに！？",
-   "en": ""
+   "en": "Wh-what's going on?!"
   },
   {
    "id": "event_ev005159:05FE",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "しんぶんし？　とんできたの？\nかおにはりついて{h }まえが見えない〜",
-   "en": ""
+   "en": "A newspaper? Did it blow here?\nIt's stuck on my face, I can't see!"
   },
   {
    "id": "event_ev005159:0640",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい６いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 6 or more!"
   },
   {
    "id": "event_ev005159:0688",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "　ぶつからないように",
-   "en": ""
+   "en": " Don't bump into anything"
   },
   {
    "id": "event_ev005159:069E",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "もう！　びっくりした\nなんだかわたし{h }バカみたいじゃない",
-   "en": ""
+   "en": "Geez! That surprised me.\nI must look so silly!"
   },
   {
    "id": "event_ev005159:06D8",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "なんとか{h }ころばずにすんだけど‥‥",
-   "en": ""
+   "en": "I managed not to fall, but..."
   },
   {
    "id": "event_ev005159:06FC",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "しんぶんしをもって{h }バケツに足を\nつっこんで立ってるのって‥‥",
-   "en": ""
+   "en": "Standing there with a newspaper\nand my foot in a bucket..."
   },
   {
    "id": "event_ev005159:073C",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\""
   },
   {
    "id": "event_ev005159:0760",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "（ドンッ！）",
-   "en": ""
+   "en": "(BUMP!)"
   },
   {
    "id": "event_ev005159:076E",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "きゃあ！　ころんじゃうっ",
-   "en": ""
+   "en": "Eeek! I'm gonna fall!"
   },
   {
    "id": "event_ev005159:0788",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "（ズテン！　‥‥バシャ！）",
-   "en": ""
+   "en": "(THUD! ...SPLASH!)"
   },
   {
    "id": "event_ev005159:07A4",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "『バシャ』って　なにこれ？\n‥‥ペンキ？　そんなあ　もう‥‥",
-   "en": ""
+   "en": "\"Splash\"? What is this?\n...Paint? No way, geez..."
   },
   {
    "id": "event_ev005159:07E2",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "しんぶんしを手にもって\nバケツに足をつっこんで‥‥",
-   "en": ""
+   "en": "Newspaper in hand,\nfoot in a bucket..."
   },
   {
    "id": "event_ev005159:0816",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "ペンキまみれに‥‥\nもう{h }さいあく‥‥！",
-   "en": ""
+   "en": "...and covered in paint!\nThis is the worst...!"
   },
   {
    "id": "event_ev005159:0840",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "『ようふくアイテムを\nすべてうしなうよ』",
-   "en": ""
+   "en": "\"You lose\nall clothing items.\""
   },
   {
    "id": "event_ev005159:086A",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "『カードアイテムを\nすべてうしなうよ』",
-   "en": ""
+   "en": "\"You lose\nall card items.\""
   },
   {
    "id": "event_ev005159:0892",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "『{i211}{h }ヒロインポイント　−９０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -90{i210}\""
   },
   {
    "id": "event_ev005159:08B6",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "（ガシャンッ）",
-   "en": ""
+   "en": "(CLANG)"
   },
   {
    "id": "event_ev005159:08C6",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "わっ！　‥‥と\nバケツに足をつっこんでしまった",
-   "en": ""
+   "en": "Whoa! ...There.\nI stuck my foot in a bucket."
   },
   {
    "id": "event_ev005159:08F6",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "なんでこんなところに‥‥",
-   "en": ""
+   "en": "Why is this here...?"
   },
   {
    "id": "event_ev005159:0910",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "‥‥おっと‥‥\nとと‥‥　こ{h }ころびそうだ！",
-   "en": ""
+   "en": "...Whoa...\nWhoa there... I-I'm going to fall!"
   },
   {
    "id": "event_ev005159:093E",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005159:0986",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "　バランスをとろう",
-   "en": ""
+   "en": " Keep your balance"
   },
   {
    "id": "event_ev005159:099A",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "よいしょっと\nふう{h }あぶなかった‥‥",
-   "en": ""
+   "en": "There we go.\nPhew, that was close..."
   },
   {
    "id": "event_ev005159:09C0",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "なんとか{h }ころばずにすんだけど‥‥",
-   "en": ""
+   "en": "I managed not to fall, but..."
   },
   {
    "id": "event_ev005159:09E4",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "バケツに足をつっこんでるなんて\nかっこわるい‥‥",
-   "en": ""
+   "en": "Standing with my foot in a bucket...\nHow uncool..."
   },
   {
    "id": "event_ev005159:0A16",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\""
   },
   {
    "id": "event_ev005159:0A3A",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "（バサッ！）",
-   "en": ""
+   "en": "(FWAP!)"
   },
   {
    "id": "event_ev005159:0A48",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "うわあ！",
-   "en": ""
+   "en": "Whoa!"
   },
   {
    "id": "event_ev005159:0A52",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "これは‥‥　しんぶんしが\nとんできたのか",
-   "en": ""
+   "en": "What's this... A newspaper\nblew over here?"
   },
   {
    "id": "event_ev005159:0A7C",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "この‥‥　かおにはりついて\nまえが見えない！",
-   "en": ""
+   "en": "Ugh... It's stuck to my face.\nI can't see!"
   },
   {
    "id": "event_ev005159:0AAA",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい６いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 6 or more!"
   },
   {
    "id": "event_ev005159:0AF2",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "　ぶつからないように",
-   "en": ""
+   "en": " Don't bump into anything"
   },
   {
    "id": "event_ev005159:0B08",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "おっとっと‥‥\nふう　なんなんだ{h }まったく",
-   "en": ""
+   "en": "Whoa, whoa...\nPhew, what is going on?"
   },
   {
    "id": "event_ev005159:0B34",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "なんとか{h }ころばずにすんだけど‥‥",
-   "en": ""
+   "en": "I managed not to fall, but..."
   },
   {
    "id": "event_ev005159:0B58",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "しんぶんしをもって{h }バケツに足を\nつっこんで立ってるのって‥‥",
-   "en": ""
+   "en": "Standing there with a newspaper\nand my foot in a bucket..."
   },
   {
    "id": "event_ev005159:0B98",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\""
   },
   {
    "id": "event_ev005159:0BBC",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "（ドンッ！）",
-   "en": ""
+   "en": "(BUMP!)"
   },
   {
    "id": "event_ev005159:0BCA",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "おっと！",
-   "en": ""
+   "en": "Whoa!"
   },
   {
    "id": "event_ev005159:0BD4",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "（ズテン！　バシャ！）",
-   "en": ""
+   "en": "(THUD! SPLASH!)"
   },
   {
    "id": "event_ev005159:0BEC",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "うわあ‥‥{h }『バシャ』って\n‥‥ペンキか？　ふう‥‥まったく",
-   "en": ""
+   "en": "Ugh... \"Splash\"...\n...Is that paint? Sigh... Honestly."
   },
   {
    "id": "event_ev005159:0C2A",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "しんぶんしを手にもって\nバケツに足をつっこんで‥‥",
-   "en": ""
+   "en": "Newspaper in hand,\nfoot in a bucket..."
   },
   {
    "id": "event_ev005159:0C5E",
@@ -659,7 +659,7 @@
     81
    ],
    "jp": "ペンキまみれに‥‥\nもう{h }さいあく‥‥！",
-   "en": ""
+   "en": "...and covered in paint!\nThis is the worst...!"
   },
   {
    "id": "event_ev005159:0C88",
@@ -667,7 +667,7 @@
     82
    ],
    "jp": "『ようふくアイテムを\nすべてうしなうよ』",
-   "en": ""
+   "en": "\"You lose\nall clothing items.\""
   },
   {
    "id": "event_ev005159:0CB2",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "『カードアイテムを\nすべてうしなうよ』",
-   "en": ""
+   "en": "\"You lose\nall card items.\""
   },
   {
    "id": "event_ev005159:0CDA",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "『{i211}{h }ヒロインポイント　−９０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -90{i210}\""
   }
  ]
 }

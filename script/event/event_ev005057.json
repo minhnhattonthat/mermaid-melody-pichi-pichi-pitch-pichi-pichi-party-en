@@ -10,7 +10,7 @@
     55
    ],
    "jp": "わあ　デパートのバーゲンフェア\nいっぱいならんでる〜",
-   "en": ""
+   "en": "Wow, the department store's\nbargain fair! Look at that line!"
   },
   {
    "id": "event_ev005057:0036",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "（デパートのせいりスタッフ）\nれつを{h }３れつにします〜",
-   "en": ""
+   "en": "(Department store staff)\nWe're making three lines nooow!"
   },
   {
    "id": "event_ev005057:006E",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "こちらにならんで下さい〜",
-   "en": ""
+   "en": "Please line up over heeere!"
   },
   {
    "id": "event_ev005057:0088",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "えっと\nどの{h }れつにならぼうかな？",
-   "en": ""
+   "en": "Um,\nwhich line should I get in?"
   },
   {
    "id": "event_ev005057:00AC",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "　どのれつにならぶ？",
-   "en": ""
+   "en": " Which Line?"
   },
   {
    "id": "event_ev005057:00C2",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "デパートがわ",
-   "en": ""
+   "en": "Store side"
   },
   {
    "id": "event_ev005057:00D0",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "どうろがわ",
-   "en": ""
+   "en": "Street side"
   },
   {
    "id": "event_ev005057:00DC",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "まんなか",
-   "en": ""
+   "en": "The middle"
   },
   {
    "id": "event_ev005057:00E6",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "やっと{h }おみせに入れた〜\nならぶだけで{h }つかれちゃう",
-   "en": ""
+   "en": "I finally got into the store!\nJust waiting in line wore me out."
   },
   {
    "id": "event_ev005057:011C",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "よーし　がんばって\nおかいものしちゃうぞ！",
-   "en": ""
+   "en": "Okay, I'm gonna\nshop my heart out!"
   },
   {
    "id": "event_ev005057:0148",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "たのしく\nショッピングしたよ！",
-   "en": ""
+   "en": "You had fun\nshopping!"
   },
   {
    "id": "event_ev005057:0168",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005057:01B0",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "おめでと〜ございます！",
-   "en": ""
+   "en": "Congratulaaations!"
   },
   {
    "id": "event_ev005057:01C8",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "あなたは{h }フェアきかん中\n１００人目のおきゃくさまです！",
-   "en": ""
+   "en": "You are our 100th\ncustomer of the fair!"
   },
   {
    "id": "event_ev005057:0202",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "ええ！？　ほんとに？\nうそみたいっ",
-   "en": ""
+   "en": "Whaaat?! Really?\nI can't believe it!"
   },
   {
    "id": "event_ev005057:0226",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "１００人目にえらばれて\nしょうひんけんをもらったよ",
-   "en": ""
+   "en": "You were the 100th customer\nand got a gift voucher!"
   },
   {
    "id": "event_ev005057:025A",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +50{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005057:029E",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005057:02E4",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "わあ　デパートのバーゲンフェア\nいっぱいならんでる〜",
-   "en": ""
+   "en": "Wow, the department store's\nbargain fair! Look at that line!"
   },
   {
    "id": "event_ev005057:031A",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "（デパートのせいりスタッフ）\nれつを{h }３れつにします〜",
-   "en": ""
+   "en": "(Department store staff)\nWe're making three lines nooow!"
   },
   {
    "id": "event_ev005057:0352",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "こちらにならんで下さい〜",
-   "en": ""
+   "en": "Please line up over heeere!"
   },
   {
    "id": "event_ev005057:036C",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "えっと\nどの{h }れつにならぼうかな？",
-   "en": ""
+   "en": "Um,\nwhich line should I get in?"
   },
   {
    "id": "event_ev005057:0390",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "　どのれつにならぶ？",
-   "en": ""
+   "en": " Which Line?"
   },
   {
    "id": "event_ev005057:03A6",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "デパートがわ",
-   "en": ""
+   "en": "Store side"
   },
   {
    "id": "event_ev005057:03B4",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "どうろがわ",
-   "en": ""
+   "en": "Street side"
   },
   {
    "id": "event_ev005057:03C0",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "まんなか",
-   "en": ""
+   "en": "The middle"
   },
   {
    "id": "event_ev005057:03CA",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "やっと{h }おみせに入れた〜\nここからがしょうぶよ！",
-   "en": ""
+   "en": "I finally got into the store!\nNow the real battle begins!"
   },
   {
    "id": "event_ev005057:03FC",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "きあい入れて\nおかいもの{h }しちゃうわよ〜",
-   "en": ""
+   "en": "Time to get fired up\nand go shopping!"
   },
   {
    "id": "event_ev005057:0426",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "たのしく\nショッピングしたよ！",
-   "en": ""
+   "en": "You had fun\nshopping!"
   },
   {
    "id": "event_ev005057:0446",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005057:048E",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "おめでと〜ございます！",
-   "en": ""
+   "en": "Congratulaaations!"
   },
   {
    "id": "event_ev005057:04A6",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "あなたは{h }フェアきかん中\n１００人目のおきゃくさまです！",
-   "en": ""
+   "en": "You are our 100th\ncustomer of the fair!"
   },
   {
    "id": "event_ev005057:04E0",
@@ -266,7 +266,7 @@
     32
    ],
    "jp": "ええ！？　ほんと？\nやったあ　うれしー",
-   "en": ""
+   "en": "Whaaat?! Really?\nYay, I'm so happy!"
   },
   {
    "id": "event_ev005057:0508",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "１００人目にえらばれて\nしょうひんけんをもらったよ",
-   "en": ""
+   "en": "You were the 100th customer\nand got a gift voucher!"
   },
   {
    "id": "event_ev005057:053C",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +50{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005057:0580",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005057:05C6",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "デパートのバーゲンフェア\nいっぱいならんでるなあ",
-   "en": ""
+   "en": "The department store's bargain\nfair. What a long line."
   },
   {
    "id": "event_ev005057:05F8",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "（デパートのせいりスタッフ）\nれつを{h }３れつにします〜",
-   "en": ""
+   "en": "(Department store staff)\nWe're making three lines nooow!"
   },
   {
    "id": "event_ev005057:0630",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "こちらにならんで下さい〜",
-   "en": ""
+   "en": "Please line up over heeere!"
   },
   {
    "id": "event_ev005057:064A",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "さて\nどの{h }れつにならぼうかな？",
-   "en": ""
+   "en": "Now,\nwhich line should I get in?"
   },
   {
    "id": "event_ev005057:066C",
@@ -330,7 +330,7 @@
     40
    ],
    "jp": "　どのれつにならぶ？",
-   "en": ""
+   "en": " Which Line?"
   },
   {
    "id": "event_ev005057:0682",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "デパートがわ",
-   "en": ""
+   "en": "Store side"
   },
   {
    "id": "event_ev005057:0690",
@@ -346,7 +346,7 @@
     42
    ],
    "jp": "どうろがわ",
-   "en": ""
+   "en": "Street side"
   },
   {
    "id": "event_ev005057:069C",
@@ -354,7 +354,7 @@
     43
    ],
    "jp": "まんなか",
-   "en": ""
+   "en": "The middle"
   },
   {
    "id": "event_ev005057:06A6",
@@ -362,7 +362,7 @@
     44
    ],
    "jp": "やっと　デパートに入れたか\nならぶだけで{h }つかれてしまうな",
-   "en": ""
+   "en": "Finally inside the store.\nJust waiting in line wears you out."
   },
   {
    "id": "event_ev005057:06E2",
@@ -370,7 +370,7 @@
     45
    ],
    "jp": "気をとりなおして\nかいものをたのしむか",
-   "en": ""
+   "en": "Let's put that behind me\nand enjoy some shopping."
   },
   {
    "id": "event_ev005057:070A",
@@ -378,7 +378,7 @@
     46
    ],
    "jp": "たのしく\nショッピングしたよ！",
-   "en": ""
+   "en": "You had fun\nshopping!"
   },
   {
    "id": "event_ev005057:072A",
@@ -386,7 +386,7 @@
     47
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005057:0772",
@@ -394,7 +394,7 @@
     48
    ],
    "jp": "おめでと〜ございます！",
-   "en": ""
+   "en": "Congratulaaations!"
   },
   {
    "id": "event_ev005057:078A",
@@ -402,7 +402,7 @@
     49
    ],
    "jp": "あなたは{h }フェアきかん中\n１００人目のおきゃくさまです！",
-   "en": ""
+   "en": "You are our 100th\ncustomer of the fair!"
   },
   {
    "id": "event_ev005057:07C4",
@@ -410,7 +410,7 @@
     50
    ],
    "jp": "ええ！？　い{h }いきなりなんだ！？\n１００人目？",
-   "en": ""
+   "en": "Huh?! Wh-what's this all of a sudden?!\nThe 100th?"
   },
   {
    "id": "event_ev005057:07F4",
@@ -418,7 +418,7 @@
     51
    ],
    "jp": "１００人目にえらばれて\nしょうひんけんをもらったよ",
-   "en": ""
+   "en": "You were the 100th customer\nand got a gift voucher!"
   },
   {
    "id": "event_ev005057:0828",
@@ -426,7 +426,7 @@
     52
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +50{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005057:086C",
@@ -434,7 +434,7 @@
     53
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   }
  ]
 }

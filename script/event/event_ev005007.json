@@ -9,7 +9,7 @@
     23
    ],
    "jp": "ちょうない\nカラオケたいかいだよ！",
-   "en": ""
+   "en": "It's the neighborhood\nkaraoke contest!"
   },
   {
    "id": "event_ev005007:0024",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "うたって{h }おどって{h }\nごうかしょうひんをゲットだ！",
-   "en": ""
+   "en": "Sing, dance,\nand win fabulous prizes!"
   },
   {
    "id": "event_ev005007:0058",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "あ　なにかイベントをやってる！",
-   "en": ""
+   "en": "Oh, there's some event going on!"
   },
   {
    "id": "event_ev005007:0078",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "ほら！{h }そこのおじょうさん\nいっきょく{h }うたっていきな！",
-   "en": ""
+   "en": "Hey! You there, miss!\nCome sing us a song!"
   },
   {
    "id": "event_ev005007:00B2",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "ええ〜！　わたし！？\nど{h }どうしよう〜‥‥",
-   "en": ""
+   "en": "Whaaat?! Me?!\nWh-what do I dooo..."
   },
   {
    "id": "event_ev005007:00DE",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "カラオケたいかいで\nうたって{h }けいひんをもらったよ",
-   "en": ""
+   "en": "You sang at the karaoke\ncontest and won a prize!"
   },
   {
    "id": "event_ev005007:0112",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005007:0156",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "ちょうない\nカラオケたいかいだよ！",
-   "en": ""
+   "en": "It's the neighborhood\nkaraoke contest!"
   },
   {
    "id": "event_ev005007:017A",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "うたって{h }おどって{h }\nごうかしょうひんをゲットだ！",
-   "en": ""
+   "en": "Sing, dance,\nand win fabulous prizes!"
   },
   {
    "id": "event_ev005007:01AE",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "あ　カラオケたいかいの\nイベントやってる！",
-   "en": ""
+   "en": "Oh, there's a karaoke\ncontest going on!"
   },
   {
    "id": "event_ev005007:01DA",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "ほら！{h }そこのおじょうさん\nいっきょく{h }うたっていきな！",
-   "en": ""
+   "en": "Hey! You there, miss!\nCome sing us a song!"
   },
   {
    "id": "event_ev005007:0214",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "わ{h }わたし！？",
-   "en": ""
+   "en": "M-me?!"
   },
   {
    "id": "event_ev005007:0224",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "よ〜し！　いくわよ！",
-   "en": ""
+   "en": "Oookay! Here I go!"
   },
   {
    "id": "event_ev005007:023A",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "カラオケたいかいで\nうたって{h }けいひんをもらったよ",
-   "en": ""
+   "en": "You sang at the karaoke\ncontest and won a prize!"
   },
   {
    "id": "event_ev005007:026E",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005007:02B2",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "ちょうない\nカラオケたいかいだよ！",
-   "en": ""
+   "en": "It's the neighborhood\nkaraoke contest!"
   },
   {
    "id": "event_ev005007:02D6",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "うたって{h }おどって{h }\nごうかしょうひんをゲットだ！",
-   "en": ""
+   "en": "Sing, dance,\nand win fabulous prizes!"
   },
   {
    "id": "event_ev005007:030A",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "しょうてんがいのイベントか‥‥",
-   "en": ""
+   "en": "A shopping street event, huh..."
   },
   {
    "id": "event_ev005007:032A",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "ほら！{h }そこのおじょうさん\nいっきょく{h }うたっていきな！",
-   "en": ""
+   "en": "Hey! You there, miss!\nCome sing us a song!"
   },
   {
    "id": "event_ev005007:0364",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "え！　い{h }いや{h }わたしは‥‥",
-   "en": ""
+   "en": "Huh?! N-no, I'm..."
   },
   {
    "id": "event_ev005007:0382",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "いいから{h }いいから！\nうたって{h }いきなって！",
-   "en": ""
+   "en": "Come on, come on!\nSing us a song!"
   },
   {
    "id": "event_ev005007:03B0",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "カラオケたいかいで\nうたって{h }けいひんをもらったよ",
-   "en": ""
+   "en": "You sang at the karaoke\ncontest and won a prize!"
   },
   {
    "id": "event_ev005007:03E4",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   }
  ]
 }

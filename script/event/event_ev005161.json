@@ -11,7 +11,7 @@
     39
    ],
    "jp": "う〜ん☆{h }ここのケーキ{h }おいしい！",
-   "en": ""
+   "en": "Mmm ☆ This cake is so good!"
   },
   {
    "id": "event_ev005161:0024",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "だから{h }こんなにぎょうれつが\nできてたんだ〜",
-   "en": ""
+   "en": "So that's why there was\nsuch a long line!"
   },
   {
    "id": "event_ev005161:0052",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "もっとたべたいな〜　でも{h }あんまり\nたべると　ふとっちゃうかも？",
-   "en": ""
+   "en": "I want more... But if I eat\ntoo much, I might get fat?"
   },
   {
    "id": "event_ev005161:0094",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい[4001][4002]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of [4001][4002] or more!"
   },
   {
    "id": "event_ev005161:00E0",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "　ゆうわくにまけそう",
-   "en": ""
+   "en": " Temptation!"
   },
   {
    "id": "event_ev005161:00F6",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "やっぱり　たべすぎは\nよくないよね",
-   "en": ""
+   "en": "Eating too much\nisn't good after all."
   },
   {
    "id": "event_ev005161:011A",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "とーっても{h }たべたかったけど\nがまんできた",
-   "en": ""
+   "en": "I really, really wanted more,\nbut I held back."
   },
   {
    "id": "event_ev005161:0146",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005161:016A",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "え〜い！{h }さいごにひとつだけ\nたべちゃえ！",
-   "en": ""
+   "en": "Oh, whatever!\nJust one last piece!"
   },
   {
    "id": "event_ev005161:0196",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "つい{h }たべすぎちゃった\nダイエット{h }どうしよう‥‥",
-   "en": ""
+   "en": "I ate way too much...\nWhat about my diet...?"
   },
   {
    "id": "event_ev005161:01CA",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０』\n『{i20C}{h }うたう　ちから　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60\"\n\"{i20C} Singing Power -2{i210}\""
   },
   {
    "id": "event_ev005161:020C",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "『{i20D}{h }まけない　こころ　−２{i210}』\n『{i20E}けいかいなステップ　−８{i210}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart -2{i210}\"\n\"{i20E}Light Steps -8{i210}\""
   },
   {
    "id": "event_ev005161:0250",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "う〜ん☆{h }ここのケーキ{h }おいしい！",
-   "en": ""
+   "en": "Mmm ☆ This cake is so good!"
   },
   {
    "id": "event_ev005161:0274",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "だから{h }こんなにぎょうれつが\nできてたのね〜",
-   "en": ""
+   "en": "So that's why there was\nsuch a long line!"
   },
   {
    "id": "event_ev005161:02A2",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "あ！{h }あれもおいしそう〜\nでも{h }ふとっちゃうかも？",
-   "en": ""
+   "en": "Oh! That looks yummy too...\nBut I might get fat?"
   },
   {
    "id": "event_ev005161:02D6",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい[4001][4002]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of [4001][4002] or more!"
   },
   {
    "id": "event_ev005161:0322",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "　ゆうわくにまけそう",
-   "en": ""
+   "en": " Temptation!"
   },
   {
    "id": "event_ev005161:0338",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "だめ{h }だめ！　ふとったりしたら\n太郎ちゃんに{h }きらわれちゃうもの",
-   "en": ""
+   "en": "No, no! If I get fat,\nTaro won't like me anymore!"
   },
   {
    "id": "event_ev005161:037A",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "とーっても{h }たべたかったけど\nがまんできた",
-   "en": ""
+   "en": "I really, really wanted more,\nbut I held back."
   },
   {
    "id": "event_ev005161:03A6",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005161:03CA",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "よし！{h }もうひとつぐらい\nたべてもへいきよね",
-   "en": ""
+   "en": "Okay! One more piece\nshould be fine."
   },
   {
    "id": "event_ev005161:03F8",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "つい{h }たべすぎちゃった\nダイエット{h }どうしよう‥‥",
-   "en": ""
+   "en": "I ate way too much...\nWhat about my diet...?"
   },
   {
    "id": "event_ev005161:042C",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０』\n『{i20C}{h }うたう　ちから　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60\"\n\"{i20C} Singing Power -2{i210}\""
   },
   {
    "id": "event_ev005161:046E",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "『{i20D}{h }まけない　こころ　−２{i210}』\n『{i20E}けいかいなステップ　−８{i210}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart -2{i210}\"\n\"{i20E}Light Steps -8{i210}\""
   },
   {
    "id": "event_ev005161:04B2",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "うん！　ここのケーキはあたりだな",
-   "en": ""
+   "en": "Yeah! This cake shop is a winner."
   },
   {
    "id": "event_ev005161:04D4",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "フルーツとクリームのくみあわせが\nぜつみょうだ",
-   "en": ""
+   "en": "The fruit and cream\ngo together perfectly."
   },
   {
    "id": "event_ev005161:0504",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "ならんだ{h }かいはあったな",
-   "en": ""
+   "en": "It was worth the wait in line."
   },
   {
    "id": "event_ev005161:051E",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "もう１つ{h }たべようかな‥‥\nいやいや{h }たべすぎは‥‥",
-   "en": ""
+   "en": "Maybe I'll have one more...\nNo, no, eating too much..."
   },
   {
    "id": "event_ev005161:0554",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい[4001][4002]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of [4001][4002] or more!"
   },
   {
    "id": "event_ev005161:05A0",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "　ゆうわくにまけそう",
-   "en": ""
+   "en": " Temptation!"
   },
   {
    "id": "event_ev005161:05B6",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "やはり{h }たべすぎはよくないな\nまたこんどにしよう",
-   "en": ""
+   "en": "Eating too much isn't good.\nI'll save it for next time."
   },
   {
    "id": "event_ev005161:05E8",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "とーっても{h }たべたかったけど\nがまんできた",
-   "en": ""
+   "en": "I really, really wanted more,\nbut I held back."
   },
   {
    "id": "event_ev005161:0614",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005161:0638",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "よし！{h }たべよう\nなやむなんて{h }わたしらしくない",
-   "en": ""
+   "en": "All right! I'll eat it.\nHesitating isn't like me."
   },
   {
    "id": "event_ev005161:066A",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "つい{h }たべすぎちゃった\nダイエット{h }どうしよう‥‥",
-   "en": ""
+   "en": "I ate way too much...\nWhat about my diet...?"
   },
   {
    "id": "event_ev005161:069E",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０』\n『{i20C}{h }うたう　ちから　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60\"\n\"{i20C} Singing Power -2{i210}\""
   },
   {
    "id": "event_ev005161:06E0",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "『{i20D}{h }まけない　こころ　−２{i210}』\n『{i20E}けいかいなステップ　−８{i210}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart -2{i210}\"\n\"{i20E}Light Steps -8{i210}\""
   }
  ]
 }

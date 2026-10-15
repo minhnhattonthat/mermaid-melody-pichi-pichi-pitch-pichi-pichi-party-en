@@ -11,7 +11,7 @@
     35
    ],
    "jp": "うまく{h }うたえなくて\nほしゅうに{h }なっちゃった‥‥",
-   "en": ""
+   "en": "I couldn't sing well,\nso I got stuck with a makeup lesson..."
   },
   {
    "id": "event_ev005503:0034",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "でも{h }がんばって{h }うたわなきゃ！",
-   "en": ""
+   "en": "But I have to try hard and sing!"
   },
   {
    "id": "event_ev005503:0056",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "『おんがくのほしゅう！』",
-   "en": ""
+   "en": "\"Music makeup lesson!\""
   },
   {
    "id": "event_ev005503:0070",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }６〜１０をねらおう！",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the roulette\nand aim for 6 to 10!"
   },
   {
    "id": "event_ev005503:00B2",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "　おんがくのほしゅう",
-   "en": ""
+   "en": " Music makeup lesson"
   },
   {
    "id": "event_ev005503:00C8",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "『おんがくのほしゅう！』",
-   "en": ""
+   "en": "\"Music makeup lesson!\""
   },
   {
    "id": "event_ev005503:027C",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }６〜１０をねらおう！",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the roulette\nand aim for 6 to 10!"
   },
   {
    "id": "event_ev005503:02BE",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "　おんがくのほしゅう",
-   "en": ""
+   "en": " Music makeup lesson"
   },
   {
    "id": "event_ev005503:02D4",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "『おんがくのほしゅう！』",
-   "en": ""
+   "en": "\"Music makeup lesson!\""
   },
   {
    "id": "event_ev005503:047C",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }６〜１０をねらおう！",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the roulette\nand aim for 6 to 10!"
   },
   {
    "id": "event_ev005503:04BE",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "　おんがくのほしゅう",
-   "en": ""
+   "en": " Music makeup lesson"
   },
   {
    "id": "event_ev005503:04D4",

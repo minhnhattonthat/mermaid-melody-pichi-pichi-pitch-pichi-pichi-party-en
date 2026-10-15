@@ -11,7 +11,7 @@
     23
    ],
    "jp": "このあたりの　うみって　あんまり\nおよいだこと　なかったなあ‥‥",
-   "en": ""
+   "en": "I haven't swum much\nin the sea around here..."
   },
   {
    "id": "event_ev005200:0042",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "よし！　ちょっといってみよう！",
-   "en": ""
+   "en": "Okay! Let's go take a look!"
   },
   {
    "id": "event_ev005200:0062",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "あ！？\nあんなところに　ちんぼつせんが！",
-   "en": ""
+   "en": "Huh?!\nThere's a sunken ship over there!"
   },
   {
    "id": "event_ev005200:008C",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "さっそく\nたからさがし　しなくちゃね！",
-   "en": ""
+   "en": "Time to go\ntreasure hunting!"
   },
   {
    "id": "event_ev005200:00B4",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "たからばこを　はっけん！",
-   "en": ""
+   "en": "Found a treasure chest!"
   },
   {
    "id": "event_ev005200:00CE",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "『カードを{h }手に入れたよ』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005200:00EA",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005200:012E",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "あれ？　このあたりって　\nあまり　およいだことないかも",
-   "en": ""
+   "en": "Huh? I don't think I've swum\naround here much."
   },
   {
    "id": "event_ev005200:0166",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "ちょっと　たんけんしてみようかな？",
-   "en": ""
+   "en": "Maybe I'll do a little exploring!"
   },
   {
    "id": "event_ev005200:018A",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "きゃー！？　あそこに見えるのは\nちんぼつせんだわ！",
-   "en": ""
+   "en": "Eeek?! What I see over there...\nIt's a sunken ship!"
   },
   {
    "id": "event_ev005200:01BE",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "ぜったい　たからばこもあるはず！",
-   "en": ""
+   "en": "There's got to be a treasure chest!"
   },
   {
    "id": "event_ev005200:01E0",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "たからばこを　はっけん！",
-   "en": ""
+   "en": "Found a treasure chest!"
   },
   {
    "id": "event_ev005200:01FA",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "『カードを{h }手に入れたよ』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005200:0216",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005200:025A",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "ん？　このあたりは\nあまり　およいだことがないな‥‥",
-   "en": ""
+   "en": "Hm? I haven't swum\naround here much..."
   },
   {
    "id": "event_ev005200:0290",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "よし　いってみるか",
-   "en": ""
+   "en": "All right, let's try it."
   },
   {
    "id": "event_ev005200:02A4",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "‥‥！　あれは\nちんぼつせんじゃないか！",
-   "en": ""
+   "en": "...! Isn't that\na sunken ship?!"
   },
   {
    "id": "event_ev005200:02CE",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "すこし　しらべてみるか‥‥",
-   "en": ""
+   "en": "Maybe I'll look around a bit..."
   },
   {
    "id": "event_ev005200:02EA",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "たからばこを　はっけん！",
-   "en": ""
+   "en": "Found a treasure chest!"
   },
   {
    "id": "event_ev005200:0304",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "『カードを{h }手に入れたよ』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005200:0320",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   }
  ]
 }

@@ -9,7 +9,7 @@
     39
    ],
    "jp": "あ　タキさん！\nどうしたの？　こんなところで",
-   "en": ""
+   "en": "Oh, Taki!\nWhat are you doing here?"
   },
   {
    "id": "event_ev005060:002E",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "おお{h }るちあかい？\nちょうどいいところに‥‥",
-   "en": ""
+   "en": "Oh, is that you, Lucia?\nYou came at just the right time..."
   },
   {
    "id": "event_ev005060:005C",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "これをあげよう‥‥",
-   "en": ""
+   "en": "I'll give you this..."
   },
   {
    "id": "event_ev005060:0070",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "なあに？　アメ？\nわあい{h }ありがとう！",
-   "en": ""
+   "en": "What is it? Candy?\nYay, thank you!"
   },
   {
    "id": "event_ev005060:0098",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "さいきんわたしが{h }かいはつした\nひみつのくすりで‥‥",
-   "en": ""
+   "en": "It's a secret medicine\nI developed recently..."
   },
   {
    "id": "event_ev005060:00CE",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "マーメイドの力を\nひき出すことが{h }できるはずだよ",
-   "en": ""
+   "en": "It should be able to draw\nout your mermaid power."
   },
   {
    "id": "event_ev005060:0100",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "ええ〜っ！（ごくん）\nの　のんじゃった‥‥",
-   "en": ""
+   "en": "Whaaat?! (Gulp)\nI-I swallowed it..."
   },
   {
    "id": "event_ev005060:012C",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "タキさんから{h }赤い\nふしぎなドロップをもらった！",
-   "en": ""
+   "en": "You got a mysterious red\ndrop from Taki!"
   },
   {
    "id": "event_ev005060:015E",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "にが〜い{h }あじがした‥‥",
-   "en": ""
+   "en": "It tasted reeeally bitter..."
   },
   {
    "id": "event_ev005060:0178",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005060:01BC",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "タキさんから{h }赤い\nふしぎなドロップをもらった！",
-   "en": ""
+   "en": "You got a mysterious red\ndrop from Taki!"
   },
   {
    "id": "event_ev005060:01EE",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "なんだか\nふしぎな力が{h }みちてきた",
-   "en": ""
+   "en": "Somehow, a mysterious\npower is welling up inside!"
   },
   {
    "id": "event_ev005060:0212",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋７{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +5{i20F}\"\n\"{i20C} Singing Power +7{i20F}\""
   },
   {
    "id": "event_ev005060:0254",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "あら　タキさん\nどうしたの？　こんなところで",
-   "en": ""
+   "en": "Oh, Taki!\nWhat are you doing here?"
   },
   {
    "id": "event_ev005060:0282",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "おお{h }波音ちゃんかい？\nちょうどいいところに‥‥",
-   "en": ""
+   "en": "Oh, is that you, Hanon?\nYou came at just the right time..."
   },
   {
    "id": "event_ev005060:02B4",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "これをあげよう‥‥",
-   "en": ""
+   "en": "I'll give you this..."
   },
   {
    "id": "event_ev005060:02C8",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "？　アメをくれるの？\nありがとう　（ひょい　パクンッ）",
-   "en": ""
+   "en": "? You're giving me candy?\nThanks! (Pop! Munch!)"
   },
   {
    "id": "event_ev005060:0300",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "さいきんわたしが{h }かいはつした\nひみつのくすりで‥‥",
-   "en": ""
+   "en": "It's a secret medicine\nI developed recently..."
   },
   {
    "id": "event_ev005060:0336",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "マーメイドの力を\nひき出すことが{h }できるはずだよ",
-   "en": ""
+   "en": "It should be able to draw\nout your mermaid power."
   },
   {
    "id": "event_ev005060:0368",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "ええ〜っ！（ごくん）\nの　のんじゃった‥‥",
-   "en": ""
+   "en": "Whaaat?! (Gulp)\nI-I swallowed it..."
   },
   {
    "id": "event_ev005060:0394",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "タキさんから{h }赤い\nふしぎなドロップをもらった！",
-   "en": ""
+   "en": "You got a mysterious red\ndrop from Taki!"
   },
   {
    "id": "event_ev005060:03C6",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "にが〜い{h }あじがした‥‥",
-   "en": ""
+   "en": "It tasted reeeally bitter..."
   },
   {
    "id": "event_ev005060:03E0",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005060:0424",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "タキさんから{h }赤い\nふしぎなドロップをもらった！",
-   "en": ""
+   "en": "You got a mysterious red\ndrop from Taki!"
   },
   {
    "id": "event_ev005060:0456",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "なんだか\nふしぎな力が{h }みちてきた",
-   "en": ""
+   "en": "Somehow, a mysterious\npower is welling up inside!"
   },
   {
    "id": "event_ev005060:047A",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋７{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +5{i20F}\"\n\"{i20C} Singing Power +7{i20F}\""
   },
   {
    "id": "event_ev005060:04BC",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "おや　タキさん\nどうしたんですか？　こんなところで",
-   "en": ""
+   "en": "Oh, Taki.\nWhat are you doing here?"
   },
   {
    "id": "event_ev005060:04F0",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "おお{h }リナちゃんかい？\nちょうどいいところに‥‥",
-   "en": ""
+   "en": "Oh, is that you, Rina?\nYou came at just the right time..."
   },
   {
    "id": "event_ev005060:0522",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "これをあげよう‥‥",
-   "en": ""
+   "en": "I'll give you this..."
   },
   {
    "id": "event_ev005060:0536",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "アメですね　‥‥いただきます",
-   "en": ""
+   "en": "Candy, huh... Thank you."
   },
   {
    "id": "event_ev005060:0554",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "さいきんわたしが{h }かいはつした\nひみつのくすりで‥‥",
-   "en": ""
+   "en": "It's a secret medicine\nI developed recently..."
   },
   {
    "id": "event_ev005060:058A",
@@ -257,7 +257,7 @@
     31
    ],
    "jp": "マーメイドの力を\nひき出すことが{h }できるはずだよ",
-   "en": ""
+   "en": "It should be able to draw\nout your mermaid power."
   },
   {
    "id": "event_ev005060:05BC",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "ええっ！（ごくん）\nケ{h }ケホッ　の{h }のんでしまった‥‥",
-   "en": ""
+   "en": "Whaaat?! (Gulp)\nAck, ack! I-I swallowed it..."
   },
   {
    "id": "event_ev005060:05F4",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "タキさんから{h }赤い\nふしぎなドロップをもらった！",
-   "en": ""
+   "en": "You got a mysterious red\ndrop from Taki!"
   },
   {
    "id": "event_ev005060:0626",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "にが〜い{h }あじがした‥‥",
-   "en": ""
+   "en": "It tasted reeeally bitter..."
   },
   {
    "id": "event_ev005060:0640",
@@ -289,7 +289,7 @@
     35
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005060:0684",
@@ -297,7 +297,7 @@
     36
    ],
    "jp": "タキさんから{h }赤い\nふしぎなドロップをもらった！",
-   "en": ""
+   "en": "You got a mysterious red\ndrop from Taki!"
   },
   {
    "id": "event_ev005060:06B6",
@@ -305,7 +305,7 @@
     37
    ],
    "jp": "なんだか\nふしぎな力が{h }みちてきた",
-   "en": ""
+   "en": "Somehow, a mysterious\npower is welling up inside!"
   },
   {
    "id": "event_ev005060:06DA",
@@ -313,7 +313,7 @@
     38
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋７{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +5{i20F}\"\n\"{i20C} Singing Power +7{i20F}\""
   }
  ]
 }

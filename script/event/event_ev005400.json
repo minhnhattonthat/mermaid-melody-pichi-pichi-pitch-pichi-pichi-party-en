@@ -8,7 +8,7 @@
     0
    ],
    "jp": "わあ　すっごいひとだかり！",
-   "en": ""
+   "en": "Wow, what a huge crowd!"
   },
   {
    "id": "event_ev005400:001C",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "そりゃそうよ{h }だって\nきょういの７０％オフなんだから！",
-   "en": ""
+   "en": "Of course! It's an amazing\n70% off sale!"
   },
   {
    "id": "event_ev005400:0054",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "しかし{h }いまからこの人だかりを\nとっぱするのか‥‥",
-   "en": ""
+   "en": "But we have to break\nthrough this crowd now..."
   },
   {
    "id": "event_ev005400:0088",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "とっしんあるのみよ！",
-   "en": ""
+   "en": "All we can do is charge in!"
   },
   {
    "id": "event_ev005400:009E",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "たどりついた人のみ\nおめあてのものが手に入るんだから！",
-   "en": ""
+   "en": "Only the ones who make it through\nget what they came for!"
   },
   {
    "id": "event_ev005400:00D6",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "人ごみをとっぱ！",
-   "en": ""
+   "en": "Break through!"
   },
   {
    "id": "event_ev005400:00E8",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "『バーゲンバトルをとっぱして\nレアアイテムをゲット！』",
-   "en": ""
+   "en": "\"Break through the Bargain Battle\nand get a rare item!\""
   },
   {
    "id": "event_ev005400:0120",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『さいごまで{h }いきのこった\nヒロインの{h }かちだよ』",
-   "en": ""
+   "en": "\"The heroine who lasts\nuntil the end wins!\""
   },
   {
    "id": "event_ev005400:0154",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "『るちあのターン』スタート！",
-   "en": ""
+   "en": "\"Lucia's turn\" start!"
   },
   {
    "id": "event_ev005400:0172",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ちょ{h }ちょっとごめんなさい！\nと　とおして〜",
-   "en": ""
+   "en": "S-sorry, excuse me!\nL-let me through!"
   },
   {
    "id": "event_ev005400:01A0",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "スキル『けいかいなステップ』プラス\n５〜７でせいこうだよ！",
-   "en": ""
+   "en": "\"Light Steps\" skill plus the roll:\n5 to 7 succeeds!"
   },
   {
    "id": "event_ev005400:01DC",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "やった！\nちょっとちかづいたよ！",
-   "en": ""
+   "en": "Yay!\nI got a little closer!"
   },
   {
    "id": "event_ev005400:01FE",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "『るちあ{h }とっぱ{h }せいこう！』",
-   "en": ""
+   "en": "\"Lucia broke through!\""
   },
   {
    "id": "event_ev005400:021E",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "いったーい　‥‥もうっ\nだれなの！？　つきとばした人！",
-   "en": ""
+   "en": "Owww... Geez!\nWho shoved me?!"
   },
   {
    "id": "event_ev005400:0256",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "‥‥ちょっとむりかも‥‥\nバーゲンって{h }たいへんなんだ‥‥",
-   "en": ""
+   "en": "...This might be impossible...\nSales are so tough..."
   },
   {
    "id": "event_ev005400:0292",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『るちあ{h }しっぱい‥‥』",
-   "en": ""
+   "en": "\"Lucia failed...\""
   },
   {
    "id": "event_ev005400:02AC",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "ヒロインポイント　＋５",
-   "en": ""
+   "en": "Heroine Points +5"
   },
   {
    "id": "event_ev005400:02C4",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "『はのんのターン』スタート！",
-   "en": ""
+   "en": "\"Hanon's turn\" start!"
   },
   {
    "id": "event_ev005400:02E2",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "どいて〜\nとおれない〜",
-   "en": ""
+   "en": "Move it!\nI can't get through!"
   },
   {
    "id": "event_ev005400:02FA",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "スキル『けいかいなステップ』プラス\n５〜７でせいこうだよ！",
-   "en": ""
+   "en": "\"Light Steps\" skill plus the roll:\n5 to 7 succeeds!"
   },
   {
    "id": "event_ev005400:0336",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "‥‥やった！\nうまく{h }すりぬけられたわ！",
-   "en": ""
+   "en": "...Yes!\nI slipped right through!"
   },
   {
    "id": "event_ev005400:0360",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "『はのん{h }とっぱ{h }せいこう！』",
-   "en": ""
+   "en": "\"Hanon broke through!\""
   },
   {
    "id": "event_ev005400:0380",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "いったーい　‥‥もうっ\nだれなの！？　つきとばした人！",
-   "en": ""
+   "en": "Owww... Geez!\nWho shoved me?!"
   },
   {
    "id": "event_ev005400:03B8",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "‥‥ちょっとむりかも‥‥\nくやしい〜‥‥",
-   "en": ""
+   "en": "...This might be impossible...\nSo frustrating..."
   },
   {
    "id": "event_ev005400:03E2",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "『はのん{h }しっぱい‥‥』",
-   "en": ""
+   "en": "\"Hanon failed...\""
   },
   {
    "id": "event_ev005400:03FC",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "ヒロインポイント　＋５",
-   "en": ""
+   "en": "Heroine Points +5"
   },
   {
    "id": "event_ev005400:0414",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "『リナのターン』スタート！",
-   "en": ""
+   "en": "\"Rina's turn\" start!"
   },
   {
    "id": "event_ev005400:0430",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "すいません　とおります‥‥",
-   "en": ""
+   "en": "Excuse me, coming through..."
   },
   {
    "id": "event_ev005400:044C",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "スキル『けいかいなステップ』プラス\n５〜７でせいこう！",
-   "en": ""
+   "en": "\"Light Steps\" skill plus the roll:\n5 to 7 succeeds!"
   },
   {
    "id": "event_ev005400:0484",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "よし　ぬけたぞ！",
-   "en": ""
+   "en": "All right, I'm through!"
   },
   {
    "id": "event_ev005400:0496",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "『リナ{h }とっぱ{h }せいこう！』",
-   "en": ""
+   "en": "\"Rina broke through!\""
   },
   {
    "id": "event_ev005400:04B4",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "わわっ！　お{h }おされる‥‥",
-   "en": ""
+   "en": "Whoa! I-I'm getting pushed..."
   },
   {
    "id": "event_ev005400:04D0",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "これは‥‥　むりだな‥‥\nバーゲンって{h }たいへんだ‥‥",
-   "en": ""
+   "en": "This is... impossible...\nSales are tough..."
   },
   {
    "id": "event_ev005400:0508",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "『リナ{h }しっぱい‥‥』",
-   "en": ""
+   "en": "\"Rina failed...\""
   },
   {
    "id": "event_ev005400:0520",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "ヒロインポイント　＋５",
-   "en": ""
+   "en": "Heroine Points +5"
   },
   {
    "id": "event_ev005400:0538",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "『リナ{h }とうたつ！』",
-   "en": ""
+   "en": "\"Rina made it!\""
   },
   {
    "id": "event_ev005400:054E",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "よし！　たどりついたぞ",
-   "en": ""
+   "en": "All right! I made it."
   },
   {
    "id": "event_ev005400:0566",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "バーゲンで{h }せんりひんゲット！",
-   "en": ""
+   "en": "Scored a prize at the sale!"
   },
   {
    "id": "event_ev005400:0586",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "ヒロインポイント　＋２０\nアイテムゲット！",
-   "en": ""
+   "en": "Heroine Points +20\nGot an item!"
   },
   {
    "id": "event_ev005400:05B2",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "『はのん{h }とうたつ！』",
-   "en": ""
+   "en": "\"Hanon made it!\""
   },
   {
    "id": "event_ev005400:05CA",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "やったあ！　このふくかわいい！\nさっそく{h }かっちゃおう！",
-   "en": ""
+   "en": "Yay! These clothes are so cute!\nI'm buying them right now!"
   },
   {
    "id": "event_ev005400:0604",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "バーゲンで{h }せんりひんゲット！",
-   "en": ""
+   "en": "Scored a prize at the sale!"
   },
   {
    "id": "event_ev005400:0624",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "ヒロインポイント　＋２０\nアイテムゲット！",
-   "en": ""
+   "en": "Heroine Points +20\nGot an item!"
   },
   {
    "id": "event_ev005400:0650",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "『るちあ{h }とうたつ！』",
-   "en": ""
+   "en": "\"Lucia made it!\""
   },
   {
    "id": "event_ev005400:0668",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "やったあ！　このふくかわいい！\nさっそく{h }かっちゃおう！",
-   "en": ""
+   "en": "Yay! These clothes are so cute!\nI'm buying them right now!"
   },
   {
    "id": "event_ev005400:06A2",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "バーゲンで{h }せんりひんゲット！",
-   "en": ""
+   "en": "Scored a prize at the sale!"
   },
   {
    "id": "event_ev005400:06C2",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "ヒロインポイント　＋２０\nアイテムゲット！",
-   "en": ""
+   "en": "Heroine Points +20\nGot an item!"
   },
   {
    "id": "event_ev005400:06EE",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "だれも{h }バーゲンバトルに\nかちのこれなかった‥‥",
-   "en": ""
+   "en": "Nobody managed to win\nthe Bargain Battle..."
   }
  ]
 }

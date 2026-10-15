@@ -9,7 +9,7 @@
     39
    ],
    "jp": "（カツンッ☆）",
-   "en": ""
+   "en": "(CLACK☆)"
   },
   {
    "id": "event_ev005151:0010",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "きゃ！　わわ‥‥つまずいちゃった！\nこ　ころんじゃう〜っ！",
-   "en": ""
+   "en": "Eek! Whoa... I tripped!\nI-I'm gonna fall!"
   },
   {
    "id": "event_ev005151:004C",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005151:0094",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "　バランスをとろう",
-   "en": ""
+   "en": " Keep your balance"
   },
   {
    "id": "event_ev005151:00A8",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "とと‥‥\nふう〜　あぶなかった〜",
-   "en": ""
+   "en": "Whoa, whoa...\nPhew, that was close!"
   },
   {
    "id": "event_ev005151:00CA",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "もうすこしで{h }おもいっきり\nころんじゃうところだった〜",
-   "en": ""
+   "en": "I almost took\na really big fall!"
   },
   {
    "id": "event_ev005151:0102",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "なんとか{h }ころばずにすんだけど‥‥",
-   "en": ""
+   "en": "I managed not to fall, but..."
   },
   {
    "id": "event_ev005151:0126",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "みちのまんなかで　１人でさわいで\nはずかしいよう‥‥",
-   "en": ""
+   "en": "Making a scene all by myself in\nthe middle of the street. So embarrassing..."
   },
   {
    "id": "event_ev005151:015C",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005151:0180",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "きゃあ！　ころんじゃう〜",
-   "en": ""
+   "en": "Eeek! I'm gonna fall!"
   },
   {
    "id": "event_ev005151:019A",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "（ズテン！）",
-   "en": ""
+   "en": "(THUD!)"
   },
   {
    "id": "event_ev005151:01A8",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "つまずいて　たくさんの人を{h }おし\nたおしちゃった！　ごめんなさい〜",
-   "en": ""
+   "en": "I tripped and knocked over a\nwhole bunch of people! I'm sorry!"
   },
   {
    "id": "event_ev005151:01EC",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005151:0232",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "（カツンッ☆）",
-   "en": ""
+   "en": "(CLACK☆)"
   },
   {
    "id": "event_ev005151:0242",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "きゃ！　わわ‥‥つまずいちゃった！\nこ　ころんじゃう〜っ！",
-   "en": ""
+   "en": "Eek! Whoa... I tripped!\nI-I'm gonna fall!"
   },
   {
    "id": "event_ev005151:027E",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005151:02C6",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "　バランスをとろう",
-   "en": ""
+   "en": " Keep your balance"
   },
   {
    "id": "event_ev005151:02DA",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "ふう　‥‥あぶなかった〜",
-   "en": ""
+   "en": "Phew... That was close!"
   },
   {
    "id": "event_ev005151:02F4",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "おもいっきり\nころんじゃうところだったわ",
-   "en": ""
+   "en": "I almost took\na really big fall!"
   },
   {
    "id": "event_ev005151:031E",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "なんとか{h }ころばずにすんだけど‥‥",
-   "en": ""
+   "en": "I managed not to fall, but..."
   },
   {
    "id": "event_ev005151:0342",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "みちのまんなかで　１人でさわいで\nはずかしかった‥‥",
-   "en": ""
+   "en": "Making a scene all by myself in\nthe middle of the street. How embarrassing..."
   },
   {
    "id": "event_ev005151:0378",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005151:039C",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "きゃあ！　ころんじゃう〜",
-   "en": ""
+   "en": "Eeek! I'm gonna fall!"
   },
   {
    "id": "event_ev005151:03B6",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "（ズテン！）",
-   "en": ""
+   "en": "(THUD!)"
   },
   {
    "id": "event_ev005151:03C4",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "つまずいて　たくさんの人を{h }おし\nたおしちゃった！　ごめんなさい〜",
-   "en": ""
+   "en": "I tripped and knocked over a\nwhole bunch of people! I'm sorry!"
   },
   {
    "id": "event_ev005151:0408",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005151:044E",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "（カツンッ☆）",
-   "en": ""
+   "en": "(CLACK☆)"
   },
   {
    "id": "event_ev005151:045E",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "おっと‥‥　とと‥‥\nわわ！　ころびそうだ‥‥！",
-   "en": ""
+   "en": "Whoa... Whoa there...\nAgh! I'm going to fall...!"
   },
   {
    "id": "event_ev005151:0490",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005151:04D8",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "　バランスをとろう",
-   "en": ""
+   "en": " Keep your balance"
   },
   {
    "id": "event_ev005151:04EC",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "はっ！\n‥‥ふう　あぶなかった",
-   "en": ""
+   "en": "Huh!\n...Phew, that was close."
   },
   {
    "id": "event_ev005151:050C",
@@ -257,7 +257,7 @@
     31
    ],
    "jp": "もうすこしで{h }おもいっきり\nころんでしまうところだった",
-   "en": ""
+   "en": "I almost took\na really big fall."
   },
   {
    "id": "event_ev005151:0544",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "なんとか{h }ころばずにすんだけど‥‥",
-   "en": ""
+   "en": "I managed not to fall, but..."
   },
   {
    "id": "event_ev005151:0568",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "みちのまんなかで　１人でさわいで\nはずかしかった‥‥",
-   "en": ""
+   "en": "Making a scene all by myself in\nthe middle of the street. How embarrassing..."
   },
   {
    "id": "event_ev005151:059E",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005151:05C2",
@@ -289,7 +289,7 @@
     35
    ],
    "jp": "‥‥！　しまった！",
-   "en": ""
+   "en": "...! Oh no!"
   },
   {
    "id": "event_ev005151:05D6",
@@ -297,7 +297,7 @@
     36
    ],
    "jp": "（ズテン！）",
-   "en": ""
+   "en": "(THUD!)"
   },
   {
    "id": "event_ev005151:05E4",
@@ -305,7 +305,7 @@
     37
    ],
    "jp": "つまずいて　たくさんの人を{h }おし\nたおしちゃった！　ごめんなさい〜",
-   "en": ""
+   "en": "I tripped and knocked over a\nwhole bunch of people! I'm sorry!"
   },
   {
    "id": "event_ev005151:0628",
@@ -313,7 +313,7 @@
     38
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   }
  ]
 }

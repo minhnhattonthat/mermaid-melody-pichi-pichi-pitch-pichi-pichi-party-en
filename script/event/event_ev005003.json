@@ -9,7 +9,7 @@
     63
    ],
    "jp": "あ　おねえちゃんだ\nこんなところで　どうしたの？",
-   "en": ""
+   "en": "Oh, it's Sis!\nWhat are you doing here?"
   },
   {
    "id": "event_ev005003:0032",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "るちあ！\nちょうどいいところに！",
-   "en": ""
+   "en": "Lucia!\nYou came at just the right time!"
   },
   {
    "id": "event_ev005003:0054",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "じつはね\nホテルにきゅうにたくさんの",
-   "en": ""
+   "en": "You see, all of a sudden\na whole lot of guests"
   },
   {
    "id": "event_ev005003:007A",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "おきゃくさんが\n入ってこまってたのよ",
-   "en": ""
+   "en": "checked into the hotel,\nand I'm in a bind."
   },
   {
    "id": "event_ev005003:00A0",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "それでね　ちょっとパールピアリを\nてつだってほしいのよ",
-   "en": ""
+   "en": "So I'd like you to help\nout a bit at Pearl Piari."
   },
   {
    "id": "event_ev005003:00D8",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "ええっ！　どうしようかな？",
-   "en": ""
+   "en": "Whaaat?! What should I do?"
   },
   {
    "id": "event_ev005003:00F4",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "　おてつだいする？",
-   "en": ""
+   "en": "  Help out?"
   },
   {
    "id": "event_ev005003:0108",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "うん　いいよ！",
-   "en": ""
+   "en": "Sure, okay!"
   },
   {
    "id": "event_ev005003:0118",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "ごめんなさい",
-   "en": ""
+   "en": "I'm sorry"
   },
   {
    "id": "event_ev005003:0126",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "ごめん{h }おねえちゃん\nわたし　ようじがあって…",
-   "en": ""
+   "en": "Sorry, Sis.\nI've got something to do..."
   },
   {
    "id": "event_ev005003:0156",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "そう…\nじゃ　しかたないわね",
-   "en": ""
+   "en": "I see...\nWell, it can't be helped."
   },
   {
    "id": "event_ev005003:0174",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "ごめんね…\nこんど{h }てつだうから",
-   "en": ""
+   "en": "Sorry...\nI'll help next time."
   },
   {
    "id": "event_ev005003:0196",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "おてつだいを\nことわっちゃった…",
-   "en": ""
+   "en": "You turned down\nthe request for help..."
   },
   {
    "id": "event_ev005003:01B8",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１０{i20F}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +10{i20F}\"\n\"{i20D} Unbeatable Heart -1{i210}\""
   },
   {
    "id": "event_ev005003:01FE",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "そう！\nじゃ　おねがいするわね",
-   "en": ""
+   "en": "Great!\nThen I'm counting on you."
   },
   {
    "id": "event_ev005003:022E",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "おてつだいなら{h }まかせて！",
-   "en": ""
+   "en": "Leave the helping out to me!"
   },
   {
    "id": "event_ev005003:024A",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "パールピアリをてつだうことに",
-   "en": ""
+   "en": "You decided to help at Pearl Piari."
   },
   {
    "id": "event_ev005003:0268",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "『パールピアリまえへいどう』",
-   "en": ""
+   "en": "\"Moved to Pearl Piari\""
   },
   {
    "id": "event_ev005003:0286",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005003:02CC",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "あ　にこらさん\nこんなところで　どうしたの？",
-   "en": ""
+   "en": "Oh, Nikora!\nWhat are you doing here?"
   },
   {
    "id": "event_ev005003:02FA",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "あら　波音ちゃん\nちょうどいいところに",
-   "en": ""
+   "en": "Oh, Hanon!\nYou came at just the right time."
   },
   {
    "id": "event_ev005003:0322",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "じつは　ホテルに\nきゅうにたくさんの",
-   "en": ""
+   "en": "You see, all of a sudden\na whole lot of guests"
   },
   {
    "id": "event_ev005003:0348",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "おきゃくさんが\n入ってこまってるの",
-   "en": ""
+   "en": "checked into the hotel,\nand I'm in a bind."
   },
   {
    "id": "event_ev005003:036C",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "それでね　ちょっとパールピアリを\nてつだってほしいのよ",
-   "en": ""
+   "en": "So I'd like you to help\nout a bit at Pearl Piari."
   },
   {
    "id": "event_ev005003:03A4",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "えーと…{h }どうしようかな？",
-   "en": ""
+   "en": "Ummm... What should I do?"
   },
   {
    "id": "event_ev005003:03C0",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "　おてつだいする？",
-   "en": ""
+   "en": "  Help out?"
   },
   {
    "id": "event_ev005003:03D4",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "いいわよ！",
-   "en": ""
+   "en": "Sure thing!"
   },
   {
    "id": "event_ev005003:03E0",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "ごめんなさい",
-   "en": ""
+   "en": "I'm sorry"
   },
   {
    "id": "event_ev005003:03EE",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "ごめんなさい　にこらさん\nわたし　ようじがあって…",
-   "en": ""
+   "en": "I'm sorry, Nikora.\nI've got something to do..."
   },
   {
    "id": "event_ev005003:0422",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "そう…\nじゃ　しかたないわね",
-   "en": ""
+   "en": "I see...\nWell, it can't be helped."
   },
   {
    "id": "event_ev005003:0440",
@@ -257,7 +257,7 @@
     31
    ],
    "jp": "ごめんなさい…\nこんど{h }てつだうから",
-   "en": ""
+   "en": "I'm sorry...\nI'll help next time."
   },
   {
    "id": "event_ev005003:0466",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "おてつだいを\nことわっちゃった…",
-   "en": ""
+   "en": "You turned down\nthe request for help..."
   },
   {
    "id": "event_ev005003:0488",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１０{i20F}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +10{i20F}\"\n\"{i20D} Unbeatable Heart -1{i210}\""
   },
   {
    "id": "event_ev005003:04CE",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "ええ{h }いいわよ！",
-   "en": ""
+   "en": "Sure, no problem!"
   },
   {
    "id": "event_ev005003:04E0",
@@ -289,7 +289,7 @@
     35
    ],
    "jp": "そう！\nじゃ　おねがいするわね",
-   "en": ""
+   "en": "Great!\nThen I'm counting on you."
   },
   {
    "id": "event_ev005003:0500",
@@ -297,7 +297,7 @@
     36
    ],
    "jp": "おてつだいなら{h }\nまかせて！",
-   "en": ""
+   "en": "Leave the helping\nout to me!"
   },
   {
    "id": "event_ev005003:051E",
@@ -305,7 +305,7 @@
     37
    ],
    "jp": "パールピアリをてつだうことに",
-   "en": ""
+   "en": "You decided to help at Pearl Piari."
   },
   {
    "id": "event_ev005003:053C",
@@ -313,7 +313,7 @@
     38
    ],
    "jp": "『パールピアリまえへいどう』",
-   "en": ""
+   "en": "\"Moved to Pearl Piari\""
   },
   {
    "id": "event_ev005003:055A",
@@ -321,7 +321,7 @@
     39
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005003:05A0",
@@ -329,7 +329,7 @@
     40
    ],
    "jp": "あら　リナちゃん！",
-   "en": ""
+   "en": "Oh, Rina!"
   },
   {
    "id": "event_ev005003:05B4",
@@ -337,7 +337,7 @@
     41
    ],
    "jp": "にこらさん",
-   "en": ""
+   "en": "Nikora."
   },
   {
    "id": "event_ev005003:05C0",
@@ -345,7 +345,7 @@
     42
    ],
    "jp": "どうしたんですか？",
-   "en": ""
+   "en": "What's the matter?"
   },
   {
    "id": "event_ev005003:05D4",
@@ -353,7 +353,7 @@
     43
    ],
    "jp": "ちょうどいいところに！",
-   "en": ""
+   "en": "You came at just the right time!"
   },
   {
    "id": "event_ev005003:05EC",
@@ -361,7 +361,7 @@
     44
    ],
    "jp": "じつは　\nホテルにきゅうにたくさんの",
-   "en": ""
+   "en": "You see, all of a sudden\na whole lot of guests"
   },
   {
    "id": "event_ev005003:0612",
@@ -369,7 +369,7 @@
     45
    ],
    "jp": "おきゃくさんが\n入って　こまってたの",
-   "en": ""
+   "en": "checked into the hotel,\nand I've been in a bind."
   },
   {
    "id": "event_ev005003:0638",
@@ -377,7 +377,7 @@
     46
    ],
    "jp": "それでね　ちょっとパールピアリを\nてつだってほしいのよ",
-   "en": ""
+   "en": "So I'd like you to help\nout a bit at Pearl Piari."
   },
   {
    "id": "event_ev005003:0670",
@@ -385,7 +385,7 @@
     47
    ],
    "jp": "そうですか…",
-   "en": ""
+   "en": "I see..."
   },
   {
    "id": "event_ev005003:067E",
@@ -393,7 +393,7 @@
     48
    ],
    "jp": "さて{h }どうしようか？",
-   "en": ""
+   "en": "Now, what should I do?"
   },
   {
    "id": "event_ev005003:0694",
@@ -401,7 +401,7 @@
     49
    ],
    "jp": "　おてつだいする？",
-   "en": ""
+   "en": "  Help out?"
   },
   {
    "id": "event_ev005003:06A8",
@@ -409,7 +409,7 @@
     50
    ],
    "jp": "いいですよ！",
-   "en": ""
+   "en": "All right!"
   },
   {
    "id": "event_ev005003:06B6",
@@ -417,7 +417,7 @@
     51
    ],
    "jp": "すみません",
-   "en": ""
+   "en": "Sorry"
   },
   {
    "id": "event_ev005003:06C2",
@@ -425,7 +425,7 @@
     52
    ],
    "jp": "すみません　にこらさん\nこれから　ようじがあって…",
-   "en": ""
+   "en": "Sorry, Nikora.\nI have something to do now..."
   },
   {
    "id": "event_ev005003:06F6",
@@ -433,7 +433,7 @@
     53
    ],
    "jp": "そう…\nじゃ　しかたないわね",
-   "en": ""
+   "en": "I see...\nWell, it can't be helped."
   },
   {
    "id": "event_ev005003:0714",
@@ -441,7 +441,7 @@
     54
    ],
    "jp": "つぎは{h }おてつだいしますから",
-   "en": ""
+   "en": "I'll help out next time."
   },
   {
    "id": "event_ev005003:0732",
@@ -449,7 +449,7 @@
     55
    ],
    "jp": "おてつだいを\nことわってしまった…",
-   "en": ""
+   "en": "You turned down\nthe request for help..."
   },
   {
    "id": "event_ev005003:0756",
@@ -457,7 +457,7 @@
     56
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１０{i20F}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +10{i20F}\"\n\"{i20D} Unbeatable Heart -1{i210}\""
   },
   {
    "id": "event_ev005003:079C",
@@ -465,7 +465,7 @@
     57
    ],
    "jp": "わかりました　わたしでよければ",
-   "en": ""
+   "en": "All right. If I can be of help..."
   },
   {
    "id": "event_ev005003:07BC",
@@ -473,7 +473,7 @@
     58
    ],
    "jp": "そう！\nじゃ　おねがいするわね",
-   "en": ""
+   "en": "Great!\nThen I'm counting on you."
   },
   {
    "id": "event_ev005003:07DC",
@@ -481,7 +481,7 @@
     59
    ],
    "jp": "おてつだい{h }ぐらいなら\nまかせて下さい",
-   "en": ""
+   "en": "If it's just helping out,\nleave it to me."
   },
   {
    "id": "event_ev005003:0804",
@@ -489,7 +489,7 @@
     60
    ],
    "jp": "パールピアリをてつだうことに",
-   "en": ""
+   "en": "You decided to help at Pearl Piari."
   },
   {
    "id": "event_ev005003:0822",
@@ -497,7 +497,7 @@
     61
    ],
    "jp": "『パールピアリまえへいどう』",
-   "en": ""
+   "en": "\"Moved to Pearl Piari\""
   },
   {
    "id": "event_ev005003:0840",
@@ -505,7 +505,7 @@
     62
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   }
  ]
 }

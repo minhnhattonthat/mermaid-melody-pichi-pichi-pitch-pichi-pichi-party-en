@@ -10,7 +10,7 @@
     47
    ],
    "jp": "はっ　はっ\nいそいで{h }つぎのばしょにいかなきゃ",
-   "en": ""
+   "en": "Huff, huff...\nI have to hurry to the next place!"
   },
   {
    "id": "event_ev005154:0030",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "わわ！　な　なに？\nマンホールのフタがあいてる！",
-   "en": ""
+   "en": "Whoa! Wh-what?\nThe manhole cover is open!"
   },
   {
    "id": "event_ev005154:0062",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005154:00AC",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "　ジャンプ！",
-   "en": ""
+   "en": " Jump!"
   },
   {
    "id": "event_ev005154:00BA",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "えいっ！",
-   "en": ""
+   "en": "Hup!"
   },
   {
    "id": "event_ev005154:00C4",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "‥‥ふう　あぶなかった\nこうじ中だったんだ‥‥",
-   "en": ""
+   "en": "...Phew, that was close.\nThey're doing construction..."
   },
   {
    "id": "event_ev005154:00F4",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "こうじ中のマンホールに\nおちそうになっちゃった",
-   "en": ""
+   "en": "I almost fell into a manhole\nunder construction."
   },
   {
    "id": "event_ev005154:0124",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005154:0148",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "きゃああ〜☆",
-   "en": ""
+   "en": "Eeeek! ☆"
   },
   {
    "id": "event_ev005154:0156",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "（ドンガラ{h }ガッシャン！）",
-   "en": ""
+   "en": "(CRASH BANG CLATTER!)"
   },
   {
    "id": "event_ev005154:0172",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "いた〜いっ！　わわ　たいへん\nこうじ中のカンバンたおしちゃった！",
-   "en": ""
+   "en": "Owww! Oh no, I knocked over\nthe construction sign!"
   },
   {
    "id": "event_ev005154:01B4",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "す{h }すぐもとにもどしま〜す",
-   "en": ""
+   "en": "I-I'll put it right back!"
   },
   {
    "id": "event_ev005154:01D0",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "こうじ中のマンホールに\nおちそうになって‥‥",
-   "en": ""
+   "en": "I almost fell into a manhole\nunder construction..."
   },
   {
    "id": "event_ev005154:01FE",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "カンバンにぶつかっちゃった‥‥\nかっこわる〜い",
-   "en": ""
+   "en": "...and crashed into the sign.\nHow uncool..."
   },
   {
    "id": "event_ev005154:022E",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005154:0272",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "はっ　はっ\nいそいで{h }つぎのばしょにいかなきゃ",
-   "en": ""
+   "en": "Huff, huff...\nI have to hurry to the next place!"
   },
   {
    "id": "event_ev005154:02A2",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "きゃ！　な　なに？\nマンホールのフタがあいてる！",
-   "en": ""
+   "en": "Eek! Wh-what?\nThe manhole cover is open!"
   },
   {
    "id": "event_ev005154:02D4",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005154:031E",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "　ジャンプ！",
-   "en": ""
+   "en": " Jump!"
   },
   {
    "id": "event_ev005154:032C",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "やあっ！",
-   "en": ""
+   "en": "Hyah!"
   },
   {
    "id": "event_ev005154:0336",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "‥‥ふう　あぶなかった\nこうじ中だったのね‥‥",
-   "en": ""
+   "en": "...Phew, that was close.\nSo they're doing construction..."
   },
   {
    "id": "event_ev005154:0366",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "こうじ中のマンホールに\nおちそうになっちゃった",
-   "en": ""
+   "en": "I almost fell into a manhole\nunder construction."
   },
   {
    "id": "event_ev005154:0396",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005154:03BA",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "きゃああ〜☆",
-   "en": ""
+   "en": "Eeeek! ☆"
   },
   {
    "id": "event_ev005154:03C8",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "（ドンガラ{h }ガッシャン！）",
-   "en": ""
+   "en": "(CRASH BANG CLATTER!)"
   },
   {
    "id": "event_ev005154:03E4",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "いた〜いっ！　わわ　たいへん\nこうじ中のカンバンたおしちゃった！",
-   "en": ""
+   "en": "Owww! Oh no, I knocked over\nthe construction sign!"
   },
   {
    "id": "event_ev005154:0426",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "すみませ〜ん{h }\nすぐもとにもどしま〜す",
-   "en": ""
+   "en": "I'm so sorryyy!\nI'll put it right back!"
   },
   {
    "id": "event_ev005154:044E",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "こうじ中のマンホールに\nおちそうになって‥‥",
-   "en": ""
+   "en": "I almost fell into a manhole\nunder construction..."
   },
   {
    "id": "event_ev005154:047C",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "カンバンにぶつかっちゃった‥‥\nかっこわる〜い",
-   "en": ""
+   "en": "...and crashed into the sign.\nHow uncool..."
   },
   {
    "id": "event_ev005154:04AC",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005154:04F0",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "ふっ　ふっ\nつぎのばしょにいそがなきゃな",
-   "en": ""
+   "en": "Huff, huff...\nI need to hurry to the next place."
   },
   {
    "id": "event_ev005154:051A",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "おっと！　な　なに！？\nマンホールのフタがあいている！",
-   "en": ""
+   "en": "Whoa! Wh-what?!\nThe manhole cover is open!"
   },
   {
    "id": "event_ev005154:0552",
@@ -266,7 +266,7 @@
     32
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005154:059C",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "　ジャンプ！",
-   "en": ""
+   "en": " Jump!"
   },
   {
    "id": "event_ev005154:05AA",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "たあっ！\n（スタッ）",
-   "en": ""
+   "en": "Hyah!\n(Tap)"
   },
   {
    "id": "event_ev005154:05C0",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "ふう　あぶなかった\nこうじ中だったのか‥‥",
-   "en": ""
+   "en": "Phew, that was close.\nSo it's under construction..."
   },
   {
    "id": "event_ev005154:05EC",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "こうじ中のマンホールに\nおちそうになっちゃった",
-   "en": ""
+   "en": "I almost fell into a manhole\nunder construction."
   },
   {
    "id": "event_ev005154:061C",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005154:0640",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "わわ　わわわ！",
-   "en": ""
+   "en": "Whoa, whoa, whoa!"
   },
   {
    "id": "event_ev005154:0650",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "（ドンガラ{h }ガッシャン！）",
-   "en": ""
+   "en": "(CRASH BANG CLATTER!)"
   },
   {
    "id": "event_ev005154:066C",
@@ -330,7 +330,7 @@
     40
    ],
    "jp": "いたたた‥‥　しまった！",
-   "en": ""
+   "en": "Ow ow ow... Oh no!"
   },
   {
    "id": "event_ev005154:0686",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "こうじ中のカンバンを\nたおしてしまった！",
-   "en": ""
+   "en": "I knocked over\nthe construction sign!"
   },
   {
    "id": "event_ev005154:06B0",
@@ -346,7 +346,7 @@
     42
    ],
    "jp": "すみません　すぐになおします！",
-   "en": ""
+   "en": "Sorry, I'll fix it right away!"
   },
   {
    "id": "event_ev005154:06D0",
@@ -354,7 +354,7 @@
     43
    ],
    "jp": "こうじ中のマンホールに\nおちそうになって‥‥",
-   "en": ""
+   "en": "I almost fell into a manhole\nunder construction..."
   },
   {
    "id": "event_ev005154:06FE",
@@ -362,7 +362,7 @@
     44
    ],
    "jp": "カンバンにぶつかっちゃった‥‥\nかっこわる〜い",
-   "en": ""
+   "en": "...and crashed into the sign.\nHow uncool..."
   },
   {
    "id": "event_ev005154:072E",
@@ -370,7 +370,7 @@
     45
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   }
  ]
 }

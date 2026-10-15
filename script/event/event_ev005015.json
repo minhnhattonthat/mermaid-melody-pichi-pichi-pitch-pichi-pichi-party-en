@@ -8,7 +8,7 @@
     0
    ],
    "jp": "わあ　こんなところで\nフリーマーケットやってる！",
-   "en": ""
+   "en": "Wow, there's a flea market\ngoing on here!"
   },
   {
    "id": "event_ev005015:0032",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "いろいろある〜\nなにか{h }かっていっちゃおーっと",
-   "en": ""
+   "en": "There's all kinds of stuff!\nI think I'll buy something!"
   },
   {
    "id": "event_ev005015:0062",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "フリーマーケットでおかいもの\n『ようふくアイテムを手に入れたよ』",
-   "en": ""
+   "en": "Shopping at the flea market!\n\"You got a clothing item!\""
   },
   {
    "id": "event_ev005015:00A4",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +14{i20F}\""
   },
   {
    "id": "event_ev005015:00C8",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "わあ　こんなところで\nフリーマーケットやってる",
-   "en": ""
+   "en": "Wow, there's a flea market\ngoing on here!"
   },
   {
    "id": "event_ev005015:00F8",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "いろいろある\nなにか{h }かっていっちゃおっ",
-   "en": ""
+   "en": "There's all kinds of stuff!\nI think I'll buy something!"
   },
   {
    "id": "event_ev005015:0122",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "フリーマーケットでおかいもの\n『ようふくアイテムを手に入れたよ』",
-   "en": ""
+   "en": "Shopping at the flea market!\n\"You got a clothing item!\""
   },
   {
    "id": "event_ev005015:0164",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +14{i20F}\""
   },
   {
    "id": "event_ev005015:0188",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "おや‥‥{h }と\nフリーマーケットか",
-   "en": ""
+   "en": "Oh... What's this?\nA flea market?"
   },
   {
    "id": "event_ev005015:01AA",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "いろいろあるな\nなにか{h }かっていこうか",
-   "en": ""
+   "en": "There's all kinds of things.\nMaybe I'll buy something."
   },
   {
    "id": "event_ev005015:01D2",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "フリーマーケットでおかいもの\n『ようふくアイテムを手に入れたよ』",
-   "en": ""
+   "en": "Shopping at the flea market!\n\"You got a clothing item!\""
   },
   {
    "id": "event_ev005015:0214",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +14{i20F}\""
   }
  ]
 }

@@ -8,7 +8,7 @@
     0
    ],
    "jp": "（るちあ‥‥　いまのあなたの\nうたう力を{h }しめしなさい‥‥）",
-   "en": ""
+   "en": "(Lucia... Show me your\nsinging power as it is now...)"
   },
   {
    "id": "event_ev005059:003E",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "あ！　アクア・レジーナさま‥‥",
-   "en": ""
+   "en": "Ah! Lady Aqua Regina..."
   },
   {
    "id": "event_ev005059:005E",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }ごうけい[4001][4006]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the\nroulette to get [4001][4006] or more in total!"
   },
   {
    "id": "event_ev005059:00A8",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "　うたのしれん",
-   "en": ""
+   "en": " Trial of Song"
   },
   {
    "id": "event_ev005059:00B8",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "（マーメイドプリンセスとして\nがんばっているようですね）",
-   "en": ""
+   "en": "(You seem to be working hard\nas a Mermaid Princess.)"
   },
   {
    "id": "event_ev005059:00F2",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "（これからも{h }さまざまなこんなんに\nうちかち{h }しめいをはたすのです）",
-   "en": ""
+   "en": "(Keep overcoming every hardship\nand fulfill your mission.)"
   },
   {
    "id": "event_ev005059:0138",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "はい！　がんばります！",
-   "en": ""
+   "en": "Yes! I'll do my best!"
   },
   {
    "id": "event_ev005059:0150",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "‥‥？　わたしこんなところで‥‥\nいまの{h }ユメだったのかなあ‥‥",
-   "en": ""
+   "en": "...? What am I doing here...\nWas that just a dream...?"
   },
   {
    "id": "event_ev005059:0192",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "アクア・レジーナさまのしれんに\nみごとたえた！",
-   "en": ""
+   "en": "You passed Lady Aqua Regina's\ntrial with flying colors!"
   },
   {
    "id": "event_ev005059:01C2",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "『{i211}ヒロインポイント　＋３００{i20F}』\n『{i20C}{h }うたう{h }ちから　＋９{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +300{i20F}\"\n\"{i20C} Singing Power +9{i20F}\""
   },
   {
    "id": "event_ev005059:0206",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋９{i20F}』\n『{i20E}{h }けいかいなステップ　＋９{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +9{i20F}\"\n\"{i20E} Nimble Steps +9{i20F}\""
   },
   {
    "id": "event_ev005059:024C",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "（まだまだのようですね\nよりいっそう{h }どりょくするのです）",
-   "en": ""
+   "en": "(You still have a long way to go.\nWork even harder.)"
   },
   {
    "id": "event_ev005059:0288",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "はい！　がんばります！\nアクア・レジーナさま！",
-   "en": ""
+   "en": "Yes! I'll do my best,\nLady Aqua Regina!"
   },
   {
    "id": "event_ev005059:02B8",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "‥‥？　わたしこんなところで‥‥\nいまの{h }ユメだったのかなあ‥‥",
-   "en": ""
+   "en": "...? What am I doing here...\nWas that just a dream...?"
   },
   {
    "id": "event_ev005059:02FA",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "アクア・レジーナさまに\nはげましてもらった",
-   "en": ""
+   "en": "Lady Aqua Regina\nencouraged you."
   },
   {
    "id": "event_ev005059:0326",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005059:036C",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "（波音‥‥　いまのあなたの\nうたう力を{h }しめしなさい‥‥）",
-   "en": ""
+   "en": "(Hanon... Show me your\nsinging power as it is now...)"
   },
   {
    "id": "event_ev005059:03A8",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "あ！　アクア・レジーナさま‥‥",
-   "en": ""
+   "en": "Ah! Lady Aqua Regina..."
   },
   {
    "id": "event_ev005059:03C8",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }ごうけい[4001][4006]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the\nroulette to get [4001][4006] or more in total!"
   },
   {
    "id": "event_ev005059:0412",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "　うたのしれん",
-   "en": ""
+   "en": " Trial of Song"
   },
   {
    "id": "event_ev005059:0422",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "（マーメイドプリンセスとして\nがんばっているようですね）",
-   "en": ""
+   "en": "(You seem to be working hard\nas a Mermaid Princess.)"
   },
   {
    "id": "event_ev005059:045C",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "（これからも{h }さまざまなこんなんに\nうちかち{h }しめいをはたすのです）",
-   "en": ""
+   "en": "(Keep overcoming every hardship\nand fulfill your mission.)"
   },
   {
    "id": "event_ev005059:04A2",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "はい！　わたし{h }がんばります！",
-   "en": ""
+   "en": "Yes! I'll do my best!"
   },
   {
    "id": "event_ev005059:04C2",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "‥‥？　わたしこんなところで‥‥\nいまの{h }ユメだったのかなあ‥‥",
-   "en": ""
+   "en": "...? What am I doing here...\nWas that just a dream...?"
   },
   {
    "id": "event_ev005059:0504",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "アクア・レジーナさまのしれんに\nみごとたえた！",
-   "en": ""
+   "en": "You passed Lady Aqua Regina's\ntrial with flying colors!"
   },
   {
    "id": "event_ev005059:0534",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "『{i211}ヒロインポイント　＋３００{i20F}』\n『{i20C}{h }うたう{h }ちから　＋９{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +300{i20F}\"\n\"{i20C} Singing Power +9{i20F}\""
   },
   {
    "id": "event_ev005059:0578",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋９{i20F}』\n『{i20E}{h }けいかいなステップ　＋９{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +9{i20F}\"\n\"{i20E} Nimble Steps +9{i20F}\""
   },
   {
    "id": "event_ev005059:05BE",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "（まだまだのようですね\nよりいっそう{h }どりょくするのです）",
-   "en": ""
+   "en": "(You still have a long way to go.\nWork even harder.)"
   },
   {
    "id": "event_ev005059:05FA",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "はい！　がんばります！\nアクア・レジーナさま‥‥",
-   "en": ""
+   "en": "Yes! I'll do my best,\nLady Aqua Regina..."
   },
   {
    "id": "event_ev005059:062C",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "‥‥？　わたしこんなところで‥‥\nいまの{h }ユメだったのかなあ‥‥",
-   "en": ""
+   "en": "...? What am I doing here...\nWas that just a dream...?"
   },
   {
    "id": "event_ev005059:066E",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "アクア・レジーナさまに\nはげましてもらった",
-   "en": ""
+   "en": "Lady Aqua Regina\nencouraged you."
   },
   {
    "id": "event_ev005059:069A",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005059:06E0",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "（リナ‥‥　いまのあなたの\nうたう力を{h }しめしなさい‥‥）",
-   "en": ""
+   "en": "(Rina... Show me your\nsinging power as it is now...)"
   },
   {
    "id": "event_ev005059:071C",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "あ！　アクア・レジーナさま‥‥",
-   "en": ""
+   "en": "Ah! Lady Aqua Regina..."
   },
   {
    "id": "event_ev005059:073C",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }ごうけい[4001][4006]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the\nroulette to get [4001][4006] or more in total!"
   },
   {
    "id": "event_ev005059:0786",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "　うたのしれん",
-   "en": ""
+   "en": " Trial of Song"
   },
   {
    "id": "event_ev005059:0796",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "（マーメイドプリンセスとして\nがんばっているようですね）",
-   "en": ""
+   "en": "(You seem to be working hard\nas a Mermaid Princess.)"
   },
   {
    "id": "event_ev005059:07D0",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "（これからも{h }さまざまなこんなんに\nうちかち{h }しめいをはたすのです）",
-   "en": ""
+   "en": "(Keep overcoming every hardship\nand fulfill your mission.)"
   },
   {
    "id": "event_ev005059:0816",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "はい！　がんばります！",
-   "en": ""
+   "en": "Yes! I'll do my best!"
   },
   {
    "id": "event_ev005059:082E",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "‥‥？　わたしはこんなところで‥‥\nいまのは{h }ユメだったのだろうか‥‥",
-   "en": ""
+   "en": "...? What am I doing here...\nWas that just a dream...?"
   },
   {
    "id": "event_ev005059:0876",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "アクア・レジーナさまのしれんに\nみごとたえた！",
-   "en": ""
+   "en": "You passed Lady Aqua Regina's\ntrial with flying colors!"
   },
   {
    "id": "event_ev005059:08A6",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "『{i211}ヒロインポイント　＋３００{i20F}』\n『{i20C}{h }うたう{h }ちから　＋９{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +300{i20F}\"\n\"{i20C} Singing Power +9{i20F}\""
   },
   {
    "id": "event_ev005059:08EA",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋９{i20F}』\n『{i20E}{h }けいかいなステップ　＋９{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +9{i20F}\"\n\"{i20E} Nimble Steps +9{i20F}\""
   },
   {
    "id": "event_ev005059:0930",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "（まだまだのようですね\nよりいっそう{h }どりょくするのです）",
-   "en": ""
+   "en": "(You still have a long way to go.\nWork even harder.)"
   },
   {
    "id": "event_ev005059:096C",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "はい‥‥　がんばります！\nアクア・レジーナさま",
-   "en": ""
+   "en": "Yes... I'll do my best!\nLady Aqua Regina."
   },
   {
    "id": "event_ev005059:099C",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "‥‥？　わたしはこんなところで‥‥\nいまのは{h }ユメだったのだろうか‥‥",
-   "en": ""
+   "en": "...? What am I doing here...\nWas that just a dream...?"
   },
   {
    "id": "event_ev005059:09E4",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "アクア・レジーナさまに\nはげましてもらった",
-   "en": ""
+   "en": "Lady Aqua Regina\nencouraged you."
   },
   {
    "id": "event_ev005059:0A10",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   }
  ]
 }

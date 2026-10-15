@@ -9,7 +9,7 @@
     35
    ],
    "jp": "よおし{h }きょうこそは\nこのおみせの目玉！",
-   "en": ""
+   "en": "All right, today's the day!\nThis shop's specialty!"
   },
   {
    "id": "event_ev005157:002A",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "とくせいきょだいパフェを\nたべきるわよ〜",
-   "en": ""
+   "en": "I'm going to finish\nthe giant special parfait!"
   },
   {
    "id": "event_ev005157:0054",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005157:009C",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "　たべきれる？",
-   "en": ""
+   "en": " Can you finish it?"
   },
   {
    "id": "event_ev005157:00AC",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "‥‥ふう　たべきった〜\nもう‥‥　おなかいっぱい‥‥",
-   "en": ""
+   "en": "...Phew, I finished it!\nI'm sooo full..."
   },
   {
    "id": "event_ev005157:00E2",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "きょだいパフェにちょうせん！\nなんとか{h }たべきったけど‥‥",
-   "en": ""
+   "en": "I took on the giant parfait\nand somehow finished it, but..."
   },
   {
    "id": "event_ev005157:011E",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "ダイエットがたいへん",
-   "en": ""
+   "en": "Dieting is going to be hard."
   },
   {
    "id": "event_ev005157:0134",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２４{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -24{i210}\""
   },
   {
    "id": "event_ev005157:0158",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "もう‥‥　だめ‥‥\nたべきれない‥‥",
-   "en": ""
+   "en": "I can't... anymore...\nI can't finish it..."
   },
   {
    "id": "event_ev005157:017E",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "きょだいパフェにちょうせん！\nそして{h }しっぱい！",
-   "en": ""
+   "en": "I took on the giant parfait!\nAnd failed!"
   },
   {
    "id": "event_ev005157:01B0",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   },
   {
    "id": "event_ev005157:01F8",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "よおし{h }きょうこそは\nこのおみせの目玉！",
-   "en": ""
+   "en": "All right, today's the day!\nThis shop's specialty!"
   },
   {
    "id": "event_ev005157:0222",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "とくせいきょだいパフェを\nたべきるわよ〜",
-   "en": ""
+   "en": "I'm going to finish\nthe giant special parfait!"
   },
   {
    "id": "event_ev005157:024C",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005157:0294",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "　たべきれる？",
-   "en": ""
+   "en": " Can you finish it?"
   },
   {
    "id": "event_ev005157:02A4",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "‥‥ふう　‥‥おいしかった〜",
-   "en": ""
+   "en": "...Phew... That was yummy!"
   },
   {
    "id": "event_ev005157:02C2",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "もう‥‥　おなかいっぱい‥‥",
-   "en": ""
+   "en": "I'm sooo full..."
   },
   {
    "id": "event_ev005157:02E0",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "きょだいパフェにちょうせん！\nなんとか{h }たべきったけど‥‥",
-   "en": ""
+   "en": "I took on the giant parfait\nand somehow finished it, but..."
   },
   {
    "id": "event_ev005157:031C",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "ダイエットがたいへん",
-   "en": ""
+   "en": "Dieting is going to be hard."
   },
   {
    "id": "event_ev005157:0332",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２４{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -24{i210}\""
   },
   {
    "id": "event_ev005157:0356",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "もう‥‥　だめ‥‥\nたべきれない〜",
-   "en": ""
+   "en": "I can't... anymore...\nI can't finish iiit..."
   },
   {
    "id": "event_ev005157:037A",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "きょだいパフェにちょうせん！\nそして{h }しっぱい！",
-   "en": ""
+   "en": "I took on the giant parfait!\nAnd failed!"
   },
   {
    "id": "event_ev005157:03AC",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   },
   {
    "id": "event_ev005157:03F4",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "‥‥ふふっ",
-   "en": ""
+   "en": "...Heh heh."
   },
   {
    "id": "event_ev005157:0400",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "このみせのとくせいきょだいパフェが\nわたしをよんでいる！",
-   "en": ""
+   "en": "This shop's giant special parfait\nis calling me!"
   },
   {
    "id": "event_ev005157:043A",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "きょうこそは{h }こうりゃくするぞ！",
-   "en": ""
+   "en": "Today I'll conquer it!"
   },
   {
    "id": "event_ev005157:045C",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "{i20C}{h }うたう{h }ちからと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": ""
+   "en": "Add {i20C} Singing Power and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005157:04A4",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "　たべきれる？",
-   "en": ""
+   "en": " Can you finish it?"
   },
   {
    "id": "event_ev005157:04B4",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "‥‥ふう　たべきった‥‥ぞ\nもう‥‥　たべられない‥‥",
-   "en": ""
+   "en": "...Phew, I finished... it.\nI can't eat... another bite..."
   },
   {
    "id": "event_ev005157:04EC",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "きょだいパフェにちょうせん！\nなんとか{h }たべきったけど‥‥",
-   "en": ""
+   "en": "I took on the giant parfait\nand somehow finished it, but..."
   },
   {
    "id": "event_ev005157:0528",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "ダイエットがたいへん",
-   "en": ""
+   "en": "Dieting is going to be hard."
   },
   {
    "id": "event_ev005157:053E",
@@ -257,7 +257,7 @@
     31
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２４{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -24{i210}\""
   },
   {
    "id": "event_ev005157:0562",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "くっ！　ここまでか‥‥\nまた{h }さいちょうせんだな‥‥",
-   "en": ""
+   "en": "Ngh! This is my limit...\nI'll challenge it again..."
   },
   {
    "id": "event_ev005157:0598",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "きょだいパフェにちょうせん！\nそして{h }みごとしっぱい！",
-   "en": ""
+   "en": "I took on the giant parfait!\nAnd failed spectacularly!"
   },
   {
    "id": "event_ev005157:05D0",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   }
  ]
 }

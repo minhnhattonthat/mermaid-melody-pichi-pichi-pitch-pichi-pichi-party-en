@@ -11,7 +11,7 @@
     35
    ],
    "jp": "あれ？　あそこ\n子どもがケンカしてるみたい…",
-   "en": ""
+   "en": "Huh? Over there...\nLooks like some kids are fighting..."
   },
   {
    "id": "event_ev005005:002E",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "おまえがわるいんだろ！",
-   "en": ""
+   "en": "It's your fault!"
   },
   {
    "id": "event_ev005005:0046",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "なんだよ！　そっちだろ！",
-   "en": ""
+   "en": "What?! No, it's yours!"
   },
   {
    "id": "event_ev005005:0060",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "ちょっと　ちょっと\nケンカしたらダメじゃない",
-   "en": ""
+   "en": "Hey, hey, hey!\nYou shouldn't be fighting!"
   },
   {
    "id": "event_ev005005:008E",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "（おおがらな男の子）\nボクわるくないよ",
-   "en": ""
+   "en": "(A big boy)\nIt's not my fault!"
   },
   {
    "id": "event_ev005005:00B6",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "こいつが　いきなり\nなぐりかかってきたんだよ",
-   "en": ""
+   "en": "This guy suddenly\ncame at me swinging!"
   },
   {
    "id": "event_ev005005:00E4",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "（こがらな男の子）\nなにいってんだ　おまえが",
-   "en": ""
+   "en": "(A small boy)\nWhat are you talking about?! You"
   },
   {
    "id": "event_ev005005:0112",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "オレのいもうとを\nいじめるからだろ！",
-   "en": ""
+   "en": "were picking on my\nlittle sister, that's why!"
   },
   {
    "id": "event_ev005005:0138",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "あ　また\nもう　やめなさーい！",
-   "en": ""
+   "en": "Ah, again!\nCome on, stop it!"
   },
   {
    "id": "event_ev005005:0158",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "じじょうを　くわしくきいて\nなかなおり　してもらった！",
-   "en": ""
+   "en": "You heard them out and\nhelped them make up!"
   },
   {
    "id": "event_ev005005:0190",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005005:01D4",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "？　なにかしら\n子どもがケンカしてるみたい…",
-   "en": ""
+   "en": "? What's going on?\nLooks like some kids are fighting..."
   },
   {
    "id": "event_ev005005:0202",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "おまえがわるいんだろ！",
-   "en": ""
+   "en": "It's your fault!"
   },
   {
    "id": "event_ev005005:021A",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "なんだよ！　そっちだろ！",
-   "en": ""
+   "en": "What?! No, it's yours!"
   },
   {
    "id": "event_ev005005:0234",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "ちょっと　ちょっと\nどうしたの　ケンカしたらダメでしょ",
-   "en": ""
+   "en": "Hey, hey, what's the matter?\nYou shouldn't be fighting!"
   },
   {
    "id": "event_ev005005:026C",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "（おおがらな男の子）\nボクわるくないよ",
-   "en": ""
+   "en": "(A big boy)\nIt's not my fault!"
   },
   {
    "id": "event_ev005005:0294",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "こいつが　いきなり\nなぐりかかってきたんだよ",
-   "en": ""
+   "en": "This guy suddenly\ncame at me swinging!"
   },
   {
    "id": "event_ev005005:02C2",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "（こがらな男の子）\nなにいってんだ　おまえが",
-   "en": ""
+   "en": "(A small boy)\nWhat are you talking about?! You"
   },
   {
    "id": "event_ev005005:02F0",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "オレのいもうとを\nいじめるからだろ！",
-   "en": ""
+   "en": "were picking on my\nlittle sister, that's why!"
   },
   {
    "id": "event_ev005005:0316",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "もうっ　また！　ケンカをやめて\nじじょうをはなしてみなさい！",
-   "en": ""
+   "en": "Geez, again! Stop fighting\nand tell me what happened!"
   },
   {
    "id": "event_ev005005:0354",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "じじょうを　くわしくきいて\nなかなおり　してもらった！",
-   "en": ""
+   "en": "You heard them out and\nhelped them make up!"
   },
   {
    "id": "event_ev005005:038C",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005005:03D0",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "ん？　なんだ\n子どもがケンカしてるようだが…",
-   "en": ""
+   "en": "Hm? What's this?\nLooks like some kids are fighting..."
   },
   {
    "id": "event_ev005005:03FE",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "おまえがわるいんだろ！",
-   "en": ""
+   "en": "It's your fault!"
   },
   {
    "id": "event_ev005005:0416",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "なんだよ！　そっちだろ！",
-   "en": ""
+   "en": "What?! No, it's yours!"
   },
   {
    "id": "event_ev005005:0430",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "こら　ケンカしたらだめだろう\nどうした？",
-   "en": ""
+   "en": "Hey, no fighting.\nWhat's going on?"
   },
   {
    "id": "event_ev005005:045A",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "（おおがらな男の子）\nボクわるくないよ",
-   "en": ""
+   "en": "(A big boy)\nIt's not my fault!"
   },
   {
    "id": "event_ev005005:0482",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "こいつが　いきなり\nなぐりかかってきたんだよ",
-   "en": ""
+   "en": "This guy suddenly\ncame at me swinging!"
   },
   {
    "id": "event_ev005005:04B0",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "（こがらな男の子）\nなにいってんだ　おまえが",
-   "en": ""
+   "en": "(A small boy)\nWhat are you talking about?! You"
   },
   {
    "id": "event_ev005005:04DE",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "オレのいもうとを\nいじめるからだろ！",
-   "en": ""
+   "en": "were picking on my\nlittle sister, that's why!"
   },
   {
    "id": "event_ev005005:0504",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "まったく　…くわしくはなしてみろ",
-   "en": ""
+   "en": "Honestly... Tell me the whole story."
   },
   {
    "id": "event_ev005005:0526",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "じじょうを　くわしくきいて\nなかなおり　してもらった！",
-   "en": ""
+   "en": "You heard them out and\nhelped them make up!"
   },
   {
    "id": "event_ev005005:055E",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   }
  ]
 }

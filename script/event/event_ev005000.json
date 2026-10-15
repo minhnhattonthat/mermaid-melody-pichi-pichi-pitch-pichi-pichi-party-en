@@ -10,7 +10,7 @@
     19
    ],
    "jp": "あれ？　あの子　まいごかなあ…",
-   "en": ""
+   "en": "Huh? Is that kid lost...?"
   },
   {
    "id": "event_ev005000:0020",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "どうしたの？　おかあさんは？",
-   "en": ""
+   "en": "What's wrong? Where's your mom?"
   },
   {
    "id": "event_ev005000:003E",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "うん　そっか　はぐれちゃったんだ…",
-   "en": ""
+   "en": "Uh-huh, I see. You got separated..."
   },
   {
    "id": "event_ev005000:0062",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "よし！　おねえちゃんが\nいっしょにさがしてあげる！",
-   "en": ""
+   "en": "Okay! Big sis will\nhelp you look for her!"
   },
   {
    "id": "event_ev005000:0096",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "おかあさんを\nいっしょにさがしてあげた",
-   "en": ""
+   "en": "You helped look\nfor the kid's mom!"
   },
   {
    "id": "event_ev005000:00BE",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005000:0102",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "あれ？　どうしたんだろ\nないてる子がいる",
-   "en": ""
+   "en": "Huh? What's going on?\nThere's a kid crying."
   },
   {
    "id": "event_ev005000:012C",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "ぼく　どうしたの？\nまいごになっちゃった？",
-   "en": ""
+   "en": "What's wrong, little guy?\nDid you get lost?"
   },
   {
    "id": "event_ev005000:0158",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "うん　そっか　おかあさんと\nはぐれちゃったんだ…",
-   "en": ""
+   "en": "Uh-huh, I see. You got\nseparated from your mom..."
   },
   {
    "id": "event_ev005000:018A",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "おねえさんにまかせて！\nいっしょにさがしてあげる！",
-   "en": ""
+   "en": "Leave it to me!\nI'll help you look for her!"
   },
   {
    "id": "event_ev005000:01BE",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "おかあさんを\nいっしょにさがしてあげた",
-   "en": ""
+   "en": "You helped look\nfor the kid's mom!"
   },
   {
    "id": "event_ev005000:01E6",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005000:022A",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "ん？　あの子ども\nないているようだが…",
-   "en": ""
+   "en": "Hm? That child\nseems to be crying..."
   },
   {
    "id": "event_ev005000:0252",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "おい　１人か？{h }\nおかあさんは{h }どうした？",
-   "en": ""
+   "en": "Hey, are you alone?\nWhere's your mother?"
   },
   {
    "id": "event_ev005000:027E",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "そうか…　はぐれてしまったのか",
-   "en": ""
+   "en": "I see... You got separated."
   },
   {
    "id": "event_ev005000:029E",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "それなら　いっしょに\nおかあさんを{h }さがしてやろう",
-   "en": ""
+   "en": "In that case, I'll help you\nlook for your mother."
   },
   {
    "id": "event_ev005000:02D2",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "おかあさんを\nいっしょにさがしてあげた",
-   "en": ""
+   "en": "You helped look\nfor the kid's mom!"
   },
   {
    "id": "event_ev005000:02FA",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   }
  ]
 }

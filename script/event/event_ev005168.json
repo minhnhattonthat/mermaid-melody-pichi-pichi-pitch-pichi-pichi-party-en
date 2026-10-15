@@ -10,7 +10,7 @@
     31
    ],
    "jp": "ふむふむ‥‥\nこのカードのこうかは‥‥",
-   "en": ""
+   "en": "Hmm, hmm...\nThis card's effect is..."
   },
   {
    "id": "event_ev005168:0028",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "あ　タキさん",
-   "en": ""
+   "en": "Oh, Taki."
   },
   {
    "id": "event_ev005168:0036",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "また{h }あたらしくかった\nタロットカード{h }見てるの？",
-   "en": ""
+   "en": "Are you looking at the new\ntarot cards you bought?"
   },
   {
    "id": "event_ev005168:006A",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "うむ{h }このカードにはふしぎな\n力がこめられておる",
-   "en": ""
+   "en": "Yes, these cards hold\na mysterious power."
   },
   {
    "id": "event_ev005168:009C",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "さあ　るちあ\n１まい{h }ひいてみないか‥‥",
-   "en": ""
+   "en": "Now, Lucia,\nwhy don't you draw one..."
   },
   {
    "id": "event_ev005168:00C6",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "ひいたカードは‥‥\n『タワー』",
-   "en": ""
+   "en": "The card drawn is...\n\"The Tower\"!"
   },
   {
    "id": "event_ev005168:00EC",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "ふしぎなこうかで{h }わざわいが\nふりかかる",
-   "en": ""
+   "en": "A mysterious power\nbrings disaster."
   },
   {
    "id": "event_ev005168:0116",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "『しばらくのあいだ　青いマスが\nむらさきマスとおなじになる』",
-   "en": ""
+   "en": "\"For a while, Blue Spaces\nact like Purple Spaces.\""
   },
   {
    "id": "event_ev005168:0154",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\""
   },
   {
    "id": "event_ev005168:0178",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "ふむふむ‥‥\nこのカードのこうかは‥‥",
-   "en": ""
+   "en": "Hmm, hmm...\nThis card's effect is..."
   },
   {
    "id": "event_ev005168:01A0",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "あ　タキさん",
-   "en": ""
+   "en": "Oh, Taki."
   },
   {
    "id": "event_ev005168:01AE",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "また{h }あたらしくかった\nタロットカード{h }見てるの？",
-   "en": ""
+   "en": "Are you looking at the new\ntarot cards you bought?"
   },
   {
    "id": "event_ev005168:01E2",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "うむ{h }このカードにはふしぎな\n力がこめられておる",
-   "en": ""
+   "en": "Yes, these cards hold\na mysterious power."
   },
   {
    "id": "event_ev005168:0214",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "さあ　波音ちゃん\n１まい{h }ひいてみないか‥‥",
-   "en": ""
+   "en": "Now, Hanon,\nwhy don't you draw one..."
   },
   {
    "id": "event_ev005168:0242",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "ひいたカードは‥‥\n『タワー』",
-   "en": ""
+   "en": "The card drawn is...\n\"The Tower\"!"
   },
   {
    "id": "event_ev005168:0268",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "ふしぎなこうかで{h }わざわいが\nふりかかる",
-   "en": ""
+   "en": "A mysterious power\nbrings disaster."
   },
   {
    "id": "event_ev005168:0292",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "『しばらくのあいだ　青いマスが\nむらさきマスとおなじになる』",
-   "en": ""
+   "en": "\"For a while, Blue Spaces\nact like Purple Spaces.\""
   },
   {
    "id": "event_ev005168:02D0",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\""
   },
   {
    "id": "event_ev005168:02F4",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "ふむふむ‥‥\nこのカードのこうかは‥‥",
-   "en": ""
+   "en": "Hmm, hmm...\nThis card's effect is..."
   },
   {
    "id": "event_ev005168:031C",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "あ　タキさん",
-   "en": ""
+   "en": "Oh, Taki."
   },
   {
    "id": "event_ev005168:032A",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "また{h }あたらしくかった\nタロットカード{h }見てるんですか？",
-   "en": ""
+   "en": "Are you looking at the new\ntarot cards you bought?"
   },
   {
    "id": "event_ev005168:0364",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "うむ{h }このカードにはふしぎな\n力がこめられておる",
-   "en": ""
+   "en": "Yes, these cards hold\na mysterious power."
   },
   {
    "id": "event_ev005168:0396",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "さあ　リナちゃん\n１まい{h }ひいてみないか‥‥",
-   "en": ""
+   "en": "Now, Rina,\nwhy don't you draw one..."
   },
   {
    "id": "event_ev005168:03C4",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "ひいたカードは‥‥\n『タワー』",
-   "en": ""
+   "en": "The card drawn is...\n\"The Tower\"!"
   },
   {
    "id": "event_ev005168:03EA",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "ふしぎなこうかで{h }わざわいが\nふりかかる",
-   "en": ""
+   "en": "A mysterious power\nbrings disaster."
   },
   {
    "id": "event_ev005168:0414",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "『しばらくのあいだ　青いマスが\nむらさきマスとおなじになる』",
-   "en": ""
+   "en": "\"For a while, Blue Spaces\nact like Purple Spaces.\""
   },
   {
    "id": "event_ev005168:0452",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\""
   }
  ]
 }

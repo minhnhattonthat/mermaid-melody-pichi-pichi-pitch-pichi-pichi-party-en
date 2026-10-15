@@ -11,7 +11,7 @@
     23
    ],
    "jp": "ふう〜　つかれた〜\nちょっと{h }すわっちゃお",
-   "en": ""
+   "en": "Phew, I'm tired...\nI'll sit down for a bit."
   },
   {
    "id": "event_ev005165:002C",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "（ぺたっ）",
-   "en": ""
+   "en": "(Squish)"
   },
   {
    "id": "event_ev005165:0038",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "う‥‥　なんかイヤな\nかんしょくが‥‥",
-   "en": ""
+   "en": "Ugh... Something\nfeels icky..."
   },
   {
    "id": "event_ev005165:0060",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "ああ！　いや〜ん\nふくに{h }ペンキがべったり〜‥‥",
-   "en": ""
+   "en": "Oh no! Nooo!\nThere's paint all over my clothes..."
   },
   {
    "id": "event_ev005165:0092",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "ペンキぬりたてのベンチに\nすわっちゃって{h }ペンキがべっとり",
-   "en": ""
+   "en": "I sat on a freshly painted bench\nand got paint all over me."
   },
   {
    "id": "event_ev005165:00CE",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "『そうびアイテムを\n２つ{h }うしなう』",
-   "en": ""
+   "en": "\"You lose\n2 equipped items.\""
   },
   {
    "id": "event_ev005165:00F4",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005165:0138",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "ちょっと　つかれちゃったなあ\nすわっちゃお",
-   "en": ""
+   "en": "I'm a little tired.\nI'll sit down."
   },
   {
    "id": "event_ev005165:0164",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "（ぺたっ）",
-   "en": ""
+   "en": "(Squish)"
   },
   {
    "id": "event_ev005165:0170",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "いやん‥‥　なんかヘンな\nかんしょくが‥‥",
-   "en": ""
+   "en": "Eww... Something\nfeels weird..."
   },
   {
    "id": "event_ev005165:019C",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "あ〜！　ふくに{h }ペンキが\nべったり〜‥‥　う〜‥‥",
-   "en": ""
+   "en": "Aaah! There's paint all over\nmy clothes... Ugh..."
   },
   {
    "id": "event_ev005165:01D0",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "ペンキぬりたてのベンチに\nすわっちゃって{h }ペンキがべっとり",
-   "en": ""
+   "en": "I sat on a freshly painted bench\nand got paint all over me."
   },
   {
    "id": "event_ev005165:020C",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "『そうびアイテムを\n２つ{h }うしなう』",
-   "en": ""
+   "en": "\"You lose\n2 equipped items.\""
   },
   {
    "id": "event_ev005165:0232",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005165:0276",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "ふう　ちょっとあるきつかれたかな\nすこし{h }すわろう",
-   "en": ""
+   "en": "Phew, I've walked a lot.\nI'll sit for a bit."
   },
   {
    "id": "event_ev005165:02AA",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "（ぺたっ）",
-   "en": ""
+   "en": "(Squish)"
   },
   {
    "id": "event_ev005165:02B6",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "う‥‥　なんだ？\nちょっと{h }イヤなかんしょくが‥‥",
-   "en": ""
+   "en": "Ugh... What's that?\nSomething feels icky..."
   },
   {
    "id": "event_ev005165:02EA",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "‥‥しまった‥‥　ふくに{h }ペンキが\nべったりついてしまった‥‥",
-   "en": ""
+   "en": "...Oh no... I got paint\nall over my clothes..."
   },
   {
    "id": "event_ev005165:032A",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "ペンキぬりたてのベンチに\nすわっちゃって{h }ペンキがべっとり",
-   "en": ""
+   "en": "I sat on a freshly painted bench\nand got paint all over me."
   },
   {
    "id": "event_ev005165:0366",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "『そうびアイテムを\n２つ{h }うしなう』",
-   "en": ""
+   "en": "\"You lose\n2 equipped items.\""
   },
   {
    "id": "event_ev005165:038C",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   }
  ]
 }

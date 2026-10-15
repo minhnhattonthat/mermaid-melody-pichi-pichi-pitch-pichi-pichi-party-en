@@ -11,7 +11,7 @@
     59
    ],
    "jp": "さあ！　しょうてんがいの\nかんしゃフェアだよ！",
-   "en": ""
+   "en": "Step right up! It's the shopping\nstreet customer appreciation fair!"
   },
   {
    "id": "event_ev005054:0030",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "しょうひんをもって\nそのおもさを{h }あてれば‥‥",
-   "en": ""
+   "en": "Hold the prize, and if you\ncan guess how heavy it is..."
   },
   {
    "id": "event_ev005054:0060",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "そのしょうひんは\nあなたのもの！",
-   "en": ""
+   "en": "that prize\nis yours!"
   },
   {
    "id": "event_ev005054:0082",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "おもしろそうなイベントやってる！\nわたし　やるやる！",
-   "en": ""
+   "en": "There's a fun-looking event!\nMe, me! I'll do it!"
   },
   {
    "id": "event_ev005054:00B8",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "よーし！　それじゃあこんどは\nこのおじょうさんが{h }ちょうせんだ！",
-   "en": ""
+   "en": "All right! Next up,\nthis young lady takes the challenge!"
   },
   {
    "id": "event_ev005054:00FA",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "よいしょっと",
-   "en": ""
+   "en": "Hup!"
   },
   {
    "id": "event_ev005054:0108",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "‥‥えーと\nどれくらいかなあ‥‥",
-   "en": ""
+   "en": "...Ummm...\nHow heavy is it..."
   },
   {
    "id": "event_ev005054:012A",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "　おもさをあてよう！",
-   "en": ""
+   "en": " Guess the Weight!"
   },
   {
    "id": "event_ev005054:0140",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "お　おもいよ",
-   "en": ""
+   "en": "It's h-heavy!"
   },
   {
    "id": "event_ev005054:014E",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "かるい　かも",
-   "en": ""
+   "en": "Kinda light?"
   },
   {
    "id": "event_ev005054:015C",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "どっちかな‥‥",
-   "en": ""
+   "en": "Which is it..."
   },
   {
    "id": "event_ev005054:016C",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "ざんねん　はずれだよ\nはい　ざんねんしょう",
-   "en": ""
+   "en": "Sorry, wrong answer!\nHere's a consolation prize."
   },
   {
    "id": "event_ev005054:0198",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "ええ〜　はずれ？\nちょっと{h }じしんあったのに‥‥",
-   "en": ""
+   "en": "Whaaat, wrong?\nI was kinda confident..."
   },
   {
    "id": "event_ev005054:01CA",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "あたらなかったけど\nちょっと{h }たのしかったよ",
-   "en": ""
+   "en": "You didn't win, but\nit was kinda fun!"
   },
   {
    "id": "event_ev005054:01F8",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005054:023E",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "おお！　ピッタリしょう〜！\nおじょうさん{h }おめでとう！",
-   "en": ""
+   "en": "Ooh! Spot-on prize!\nCongratulations, miss!"
   },
   {
    "id": "event_ev005054:0276",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "ええ！　ほんとに？\nやったあ！",
-   "en": ""
+   "en": "Whaaat! Really?\nYay!"
   },
   {
    "id": "event_ev005054:0296",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "しょうてんがいのイベントで\nみごと{h }おおあたり！　やったね！",
-   "en": ""
+   "en": "You hit the jackpot at the\nshopping street event! Yay!"
   },
   {
    "id": "event_ev005054:02D4",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +50{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005054:031A",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "さあ！　しょうてんがいの\nかんしゃフェアだよ！",
-   "en": ""
+   "en": "Step right up! It's the shopping\nstreet customer appreciation fair!"
   },
   {
    "id": "event_ev005054:034A",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "しょうひんをもって\nそのおもさを{h }あてれば‥‥",
-   "en": ""
+   "en": "Hold the prize, and if you\ncan guess how heavy it is..."
   },
   {
    "id": "event_ev005054:037A",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "そのしょうひんは\nあなたのもの！",
-   "en": ""
+   "en": "that prize\nis yours!"
   },
   {
    "id": "event_ev005054:039C",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "おもしろそうなイベントやってる！\nおじさーん　わたしにやらせて！",
-   "en": ""
+   "en": "There's a fun-looking event!\nMister, let me try!"
   },
   {
    "id": "event_ev005054:03DE",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "よーし！　それじゃあこんどは\nこのおじょうさんが{h }ちょうせんだ！",
-   "en": ""
+   "en": "All right! Next up,\nthis young lady takes the challenge!"
   },
   {
    "id": "event_ev005054:0420",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "よいしょっと",
-   "en": ""
+   "en": "Hup!"
   },
   {
    "id": "event_ev005054:042E",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "むむ　これは‥‥\nどのくらいかしら‥‥",
-   "en": ""
+   "en": "Hmm, this is...\nHow heavy could it be..."
   },
   {
    "id": "event_ev005054:0456",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "　おもさをあてよう！",
-   "en": ""
+   "en": " Guess the Weight!"
   },
   {
    "id": "event_ev005054:046C",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "お　おもいよ",
-   "en": ""
+   "en": "It's h-heavy!"
   },
   {
    "id": "event_ev005054:047A",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "かるい　かも",
-   "en": ""
+   "en": "Kinda light?"
   },
   {
    "id": "event_ev005054:0488",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "どっちかな‥‥",
-   "en": ""
+   "en": "Which is it..."
   },
   {
    "id": "event_ev005054:0498",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "ざんねん　はずれだよ\nはい　ざんねんしょう",
-   "en": ""
+   "en": "Sorry, wrong answer!\nHere's a consolation prize."
   },
   {
    "id": "event_ev005054:04C4",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "ええ〜　はずれなの？\nおかしいなあ‥‥",
-   "en": ""
+   "en": "Whaaat, wrong?\nThat's weird..."
   },
   {
    "id": "event_ev005054:04EC",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "あたらなかったけど\nちょっと{h }たのしかったよ",
-   "en": ""
+   "en": "You didn't win, but\nit was kinda fun!"
   },
   {
    "id": "event_ev005054:051A",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005054:0560",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "おお！　ピッタリしょう〜！\nおじょうさん{h }おめでとう！",
-   "en": ""
+   "en": "Ooh! Spot-on prize!\nCongratulations, miss!"
   },
   {
    "id": "event_ev005054:0598",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "やった！　ばっちり！",
-   "en": ""
+   "en": "Yay! Spot-on!"
   },
   {
    "id": "event_ev005054:05AE",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "しょうてんがいのイベントで\nみごと{h }おおあたり！　やったね！",
-   "en": ""
+   "en": "You hit the jackpot at the\nshopping street event! Yay!"
   },
   {
    "id": "event_ev005054:05EC",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +50{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005054:0632",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "さあ！　しょうてんがいの\nかんしゃフェアだよ！",
-   "en": ""
+   "en": "Step right up! It's the shopping\nstreet customer appreciation fair!"
   },
   {
    "id": "event_ev005054:0662",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "しょうひんをもって\nそのおもさを{h }あてれば‥‥",
-   "en": ""
+   "en": "Hold the prize, and if you\ncan guess how heavy it is..."
   },
   {
    "id": "event_ev005054:0692",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "そのしょうひんは\nあなたのもの！",
-   "en": ""
+   "en": "that prize\nis yours!"
   },
   {
    "id": "event_ev005054:06B4",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "ほお\nおもしろそうなイベントだな",
-   "en": ""
+   "en": "Oh?\nThat looks like a fun event."
   },
   {
    "id": "event_ev005054:06D6",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "よーし！　それじゃあこんどは\nこのおじょうさんが{h }ちょうせんだ！",
-   "en": ""
+   "en": "All right! Next up,\nthis young lady takes the challenge!"
   },
   {
    "id": "event_ev005054:0718",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "え？　い{h }いや\nわたしは{h }ただのぞいただけで‥‥",
-   "en": ""
+   "en": "Huh? N-no,\nI was only looking..."
   },
   {
    "id": "event_ev005054:074A",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "‥‥まいったな\nま{h }いいか‥‥",
-   "en": ""
+   "en": "...What a bind.\nW-well, fine..."
   },
   {
    "id": "event_ev005054:076A",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "　おもさをあてよう！",
-   "en": ""
+   "en": " Guess the Weight!"
   },
   {
    "id": "event_ev005054:0780",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "お　おもいよ",
-   "en": ""
+   "en": "It's h-heavy!"
   },
   {
    "id": "event_ev005054:078E",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "かるい　かも",
-   "en": ""
+   "en": "Kinda light?"
   },
   {
    "id": "event_ev005054:079C",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "どっちかな‥‥",
-   "en": ""
+   "en": "Which is it..."
   },
   {
    "id": "event_ev005054:07AC",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "ざんねん　はずれだよ\nはい　ざんねんしょう",
-   "en": ""
+   "en": "Sorry, wrong answer!\nHere's a consolation prize."
   },
   {
    "id": "event_ev005054:07D8",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "やれやれ{h }おわったか\n人まえに出るのは{h }にがてだ‥‥",
-   "en": ""
+   "en": "Whew, it's over.\nI'm no good in front of people..."
   },
   {
    "id": "event_ev005054:080E",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "あたらなかったけど\nちょっと{h }たのしかったよ",
-   "en": ""
+   "en": "You didn't win, but\nit was kinda fun!"
   },
   {
    "id": "event_ev005054:083C",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005054:0882",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "おお！　ピッタリしょう〜！\nおじょうさん{h }おめでとう！",
-   "en": ""
+   "en": "Ooh! Spot-on prize!\nCongratulations, miss!"
   },
   {
    "id": "event_ev005054:08BA",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "‥‥びっくりだ\nまさか{h }あたったのか",
-   "en": ""
+   "en": "...I'm surprised.\nDid I actually get it right?"
   },
   {
    "id": "event_ev005054:08E0",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "しょうてんがいのイベントで\nみごと{h }おおあたり！　やったね！",
-   "en": ""
+   "en": "You hit the jackpot at the\nshopping street event! Yay!"
   },
   {
    "id": "event_ev005054:091E",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +50{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   }
  ]
 }

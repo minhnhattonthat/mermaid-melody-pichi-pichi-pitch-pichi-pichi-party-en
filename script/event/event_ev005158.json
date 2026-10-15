@@ -8,7 +8,7 @@
     0
    ],
    "jp": "わあ{h }ブレスレットが{h }\nたくさんうってる",
-   "en": ""
+   "en": "Wow, they're selling\ntons of bracelets."
   },
   {
    "id": "event_ev005158:002A",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "これかわいい　これも‥‥\nちょっと{h }うでにつけてみよ",
-   "en": ""
+   "en": "This one's cute, and this one...\nLet me try one on."
   },
   {
    "id": "event_ev005158:0060",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "あれ‥‥　うでからぬけない？\n‥‥どうしよう‥‥？",
-   "en": ""
+   "en": "Huh... It won't come off?\n...What do I do...?"
   },
   {
    "id": "event_ev005158:0094",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005158:00DC",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "　ていねいにぬきとろう",
-   "en": ""
+   "en": " Ease it off gently"
   },
   {
    "id": "event_ev005158:00F4",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ゆっくり　ゆっくり‥‥",
-   "en": ""
+   "en": "Slowly, slowly..."
   },
   {
    "id": "event_ev005158:010C",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "‥‥はずれたあ〜\nよ　よかった‥‥",
-   "en": ""
+   "en": "...It came off!\nTh-thank goodness..."
   },
   {
    "id": "event_ev005158:0130",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "ブレスレットが{h }はずれなくて\nどうしようかと{h }おもっちゃった",
-   "en": ""
+   "en": "The bracelet wouldn't come off.\nI didn't know what to do."
   },
   {
    "id": "event_ev005158:016E",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005158:0192",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "は　はずれない〜",
-   "en": ""
+   "en": "I-it won't come off..."
   },
   {
    "id": "event_ev005158:01A4",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "‥‥しょうがない\nこのブレスレット{h }かっちゃおう‥‥",
-   "en": ""
+   "en": "...I've got no choice.\nI'll buy this bracelet..."
   },
   {
    "id": "event_ev005158:01DA",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "ブレスレットが{h }はずれなくて{h }\nけっきょくかうことに‥‥",
-   "en": ""
+   "en": "The bracelet wouldn't come off,\nso I ended up buying it..."
   },
   {
    "id": "event_ev005158:0214",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "『{i211}{h }ヒロインポイント　−７０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -70{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005158:025A",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "すご〜い{h }ブレスレットが{h }\nたくさんうってる",
-   "en": ""
+   "en": "Wow, they're selling\ntons of bracelets."
   },
   {
    "id": "event_ev005158:0288",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "これ　かわいい！　これも！\nためしに{h }うでにつけてみようかな",
-   "en": ""
+   "en": "This one's cute! This one too!\nMaybe I'll try one on."
   },
   {
    "id": "event_ev005158:02C6",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "あれ‥‥　うでからぬけない？\n‥‥どうしよう‥‥？",
-   "en": ""
+   "en": "Huh... It won't come off?\n...What do I do...?"
   },
   {
    "id": "event_ev005158:02FA",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005158:0342",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "　ていねいにぬきとろう",
-   "en": ""
+   "en": " Ease it off gently"
   },
   {
    "id": "event_ev005158:035A",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "ゆっくり　ゆっくり‥‥",
-   "en": ""
+   "en": "Slowly, slowly..."
   },
   {
    "id": "event_ev005158:0372",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "‥‥はずれたあ〜\nよ　よかったあ‥‥",
-   "en": ""
+   "en": "...It came off!\nTh-thank goodness..."
   },
   {
    "id": "event_ev005158:0398",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "ブレスレットが{h }はずれなくて\nどうしようかと{h }おもっちゃった",
-   "en": ""
+   "en": "The bracelet wouldn't come off.\nI didn't know what to do."
   },
   {
    "id": "event_ev005158:03D6",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005158:03FA",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "は　はずれない〜",
-   "en": ""
+   "en": "I-it won't come off..."
   },
   {
    "id": "event_ev005158:040C",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "‥‥しょうがない",
-   "en": ""
+   "en": "...I've got no choice."
   },
   {
    "id": "event_ev005158:041E",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "これは　このブレスレットを{h }\nかっちゃえってことよね",
-   "en": ""
+   "en": "This means I'm meant\nto buy this bracelet!"
   },
   {
    "id": "event_ev005158:0454",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "ブレスレットが{h }はずれなくて{h }\nけっきょくかうことに‥‥",
-   "en": ""
+   "en": "The bracelet wouldn't come off,\nso I ended up buying it..."
   },
   {
    "id": "event_ev005158:048E",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "『{i211}{h }ヒロインポイント　−７０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -70{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005158:04D4",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "すごいな{h }ブレスレットが{h }\nたくさんうっている",
-   "en": ""
+   "en": "Wow, they're selling\na lot of bracelets."
   },
   {
    "id": "event_ev005158:0504",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "これなんか{h }なかなかいいな\nうん{h }これも　ちょっとつけてみるか",
-   "en": ""
+   "en": "This one's pretty nice.\nYeah, I'll try this one on."
   },
   {
    "id": "event_ev005158:0544",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "おや‥‥　うでからぬけない？\nしまった‥‥どうしよう‥‥？",
-   "en": ""
+   "en": "Huh... It won't come off?\nOh no... What do I do...?"
   },
   {
    "id": "event_ev005158:0580",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005158:05C8",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "　ていねいにぬきとろう",
-   "en": ""
+   "en": " Ease it off gently"
   },
   {
    "id": "event_ev005158:05E0",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "しんちょうに‥‥",
-   "en": ""
+   "en": "Carefully..."
   },
   {
    "id": "event_ev005158:05F2",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "‥‥よし　はずれた\nふう〜　よかった‥‥",
-   "en": ""
+   "en": "...There, it's off.\nPhew, good..."
   },
   {
    "id": "event_ev005158:061C",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "ブレスレットが{h }はずれなくて\nどうしようかと{h }おもっちゃった",
-   "en": ""
+   "en": "The bracelet wouldn't come off.\nI didn't know what to do."
   },
   {
    "id": "event_ev005158:065A",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005158:067E",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "う〜ん　どうやってもはずれないな",
-   "en": ""
+   "en": "Hmm, it won't come off no matter what."
   },
   {
    "id": "event_ev005158:06A0",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "しかたないな\nこのブレスレット{h }かってしまおう",
-   "en": ""
+   "en": "Can't be helped.\nI'll buy this bracelet."
   },
   {
    "id": "event_ev005158:06D0",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "ブレスレットが{h }はずれなくて\nけっきょくかうことに‥‥",
-   "en": ""
+   "en": "The bracelet wouldn't come off,\nso I ended up buying it..."
   },
   {
    "id": "event_ev005158:0708",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "『{i211}{h }ヒロインポイント　−７０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -70{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   }
  ]
 }

@@ -11,7 +11,7 @@
     39
    ],
    "jp": "あれ‥‥　なんだろ‥‥？",
-   "en": ""
+   "en": "Huh... What's that...?"
   },
   {
    "id": "event_ev005058:001A",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "どこからか\n子ネコのなきごえがきこえる‥‥",
-   "en": ""
+   "en": "I can hear a kitten\nmewing from somewhere..."
   },
   {
    "id": "event_ev005058:0046",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4004]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4004] or more in total!"
   },
   {
    "id": "event_ev005058:0090",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "　子ネコのゆくえは？",
-   "en": ""
+   "en": " Where's the Kitten?"
   },
   {
    "id": "event_ev005058:00A6",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "こんなビルのすきまに\n子ネコが{h }とじこめられてる！",
-   "en": ""
+   "en": "There's a kitten trapped in\nthe gap between these buildings!"
   },
   {
    "id": "event_ev005058:00E2",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "ちょっとまってて\nすぐ{h }たすけてあげる！",
-   "en": ""
+   "en": "Hang on,\nI'll get you out right away!"
   },
   {
    "id": "event_ev005058:010C",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "とじこめられて　たすけをもとめてた\n子ネコを{h }きゅうしゅつ！",
-   "en": ""
+   "en": "You rescued a trapped kitten\nthat was crying for help!"
   },
   {
    "id": "event_ev005058:014A",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋８０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +80{i20F}\"\n\"{i20D} Unbeatable Heart +2{i20F}\""
   },
   {
    "id": "event_ev005058:0190",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "おかしいなあ‥‥\nきこえなくなっちゃった",
-   "en": ""
+   "en": "That's weird...\nI can't hear it anymore."
   },
   {
    "id": "event_ev005058:01BA",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "子ネコは\nどこにいったんだろう‥‥？",
-   "en": ""
+   "en": "Where did the\nkitten go...?"
   },
   {
    "id": "event_ev005058:01E0",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２６{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +26{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005058:0226",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "‥‥なんだろう‥‥？",
-   "en": ""
+   "en": "...What's that...?"
   },
   {
    "id": "event_ev005058:023C",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "どこからか\n子ネコのなきごえがきこえる‥‥",
-   "en": ""
+   "en": "I can hear a kitten\nmewing from somewhere..."
   },
   {
    "id": "event_ev005058:0268",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4004]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4004] or more in total!"
   },
   {
    "id": "event_ev005058:02B2",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "　子ネコのゆくえは？",
-   "en": ""
+   "en": " Where's the Kitten?"
   },
   {
    "id": "event_ev005058:02C8",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "‥‥なんてこと！",
-   "en": ""
+   "en": "...Oh my gosh!"
   },
   {
    "id": "event_ev005058:02DA",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "こんなビルのすきまに\n子ネコが{h }とじこめられてる！",
-   "en": ""
+   "en": "There's a kitten trapped in\nthe gap between these buildings!"
   },
   {
    "id": "event_ev005058:030E",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "ちょっとまってて\nすぐ{h }たすけてあげる！",
-   "en": ""
+   "en": "Hang on,\nI'll get you out right away!"
   },
   {
    "id": "event_ev005058:0338",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "とじこめられて　たすけをもとめてた\n子ネコを{h }きゅうしゅつ！",
-   "en": ""
+   "en": "You rescued a trapped kitten\nthat was crying for help!"
   },
   {
    "id": "event_ev005058:0376",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋８０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +80{i20F}\"\n\"{i20D} Unbeatable Heart +2{i20F}\""
   },
   {
    "id": "event_ev005058:03BC",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "へんね‥‥\nきこえなくなっちゃった",
-   "en": ""
+   "en": "That's weird...\nI can't hear it anymore."
   },
   {
    "id": "event_ev005058:03E0",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "子ネコは\nどこにいったんだろう‥‥？",
-   "en": ""
+   "en": "Where did the\nkitten go...?"
   },
   {
    "id": "event_ev005058:0406",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２６{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +26{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005058:044C",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "‥‥　おかしいな‥‥？",
-   "en": ""
+   "en": "...That's strange...?"
   },
   {
    "id": "event_ev005058:0464",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "どこからか\n子ネコのなきごえがきこえる‥‥",
-   "en": ""
+   "en": "I can hear a kitten\nmewing from somewhere..."
   },
   {
    "id": "event_ev005058:0490",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4004]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4004] or more in total!"
   },
   {
    "id": "event_ev005058:04DA",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "　子ネコのゆくえは？",
-   "en": ""
+   "en": " Where's the Kitten?"
   },
   {
    "id": "event_ev005058:04F0",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "こんなビルのすきまに\n子ネコが{h }とじこめられてる！",
-   "en": ""
+   "en": "There's a kitten trapped in\nthe gap between these buildings!"
   },
   {
    "id": "event_ev005058:052C",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "ちょっとまってろ\nいま{h }たすけるぞ！",
-   "en": ""
+   "en": "Hang on.\nI'll get you out now!"
   },
   {
    "id": "event_ev005058:0552",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "とじこめられて　たすけをもとめてた\n子ネコを{h }きゅうしゅつ！",
-   "en": ""
+   "en": "You rescued a trapped kitten\nthat was crying for help!"
   },
   {
    "id": "event_ev005058:0590",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "『{i211}ヒロインポイント　＋８０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +80{i20F}\"\n\"{i20D} Unbeatable Heart +2{i20F}\""
   },
   {
    "id": "event_ev005058:05D4",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "‥‥だんだんと\nきこえなくなってしまった",
-   "en": ""
+   "en": "...Little by little,\nit faded away."
   },
   {
    "id": "event_ev005058:05FE",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "気になるな‥‥",
-   "en": ""
+   "en": "That bothers me..."
   },
   {
    "id": "event_ev005058:060E",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "子ネコは\nどこにいったんだろう‥‥？",
-   "en": ""
+   "en": "Where did the\nkitten go...?"
   },
   {
    "id": "event_ev005058:0634",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２６{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +26{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   }
  ]
 }

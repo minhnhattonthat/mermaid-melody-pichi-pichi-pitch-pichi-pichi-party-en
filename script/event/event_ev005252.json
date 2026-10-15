@@ -11,7 +11,7 @@
     23
    ],
    "jp": "う〜ん　ほんとに\nうみでおよぐのって　きもちいい！",
-   "en": ""
+   "en": "Mmm, swimming in the sea\nreally feels great!"
   },
   {
    "id": "event_ev005252:0034",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "いつまでだって　およげちゃうな",
-   "en": ""
+   "en": "I could swim forever!"
   },
   {
    "id": "event_ev005252:0054",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "‥‥あ　あれ？　へんだな‥‥\nもちものが　足りないな‥‥",
-   "en": ""
+   "en": "...Huh? That's weird...\nSome of my things are missing..."
   },
   {
    "id": "event_ev005252:008E",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "や〜ん！",
-   "en": ""
+   "en": "Nooo!"
   },
   {
    "id": "event_ev005252:0098",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "およぐのに　むちゅうで\nおとしものしちゃった",
-   "en": ""
+   "en": "I was so into swimming\nthat I dropped something."
   },
   {
    "id": "event_ev005252:00C6",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "『ようふくアイテムを\nひとつ{h }なくしちゃった』",
-   "en": ""
+   "en": "\"You lost\none clothing item.\""
   },
   {
    "id": "event_ev005252:00F6",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005252:013C",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "あ〜　うみってさいこうよね〜！\nおよぐのって　だ〜いすき！！",
-   "en": ""
+   "en": "Ahh, the sea is the best!\nI loooove swimming!!"
   },
   {
    "id": "event_ev005252:017A",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "ずっと　およいでいたいな",
-   "en": ""
+   "en": "I want to swim forever!"
   },
   {
    "id": "event_ev005252:0194",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "‥‥あ　あれ？{h }なにか　\nもちものが　足りない気が‥‥",
-   "en": ""
+   "en": "...Huh? I feel like some\nof my things are missing..."
   },
   {
    "id": "event_ev005252:01CC",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "さいて〜！！",
-   "en": ""
+   "en": "This is the worst!!"
   },
   {
    "id": "event_ev005252:01DA",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "およぐのに　むちゅうで\nおとしものしちゃった",
-   "en": ""
+   "en": "I was so into swimming\nthat I dropped something."
   },
   {
    "id": "event_ev005252:0208",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "『ようふくアイテムを\nひとつ{h }なくしちゃった』",
-   "en": ""
+   "en": "\"You lost\none clothing item.\""
   },
   {
    "id": "event_ev005252:0238",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005252:027E",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "うん　うみでおよぐと\nこころがおちつく‥‥",
-   "en": ""
+   "en": "Yeah, swimming in the sea\ncalms my heart..."
   },
   {
    "id": "event_ev005252:02AA",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "ずっと　およいでいたい　きぶんだ",
-   "en": ""
+   "en": "I feel like I could swim forever."
   },
   {
    "id": "event_ev005252:02CC",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "‥‥おや？\nもちものが　足りない‥‥",
-   "en": ""
+   "en": "...Hm?\nSome of my things are missing..."
   },
   {
    "id": "event_ev005252:02F2",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "どうやら　なくしてしまった\nらしいぞ‥‥",
-   "en": ""
+   "en": "Looks like\nI lost them..."
   },
   {
    "id": "event_ev005252:031C",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "およぐのに　むちゅうで\nおとしものしちゃった",
-   "en": ""
+   "en": "I was so into swimming\nthat I dropped something."
   },
   {
    "id": "event_ev005252:034A",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "『ようふくアイテムを\nひとつ{h }なくしちゃった』",
-   "en": ""
+   "en": "\"You lost\none clothing item.\""
   },
   {
    "id": "event_ev005252:037A",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   }
  ]
 }

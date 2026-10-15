@@ -8,7 +8,7 @@
     0
    ],
    "jp": "わあ　クレープやさんだ！",
-   "en": ""
+   "en": "Wow, a crepe stand!"
   },
   {
    "id": "event_ev005100:001A",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "デラックスストロベリーおいしそう…",
-   "en": ""
+   "en": "The Deluxe Strawberry looks so good..."
   },
   {
    "id": "event_ev005100:003E",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "はぐはぐ　おいしいっ！",
-   "en": ""
+   "en": "*Munch munch* Yummy!"
   },
   {
    "id": "event_ev005100:0056",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "でも　さいきんたべすぎかも…",
-   "en": ""
+   "en": "But I've been eating too much lately..."
   },
   {
    "id": "event_ev005100:0074",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   },
   {
    "id": "event_ev005100:00BC",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "…いいにおい　クレープやさんかぁ",
-   "en": ""
+   "en": "...Something smells good. A crepe stand!"
   },
   {
    "id": "event_ev005100:00DE",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "ゆうわくにまけちゃいそう…",
-   "en": ""
+   "en": "I'm about to give in to temptation..."
   },
   {
    "id": "event_ev005100:00FA",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "もぐもぐ…　ダイエットしてるのに〜",
-   "en": ""
+   "en": "*Munch munch*... But I'm on a diet!"
   },
   {
    "id": "event_ev005100:011E",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   },
   {
    "id": "event_ev005100:0166",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "ぱく…　ダイエットしないとな…",
-   "en": ""
+   "en": "*Bite*... I need to go on a diet..."
   },
   {
    "id": "event_ev005100:01AC",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   }
  ]
 }

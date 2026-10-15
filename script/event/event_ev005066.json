@@ -11,7 +11,7 @@
     23
    ],
    "jp": "へえ〜　ここがよく{h }あたるっていう\nうらないやさんなの‥‥",
-   "en": ""
+   "en": "Huh, so this is the fortune\nteller that's supposed to be so accurate..."
   },
   {
    "id": "event_ev005066:003C",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "おまえさん\nなにか{h }うらなってほしいのかい？",
-   "en": ""
+   "en": "You there,\nis there something you want me to read?"
   },
   {
    "id": "event_ev005066:006A",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "あ　いえっ　すみません\nのぞいちゃって‥‥",
-   "en": ""
+   "en": "Oh, no! Sorry\nfor peeking in..."
   },
   {
    "id": "event_ev005066:0096",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "いいんだよ\nどれ{h }すこし見てあげよう",
-   "en": ""
+   "en": "That's all right.\nLet me take a little look."
   },
   {
    "id": "event_ev005066:00BC",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "さいきんひょうばんの\nうらないのやかたに{h }いったよ！",
-   "en": ""
+   "en": "You went to the fortune-telling\nhouse everyone's talking about!"
   },
   {
    "id": "event_ev005066:00F2",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "『カードを３つ手に入れたよ』",
-   "en": ""
+   "en": "\"You got three cards!\""
   },
   {
    "id": "event_ev005066:0110",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005066:0156",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "へえ〜　ここがよく{h }あたるっていう\nうらないやさんなの‥‥",
-   "en": ""
+   "en": "Huh, so this is the fortune\nteller that's supposed to be so accurate..."
   },
   {
    "id": "event_ev005066:0192",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "おまえさん\nなにか{h }うらなってほしいのかい？",
-   "en": ""
+   "en": "You there,\nis there something you want me to read?"
   },
   {
    "id": "event_ev005066:01C0",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "あ　いえっ　すみません\nのぞいてしまって‥‥",
-   "en": ""
+   "en": "Oh, no! Sorry\nfor peeking in..."
   },
   {
    "id": "event_ev005066:01EE",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "いいんだよ\nどれ{h }すこしみてあげよう",
-   "en": ""
+   "en": "That's all right.\nLet me take a little look."
   },
   {
    "id": "event_ev005066:0214",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "さいきんひょうばんの\nうらないのやかたに{h }いったよ！",
-   "en": ""
+   "en": "You went to the fortune-telling\nhouse everyone's talking about!"
   },
   {
    "id": "event_ev005066:024A",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "『カードを３つ手に入れたよ』",
-   "en": ""
+   "en": "\"You got three cards!\""
   },
   {
    "id": "event_ev005066:0268",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005066:02AE",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "へえ　ここがよく{h }あたるっていう\nうらないやさんなのか‥‥",
-   "en": ""
+   "en": "Huh, so this is the fortune\nteller that's supposed to be so accurate..."
   },
   {
    "id": "event_ev005066:02EA",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "おまえさん\nなにか{h }うらなってほしいのかい？",
-   "en": ""
+   "en": "You there,\nis there something you want me to read?"
   },
   {
    "id": "event_ev005066:0318",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "いえ　すみません\nのぞいてしまって‥‥",
-   "en": ""
+   "en": "No, sorry\nfor peeking in..."
   },
   {
    "id": "event_ev005066:0340",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "いいんだよ\nどれ{h }すこしみてあげよう",
-   "en": ""
+   "en": "That's all right.\nLet me take a little look."
   },
   {
    "id": "event_ev005066:0366",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "さいきんひょうばんの\nうらないのやかたに{h }いったよ！",
-   "en": ""
+   "en": "You went to the fortune-telling\nhouse everyone's talking about!"
   },
   {
    "id": "event_ev005066:039C",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "『カードを３つ手に入れたよ』",
-   "en": ""
+   "en": "\"You got three cards!\""
   },
   {
    "id": "event_ev005066:03BA",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   }
  ]
 }

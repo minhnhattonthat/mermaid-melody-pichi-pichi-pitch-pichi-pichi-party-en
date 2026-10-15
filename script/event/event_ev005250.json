@@ -11,7 +11,7 @@
     23
    ],
    "jp": "（ゴゴゴゴゴゴ‥‥）",
-   "en": ""
+   "en": "(RUMBLE RUMBLE RUMBLE...)"
   },
   {
    "id": "event_ev005250:0016",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "きゃーっ！　水の\nながれに　まきこまれちゃう！！",
-   "en": ""
+   "en": "Eeek! I'm getting swept away\nby the current!!"
   },
   {
    "id": "event_ev005250:0048",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "‥‥はあ　はあ\nなんとか　だっしゅつできたよ‥‥",
-   "en": ""
+   "en": "...Huff, huff...\nI managed to escape..."
   },
   {
    "id": "event_ev005250:007A",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "あー　びっくりしたー‥‥",
-   "en": ""
+   "en": "Whew, that scared me..."
   },
   {
    "id": "event_ev005250:0094",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "‥‥って　ここどこなのよ〜！！",
-   "en": ""
+   "en": "...Wait, where am I?!"
   },
   {
    "id": "event_ev005250:00B4",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "すいりゅうに　まきこまれて\nまいごになる　もう{h }たいへん！",
-   "en": ""
+   "en": "Swept away by the current\nand now I'm lost. What a mess!"
   },
   {
    "id": "event_ev005250:00F0",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   },
   {
    "id": "event_ev005250:0138",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "（ゴゴゴゴゴゴ‥‥）",
-   "en": ""
+   "en": "(RUMBLE RUMBLE RUMBLE...)"
   },
   {
    "id": "event_ev005250:014E",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "きゃーっ！　水の\nながれに　まきこまれちゃう！！",
-   "en": ""
+   "en": "Eeek! I'm getting swept away\nby the current!!"
   },
   {
    "id": "event_ev005250:0180",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "‥‥はあ　はあ\nなんとか　だっしゅつしたわよ‥‥",
-   "en": ""
+   "en": "...Huff, huff...\nI managed to escape..."
   },
   {
    "id": "event_ev005250:01B2",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "ふー　もうあんしんね‥‥",
-   "en": ""
+   "en": "Phew, I'm safe now..."
   },
   {
    "id": "event_ev005250:01CC",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "‥‥って　ここはどこなの〜！！",
-   "en": ""
+   "en": "...Wait, where am I?!"
   },
   {
    "id": "event_ev005250:01EC",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "すいりゅうに　まきこまれて\nまいごになる　もう{h }たいへん！",
-   "en": ""
+   "en": "Swept away by the current\nand now I'm lost. What a mess!"
   },
   {
    "id": "event_ev005250:0228",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   },
   {
    "id": "event_ev005250:0270",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "（ゴゴゴゴゴゴ‥‥）",
-   "en": ""
+   "en": "(RUMBLE RUMBLE RUMBLE...)"
   },
   {
    "id": "event_ev005250:0286",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "わっ！　このままでは　水の\nながれに　まきこまれてしまう！！",
-   "en": ""
+   "en": "Whoa! At this rate I'll be\nswept away by the current!!"
   },
   {
    "id": "event_ev005250:02C4",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "‥‥はあ　はあ\nなんとか　だっしゅつできた‥‥",
-   "en": ""
+   "en": "...Huff, huff...\nI managed to escape..."
   },
   {
    "id": "event_ev005250:02F4",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "とりあえずは　あんしんだが‥‥",
-   "en": ""
+   "en": "I'm safe for now, but..."
   },
   {
    "id": "event_ev005250:0314",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "ずいぶん　ながされてしまったな‥‥",
-   "en": ""
+   "en": "I got swept pretty far..."
   },
   {
    "id": "event_ev005250:0338",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "すいりゅうに　まきこまれて\nまいごになる　もう{h }たいへん！",
-   "en": ""
+   "en": "Swept away by the current\nand now I'm lost. What a mess!"
   },
   {
    "id": "event_ev005250:0374",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   }
  ]
 }

@@ -10,7 +10,7 @@
     19
    ],
    "jp": "ここどこだろ‥‥\nちょっと{h }まよっちゃった",
-   "en": ""
+   "en": "Where am I...?\nI'm kind of lost."
   },
   {
    "id": "event_ev005117:002C",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "あっちのほうかな‥‥？\nだれかに{h }よばれた気がする‥‥",
-   "en": ""
+   "en": "Maybe it's that way...?\nI feel like someone called me..."
   },
   {
    "id": "event_ev005117:0064",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "　★ぜんいんにこうか",
-   "en": ""
+   "en": " ★Affects everyone"
   },
   {
    "id": "event_ev005117:007A",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "みちにまよったと{h }おもったら\nみんなと{h }ばったりであった",
-   "en": ""
+   "en": "I thought I was lost,\nthen I ran into everyone!"
   },
   {
    "id": "event_ev005117:00B4",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "『ぜんいん\nふんすいひろばまえに{h }あつまる』",
-   "en": ""
+   "en": "\"Everyone gathers\nin front of Fountain Plaza.\""
   },
   {
    "id": "event_ev005117:00E2",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   },
   {
    "id": "event_ev005117:012A",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "ここどこかなあ‥‥\nう〜ん{h }まよっちゃった☆",
-   "en": ""
+   "en": "Where am I...?\nHmm, I'm lost! ☆"
   },
   {
    "id": "event_ev005117:0158",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "気をとりなおして\nいいとおもうほうへ‥‥",
-   "en": ""
+   "en": "Let's cheer up\nand go whichever way feels right..."
   },
   {
    "id": "event_ev005117:0182",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "　★ぜんいんにこうか",
-   "en": ""
+   "en": " ★Affects everyone"
   },
   {
    "id": "event_ev005117:0198",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "みちにまよったと{h }おもったら\nみんなと{h }ばったりであった",
-   "en": ""
+   "en": "I thought I was lost,\nthen I ran into everyone!"
   },
   {
    "id": "event_ev005117:01D2",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "『ぜんいん\nふんすいひろばまえに{h }あつまる』",
-   "en": ""
+   "en": "\"Everyone gathers\nin front of Fountain Plaza.\""
   },
   {
    "id": "event_ev005117:0200",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   },
   {
    "id": "event_ev005117:0248",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "ここはどこかな‥‥\nみちを{h }見うしなってしまったか",
-   "en": ""
+   "en": "Where am I...?\nLooks like I've lost my way."
   },
   {
    "id": "event_ev005117:027C",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "あっちから\nだれかによばれている気がする‥‥",
-   "en": ""
+   "en": "I feel like someone\nis calling me from over there..."
   },
   {
    "id": "event_ev005117:02AA",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "　★ぜんいんにこうか",
-   "en": ""
+   "en": " ★Affects everyone"
   },
   {
    "id": "event_ev005117:02C0",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "みちにまよったと{h }おもったら\nみんなと{h }ばったりであった",
-   "en": ""
+   "en": "I thought I was lost,\nthen I ran into everyone!"
   },
   {
    "id": "event_ev005117:02FA",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "『ぜんいん\nふんすいひろばまえに{h }あつまる』",
-   "en": ""
+   "en": "\"Everyone gathers\nin front of Fountain Plaza.\""
   },
   {
    "id": "event_ev005117:0328",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -20{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   }
  ]
 }

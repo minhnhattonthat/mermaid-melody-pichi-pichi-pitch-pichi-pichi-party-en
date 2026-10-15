@@ -8,7 +8,7 @@
     0
    ],
    "jp": "（小さな{h }しょうねん）\nえーいっ",
-   "en": ""
+   "en": "(A little boy)\nHiyaaah!"
   },
   {
    "id": "event_ev005053:0022",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "（るちあのスカートがひるがえる）",
-   "en": ""
+   "en": "(Lucia's skirt flips up)"
   },
   {
    "id": "event_ev005053:0044",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "きゃあああっ",
-   "en": ""
+   "en": "Eeeeek!"
   },
   {
    "id": "event_ev005053:0052",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "な　なんで　いきなり\nスカートめくりされるの！？",
-   "en": ""
+   "en": "Wh-why did he suddenly\nflip up my skirt?!"
   },
   {
    "id": "event_ev005053:0084",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "いっくぞ〜",
-   "en": ""
+   "en": "Here I gooo!"
   },
   {
    "id": "event_ev005053:0090",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ああ！　また！\nつぎはさせないわよ！",
-   "en": ""
+   "en": "Ah! Again!\nI won't let you this time!"
   },
   {
    "id": "event_ev005053:00B6",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005053:0100",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "　いたずらをそし！",
-   "en": ""
+   "en": " Stop the Prank!"
   },
   {
    "id": "event_ev005053:0114",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "つかまえた！",
-   "en": ""
+   "en": "Gotcha!"
   },
   {
    "id": "event_ev005053:0122",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "こんなことしちゃ{h }だめでしょ！",
-   "en": ""
+   "en": "You shouldn't do things like that!"
   },
   {
    "id": "event_ev005053:0142",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "ゆうめいな{h }いたずらしょうねんを\nつかまえたよ",
-   "en": ""
+   "en": "You caught the\nnotorious little prankster!"
   },
   {
    "id": "event_ev005053:0172",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005053:01BA",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "きゃあ！　ま{h }また！\nもう！",
-   "en": ""
+   "en": "Eek! H-he did it again!\nGeez!"
   },
   {
    "id": "event_ev005053:01D8",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "つぎにあったらぜったい\nとっちめて{h }やるんだから！",
-   "en": ""
+   "en": "Next time I see him,\nI'm really gonna get him!"
   },
   {
    "id": "event_ev005053:020C",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "いたずらしょうねんを\nにがしてしまった　つぎこそは‥‥！",
-   "en": ""
+   "en": "The prankster got away...\nNext time for sure...!"
   },
   {
    "id": "event_ev005053:0246",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005053:028E",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "（小さな{h }しょうねん）\nえーいっ",
-   "en": ""
+   "en": "(A little boy)\nHiyaaah!"
   },
   {
    "id": "event_ev005053:02B0",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "（波音のスカートがひるがえる）",
-   "en": ""
+   "en": "(Hanon's skirt flips up)"
   },
   {
    "id": "event_ev005053:02D0",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "きゃあっ",
-   "en": ""
+   "en": "Eeek!"
   },
   {
    "id": "event_ev005053:02DA",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "だ　だれ！？\nいきなり{h }スカートめくりなんて！？",
-   "en": ""
+   "en": "Wh-who did that?!\nFlipping up my skirt out of nowhere?!"
   },
   {
    "id": "event_ev005053:030C",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "それっ　もういっかい\nいくぞ〜",
-   "en": ""
+   "en": "There! One more\ntime, here I gooo!"
   },
   {
    "id": "event_ev005053:032C",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "また{h }くる気！？　\nつぎはさせないわよ！",
-   "en": ""
+   "en": "You're coming back?!\nI won't let you this time!"
   },
   {
    "id": "event_ev005053:0356",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005053:03A0",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "　いたずらをそし！",
-   "en": ""
+   "en": " Stop the Prank!"
   },
   {
    "id": "event_ev005053:03B4",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "つかまえた！",
-   "en": ""
+   "en": "Gotcha!"
   },
   {
    "id": "event_ev005053:03C2",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "こんなことしちゃ{h }だめでしょ！",
-   "en": ""
+   "en": "You shouldn't do things like that!"
   },
   {
    "id": "event_ev005053:03E2",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "ゆうめいな{h }いたずらしょうねんを\nつかまえたよ",
-   "en": ""
+   "en": "You caught the\nnotorious little prankster!"
   },
   {
    "id": "event_ev005053:0412",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005053:045A",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "きゃあ！　もう！\nあ〜っ！　なんてにげ足のはやい‥‥",
-   "en": ""
+   "en": "Eek! Geez!\nAhh! He runs away so fast..."
   },
   {
    "id": "event_ev005053:0490",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "つぎにあったらぜったい\nにがさないんだから！",
-   "en": ""
+   "en": "Next time I see him,\nhe's not getting away!"
   },
   {
    "id": "event_ev005053:04BE",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "いたずらしょうねんを\nにがしてしまった　つぎこそは‥‥！",
-   "en": ""
+   "en": "The prankster got away...\nNext time for sure...!"
   },
   {
    "id": "event_ev005053:04F8",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005053:0540",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "（小さな{h }しょうねん）\nえーいっ",
-   "en": ""
+   "en": "(A little boy)\nHiyaaah!"
   },
   {
    "id": "event_ev005053:0562",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "（ちかくのじょせいの\nスカートがひるがえる）",
-   "en": ""
+   "en": "(A nearby woman's\nskirt flips up)"
   },
   {
    "id": "event_ev005053:0590",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "きゃあああっ",
-   "en": ""
+   "en": "Eeeeek!"
   },
   {
    "id": "event_ev005053:059E",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "む！　あいつ{h }人のスカートを‥‥！\nまて！　にがさん！",
-   "en": ""
+   "en": "Hm! That kid flipped her skirt...!\nWait! You won't get away!"
   },
   {
    "id": "event_ev005053:05D6",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005053:0620",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "　いたずらをそし！",
-   "en": ""
+   "en": " Stop the Prank!"
   },
   {
    "id": "event_ev005053:0634",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "つかまえたぞ！",
-   "en": ""
+   "en": "Got you!"
   },
   {
    "id": "event_ev005053:0644",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "だめだろう{h }こんなことしたら",
-   "en": ""
+   "en": "You shouldn't do things like this."
   },
   {
    "id": "event_ev005053:0662",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "ゆうめいな{h }いたずらしょうねんを\nつかまえたよ",
-   "en": ""
+   "en": "You caught the\nnotorious little prankster!"
   },
   {
    "id": "event_ev005053:0692",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005053:06DA",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "（見しらぬじょせい）\nきゃああ！　また‥‥　もうやだあ",
-   "en": ""
+   "en": "(A woman passing by)\nEeeek! Again... I hate this!"
   },
   {
    "id": "event_ev005053:0712",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "（小さな{h }しょうねん）\nへへん{h }つかまるかよ〜",
-   "en": ""
+   "en": "(A little boy)\nHehe, you'll never catch me!"
   },
   {
    "id": "event_ev005053:0742",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "くっ‥‥　にがしたか‥‥",
-   "en": ""
+   "en": "Tch... He got away..."
   },
   {
    "id": "event_ev005053:075C",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "つぎにあったら\nぜったい{h }つかまえてやる！",
-   "en": ""
+   "en": "Next time I see him,\nI'll catch him for sure!"
   },
   {
    "id": "event_ev005053:0788",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "いたずらしょうねんを\nにがしてしまった　つぎこそは‥‥！",
-   "en": ""
+   "en": "The prankster got away...\nNext time for sure...!"
   },
   {
    "id": "event_ev005053:07C2",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   }
  ]
 }

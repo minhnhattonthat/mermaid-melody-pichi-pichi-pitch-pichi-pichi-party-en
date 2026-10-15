@@ -10,7 +10,7 @@
     7
    ],
    "jp": "エピソードクリア\nおめでとうございます！",
-   "en": ""
+   "en": "Congratulations on\nclearing the episode!"
   },
   {
    "id": "event_ev004100:002A",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "エピソードをひとつ{h }クリアしたので",
-   "en": ""
+   "en": "Since you've cleared one episode,"
   },
   {
    "id": "event_ev004100:0056",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "つぎは{h }じゅんばんが{h }かわって\nスタートしますよ",
-   "en": ""
+   "en": "next time the turn order\nwill change when you start."
   },
   {
    "id": "event_ev004100:0088",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "それでは{h }みなさん　つぎの\nエピソードもがんばってください！",
-   "en": ""
+   "en": "Now then, everyone, please do\nyour best in the next episode too!"
   },
   {
    "id": "event_ev004100:00C6",

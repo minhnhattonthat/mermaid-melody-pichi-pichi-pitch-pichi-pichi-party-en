@@ -10,7 +10,7 @@
     39
    ],
    "jp": "あ！{h }と‥‥",
-   "en": ""
+   "en": "Ah! Oops..."
   },
   {
    "id": "event_ev005050:000E",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "じどうはんばいきの下に\n１００円玉{h }おとしちゃった！",
-   "en": ""
+   "en": "I dropped a 100-yen coin\nunder the vending machine!"
   },
   {
    "id": "event_ev005050:0044",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "１００円玉これしかないのに\nえ〜ん　とれないかな‥‥",
-   "en": ""
+   "en": "That's my only 100-yen coin...\nWaaah, can I get it out...?"
   },
   {
    "id": "event_ev005050:007A",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get 8 or more in total!"
   },
   {
    "id": "event_ev005050:00C2",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "　コインゲット！",
-   "en": ""
+   "en": " Get the Coin!"
   },
   {
    "id": "event_ev005050:00D4",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "えっと　この木のえだをつかって‥‥",
-   "en": ""
+   "en": "Um, if I use this tree branch..."
   },
   {
    "id": "event_ev005050:00F8",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "やったあ{h }うまくとれた！\nあれ‥‥？　もう１コある‥‥",
-   "en": ""
+   "en": "Yay, I got it out!\nHuh...? There's another one..."
   },
   {
    "id": "event_ev005050:0130",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "ラッキー！\n５００円玉ひろっちゃった！",
-   "en": ""
+   "en": "Lucky!\nYou found a 500-yen coin!"
   },
   {
    "id": "event_ev005050:0158",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005050:019E",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "ふう‥‥　なんとかとれた\nよかった〜",
-   "en": ""
+   "en": "Phew... I managed to get it.\nThank goodness!"
   },
   {
    "id": "event_ev005050:01C4",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "おくにコインがもう一つあったような\n気のせい‥‥？",
-   "en": ""
+   "en": "It felt like there was another\ncoin farther in... Imagination?"
   },
   {
    "id": "event_ev005050:01F8",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005050:023E",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "あ‥‥！",
-   "en": ""
+   "en": "Ah...!"
   },
   {
    "id": "event_ev005050:0248",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "あ〜ん　じどうはんばいきの下に\n１００円玉{h }おとしちゃった",
-   "en": ""
+   "en": "Waaah, I dropped a 100-yen coin\nunder the vending machine!"
   },
   {
    "id": "event_ev005050:0284",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "えー　どうしよう‥‥\n１００円玉これしかないのに",
-   "en": ""
+   "en": "Ugh, what do I do...\nThat's my only 100-yen coin."
   },
   {
    "id": "event_ev005050:02B6",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "うまく{h }とれないかなあ‥‥",
-   "en": ""
+   "en": "Can I get it out somehow...?"
   },
   {
    "id": "event_ev005050:02D2",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get 8 or more in total!"
   },
   {
    "id": "event_ev005050:031A",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "　コインゲット！",
-   "en": ""
+   "en": " Get the Coin!"
   },
   {
    "id": "event_ev005050:032C",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "えっと　この木のえだをつかって‥‥",
-   "en": ""
+   "en": "Um, if I use this tree branch..."
   },
   {
    "id": "event_ev005050:0350",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "やったあ{h }わたしって{h }てんさい！\nうまくとれた　あれ？　でもこれ‥‥",
-   "en": ""
+   "en": "Yay, I'm a genius!\nI got it out. Huh? But this is..."
   },
   {
    "id": "event_ev005050:0396",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "ラッキー！\n５００円玉ひろっちゃった！",
-   "en": ""
+   "en": "Lucky!\nYou found a 500-yen coin!"
   },
   {
    "id": "event_ev005050:03BE",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005050:0404",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "‥‥ふう　なんとかとれた",
-   "en": ""
+   "en": "...Phew, I managed to get it."
   },
   {
    "id": "event_ev005050:041E",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "おくにコインがもう一つあったような\n気のせい‥‥？",
-   "en": ""
+   "en": "It felt like there was another\ncoin farther in... Imagination?"
   },
   {
    "id": "event_ev005050:0452",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005050:0498",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "おっと‥‥",
-   "en": ""
+   "en": "Whoops..."
   },
   {
    "id": "event_ev005050:04A4",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "しまった{h }じどうはんばいきの下に\n１００円玉{h }おとしてしまった‥‥",
-   "en": ""
+   "en": "Darn, I dropped a 100-yen coin\nunder the vending machine..."
   },
   {
    "id": "event_ev005050:04E8",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "‥‥{h }１００円玉{h }これしかないんだが\nなんとかして{h }とれないかな‥‥？",
-   "en": ""
+   "en": "...That's my only 100-yen coin.\nIs there some way to get it out...?"
   },
   {
    "id": "event_ev005050:0530",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get 8 or more in total!"
   },
   {
    "id": "event_ev005050:0578",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "　コインゲット！",
-   "en": ""
+   "en": " Get the Coin!"
   },
   {
    "id": "event_ev005050:058A",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "この木のえだをつかって‥‥",
-   "en": ""
+   "en": "If I use this tree branch..."
   },
   {
    "id": "event_ev005050:05A6",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "よし{h }うまくとれたな",
-   "en": ""
+   "en": "Good, I got it out."
   },
   {
    "id": "event_ev005050:05BC",
@@ -266,7 +266,7 @@
     32
    ],
    "jp": "おや‥‥？　もう１コあるな‥‥",
-   "en": ""
+   "en": "Hm...? There's another one..."
   },
   {
    "id": "event_ev005050:05DC",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "ラッキー！\n５００円玉ひろっちゃった！",
-   "en": ""
+   "en": "Lucky!\nYou found a 500-yen coin!"
   },
   {
    "id": "event_ev005050:0604",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005050:064A",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "‥‥ふう　なんとかとれたか",
-   "en": ""
+   "en": "...Phew, I managed to get it."
   },
   {
    "id": "event_ev005050:0666",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "おくにコインがもう一つあったような\n気のせい‥‥？",
-   "en": ""
+   "en": "It felt like there was another\ncoin farther in... Imagination?"
   },
   {
    "id": "event_ev005050:069A",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   }
  ]
 }

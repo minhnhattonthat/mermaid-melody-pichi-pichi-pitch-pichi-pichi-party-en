@@ -8,7 +8,7 @@
     0
    ],
    "jp": "うわあ　きのうの雨で{h }こうえんが\nぬかるんでる　クツがドロドロ",
-   "en": ""
+   "en": "Ugh, the park's all muddy from\nyesterday's rain. My shoes are a mess."
   },
   {
    "id": "event_ev005150:0040",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "（こうえんで{h }あそんでいた子ども）\nおねーちゃん　あそぼ！",
-   "en": ""
+   "en": "(A kid playing in the park)\nBig sis, play with me!"
   },
   {
    "id": "event_ev005150:007C",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "え？　おねえちゃん‥‥\nちょっと　ようじがあって",
-   "en": ""
+   "en": "Huh? Um, big sis...\nhas something to do."
   },
   {
    "id": "event_ev005150:00AE",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "わわ！",
-   "en": ""
+   "en": "Whoa!"
   },
   {
    "id": "event_ev005150:00B6",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "そんな{h }ドロだらけの手で\nだきついてこないで〜",
-   "en": ""
+   "en": "Don't hug me with\nthose muddy hands!"
   },
   {
    "id": "event_ev005150:00E6",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005150:012E",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "　おいかけっこ",
-   "en": ""
+   "en": " Chase"
   },
   {
    "id": "event_ev005150:013E",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "はあ{h }はあ",
-   "en": ""
+   "en": "Huff, huff..."
   },
   {
    "id": "event_ev005150:014A",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "いきなり　おいかけてくるんだもん\nびっくりした〜",
-   "en": ""
+   "en": "He just started chasing me!\nThat surprised me!"
   },
   {
    "id": "event_ev005150:017C",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "なんとか{h }つかまらずにすんだよ\nあぶなかった〜",
-   "en": ""
+   "en": "I managed not to get caught!\nThat was close!"
   },
   {
    "id": "event_ev005150:01AC",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005150:01D0",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "いや〜ん\nふくがドロドロ‥‥",
-   "en": ""
+   "en": "Nooo...\nMy clothes are all muddy..."
   },
   {
    "id": "event_ev005150:01EE",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "きんじょの子どもに{h }いたずらされて\nふくがドロドロに‥‥",
-   "en": ""
+   "en": "A neighborhood kid's prank\ngot my clothes all muddy..."
   },
   {
    "id": "event_ev005150:0228",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "『ようふくアイテムを\nひとつ{h }なくしちゃうよ』",
-   "en": ""
+   "en": "\"You lose\none clothing item.\""
   },
   {
    "id": "event_ev005150:0258",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   },
   {
    "id": "event_ev005150:02A0",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "もう　きのうの雨で{h }こうえんが\nぬかるんで　クツがドロドロ",
-   "en": ""
+   "en": "Ugh, the park's all muddy from\nyesterday's rain. My shoes are a mess."
   },
   {
    "id": "event_ev005150:02DC",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "（こうえんで{h }あそんでいた子ども）\nおねーちゃん　あそぼ！",
-   "en": ""
+   "en": "(A kid playing in the park)\nBig sis, play with me!"
   },
   {
    "id": "event_ev005150:0318",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "え？　あはは　おねえちゃんね\nだいじなようじがあって‥‥",
-   "en": ""
+   "en": "Huh? Ahaha, big sis\nhas something important to do..."
   },
   {
    "id": "event_ev005150:0352",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "ちょっとボク\n手がドロだらけじゃない",
-   "en": ""
+   "en": "Hey, little guy,\nyour hands are all muddy!"
   },
   {
    "id": "event_ev005150:0378",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "まってまって！\nまとわりつかないで〜",
-   "en": ""
+   "en": "Wait, wait!\nDon't cling to me!"
   },
   {
    "id": "event_ev005150:039E",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005150:03E6",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "　おいかけっこ",
-   "en": ""
+   "en": " Chase"
   },
   {
    "id": "event_ev005150:03F6",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "ふう〜　びっくりした\nいきなり　おいかけてくるんだもん",
-   "en": ""
+   "en": "Phew, that surprised me.\nHe just started chasing me!"
   },
   {
    "id": "event_ev005150:042E",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "なんとか{h }つかまらずにすんだよ\nあぶなかった〜",
-   "en": ""
+   "en": "I managed not to get caught!\nThat was close!"
   },
   {
    "id": "event_ev005150:045E",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005150:0482",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "いや〜ん\nふくがドロドロ‥‥",
-   "en": ""
+   "en": "Nooo...\nMy clothes are all muddy..."
   },
   {
    "id": "event_ev005150:04A0",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "きんじょの子どもに{h }いたずらされて\nふくがドロドロに‥‥",
-   "en": ""
+   "en": "A neighborhood kid's prank\ngot my clothes all muddy..."
   },
   {
    "id": "event_ev005150:04DA",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "『ようふくアイテムを\nひとつ{h }なくしちゃうよ』",
-   "en": ""
+   "en": "\"You lose\none clothing item.\""
   },
   {
    "id": "event_ev005150:050A",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   },
   {
    "id": "event_ev005150:0552",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "きのうの雨で{h }ずいぶん{h }じめんが\nぬかるんでるな‥‥",
-   "en": ""
+   "en": "The ground's really muddy\nfrom yesterday's rain..."
   },
   {
    "id": "event_ev005150:0588",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "（きんじょの子ども）\nおねーちゃん　あそぼ！",
-   "en": ""
+   "en": "(A neighborhood kid)\nBig sis, play with me!"
   },
   {
    "id": "event_ev005150:05B6",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "え？　いや　わたしは‥‥\n‥‥しょうがない　すこしだけだぞ",
-   "en": ""
+   "en": "Huh? No, I'm...\n...Fine, but just for a bit."
   },
   {
    "id": "event_ev005150:05F2",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "わわ！　ちょっと{h }まて！",
-   "en": ""
+   "en": "Whoa! Hey, wait!"
   },
   {
    "id": "event_ev005150:060C",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "その{h }ドロだらけの手で\nだきついてこないでくれ",
-   "en": ""
+   "en": "Don't hug me with\nthose muddy hands."
   },
   {
    "id": "event_ev005150:063C",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005150:0684",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "　おいかけっこ",
-   "en": ""
+   "en": " Chase"
   },
   {
    "id": "event_ev005150:0694",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "はあ{h }はあ‥‥",
-   "en": ""
+   "en": "Huff, huff..."
   },
   {
    "id": "event_ev005150:06A4",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "いきなり　ふいうちか\nやるな　あの子ども‥‥",
-   "en": ""
+   "en": "A surprise attack, huh.\nThat kid's good..."
   },
   {
    "id": "event_ev005150:06D2",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "なんとか{h }つかまらずにすんだよ\nあぶなかった〜",
-   "en": ""
+   "en": "I managed not to get caught!\nThat was close!"
   },
   {
    "id": "event_ev005150:0702",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005150:0726",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "‥‥やられた‥‥\nふくがドロドロだ‥‥　まったく",
-   "en": ""
+   "en": "...He got me...\nMy clothes are all muddy... Geez."
   },
   {
    "id": "event_ev005150:0758",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "きんじょの子どもに{h }いたずらされて\nふくがドロドロに‥‥",
-   "en": ""
+   "en": "A neighborhood kid's prank\ngot my clothes all muddy..."
   },
   {
    "id": "event_ev005150:0792",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "『ようふくアイテムを\nひとつ{h }なくしちゃうよ』",
-   "en": ""
+   "en": "\"You lose\none clothing item.\""
   },
   {
    "id": "event_ev005150:07C2",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   }
  ]
 }

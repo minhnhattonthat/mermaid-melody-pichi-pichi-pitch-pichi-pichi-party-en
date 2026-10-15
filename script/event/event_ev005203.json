@@ -10,7 +10,7 @@
     19
    ],
    "jp": "あれ？\nちょっと　まよっちゃったかも‥‥",
-   "en": ""
+   "en": "Huh?\nI think I might be lost..."
   },
   {
    "id": "event_ev005203:002A",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "どうしようかな‥‥",
-   "en": ""
+   "en": "What should I do..."
   },
   {
    "id": "event_ev005203:003E",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "あ！！　いいところに\nイルカさんが　およいでる！",
-   "en": ""
+   "en": "Oh!! Perfect timing,\nthere's a dolphin swimming by!"
   },
   {
    "id": "event_ev005203:0070",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "よーし！　イルカさんに\nきいてみよう！",
-   "en": ""
+   "en": "Okay! I'll ask\nthe dolphin!"
   },
   {
    "id": "event_ev005203:0098",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "まよっている　ところを\nイルカさんに　たすけてもらった",
-   "en": ""
+   "en": "I was lost,\nbut a dolphin helped me out!"
   },
   {
    "id": "event_ev005203:00D0",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005203:0114",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "あれ？　ここはどこだろ\nちょっと　まよっちゃったみたい‥‥",
-   "en": ""
+   "en": "Huh? Where am I?\nLooks like I'm a little lost..."
   },
   {
    "id": "event_ev005203:0150",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "けっこう　やばいかも‥‥",
-   "en": ""
+   "en": "This might be pretty bad..."
   },
   {
    "id": "event_ev005203:016A",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "あ！！　いいところに\nイルカが　およいでるじゃなーい！",
-   "en": ""
+   "en": "Oh!! Perfect timing,\nthere's a dolphin swimming by!"
   },
   {
    "id": "event_ev005203:01A2",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "ぜんはいそげよ！\nさっそくきいてみよっと！",
-   "en": ""
+   "en": "No time like the present!\nI'll ask right away!"
   },
   {
    "id": "event_ev005203:01CE",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "まよっている　ところを\nイルカさんに　たすけてもらった",
-   "en": ""
+   "en": "I was lost,\nbut a dolphin helped me out!"
   },
   {
    "id": "event_ev005203:0206",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005203:024A",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "ここはどこだろう‥‥\nどうやら　まよったらしいな‥‥",
-   "en": ""
+   "en": "Where am I...?\nLooks like I'm lost..."
   },
   {
    "id": "event_ev005203:0280",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "わたしと　したことが‥‥",
-   "en": ""
+   "en": "How unlike me..."
   },
   {
    "id": "event_ev005203:029A",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "ん！？　あそこに\nイルカが　およいでいるな‥‥",
-   "en": ""
+   "en": "Hm?! There's a dolphin\nswimming over there..."
   },
   {
    "id": "event_ev005203:02CA",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "よし！　さっそくたずねてみるか",
-   "en": ""
+   "en": "All right! I'll ask it right away."
   },
   {
    "id": "event_ev005203:02EA",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "まよっている　ところを\nイルカさんに　たすけてもらった",
-   "en": ""
+   "en": "I was lost,\nbut a dolphin helped me out!"
   },
   {
    "id": "event_ev005203:0322",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   }
  ]
 }

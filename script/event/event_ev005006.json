@@ -9,7 +9,7 @@
     23
    ],
    "jp": "ちょっと{h }ちょっと　きみ",
-   "en": ""
+   "en": "Hey, hey, you there!"
   },
   {
    "id": "event_ev005006:001A",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "え？　わたし？\n（わ　ちょっとかっこいいかも‥‥）",
-   "en": ""
+   "en": "Huh? Me?\n(Wow, he's kinda cool...)"
   },
   {
    "id": "event_ev005006:004E",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "そうそう{h }きみ！\nちょっと{h }ざっしに出てみない？",
-   "en": ""
+   "en": "Yes, yes, you!\nHow'd you like to be in a magazine?"
   },
   {
    "id": "event_ev005006:0080",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "ざっしって‥‥　ええっ！",
-   "en": ""
+   "en": "A magazine...? Whaaat?!"
   },
   {
    "id": "event_ev005006:009A",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "わっ{h }わたしちょっと‥‥\nご{h }ごめんなさーいっ！",
-   "en": ""
+   "en": "Uh, I-I'm kind of...\nS-sorryyy!"
   },
   {
    "id": "event_ev005006:00CC",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "ざっしのモデルにスカウト\nされちゃった{h }ちょっとビックリ！",
-   "en": ""
+   "en": "You got scouted as a magazine\nmodel! What a surprise!"
   },
   {
    "id": "event_ev005006:0108",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２１{i20F}』\n『{i20D}{h }まけない{h }こころ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +21{i20F}\"\n\"{i20D} Unbeatable Heart +2{i20F}\""
   },
   {
    "id": "event_ev005006:014E",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "ちょっと{h }ちょっと　きみ",
-   "en": ""
+   "en": "Hey, hey, you there!"
   },
   {
    "id": "event_ev005006:0168",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "え？　わたし？\n（きゃっ{h }ちょっと{h }かっこいいかも）",
-   "en": ""
+   "en": "Huh? Me?\n(Eek! He's kinda cool!)"
   },
   {
    "id": "event_ev005006:019E",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "そうそう{h }きみ！\nちょっと{h }ざっしに出てみない？",
-   "en": ""
+   "en": "Yes, yes, you!\nHow'd you like to be in a magazine?"
   },
   {
    "id": "event_ev005006:01D0",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "ええ！\nひょっとして{h }スカウトですか！？",
-   "en": ""
+   "en": "Whaaat!\nCould this be a scouting offer?!"
   },
   {
    "id": "event_ev005006:01FA",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "え〜っと‥‥",
-   "en": ""
+   "en": "Ummm..."
   },
   {
    "id": "event_ev005006:0208",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "どうしよっかなあ‥‥",
-   "en": ""
+   "en": "What should I dooo..."
   },
   {
    "id": "event_ev005006:021E",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "ざっしのモデルにスカウト\nされちゃった{h }ちょっとビックリ！",
-   "en": ""
+   "en": "You got scouted as a magazine\nmodel! What a surprise!"
   },
   {
    "id": "event_ev005006:025A",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２１{i20F}』\n『{i20D}{h }まけない{h }こころ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +21{i20F}\"\n\"{i20D} Unbeatable Heart +2{i20F}\""
   },
   {
    "id": "event_ev005006:02A0",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "ちょっと{h }ちょっと　きみ",
-   "en": ""
+   "en": "Hey, hey, you there!"
   },
   {
    "id": "event_ev005006:02BA",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "‥‥わたしですか？",
-   "en": ""
+   "en": "...Me?"
   },
   {
    "id": "event_ev005006:02CE",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "そうそう{h }きみ！\nちょっと{h }ざっしに出てみない？",
-   "en": ""
+   "en": "Yes, yes, you!\nHow'd you like to be in a magazine?"
   },
   {
    "id": "event_ev005006:0300",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "‥‥は？　な{h }なにを‥‥",
-   "en": ""
+   "en": "...Huh? Wh-what are you..."
   },
   {
    "id": "event_ev005006:031A",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "しつれいする！",
-   "en": ""
+   "en": "Excuse me!"
   },
   {
    "id": "event_ev005006:032A",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "あ！　ちょっ{h }ちょっときみ！",
-   "en": ""
+   "en": "Ah! H-hey, wait!"
   },
   {
    "id": "event_ev005006:0348",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "ざっしのモデルにスカウト\nされちゃった{h }ちょっとビックリ！",
-   "en": ""
+   "en": "You got scouted as a magazine\nmodel! What a surprise!"
   },
   {
    "id": "event_ev005006:0384",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２１{i20F}』\n『{i20D}{h }まけない{h }こころ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +21{i20F}\"\n\"{i20D} Unbeatable Heart +2{i20F}\""
   }
  ]
 }

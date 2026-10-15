@@ -9,7 +9,7 @@
     31
    ],
    "jp": "ちょっと！　そこのあなた！",
-   "en": ""
+   "en": "Hey! You there!"
   },
   {
    "id": "event_ev005104:001C",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "え？　わたし？　なんだろう…",
-   "en": ""
+   "en": "Huh? Me? What is it...?"
   },
   {
    "id": "event_ev005104:003A",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "あなた\nうちの学校の　せいとでしょう？",
-   "en": ""
+   "en": "You're a student\nat our school, aren't you?"
   },
   {
    "id": "event_ev005104:0062",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "なんです？　そのペンダントは！",
-   "en": ""
+   "en": "What is that pendant?!"
   },
   {
    "id": "event_ev005104:0082",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "ええ？　…これは\nだいじなもの{h }なんです",
-   "en": ""
+   "en": "Huh? ...This is\nsomething precious to me."
   },
   {
    "id": "event_ev005104:00AC",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "いいこと？{h }学校は　\nおべんきょう{h }するところです",
-   "en": ""
+   "en": "Listen here! School is\na place for studying."
   },
   {
    "id": "event_ev005104:00E0",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "ひつようないでしょう？\nそんなペンダント！",
-   "en": ""
+   "en": "You don't need\na pendant like that!"
   },
   {
    "id": "event_ev005104:010C",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "まったく　いまどきの子どもは……",
-   "en": ""
+   "en": "Honestly, children these days..."
   },
   {
    "id": "event_ev005104:012E",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "おせっきょう　されちゃった…",
-   "en": ""
+   "en": "I got a lecture..."
   },
   {
    "id": "event_ev005104:014C",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005104:0192",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "ちょっと！　そこのあなた！",
-   "en": ""
+   "en": "Hey! You there!"
   },
   {
    "id": "event_ev005104:01AE",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "…わたしのことですか？\n（なによ　このおばさん）",
-   "en": ""
+   "en": "...Do you mean me?\n(Who's this old lady?)"
   },
   {
    "id": "event_ev005104:01E0",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "あなた\nうちの学校の　せいとでしょう？",
-   "en": ""
+   "en": "You're a student\nat our school, aren't you?"
   },
   {
    "id": "event_ev005104:0208",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "なんです？　そのペンダントは！",
-   "en": ""
+   "en": "What is that pendant?!"
   },
   {
    "id": "event_ev005104:0228",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "なにって\nただの{h }ペンダントですけど…",
-   "en": ""
+   "en": "What is it?\nIt's just a pendant..."
   },
   {
    "id": "event_ev005104:0250",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "いいこと？{h }学校は　\nおべんきょう{h }するところです",
-   "en": ""
+   "en": "Listen here! School is\na place for studying."
   },
   {
    "id": "event_ev005104:0284",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "ひつようないでしょう？\nそんなペンダント！",
-   "en": ""
+   "en": "You don't need\na pendant like that!"
   },
   {
    "id": "event_ev005104:02B0",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "まったく　いまどきの子どもは……",
-   "en": ""
+   "en": "Honestly, children these days..."
   },
   {
    "id": "event_ev005104:02D2",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "（もうっ　うるさーいっ）",
-   "en": ""
+   "en": "(Ugh, she's so naggy!)"
   },
   {
    "id": "event_ev005104:02EC",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "おせっきょう　されちゃった…",
-   "en": ""
+   "en": "I got a lecture..."
   },
   {
    "id": "event_ev005104:030A",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005104:0350",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "ちょっと！　そこのあなた！",
-   "en": ""
+   "en": "Hey! You there!"
   },
   {
    "id": "event_ev005104:036C",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "わたしのことか？",
-   "en": ""
+   "en": "Do you mean me?"
   },
   {
    "id": "event_ev005104:037E",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "あなた\nうちの学校の　せいとでしょう？",
-   "en": ""
+   "en": "You're a student\nat our school, aren't you?"
   },
   {
    "id": "event_ev005104:03A6",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "なんです？\n男みたいなかっこうをして！",
-   "en": ""
+   "en": "What is that?\nDressing like a boy!"
   },
   {
    "id": "event_ev005104:03CE",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "そんなもの\n人のかってだとおもうが",
-   "en": ""
+   "en": "I'd think how I dress\nis my own business."
   },
   {
    "id": "event_ev005104:03F2",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "まああっ！\n口ごたえをするつもり！",
-   "en": ""
+   "en": "Well, I never!\nAre you talking back to me?!"
   },
   {
    "id": "event_ev005104:0416",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "まったく　いまどきの子どもは……\nちょっと！　あなたきいてるの？",
-   "en": ""
+   "en": "Honestly, children these days...\nHey! Are you listening to me?"
   },
   {
    "id": "event_ev005104:0458",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "ふう…\n（うるさい　おばさんだな…）",
-   "en": ""
+   "en": "Sigh...\n(What a naggy old lady...)"
   },
   {
    "id": "event_ev005104:047E",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "おせっきょう　されちゃった…",
-   "en": ""
+   "en": "I got a lecture..."
   },
   {
    "id": "event_ev005104:049C",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   }
  ]
 }

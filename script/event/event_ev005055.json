@@ -10,7 +10,7 @@
     63
    ],
    "jp": "（ぽろっ　‥‥パサッ）",
-   "en": ""
+   "en": "(Plop... Flap)"
   },
   {
    "id": "event_ev005055:0018",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "あ！　おじさーん\nこれ{h }おとしましたよ",
-   "en": ""
+   "en": "Oh! Mister!\nYou dropped this!"
   },
   {
    "id": "event_ev005055:0040",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "なんだい？\nああ　ありがとう！",
-   "en": ""
+   "en": "What's that?\nOh, thank you!"
   },
   {
    "id": "event_ev005055:0060",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "せっかく{h }かった{h }たからクジを\nおとしていく{h }ところだったよ",
-   "en": ""
+   "en": "I almost lost the lottery\ntickets I went to the trouble of buying!"
   },
   {
    "id": "event_ev005055:009E",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "はい　これは{h }ひろってくれた\nおれいだよ　１まい{h }あげよう",
-   "en": ""
+   "en": "Here, as thanks for picking\nthem up, you can have one."
   },
   {
    "id": "event_ev005055:00DA",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "ええ？　あ{h }おじさん！\n‥‥たからクジもらっちゃった",
-   "en": ""
+   "en": "Huh? Oh, mister!\n...He gave me a lottery ticket."
   },
   {
    "id": "event_ev005055:0110",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "えっと‥‥？　ぎんいろのぶぶんを\nこすればいいのかなあ？",
-   "en": ""
+   "en": "Um...? Do I scratch\noff the silver part?"
   },
   {
    "id": "event_ev005055:014A",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "これと　これと‥‥\nすごーい！　２つそろっちゃった！",
-   "en": ""
+   "en": "This one, and this one...\nWow! Two of them match!"
   },
   {
    "id": "event_ev005055:0180",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "あとひとつは‥‥",
-   "en": ""
+   "en": "The last one is..."
   },
   {
    "id": "event_ev005055:0192",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "　あとひとつはどれ？",
-   "en": ""
+   "en": " Which Is the Last?"
   },
   {
    "id": "event_ev005055:01A8",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "ひだり　かな？",
-   "en": ""
+   "en": "The left?"
   },
   {
    "id": "event_ev005055:01B8",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "まんなか‥‥？",
-   "en": ""
+   "en": "The middle...?"
   },
   {
    "id": "event_ev005055:01C8",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "みぎ！",
-   "en": ""
+   "en": "The right!"
   },
   {
    "id": "event_ev005055:01D0",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "ああ〜　はずれちゃった\nとちゅうまでは{h }よかったのに〜",
-   "en": ""
+   "en": "Awww, I lost.\nIt was going so well, too..."
   },
   {
    "id": "event_ev005055:0208",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "あたるかとおもって\nちょっとドキドキしちゃった",
-   "en": ""
+   "en": "You thought you might win,\nand your heart raced a little!"
   },
   {
    "id": "event_ev005055:0238",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005055:027C",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "わ！　そろっちゃった\nすごーい",
-   "en": ""
+   "en": "Wow! They all match!\nAmazing!"
   },
   {
    "id": "event_ev005055:029C",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "えっと\n『５とう』ってすごいのかな‥‥？",
-   "en": ""
+   "en": "Um...\nIs \"fifth prize\" good...?"
   },
   {
    "id": "event_ev005055:02C6",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "たからクジがあたって{h }びっくり！",
-   "en": ""
+   "en": "Your lottery ticket won!\nWhat a surprise!"
   },
   {
    "id": "event_ev005055:02E8",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +50{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005055:032C",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "（ぽろっ　‥‥パサッ）",
-   "en": ""
+   "en": "(Plop... Flap)"
   },
   {
    "id": "event_ev005055:0344",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "あ！　おじさーん\nこれ{h }おとしましたよ",
-   "en": ""
+   "en": "Oh! Mister!\nYou dropped this!"
   },
   {
    "id": "event_ev005055:036C",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "なんだい？\nああ　ありがとう！",
-   "en": ""
+   "en": "What's that?\nOh, thank you!"
   },
   {
    "id": "event_ev005055:038C",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "せっかく{h }かった{h }たからクジを\nおとしていく{h }ところだったよ",
-   "en": ""
+   "en": "I almost lost the lottery\ntickets I went to the trouble of buying!"
   },
   {
    "id": "event_ev005055:03CA",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "はい　これは{h }ひろってくれた\nおれいだよ　１まい{h }あげよう",
-   "en": ""
+   "en": "Here, as thanks for picking\nthem up, you can have one."
   },
   {
    "id": "event_ev005055:0406",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "え？　あ{h }おれいなんて‥‥\nいっちゃった‥‥",
-   "en": ""
+   "en": "Huh? Oh, you don't have to...\nHe's gone..."
   },
   {
    "id": "event_ev005055:0434",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "ちょっと{h }トクしちゃったかな",
-   "en": ""
+   "en": "Looks like I got lucky."
   },
   {
    "id": "event_ev005055:0452",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "これで{h }あたったらすごいわよね\nぎんいろのぶぶんをこすって‥‥",
-   "en": ""
+   "en": "It'd be amazing if this won.\nScratch off the silver part..."
   },
   {
    "id": "event_ev005055:0492",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "これと　これ‥‥",
-   "en": ""
+   "en": "This one, and this one..."
   },
   {
    "id": "event_ev005055:04A4",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "やったあ！　２つそろった！",
-   "en": ""
+   "en": "Yay! Two of them match!"
   },
   {
    "id": "event_ev005055:04C0",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "あ〜ん{h }どうしよう！\nあとひとつは‥‥",
-   "en": ""
+   "en": "Ahh, what do I do?!\nThe last one is..."
   },
   {
    "id": "event_ev005055:04E8",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "　あとひとつはどれ？",
-   "en": ""
+   "en": " Which Is the Last?"
   },
   {
    "id": "event_ev005055:04FE",
@@ -266,7 +266,7 @@
     32
    ],
    "jp": "ひだり　かな？",
-   "en": ""
+   "en": "The left?"
   },
   {
    "id": "event_ev005055:050E",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "まんなか‥‥？",
-   "en": ""
+   "en": "The middle...?"
   },
   {
    "id": "event_ev005055:051E",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "みぎ！",
-   "en": ""
+   "en": "The right!"
   },
   {
    "id": "event_ev005055:0526",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "ああ〜　はずれちゃった\nざんねん",
-   "en": ""
+   "en": "Awww, I lost.\nToo bad."
   },
   {
    "id": "event_ev005055:0548",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "あたるかとおもって\nちょっとドキドキしちゃった",
-   "en": ""
+   "en": "You thought you might win,\nand your heart raced a little!"
   },
   {
    "id": "event_ev005055:0578",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005055:05BC",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "あ！　やったあ\n５とうに{h }あたってる！",
-   "en": ""
+   "en": "Oh! Yay!\nI won fifth prize!"
   },
   {
    "id": "event_ev005055:05E4",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "たからクジがあたって{h }びっくり！",
-   "en": ""
+   "en": "Your lottery ticket won!\nWhat a surprise!"
   },
   {
    "id": "event_ev005055:0606",
@@ -330,7 +330,7 @@
     40
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +50{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005055:064A",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "（ぽろっ　‥‥パサッ）",
-   "en": ""
+   "en": "(Plop... Flap)"
   },
   {
    "id": "event_ev005055:0662",
@@ -346,7 +346,7 @@
     42
    ],
    "jp": "あ！　ちょっとまって下さい\nこれ{h }おとしましたよ",
-   "en": ""
+   "en": "Ah! Excuse me, wait a moment.\nYou dropped this."
   },
   {
    "id": "event_ev005055:0694",
@@ -354,7 +354,7 @@
     43
    ],
    "jp": "なんだい？\nああ　ありがとう！",
-   "en": ""
+   "en": "What's that?\nOh, thank you!"
   },
   {
    "id": "event_ev005055:06B4",
@@ -362,7 +362,7 @@
     44
    ],
    "jp": "せっかく{h }かった{h }たからクジを\nおとしていく{h }ところだったよ",
-   "en": ""
+   "en": "I almost lost the lottery\ntickets I went to the trouble of buying!"
   },
   {
    "id": "event_ev005055:06F2",
@@ -370,7 +370,7 @@
     45
    ],
    "jp": "はい　これは{h }ひろってくれた\nおれいだよ　１まい{h }あげよう",
-   "en": ""
+   "en": "Here, as thanks for picking\nthem up, you can have one."
   },
   {
    "id": "event_ev005055:072E",
@@ -378,7 +378,7 @@
     46
    ],
    "jp": "あ　いや\nそんなものは{h }べつに‥‥",
-   "en": ""
+   "en": "Oh, no,\nthere's no need for that..."
   },
   {
    "id": "event_ev005055:0752",
@@ -386,7 +386,7 @@
     47
    ],
    "jp": "いってしまったか‥‥",
-   "en": ""
+   "en": "He's gone..."
   },
   {
    "id": "event_ev005055:0768",
@@ -394,7 +394,7 @@
     48
    ],
    "jp": "えっと‥‥？　どうやるんだ？\nぎんいろのぶぶんをこするんだよな？",
-   "en": ""
+   "en": "Um...? How does this work?\nI scratch off the silver part, right?"
   },
   {
    "id": "event_ev005055:07AA",
@@ -402,7 +402,7 @@
     49
    ],
    "jp": "‥‥　どうしよう\n２つまでそろってしまった",
-   "en": ""
+   "en": "...What now?\nTwo of them actually match."
   },
   {
    "id": "event_ev005055:07D6",
@@ -410,7 +410,7 @@
     50
    ],
    "jp": "あと{h }ひとつか‥‥",
-   "en": ""
+   "en": "Just one more, huh..."
   },
   {
    "id": "event_ev005055:07EA",
@@ -418,7 +418,7 @@
     51
    ],
    "jp": "　あとひとつはどれ？",
-   "en": ""
+   "en": " Which Is the Last?"
   },
   {
    "id": "event_ev005055:0800",
@@ -426,7 +426,7 @@
     52
    ],
    "jp": "ひだり　かな？",
-   "en": ""
+   "en": "The left?"
   },
   {
    "id": "event_ev005055:0810",
@@ -434,7 +434,7 @@
     53
    ],
    "jp": "まんなか‥‥？",
-   "en": ""
+   "en": "The middle...?"
   },
   {
    "id": "event_ev005055:0820",
@@ -442,7 +442,7 @@
     54
    ],
    "jp": "みぎ！",
-   "en": ""
+   "en": "The right!"
   },
   {
    "id": "event_ev005055:0828",
@@ -450,7 +450,7 @@
     55
    ],
    "jp": "はずれたか\nま　いいユメみれたってトコかな",
-   "en": ""
+   "en": "It lost, huh.\nWell, at least I got a nice dream out of it."
   },
   {
    "id": "event_ev005055:0854",
@@ -458,7 +458,7 @@
     56
    ],
    "jp": "あたるかとおもって\nちょっとドキドキしちゃった",
-   "en": ""
+   "en": "You thought you might win,\nand your heart raced a little!"
   },
   {
    "id": "event_ev005055:0884",
@@ -466,7 +466,7 @@
     57
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005055:08C8",
@@ -474,7 +474,7 @@
     58
    ],
    "jp": "‥‥そろってしまった",
-   "en": ""
+   "en": "...They all matched."
   },
   {
    "id": "event_ev005055:08DE",
@@ -482,7 +482,7 @@
     59
    ],
    "jp": "きんがくは{h }ひくいとはいえ\nちょっとトクしたかな",
-   "en": ""
+   "en": "It's not much money,\nbut I guess I came out ahead."
   },
   {
    "id": "event_ev005055:0910",
@@ -490,7 +490,7 @@
     60
    ],
    "jp": "たからクジがあたって{h }びっくり！",
-   "en": ""
+   "en": "Your lottery ticket won!\nWhat a surprise!"
   },
   {
    "id": "event_ev005055:0932",
@@ -498,7 +498,7 @@
     61
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +50{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   }
  ]
 }

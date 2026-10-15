@@ -9,7 +9,7 @@
     31
    ],
    "jp": "わあ\nここクローバーがいっぱい！",
-   "en": ""
+   "en": "Wow,\nthere's tons of clover here!"
   },
   {
    "id": "event_ev005051:0022",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "こううんのおまじないの\nよつばのクローバーさがしちゃお！",
-   "en": ""
+   "en": "I'll look for a four-leaf\nclover for a good-luck charm!"
   },
   {
    "id": "event_ev005051:005C",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get 8 or more in total!"
   },
   {
    "id": "event_ev005051:00A4",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "　よつばをさがそう！",
-   "en": ""
+   "en": " Find a Four-Leaf!"
   },
   {
    "id": "event_ev005051:00BA",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "やったあ{h }はっけん！",
-   "en": ""
+   "en": "Yay, I found one!"
   },
   {
    "id": "event_ev005051:00D0",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "こううんの\nよつばのクローバーを見つけたよ！",
-   "en": ""
+   "en": "You found a lucky\nfour-leaf clover!"
   },
   {
    "id": "event_ev005051:00FE",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005051:0144",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "う〜ん　なかなか{h }見つからないなあ",
-   "en": ""
+   "en": "Hmmm, I just can't find one..."
   },
   {
    "id": "event_ev005051:0168",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "またこんど{h }さがすことにした",
-   "en": ""
+   "en": "You decided to look another time."
   },
   {
    "id": "event_ev005051:0186",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005051:01CC",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "すごい\nクローバーがいっぱい",
-   "en": ""
+   "en": "Amazing,\nthere's tons of clover!"
   },
   {
    "id": "event_ev005051:01EA",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "よ〜し　こううんのおまじないの\nよつばのクローバーさがしちゃお！",
-   "en": ""
+   "en": "Okaaay, I'll look for a four-leaf\nclover for a good-luck charm!"
   },
   {
    "id": "event_ev005051:022C",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get 8 or more in total!"
   },
   {
    "id": "event_ev005051:0274",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "　よつばをさがそう！",
-   "en": ""
+   "en": " Find a Four-Leaf!"
   },
   {
    "id": "event_ev005051:028A",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "やった！{h }見つけた！",
-   "en": ""
+   "en": "Yay! I found one!"
   },
   {
    "id": "event_ev005051:02A0",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "こううんの\nよつばのクローバーを見つけたよ！",
-   "en": ""
+   "en": "You found a lucky\nfour-leaf clover!"
   },
   {
    "id": "event_ev005051:02CE",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005051:0314",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "‥‥なかなか{h }見つからないものね",
-   "en": ""
+   "en": "...They're really hard to find."
   },
   {
    "id": "event_ev005051:0336",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "またこんど{h }さがすことにした",
-   "en": ""
+   "en": "You decided to look another time."
   },
   {
    "id": "event_ev005051:0354",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005051:039A",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "これはすごい\nクローバーがいっぱいだ",
-   "en": ""
+   "en": "This is amazing.\nSo much clover."
   },
   {
    "id": "event_ev005051:03C0",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "そういえば{h }るちあたちが‥‥",
-   "en": ""
+   "en": "Come to think of it, Lucia and Hanon..."
   },
   {
    "id": "event_ev005051:03DE",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "よつばのクローバーがほしいとか\nいっていたな‥‥",
-   "en": ""
+   "en": "said they wanted\na four-leaf clover..."
   },
   {
    "id": "event_ev005051:0410",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get 8 or more in total!"
   },
   {
    "id": "event_ev005051:0458",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "　よつばをさがそう！",
-   "en": ""
+   "en": " Find a Four-Leaf!"
   },
   {
    "id": "event_ev005051:046E",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "‥‥！　おどろいた\nほんとに見つかるもんだな‥‥",
-   "en": ""
+   "en": "...! I'm surprised.\nYou really can find one..."
   },
   {
    "id": "event_ev005051:04A0",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "こううんの\nよつばのクローバーを見つけたよ！",
-   "en": ""
+   "en": "You found a lucky\nfour-leaf clover!"
   },
   {
    "id": "event_ev005051:04CE",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋６０{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +60{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005051:0514",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "やっぱり\nかんたんには見つからないか‥‥",
-   "en": ""
+   "en": "I guess they're\nnot that easy to find..."
   },
   {
    "id": "event_ev005051:053E",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "またこんど{h }さがすことにした",
-   "en": ""
+   "en": "You decided to look another time."
   },
   {
    "id": "event_ev005051:055C",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   }
  ]
 }

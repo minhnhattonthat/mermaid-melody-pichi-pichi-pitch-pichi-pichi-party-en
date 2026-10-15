@@ -10,7 +10,7 @@
     43
    ],
    "jp": "きゃあ！　ひったくりよ！\nだれか‥‥　その人をつかまえて！",
-   "en": ""
+   "en": "Eek! A purse snatcher!\nSomeone... Catch that man!"
   },
   {
    "id": "event_ev005056:003C",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "たいへん！　ひったくりを\nつかまえなきゃ！",
-   "en": ""
+   "en": "Oh no! I have to\ncatch that purse snatcher!"
   },
   {
    "id": "event_ev005056:0068",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "よーし！\nこのバッグ{h }なげつけちゃえ！",
-   "en": ""
+   "en": "Okay!\nI'll throw this bag at him!"
   },
   {
    "id": "event_ev005056:0090",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4002]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4002] or more in total!"
   },
   {
    "id": "event_ev005056:00DA",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "　バッグでねらえ！",
-   "en": ""
+   "en": " Aim with the Bag!"
   },
   {
    "id": "event_ev005056:00EE",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "（なげたバッグが{h }こをえがいて\nにげていた男の人をちょくげきした）",
-   "en": ""
+   "en": "(The bag flies in an arc and\nhits the fleeing man dead-on!)"
   },
   {
    "id": "event_ev005056:0132",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "やった！　うまくいったみたい",
-   "en": ""
+   "en": "Yay! Looks like it worked!"
   },
   {
    "id": "event_ev005056:0150",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "とっさのきてんで{h }はんにんを\nつかまえる{h }てだすけができた",
-   "en": ""
+   "en": "Your quick thinking helped\ncatch the culprit!"
   },
   {
    "id": "event_ev005056:018C",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋７０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +70{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005056:01D0",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005056:0216",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "（なげたバッグが{h }空をはしるも\nあたることなく{h }はずれた）",
-   "en": ""
+   "en": "(The bag sails through the air\nbut misses completely.)"
   },
   {
    "id": "event_ev005056:0252",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "ああ〜！\nはずれちゃった‥‥",
-   "en": ""
+   "en": "Aaah!\nI missed..."
   },
   {
    "id": "event_ev005056:0270",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "がんばったけど\nはんにんをとりにがしてしまった",
-   "en": ""
+   "en": "You tried your best, but\nthe culprit got away."
   },
   {
    "id": "event_ev005056:02A0",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２４{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +24{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005056:02E6",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "きゃあ！　ひったくりよ！\nだれか‥‥　その人をつかまえて！",
-   "en": ""
+   "en": "Eek! A purse snatcher!\nSomeone... Catch that man!"
   },
   {
    "id": "event_ev005056:0322",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "たいへん！　ひったくりを\nつかまえなきゃ！",
-   "en": ""
+   "en": "Oh no! I have to\ncatch that purse snatcher!"
   },
   {
    "id": "event_ev005056:034E",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "よーし！\nこのバッグ{h }なげつけちゃえ！",
-   "en": ""
+   "en": "Okay!\nI'll throw this bag at him!"
   },
   {
    "id": "event_ev005056:0376",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4002]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4002] or more in total!"
   },
   {
    "id": "event_ev005056:03C0",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "　バッグでねらえ！",
-   "en": ""
+   "en": " Aim with the Bag!"
   },
   {
    "id": "event_ev005056:03D4",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "（なげたバッグが{h }こをえがいて\nにげていた男の人をちょくげきした）",
-   "en": ""
+   "en": "(The bag flies in an arc and\nhits the fleeing man dead-on!)"
   },
   {
    "id": "event_ev005056:0418",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "やった！　うまくいったみたい",
-   "en": ""
+   "en": "Yay! Looks like it worked!"
   },
   {
    "id": "event_ev005056:0436",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "とっさのきてんで{h }はんにんを\nつかまえる{h }てだすけができた",
-   "en": ""
+   "en": "Your quick thinking helped\ncatch the culprit!"
   },
   {
    "id": "event_ev005056:0472",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋７０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +70{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005056:04B6",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005056:04FC",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "（なげたバッグが{h }空をはしるも\nあたることなく{h }はずれた）",
-   "en": ""
+   "en": "(The bag sails through the air\nbut misses completely.)"
   },
   {
    "id": "event_ev005056:0538",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "ああ〜！{h }もう！\nはずれちゃった‥‥",
-   "en": ""
+   "en": "Aaah! Geez!\nI missed..."
   },
   {
    "id": "event_ev005056:055E",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "がんばったけど\nはんにんをとりにがしてしまった",
-   "en": ""
+   "en": "You tried your best, but\nthe culprit got away."
   },
   {
    "id": "event_ev005056:058E",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２４{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +24{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005056:05D4",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "きゃあ！　ひったくりよ！\nだれか‥‥　その人をつかまえて！",
-   "en": ""
+   "en": "Eek! A purse snatcher!\nSomeone... Catch that man!"
   },
   {
    "id": "event_ev005056:0610",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "‥‥！　あいつか！",
-   "en": ""
+   "en": "...! Is that him?!"
   },
   {
    "id": "event_ev005056:0624",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "まて！　にがさん！",
-   "en": ""
+   "en": "Wait! You won't get away!"
   },
   {
    "id": "event_ev005056:0638",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい[4001][4002]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20E} Nimble Steps and the\nroulette to get [4001][4002] or more in total!"
   },
   {
    "id": "event_ev005056:0682",
@@ -266,7 +266,7 @@
     32
    ],
    "jp": "　おいかけよう！",
-   "en": ""
+   "en": " Chase Him!"
   },
   {
    "id": "event_ev005056:0694",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "（みるみるうちに\nリナとのきょりがちぢまる）",
-   "en": ""
+   "en": "(In no time at all, the gap\nbetween him and Rina closes.)"
   },
   {
    "id": "event_ev005056:06C2",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "やっ！\n（リナのまわしげりが{h }いっせん！）",
-   "en": ""
+   "en": "Hyah!\n(Rina's roundhouse kick flashes!)"
   },
   {
    "id": "event_ev005056:06EE",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "とっさのきてんで{h }はんにんを\nつかまえる{h }てだすけができた",
-   "en": ""
+   "en": "Your quick thinking helped\ncatch the culprit!"
   },
   {
    "id": "event_ev005056:072A",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋７０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +70{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005056:076E",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005056:07B4",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "（おいかけるも　にげるはんにんを\nのがしてしまった‥‥）",
-   "en": ""
+   "en": "(She gave chase, but the\nfleeing culprit got away...)"
   },
   {
    "id": "event_ev005056:07EE",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "しまった！　見うしなったか！",
-   "en": ""
+   "en": "Darn! I lost sight of him!"
   },
   {
    "id": "event_ev005056:080C",
@@ -330,7 +330,7 @@
     40
    ],
    "jp": "がんばったけど\nはんにんをとりにがしてしまった",
-   "en": ""
+   "en": "You tried your best, but\nthe culprit got away."
   },
   {
    "id": "event_ev005056:083C",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２４{i20F}』\n『{i20D}{h }まけない{h }こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +24{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   }
  ]
 }

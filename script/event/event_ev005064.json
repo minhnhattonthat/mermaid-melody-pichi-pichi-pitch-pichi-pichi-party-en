@@ -8,7 +8,7 @@
     0
    ],
    "jp": "えっと　かってきた本によると\nこのこううんのおまじないは‥‥",
-   "en": ""
+   "en": "Um, according to the book I bought,\nthis good-luck charm goes..."
   },
   {
    "id": "event_ev005064:003E",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "しあげに　おひるのお月さまに\nむけて目をつむって１００ぽあるいて",
-   "en": ""
+   "en": "To finish, face the daytime moon,\nclose your eyes, walk 100 steps,"
   },
   {
    "id": "event_ev005064:0080",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "それから　あたまの中でつよく\nこのじゅもんを{h }３かいとなえるのね",
-   "en": ""
+   "en": "and then chant this spell\nfirmly in your head three times."
   },
   {
    "id": "event_ev005064:00C2",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけいでいろいろなことが",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette: the total decides what happens!"
   },
   {
    "id": "event_ev005064:010A",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "　つよくねがいをかける",
-   "en": ""
+   "en": " Make a Strong Wish"
   },
   {
    "id": "event_ev005064:0122",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "‥‥　どこかで\nまちがっちゃったかなあ",
-   "en": ""
+   "en": "...Did I mess up\nsomewhere...?"
   },
   {
    "id": "event_ev005064:014A",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "しっぱいした気がする",
-   "en": ""
+   "en": "I have a feeling it failed."
   },
   {
    "id": "event_ev005064:0160",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "おまじないしっぱい",
-   "en": ""
+   "en": "The charm failed."
   },
   {
    "id": "event_ev005064:0174",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５{i20F}』\n『{i20C}うたう{h }ちから　−８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +5{i20F}\"\n\"{i20C} Singing Power -8{i210}\""
   },
   {
    "id": "event_ev005064:01B4",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "『{i20D}まけない{h }こころ　−８{i210}』\n『{i20E}けいかいなステップ　−８{i210}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart -8{i210}\"\n\"{i20E} Nimble Steps -8{i210}\""
   },
   {
    "id": "event_ev005064:01F6",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "‥‥　ほんとうに\nこうかがあるのかなあ？",
-   "en": ""
+   "en": "...Does it really\nwork, I wonder?"
   },
   {
    "id": "event_ev005064:0220",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:024A",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +10{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005064:028E",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005064:02D4",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "なんだか{h }いいかんじ\nこうかがあるような気がする",
-   "en": ""
+   "en": "This feels kinda good.\nI think it's working."
   },
   {
    "id": "event_ev005064:0306",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:0330",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005064:0374",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋２{i20F}』\n『{i20E}{h }けいかいなステップ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +2{i20F}\"\n\"{i20E} Nimble Steps +2{i20F}\""
   },
   {
    "id": "event_ev005064:03BA",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "なんだか{h }すごく\nこうかがあるような気がする",
-   "en": ""
+   "en": "Somehow I feel like it's\nworking really well."
   },
   {
    "id": "event_ev005064:03E8",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:0412",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋３{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20C} Singing Power +3{i20F}\""
   },
   {
    "id": "event_ev005064:0456",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋３{i20F}』\n『{i20E}{h }けいかいなステップ　＋３{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +3{i20F}\"\n\"{i20E} Nimble Steps +3{i20F}\""
   },
   {
    "id": "event_ev005064:049C",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "なんだか{h }すっごく\nこうかがあるような気がする",
-   "en": ""
+   "en": "Somehow I feel like it's\nworking super well!"
   },
   {
    "id": "event_ev005064:04CC",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:04F6",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\"\n\"{i20C} Singing Power +4{i20F}\""
   },
   {
    "id": "event_ev005064:053A",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋４{i20F}』\n『{i20E}{h }けいかいなステップ　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +4{i20F}\"\n\"{i20E} Nimble Steps +4{i20F}\""
   },
   {
    "id": "event_ev005064:0580",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "えっと　かってきた本によると\nこのこううんのおまじないは‥‥",
-   "en": ""
+   "en": "Um, according to the book I bought,\nthis good-luck charm goes..."
   },
   {
    "id": "event_ev005064:05BE",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "しあげに　おひるのお月さまに\nむけて目をつむって１００ぽあるいて",
-   "en": ""
+   "en": "To finish, face the daytime moon,\nclose your eyes, walk 100 steps,"
   },
   {
    "id": "event_ev005064:0600",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "それから　あたまの中でつよく\nこのじゅもんを３かいとなえるのね",
-   "en": ""
+   "en": "and then chant this spell\nfirmly in my head three times."
   },
   {
    "id": "event_ev005064:0640",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけいでいろいろなことが",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette: the total decides what happens!"
   },
   {
    "id": "event_ev005064:0688",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "　つよくねがいをかける",
-   "en": ""
+   "en": " Make a Strong Wish"
   },
   {
    "id": "event_ev005064:06A0",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "‥‥へんね　どこかで\nまちがっちゃったのかなあ",
-   "en": ""
+   "en": "...That's weird. Did I\nmess up somewhere?"
   },
   {
    "id": "event_ev005064:06D0",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "しっぱいした気がする",
-   "en": ""
+   "en": "I have a feeling it failed."
   },
   {
    "id": "event_ev005064:06E6",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "おまじないしっぱい",
-   "en": ""
+   "en": "The charm failed."
   },
   {
    "id": "event_ev005064:06FA",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５{i20F}』\n『{i20C}うたう{h }ちから　−８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +5{i20F}\"\n\"{i20C} Singing Power -8{i210}\""
   },
   {
    "id": "event_ev005064:073A",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "『{i20D}まけない{h }こころ　−８{i210}』\n『{i20E}けいかいなステップ　−８{i210}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart -8{i210}\"\n\"{i20E} Nimble Steps -8{i210}\""
   },
   {
    "id": "event_ev005064:077C",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "こうかがあるような気がする",
-   "en": ""
+   "en": "I think it's working."
   },
   {
    "id": "event_ev005064:0798",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:07C2",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +10{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005064:0806",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005064:084C",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "なんだか{h }いいかんじ\nこうかがあるような気がする",
-   "en": ""
+   "en": "This feels kinda good.\nI think it's working."
   },
   {
    "id": "event_ev005064:087E",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:08A8",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005064:08EC",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋２{i20F}』\n『{i20E}{h }けいかいなステップ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +2{i20F}\"\n\"{i20E} Nimble Steps +2{i20F}\""
   },
   {
    "id": "event_ev005064:0932",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "なんだか{h }すごく\nこうかがあるような気がする",
-   "en": ""
+   "en": "Somehow I feel like it's\nworking really well."
   },
   {
    "id": "event_ev005064:0960",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:098A",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋３{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20C} Singing Power +3{i20F}\""
   },
   {
    "id": "event_ev005064:09CE",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋３{i20F}』\n『{i20E}{h }けいかいなステップ　＋３{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +3{i20F}\"\n\"{i20E} Nimble Steps +3{i20F}\""
   },
   {
    "id": "event_ev005064:0A14",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "なんだか{h }すっごく\nこうかがあるような気がするよ！",
-   "en": ""
+   "en": "Somehow I feel like it's\nworking super well!"
   },
   {
    "id": "event_ev005064:0A48",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:0A72",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\"\n\"{i20C} Singing Power +4{i20F}\""
   },
   {
    "id": "event_ev005064:0AB6",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋４{i20F}』\n『{i20E}{h }けいかいなステップ　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +4{i20F}\"\n\"{i20E} Nimble Steps +4{i20F}\""
   },
   {
    "id": "event_ev005064:0AFC",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "まったく　３人でおまじないの\nこうかをためすためとはいえ‥‥",
-   "en": ""
+   "en": "Honestly... Even if it's so the three\nof us can test a charm's effect..."
   },
   {
    "id": "event_ev005064:0B3A",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "わたしがこんなことを{h }するはめに\nなるとはな‥‥",
-   "en": ""
+   "en": "I never thought I'd end up\ndoing something like this..."
   },
   {
    "id": "event_ev005064:0B6C",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "え〜と　メモをみると‥‥\nこのこううんのおまじないは‥‥",
-   "en": ""
+   "en": "Let's see, according to my notes...\nthis good-luck charm goes..."
   },
   {
    "id": "event_ev005064:0BA6",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "しあげに　おひるのお月さまに\nむけて目をつむって１００ぽあるいて",
-   "en": ""
+   "en": "To finish, face the daytime moon,\nclose your eyes, walk 100 steps,"
   },
   {
    "id": "event_ev005064:0BE8",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "それから　あたまの中でつよく\nこのじゅもんを３かいとなえる",
-   "en": ""
+   "en": "and then chant this spell\nfirmly in your head three times."
   },
   {
    "id": "event_ev005064:0C24",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけいでいろいろなことが",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette: the total decides what happens!"
   },
   {
    "id": "event_ev005064:0C6C",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "　つよくねがいをかける",
-   "en": ""
+   "en": " Make a Strong Wish"
   },
   {
    "id": "event_ev005064:0C84",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "‥‥　どこかで\nまちがったか？",
-   "en": ""
+   "en": "...Did I go wrong\nsomewhere?"
   },
   {
    "id": "event_ev005064:0CA4",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "しっぱい{h }した気がする",
-   "en": ""
+   "en": "I have a feeling it failed."
   },
   {
    "id": "event_ev005064:0CBC",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "おまじないしっぱい",
-   "en": ""
+   "en": "The charm failed."
   },
   {
    "id": "event_ev005064:0CD0",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋５{i20F}』\n『{i20C}うたう{h }ちから　−８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +5{i20F}\"\n\"{i20C} Singing Power -8{i210}\""
   },
   {
    "id": "event_ev005064:0D10",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "『{i20D}まけない{h }こころ　−８{i210}』\n『{i20E}けいかいなステップ　−８{i210}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart -8{i210}\"\n\"{i20E} Nimble Steps -8{i210}\""
   },
   {
    "id": "event_ev005064:0D52",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "こんな子どもだましでも\nこうかが{h }あるような気がするな",
-   "en": ""
+   "en": "Even a kids' trick like this\nfeels like it might work."
   },
   {
    "id": "event_ev005064:0D8A",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:0DB4",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +10{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005064:0DF8",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005064:0E3E",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "‥‥\nこうかがあるような気がする",
-   "en": ""
+   "en": "...\nI think it's working."
   },
   {
    "id": "event_ev005064:0E60",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:0E8A",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005064:0ECE",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋２{i20F}』\n『{i20E}{h }けいかいなステップ　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +2{i20F}\"\n\"{i20E} Nimble Steps +2{i20F}\""
   },
   {
    "id": "event_ev005064:0F14",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "‥‥なぜだ？　なんだか{h }すごく\nこうかがあるような気がするな",
-   "en": ""
+   "en": "...Why? Somehow I feel like\nit's working really well."
   },
   {
    "id": "event_ev005064:0F52",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:0F7C",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋３{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20C} Singing Power +3{i20F}\""
   },
   {
    "id": "event_ev005064:0FC0",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋３{i20F}』\n『{i20E}{h }けいかいなステップ　＋３{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +3{i20F}\"\n\"{i20E} Nimble Steps +3{i20F}\""
   },
   {
    "id": "event_ev005064:1006",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "なんだ？　なんだか{h }すっごく\nこうかがあるような気がするな",
-   "en": ""
+   "en": "What? Somehow I feel like\nit's working super well."
   },
   {
    "id": "event_ev005064:1042",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "おまじないのこうか？\nステータスアップ！",
-   "en": ""
+   "en": "The charm's effect?\nStats up!"
   },
   {
    "id": "event_ev005064:106C",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\"\n\"{i20C} Singing Power +4{i20F}\""
   },
   {
    "id": "event_ev005064:10B0",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋４{i20F}』\n『{i20E}{h }けいかいなステップ　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +4{i20F}\"\n\"{i20E} Nimble Steps +4{i20F}\""
   }
  ]
 }

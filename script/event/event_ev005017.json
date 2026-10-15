@@ -10,7 +10,7 @@
     19
    ],
    "jp": "このおみせ{h }かわってる〜！\nズボンやスカートばっかり",
-   "en": ""
+   "en": "This shop is so unusual!\nIt's all pants and skirts."
   },
   {
    "id": "event_ev005017:0036",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "でも{h }ちょっとかっこいいかも",
-   "en": ""
+   "en": "But it's kinda cool."
   },
   {
    "id": "event_ev005017:0054",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "これ{h }いいかも\nどうしよう{h }かっちゃおうかな",
-   "en": ""
+   "en": "This might be nice...\nShould I buy it?"
   },
   {
    "id": "event_ev005017:0082",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "エキゾチックな{h }ボトムせんもんの\nおみせを見つけたよ！",
-   "en": ""
+   "en": "You found an exotic shop that\nsells only pants and skirts!"
   },
   {
    "id": "event_ev005017:00BA",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "『ようふくアイテムを手に入れたよ』",
-   "en": ""
+   "en": "\"You got a clothing item!\""
   },
   {
    "id": "event_ev005017:00DE",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +14{i20F}\""
   },
   {
    "id": "event_ev005017:0102",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "このおみせ{h }かわってる！\nズボンやスカートばっかり",
-   "en": ""
+   "en": "This shop is so unusual!\nIt's all pants and skirts."
   },
   {
    "id": "event_ev005017:0136",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "でも{h }ちょっとかっこいいかも",
-   "en": ""
+   "en": "But it's kinda cool."
   },
   {
    "id": "event_ev005017:0154",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "これ{h }ほし〜い！\nどうしよう{h }かっちゃいたい〜☆",
-   "en": ""
+   "en": "I want thiiis!\nAhh, I just have to buy it! ☆"
   },
   {
    "id": "event_ev005017:0186",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "エキゾチックな{h }ボトムせんもんの\nおみせを見つけたよ！",
-   "en": ""
+   "en": "You found an exotic shop that\nsells only pants and skirts!"
   },
   {
    "id": "event_ev005017:01BE",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "『ようふくアイテムを手に入れたよ』",
-   "en": ""
+   "en": "\"You got a clothing item!\""
   },
   {
    "id": "event_ev005017:01E2",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +14{i20F}\""
   },
   {
    "id": "event_ev005017:0206",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "へえ{h }ボトムせんもんてんか\nズボンやスカートばっかりだな",
-   "en": ""
+   "en": "Huh, a shop just for bottoms.\nIt's all pants and skirts."
   },
   {
    "id": "event_ev005017:0240",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "ちょっとみていくか",
-   "en": ""
+   "en": "I'll have a look."
   },
   {
    "id": "event_ev005017:0254",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "これ{h }なかなかいいな‥‥\nどうしよう{h }かっていくか‥‥",
-   "en": ""
+   "en": "This is pretty good...\nShould I buy it...?"
   },
   {
    "id": "event_ev005017:028C",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "エキゾチックな{h }ボトムせんもんの\nおみせを見つけたよ！",
-   "en": ""
+   "en": "You found an exotic shop that\nsells only pants and skirts!"
   },
   {
    "id": "event_ev005017:02C4",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "『ようふくアイテムを手に入れたよ』",
-   "en": ""
+   "en": "\"You got a clothing item!\""
   },
   {
    "id": "event_ev005017:02E8",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１４{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +14{i20F}\""
   }
  ]
 }

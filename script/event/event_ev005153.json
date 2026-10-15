@@ -11,7 +11,7 @@
     39
    ],
    "jp": "‥‥海斗って　わたしのこと\nほんとうは{h }どうおもってるんだろう",
-   "en": ""
+   "en": "...I wonder how Kaito\nreally feels about me."
   },
   {
    "id": "event_ev005153:0040",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "あ〜ん　もう‥‥\nこのきもち　どうしたらいいの‥‥？",
-   "en": ""
+   "en": "Waaah, geez...\nWhat do I do with these feelings...?"
   },
   {
    "id": "event_ev005153:0076",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005153:00C0",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "　ぶつかる！？",
-   "en": ""
+   "en": " Crash?!"
   },
   {
    "id": "event_ev005153:00D0",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "きゃ！　あぶないっ",
-   "en": ""
+   "en": "Eek! Look out!"
   },
   {
    "id": "event_ev005153:00E4",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "もうすこしで{h }でんちゅうに\nぶつかるところだった‥‥",
-   "en": ""
+   "en": "I almost crashed\ninto a telephone pole..."
   },
   {
    "id": "event_ev005153:011A",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "どうやら{h }しばらく{h }でんちゅうと\nむかいあって立ってたみたい‥‥",
-   "en": ""
+   "en": "Looks like I'd been standing\nface to face with a pole for a while..."
   },
   {
    "id": "event_ev005153:015C",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005153:0180",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "（ごつんッ☆）",
-   "en": ""
+   "en": "(BONK☆)"
   },
   {
    "id": "event_ev005153:0190",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "いた〜いっ！",
-   "en": ""
+   "en": "Owwww!"
   },
   {
    "id": "event_ev005153:019E",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "ボーッとしていて{h }でんちゅうに\nぶつかっちゃった　いたい‥‥",
-   "en": ""
+   "en": "I was spacing out and walked\ninto a telephone pole. Ow..."
   },
   {
    "id": "event_ev005153:01DC",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005153:0220",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "え〜と　どうやって太郎ちゃん\nをデートにつれだそうかしら？",
-   "en": ""
+   "en": "Hmm, how should I ask Taro\nout on a date?"
   },
   {
    "id": "event_ev005153:025C",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "うまくデートにさそえたら‥‥\n‥‥いや〜ん{i21C}",
-   "en": ""
+   "en": "If I manage to ask him out...\n...Eeek! {i21C}"
   },
   {
    "id": "event_ev005153:028A",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005153:02D4",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "　ぶつかる！？",
-   "en": ""
+   "en": " Crash?!"
   },
   {
    "id": "event_ev005153:02E4",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "きゃ！　あぶな〜いっ",
-   "en": ""
+   "en": "Eek! Look ouuut!"
   },
   {
    "id": "event_ev005153:02FA",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "もうすこしで{h }でんちゅうに\nぶつかるところだった‥‥",
-   "en": ""
+   "en": "I almost crashed\ninto a telephone pole..."
   },
   {
    "id": "event_ev005153:0330",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "どうやら{h }しばらく{h }でんちゅうと\nむかいあって立ってたみたい‥‥",
-   "en": ""
+   "en": "Looks like I'd been standing\nface to face with a pole for a while..."
   },
   {
    "id": "event_ev005153:0372",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005153:0396",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "（ごつんッ☆）",
-   "en": ""
+   "en": "(BONK☆)"
   },
   {
    "id": "event_ev005153:03A6",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "いた〜いっ！",
-   "en": ""
+   "en": "Owwww!"
   },
   {
    "id": "event_ev005153:03B4",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "ボーッとしていて{h }でんちゅうに\nぶつかっちゃった　いた〜い‥‥",
-   "en": ""
+   "en": "I was spacing out and walked\ninto a telephone pole. Owww..."
   },
   {
    "id": "event_ev005153:03F4",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005153:0438",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "るちあも波音も{h }男とつきあうこと\nばかりに{h }うつつをぬかして‥‥",
-   "en": ""
+   "en": "Lucia and Hanon are both so\nwrapped up in going out with boys..."
   },
   {
    "id": "event_ev005153:047A",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "もっとマーメイドプリンセスとしての\nじかくを{h }もってもらわないとな‥‥",
-   "en": ""
+   "en": "They need to act more like\nMermaid Princesses..."
   },
   {
    "id": "event_ev005153:04C2",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "‥‥（ぶつぶつ）",
-   "en": ""
+   "en": "...(mutter mutter)"
   },
   {
    "id": "event_ev005153:04D4",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい[4001][4000]いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Unbeatable Heart and the\nroulette to get [4001][4000] or more in total!"
   },
   {
    "id": "event_ev005153:051E",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "　ぶつかる！？",
-   "en": ""
+   "en": " Crash?!"
   },
   {
    "id": "event_ev005153:052E",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "わ！　あぶないっ",
-   "en": ""
+   "en": "Whoa! Look out!"
   },
   {
    "id": "event_ev005153:0540",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "‥‥もうすこしで{h }でんちゅうに\nぶつかるところだった‥‥",
-   "en": ""
+   "en": "...I almost crashed\ninto a telephone pole..."
   },
   {
    "id": "event_ev005153:057A",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "どうやら{h }しばらく{h }でんちゅうと\nむかいあって立ってたみたい‥‥",
-   "en": ""
+   "en": "Looks like I'd been standing\nface to face with a pole for a while..."
   },
   {
    "id": "event_ev005153:05BC",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\""
   },
   {
    "id": "event_ev005153:05E0",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "（ゴッ！）",
-   "en": ""
+   "en": "(BONK!)"
   },
   {
    "id": "event_ev005153:05EC",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "！　ぐ‥‥っ\nいたたた‥‥",
-   "en": ""
+   "en": "! Ngh...\nOw ow ow..."
   },
   {
    "id": "event_ev005153:0608",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "ボーッとしていて{h }でんちゅうに\nぶつかっちゃった　いたい‥‥",
-   "en": ""
+   "en": "I was spacing out and walked\ninto a telephone pole. Ow..."
   },
   {
    "id": "event_ev005153:0646",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   }
  ]
 }

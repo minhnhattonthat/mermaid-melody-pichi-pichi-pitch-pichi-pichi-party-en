@@ -96,6 +96,13 @@ Copied whole from the prequel repo (Mermaid Melody Pichi Pichi Pitch, rhythm gam
 | ルーレット / ルーレットバトル | roulette / Roulette Battle | | |
 | ターン | turn | | |
 | ステータス | stats | | |
+| うたうちから / まけないこころ / けいかいなステップ | Singing Power / Unbeatable Heart / Nimble Steps | the three stats ({i20C} / {i20D} / {i20E}) | |
+| ごうけいヒロインポイント | Total Heroine Points | | |
+| ダークラヴァーズ | Dark Lovers | villain group | |
+| アクア・レジーナさま | Lady Aqua Regina | | |
+| ガイトさま | Lord Gaito | | |
+| すいぞくかん | aquarium | not a board place | |
+| ミスコン | beauty contest | | |
 | エピソード | Episode | エピソード１ -> Episode 1 | |
 | カード / アイテム | card / item | card and item names: script/bms/system_textbin_card.json, _item.json (use exactly) | |
 | しんじゅ | pearl | しんじゅのこえ (card) Pearl Voice | |

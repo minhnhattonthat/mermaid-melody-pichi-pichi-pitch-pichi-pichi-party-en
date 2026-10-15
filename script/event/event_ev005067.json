@@ -10,7 +10,7 @@
     31
    ],
    "jp": "ふむふむ‥‥\nこのカードのこうかは‥‥",
-   "en": ""
+   "en": "Hmm, hmm...\nThis card's effect is..."
   },
   {
    "id": "event_ev005067:0028",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "あ　タキさん",
-   "en": ""
+   "en": "Oh, Taki."
   },
   {
    "id": "event_ev005067:0036",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "また{h }あたらしくかった\nタロットカード{h }見てるの？",
-   "en": ""
+   "en": "Are you looking at the new\ntarot cards you bought?"
   },
   {
    "id": "event_ev005067:006A",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "うむ{h }このカードにはふしぎな\n力がこめられておる",
-   "en": ""
+   "en": "Yes, these cards hold\na mysterious power."
   },
   {
    "id": "event_ev005067:009C",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "さあ　るちあ\n１まい{h }ひいてみないか‥‥",
-   "en": ""
+   "en": "Now, Lucia,\nwhy don't you draw one..."
   },
   {
    "id": "event_ev005067:00C6",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "ひいたカードは‥‥\n『スター』",
-   "en": ""
+   "en": "The card you drew was...\n\"The Star\""
   },
   {
    "id": "event_ev005067:00EC",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "ふしぎなこうかで{h }ものごとが\nゆっくりに見えるようになった",
-   "en": ""
+   "en": "A mysterious effect makes\neverything look slower!"
   },
   {
    "id": "event_ev005067:0128",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "『しばらく{h }ルーレットが\nゆっくりに』",
-   "en": ""
+   "en": "\"The roulette spins\nslowly for a while\""
   },
   {
    "id": "event_ev005067:0150",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\""
   },
   {
    "id": "event_ev005067:0174",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "ふむふむ‥‥\nこのカードのこうかは‥‥",
-   "en": ""
+   "en": "Hmm, hmm...\nThis card's effect is..."
   },
   {
    "id": "event_ev005067:019C",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "あ　タキさん",
-   "en": ""
+   "en": "Oh, Taki."
   },
   {
    "id": "event_ev005067:01AA",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "また{h }あたらしくかった\nタロットカード{h }見てるの？",
-   "en": ""
+   "en": "Are you looking at the new\ntarot cards you bought?"
   },
   {
    "id": "event_ev005067:01DE",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "うむ{h }このカードにはふしぎな\n力がこめられておる",
-   "en": ""
+   "en": "Yes, these cards hold\na mysterious power."
   },
   {
    "id": "event_ev005067:0210",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "さあ　波音ちゃん\n１まい{h }ひいてみないか‥‥",
-   "en": ""
+   "en": "Now, Hanon,\nwhy don't you draw one..."
   },
   {
    "id": "event_ev005067:023E",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "ひいたカードは‥‥\n『スター』",
-   "en": ""
+   "en": "The card you drew was...\n\"The Star\""
   },
   {
    "id": "event_ev005067:0264",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "ふしぎなこうかで{h }ものごとが\nゆっくりに見えるようになった",
-   "en": ""
+   "en": "A mysterious effect makes\neverything look slower!"
   },
   {
    "id": "event_ev005067:02A0",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "『しばらく{h }ルーレットが\nゆっくりに』",
-   "en": ""
+   "en": "\"The roulette spins\nslowly for a while\""
   },
   {
    "id": "event_ev005067:02C8",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\""
   },
   {
    "id": "event_ev005067:02EC",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "ふむふむ‥‥\nこのカードのこうかは‥‥",
-   "en": ""
+   "en": "Hmm, hmm...\nThis card's effect is..."
   },
   {
    "id": "event_ev005067:0314",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "あ　タキさん",
-   "en": ""
+   "en": "Oh, Taki."
   },
   {
    "id": "event_ev005067:0322",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "また{h }あたらしくかった\nタロットカード{h }見てるんですか？",
-   "en": ""
+   "en": "Are you looking at the new\ntarot cards you bought?"
   },
   {
    "id": "event_ev005067:035C",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "うむ{h }このカードにはふしぎな\n力がこめられておる",
-   "en": ""
+   "en": "Yes, these cards hold\na mysterious power."
   },
   {
    "id": "event_ev005067:038E",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "さあ　リナちゃん\n１まい{h }ひいてみないか‥‥",
-   "en": ""
+   "en": "Now, Rina,\nwhy don't you draw one..."
   },
   {
    "id": "event_ev005067:03BC",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "ひいたカードは‥‥\n『スター』",
-   "en": ""
+   "en": "The card you drew was...\n\"The Star\""
   },
   {
    "id": "event_ev005067:03E2",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "ふしぎなこうかで{h }ものごとが\nゆっくりに見えるようになった",
-   "en": ""
+   "en": "A mysterious effect makes\neverything look slower!"
   },
   {
    "id": "event_ev005067:041E",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "『しばらく{h }ルーレットが\nゆっくりに』",
-   "en": ""
+   "en": "\"The roulette spins\nslowly for a while\""
   },
   {
    "id": "event_ev005067:0446",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\""
   }
  ]
 }

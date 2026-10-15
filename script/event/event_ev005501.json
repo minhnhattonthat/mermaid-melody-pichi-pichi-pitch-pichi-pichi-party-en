@@ -11,7 +11,7 @@
     35
    ],
    "jp": "さいきん{h }\nちょっと{h }ふとったかも？",
-   "en": ""
+   "en": "I think I've gotten\na little chubby lately?"
   },
   {
    "id": "event_ev005501:0026",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "ダイエット{h }しなきゃ！",
-   "en": ""
+   "en": "I need to diet!"
   },
   {
    "id": "event_ev005501:003E",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "『うんどうして{h }ダイエット！』",
-   "en": ""
+   "en": "\"Exercise and diet!\""
   },
   {
    "id": "event_ev005501:005E",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }６〜１０をねらおう！",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nand aim for 6 to 10!"
   },
   {
    "id": "event_ev005501:00A0",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "　ダイエット！",
-   "en": ""
+   "en": " Diet!"
   },
   {
    "id": "event_ev005501:00B0",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "うん！　たのしく\nうんどうできたよ",
-   "en": ""
+   "en": "Yeah! That was\nfun exercise!"
   },
   {
    "id": "event_ev005501:00D4",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "こうかてきなうんどうで\nダイエットばっちり！",
-   "en": ""
+   "en": "Effective exercise!\nThe diet's a success!"
   },
   {
    "id": "event_ev005501:0102",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20E}{h }けいかいなステップ　＋５{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20E} Light Steps +5{i20F}\""
   },
   {
    "id": "event_ev005501:014A",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "ほんとに{h }ダイエット\nできたのかな？",
-   "en": ""
+   "en": "Did the diet\nreally work?"
   },
   {
    "id": "event_ev005501:0170",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "がんばってみたけど　\nあまり{h }こうかがなかった‥‥",
-   "en": ""
+   "en": "I tried hard, but\nit didn't help much..."
   },
   {
    "id": "event_ev005501:01A4",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５』\n『{i20E}{h }けいかいな{h }ステップ　＋１』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15\"\n\"{i20E} Light Steps +1\""
   },
   {
    "id": "event_ev005501:01EA",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "さいきん\nちょっと{h }たべすぎかも‥‥",
-   "en": ""
+   "en": "Lately I might be\neating too much..."
   },
   {
    "id": "event_ev005501:0210",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "こうなったら{h }ダイエットよ！",
-   "en": ""
+   "en": "Then it's diet time!"
   },
   {
    "id": "event_ev005501:022E",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "『うんどうして{h }ダイエット！』",
-   "en": ""
+   "en": "\"Exercise and diet!\""
   },
   {
    "id": "event_ev005501:024E",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }６〜１０をねらおう！",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nand aim for 6 to 10!"
   },
   {
    "id": "event_ev005501:0290",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "　ダイエット！",
-   "en": ""
+   "en": " Diet!"
   },
   {
    "id": "event_ev005501:02A0",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "いいかんじ！\nダイエットせいこう！",
-   "en": ""
+   "en": "Feeling good!\nThe diet's a success!"
   },
   {
    "id": "event_ev005501:02C4",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "こうかてきなうんどうで\nダイエットばっちり！",
-   "en": ""
+   "en": "Effective exercise!\nThe diet's a success!"
   },
   {
    "id": "event_ev005501:02F2",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20E}{h }けいかいなステップ　＋５{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20E} Light Steps +5{i20F}\""
   },
   {
    "id": "event_ev005501:033A",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "う〜ん　なんだか\nつかれただけみたい",
-   "en": ""
+   "en": "Hmm, looks like\nI just got tired."
   },
   {
    "id": "event_ev005501:0360",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "がんばってみたけど　\nあまり{h }こうかがなかった‥‥",
-   "en": ""
+   "en": "I tried hard, but\nit didn't help much..."
   },
   {
    "id": "event_ev005501:0394",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５』\n『{i20E}{h }けいかいな{h }ステップ　＋１』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15\"\n\"{i20E} Light Steps +1\""
   },
   {
    "id": "event_ev005501:03DA",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "ここのところ\nうんどうぶそく{h }だな‥‥",
-   "en": ""
+   "en": "I haven't been getting\nmuch exercise lately..."
   },
   {
    "id": "event_ev005501:0402",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "ちょうどいい\nすこし{h }うんどうしていこう",
-   "en": ""
+   "en": "Good timing.\nI'll get a little exercise."
   },
   {
    "id": "event_ev005501:042C",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "『うんどうして{h }ダイエット！』",
-   "en": ""
+   "en": "\"Exercise and diet!\""
   },
   {
    "id": "event_ev005501:044C",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }６〜１０をねらおう！",
-   "en": ""
+   "en": "Add {i20E}Light Steps and the roulette\nand aim for 6 to 10!"
   },
   {
    "id": "event_ev005501:048E",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "　ダイエット！",
-   "en": ""
+   "en": " Diet!"
   },
   {
    "id": "event_ev005501:049E",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "ふう‥‥\nいいあせ{h }かいたな",
-   "en": ""
+   "en": "Phew...\nThat was a good sweat."
   },
   {
    "id": "event_ev005501:04BC",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "こうかてきなうんどうで\nダイエットばっちり！",
-   "en": ""
+   "en": "Effective exercise!\nThe diet's a success!"
   },
   {
    "id": "event_ev005501:04EA",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20E}{h }けいかいなステップ　＋５{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20E} Light Steps +5{i20F}\""
   },
   {
    "id": "event_ev005501:0532",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "‥‥う〜ん‥‥",
-   "en": ""
+   "en": "...Hmm..."
   },
   {
    "id": "event_ev005501:0542",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "がんばってみたけど　\nあまり{h }こうかがなかった‥‥",
-   "en": ""
+   "en": "I tried hard, but\nit didn't help much..."
   },
   {
    "id": "event_ev005501:0576",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１５』\n『{i20E}{h }けいかいな{h }ステップ　＋１』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +15\"\n\"{i20E} Light Steps +1\""
   }
  ]
 }

@@ -10,7 +10,7 @@
     27
    ],
    "jp": "（ゴンッ！）",
-   "en": ""
+   "en": "(BONK!)"
   },
   {
    "id": "event_ev005254:000E",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "イタッ！　木のきれはしに\nアタマぶつけちゃった！",
-   "en": ""
+   "en": "Ow! I hit my head\non a piece of driftwood!"
   },
   {
    "id": "event_ev005254:0040",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "（ガンッ！）",
-   "en": ""
+   "en": "(CLONK!)"
   },
   {
    "id": "event_ev005254:004E",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "イタタッ！！\nまたぶつけた　なによ〜！！",
-   "en": ""
+   "en": "Ow ow ow!!\nHit it again! What is this?!"
   },
   {
    "id": "event_ev005254:0078",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "こんなに　木のきれはしが\nあるなんて　どうなってるの！？",
-   "en": ""
+   "en": "Why is there so much\ndriftwood here?!"
   },
   {
    "id": "event_ev005254:00B2",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "水妖の　イヤガラセかな〜？",
-   "en": ""
+   "en": "Is this a water demon prank?"
   },
   {
    "id": "event_ev005254:00CE",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "いろんなものに　アタマを\nぶつけちゃった　ついてな〜い！",
-   "en": ""
+   "en": "I bumped my head on all kinds\nof things. So unlucky!"
   },
   {
    "id": "event_ev005254:0108",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１４{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -14{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005254:014C",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "『{h }{i20D}{h }まけない{h }こころ　−１{i210}』\n『{h }{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\" {i20D} Strong Heart -1{i210}\"\n\" {i20E} Light Steps -1{i210}\""
   },
   {
    "id": "event_ev005254:0196",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "（ゴンッ！）",
-   "en": ""
+   "en": "(BONK!)"
   },
   {
    "id": "event_ev005254:01A4",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "イタッ！　木のきれはしに\nアタマぶつけちゃった！",
-   "en": ""
+   "en": "Ow! I hit my head\non a piece of driftwood!"
   },
   {
    "id": "event_ev005254:01D6",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "（ガンッ！）",
-   "en": ""
+   "en": "(CLONK!)"
   },
   {
    "id": "event_ev005254:01E4",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "イタタッ！！\nたてつづけですって〜！！",
-   "en": ""
+   "en": "Ow ow ow!!\nTwice in a row?!"
   },
   {
    "id": "event_ev005254:020C",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "こんなに　木のきれはしが\nあるなんて　どうなってんのよ！？",
-   "en": ""
+   "en": "Why is there so much\ndriftwood here?!"
   },
   {
    "id": "event_ev005254:0248",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "水妖のせいじゃ\nないとおもうけど‥‥",
-   "en": ""
+   "en": "I don't think it's\nthe water demons, but..."
   },
   {
    "id": "event_ev005254:026E",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "いろんなものに　アタマを\nぶつけちゃった　ついてな〜い！",
-   "en": ""
+   "en": "I bumped my head on all kinds\nof things. So unlucky!"
   },
   {
    "id": "event_ev005254:02A8",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１４{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -14{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005254:02EC",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "『{h }{i20D}{h }まけない{h }こころ　−１{i210}』\n『{h }{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\" {i20D} Strong Heart -1{i210}\"\n\" {i20E} Light Steps -1{i210}\""
   },
   {
    "id": "event_ev005254:0336",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "（ゴンッ！）",
-   "en": ""
+   "en": "(BONK!)"
   },
   {
    "id": "event_ev005254:0344",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "ウッ！　なんだ‥‥？\n木のきれはしが　アタマに‥‥",
-   "en": ""
+   "en": "Ugh! What...?\nA piece of driftwood hit my head..."
   },
   {
    "id": "event_ev005254:0378",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "（ガンッ！）",
-   "en": ""
+   "en": "(CLONK!)"
   },
   {
    "id": "event_ev005254:0386",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "‥‥！！\nこうなんども　ぶつかるなんて‥‥",
-   "en": ""
+   "en": "...!!\nGetting hit this many times..."
   },
   {
    "id": "event_ev005254:03B2",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "水妖のせいじゃないらしいが‥‥\nつかれてる‥‥のか？",
-   "en": ""
+   "en": "Doesn't seem to be the water demons...\nAm I just... tired?"
   },
   {
    "id": "event_ev005254:03E8",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "いろんなものに　アタマを\nぶつけちゃった　ついてな〜い！",
-   "en": ""
+   "en": "I bumped my head on all kinds\nof things. So unlucky!"
   },
   {
    "id": "event_ev005254:0422",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１４{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -14{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005254:0466",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "『{h }{i20D}{h }まけない{h }こころ　−１{i210}』\n『{h }{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\" {i20D} Strong Heart -1{i210}\"\n\" {i20E} Light Steps -1{i210}\""
   }
  ]
 }

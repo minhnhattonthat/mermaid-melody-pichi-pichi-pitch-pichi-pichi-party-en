@@ -10,7 +10,7 @@
     23
    ],
    "jp": "ん？　なんだろう？\nすっごい人だかり…",
-   "en": ""
+   "en": "Hm? What's going on?\nWhat a huge crowd..."
   },
   {
    "id": "event_ev005103:0028",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "よいしょ　すみません\nちょっと　とおして下さい",
-   "en": ""
+   "en": "Excuse me, sorry...\nCould you let me through?"
   },
   {
    "id": "event_ev005103:0058",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "わあ…　すごーい\nパフォーマンスやってる！",
-   "en": ""
+   "en": "Wow... Amazing!\nIt's a street performance!"
   },
   {
    "id": "event_ev005103:0084",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "うわあ〜　じょうず！\nすごいっ！",
-   "en": ""
+   "en": "Waaah, they're so good!\nAmazing!"
   },
   {
    "id": "event_ev005103:00A6",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "つい　見とれちゃって\nみちくさ{h }しちゃった",
-   "en": ""
+   "en": "I got so caught up watching\nthat I dawdled on the way."
   },
   {
    "id": "event_ev005103:00D2",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "『るちあ{h }１かい休み』",
-   "en": ""
+   "en": "\"Lucia misses 1 turn.\""
   },
   {
    "id": "event_ev005103:00EA",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１４{i210}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -14{i210}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005103:012E",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "ん？　なになに？\nすっごい　人だかり…",
-   "en": ""
+   "en": "Hm? What's this?\nWhat a huge crowd..."
   },
   {
    "id": "event_ev005103:0156",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "なにやってるんだろ\nよいしょ　とおりまーす",
-   "en": ""
+   "en": "I wonder what's going on.\nComing throuuugh!"
   },
   {
    "id": "event_ev005103:0182",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "わあっ　すごーい！\nパフォーマンスやってる！",
-   "en": ""
+   "en": "Wow, amazing!\nIt's a street performance!"
   },
   {
    "id": "event_ev005103:01B0",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "あ　あの男の子\nかっこいい！",
-   "en": ""
+   "en": "Oh, that boy\nis so cool!"
   },
   {
    "id": "event_ev005103:01CE",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "つい　見とれちゃって\nみちくさ{h }しちゃった",
-   "en": ""
+   "en": "I got so caught up watching\nthat I dawdled on the way."
   },
   {
    "id": "event_ev005103:01FA",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "『波音{h }１かい休み』",
-   "en": ""
+   "en": "\"Hanon misses 1 turn.\""
   },
   {
    "id": "event_ev005103:0210",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１４{i210}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -14{i210}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005103:0254",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "ん？　なんだ？\nすごい人のかずだが…",
-   "en": ""
+   "en": "Hm? What's this?\nThat's a lot of people..."
   },
   {
    "id": "event_ev005103:027A",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "このままじゃ　とおれないな…",
-   "en": ""
+   "en": "I can't get through like this..."
   },
   {
    "id": "event_ev005103:0298",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "ちょっと　すいません\nとおして下さい",
-   "en": ""
+   "en": "Excuse me, sorry.\nLet me through."
   },
   {
    "id": "event_ev005103:02BE",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "これは…　\nそうか　だいどうげいというヤツだな",
-   "en": ""
+   "en": "This is...\nI see, so this is street performing."
   },
   {
    "id": "event_ev005103:02EE",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "つい　見とれちゃって\nみちくさ{h }しちゃった",
-   "en": ""
+   "en": "I got so caught up watching\nthat I dawdled on the way."
   },
   {
    "id": "event_ev005103:0320",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "『リナ{h }１かい休み』",
-   "en": ""
+   "en": "\"Rina misses 1 turn.\""
   },
   {
    "id": "event_ev005103:0336",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１４{i210}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -14{i210}\"\n\"{i20C} Singing Power +1{i20F}\""
   }
  ]
 }

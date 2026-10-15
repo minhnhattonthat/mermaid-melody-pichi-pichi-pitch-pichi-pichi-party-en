@@ -10,7 +10,7 @@
     31
    ],
    "jp": "えーい！",
-   "en": ""
+   "en": "Take that!"
   },
   {
    "id": "event_ev005108:000A",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "きゃっ　つめたい！　もう{h }なに？\n‥‥水てっぽう？",
-   "en": ""
+   "en": "Eek, cold! Geez, what is it?\n...A water gun?"
   },
   {
    "id": "event_ev005108:003E",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "（ちいさな男の子）\nこうげきもくひょう{h }はっけーん！",
-   "en": ""
+   "en": "(A little boy)\nTarget spotteeed!"
   },
   {
    "id": "event_ev005108:0074",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "もーっ！　やめなさーいっ\n（マーメイドになっちゃうよ〜）",
-   "en": ""
+   "en": "Geez! Stop iiit!\n(I'll turn into a mermaid!)"
   },
   {
    "id": "event_ev005108:00AE",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "水てっぽうを{h }もったこどもに\nおいかけられる　もう〜{h }さいなん！",
-   "en": ""
+   "en": "Chased by a kid\nwith a water gun. What a disaster!"
   },
   {
    "id": "event_ev005108:00F0",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   },
   {
    "id": "event_ev005108:0138",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "水てっぽうを{h }もったこどもに\nおいかけられる",
-   "en": ""
+   "en": "Chased by a kid\nwith a water gun."
   },
   {
    "id": "event_ev005108:0166",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "にげているときに\nなにか{h }おとしちゃったみたい",
-   "en": ""
+   "en": "Looks like I dropped something\nwhile I was running away."
   },
   {
    "id": "event_ev005108:0196",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4003][4000]より下\nカードを２まい{h }なくす』",
-   "en": ""
+   "en": "\"If {i20E}Light Steps is below [4003][4000],\nlose 2 cards.\""
   },
   {
    "id": "event_ev005108:01D6",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   },
   {
    "id": "event_ev005108:021E",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "えーい！",
-   "en": ""
+   "en": "Take that!"
   },
   {
    "id": "event_ev005108:0228",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "きゃっ　つめたーい　なに？\n‥‥水てっぽう？",
-   "en": ""
+   "en": "Eek, that's cold! What?\n...A water gun?"
   },
   {
    "id": "event_ev005108:0256",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "（ちいさな男の子）\nこうげきもくひょう{h }はっけーん！",
-   "en": ""
+   "en": "(A little boy)\nTarget spotteeed!"
   },
   {
    "id": "event_ev005108:028C",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "ちょっと{h }‥‥やめなさいっ\n（マーメイドになっちゃう〜）",
-   "en": ""
+   "en": "Hey... Stop it!\n(I'll turn into a mermaid!)"
   },
   {
    "id": "event_ev005108:02C6",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "水てっぽうを{h }もったこどもに\nおいかけられる　もう〜{h }さいなん！",
-   "en": ""
+   "en": "Chased by a kid\nwith a water gun. What a disaster!"
   },
   {
    "id": "event_ev005108:0308",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   },
   {
    "id": "event_ev005108:0350",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "水てっぽうを{h }もったこどもに\nおいかけられる",
-   "en": ""
+   "en": "Chased by a kid\nwith a water gun."
   },
   {
    "id": "event_ev005108:037E",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "にげているときに\nなにか{h }おとしちゃったみたい",
-   "en": ""
+   "en": "Looks like I dropped something\nwhile I was running away."
   },
   {
    "id": "event_ev005108:03AE",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4003][4000]より下\nカードを２まい{h }なくす』",
-   "en": ""
+   "en": "\"If {i20E}Light Steps is below [4003][4000],\nlose 2 cards.\""
   },
   {
    "id": "event_ev005108:03EE",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   },
   {
    "id": "event_ev005108:0436",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "えーい！",
-   "en": ""
+   "en": "Take that!"
   },
   {
    "id": "event_ev005108:0440",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "わっ{h }つめたい！　なんだ？\n‥‥水てっぽうか",
-   "en": ""
+   "en": "Whoa, cold! What's that?\n...A water gun, huh."
   },
   {
    "id": "event_ev005108:046E",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "（ちいさな男の子）\nこうげきもくひょう{h }はっけーん！",
-   "en": ""
+   "en": "(A little boy)\nTarget spotteeed!"
   },
   {
    "id": "event_ev005108:04A4",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "こ{h }こら！　やめないか\n（マーメイドにもどってしまう‥‥）",
-   "en": ""
+   "en": "H-hey! Cut that out!\n(I'll turn back into a mermaid...)"
   },
   {
    "id": "event_ev005108:04E0",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "水てっぽうを{h }もったこどもに\nおいかけられる　もう〜{h }さいなん！",
-   "en": ""
+   "en": "Chased by a kid\nwith a water gun. What a disaster!"
   },
   {
    "id": "event_ev005108:0522",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   },
   {
    "id": "event_ev005108:056A",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "水てっぽうを{h }もったこどもに\nおいかけられる",
-   "en": ""
+   "en": "Chased by a kid\nwith a water gun."
   },
   {
    "id": "event_ev005108:0598",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "にげているときに\nなにか{h }おとしちゃったみたい",
-   "en": ""
+   "en": "Looks like I dropped something\nwhile I was running away."
   },
   {
    "id": "event_ev005108:05C8",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4003][4000]より下\nカードを２まい{h }なくす』",
-   "en": ""
+   "en": "\"If {i20E}Light Steps is below [4003][4000],\nlose 2 cards.\""
   },
   {
    "id": "event_ev005108:0608",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
   }
  ]
 }

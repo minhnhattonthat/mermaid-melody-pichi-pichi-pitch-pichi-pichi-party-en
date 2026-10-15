@@ -8,7 +8,7 @@
     0
    ],
    "jp": "（ぷつんっ）",
-   "en": ""
+   "en": "(SNAP)"
   },
   {
    "id": "event_ev005113:000E",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "ああ！\nクツひもがきれちゃった！",
-   "en": ""
+   "en": "Oh no!\nMy shoelace broke!"
   },
   {
    "id": "event_ev005113:0030",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "（にゃーん‥‥）",
-   "en": ""
+   "en": "(Meow...)"
   },
   {
    "id": "event_ev005113:0042",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "くろネコが{h }まえを‥‥",
-   "en": ""
+   "en": "A black cat crossed my path..."
   },
   {
    "id": "event_ev005113:005A",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ひょっとして{h }なにか\nふきつなことがおこる{h }まえぶれ？",
-   "en": ""
+   "en": "Could this be a sign\nthat something bad will happen?"
   },
   {
    "id": "event_ev005113:0092",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "いろんな{h }ふきつなできごとに\nなんだか{h }ふあんになっちゃった‥‥",
-   "en": ""
+   "en": "All these unlucky things\nare making me kind of nervous..."
   },
   {
    "id": "event_ev005113:00D4",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１４{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -14{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005113:0118",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　−１{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart -1{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   },
   {
    "id": "event_ev005113:015E",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "（ぷつんっ）",
-   "en": ""
+   "en": "(SNAP)"
   },
   {
    "id": "event_ev005113:016C",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "あ‥‥\nクツひもがきれちゃった‥‥",
-   "en": ""
+   "en": "Oh...\nMy shoelace broke..."
   },
   {
    "id": "event_ev005113:0190",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "（にゃーん‥‥）",
-   "en": ""
+   "en": "(Meow...)"
   },
   {
    "id": "event_ev005113:01A2",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "くろネコが{h }まえを‥‥",
-   "en": ""
+   "en": "A black cat crossed my path..."
   },
   {
    "id": "event_ev005113:01BA",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "ひょっとして{h }なにか\nふきつなことがおこる{h }まえぶれ？",
-   "en": ""
+   "en": "Could this be a sign\nthat something bad will happen?"
   },
   {
    "id": "event_ev005113:01F2",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "いろんな{h }ふきつなできごとに\nなんだか{h }ふあんになっちゃった‥‥",
-   "en": ""
+   "en": "All these unlucky things\nare making me kind of nervous..."
   },
   {
    "id": "event_ev005113:0234",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１４{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -14{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005113:0278",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　−１{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart -1{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   },
   {
    "id": "event_ev005113:02BE",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "（ぷつんっ）",
-   "en": ""
+   "en": "(SNAP)"
   },
   {
    "id": "event_ev005113:02CC",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "なんだ‥‥？\nクツひもがきれた‥‥",
-   "en": ""
+   "en": "What...?\nMy shoelace broke..."
   },
   {
    "id": "event_ev005113:02F0",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "（にゃーん‥‥）",
-   "en": ""
+   "en": "(Meow...)"
   },
   {
    "id": "event_ev005113:0302",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "くろネコが{h }まえを‥‥",
-   "en": ""
+   "en": "A black cat crossed my path..."
   },
   {
    "id": "event_ev005113:031A",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "ひょっとして{h }なにか\nふきつなことがおこる{h }まえぶれか？",
-   "en": ""
+   "en": "Could this be a sign\nthat something bad will happen?"
   },
   {
    "id": "event_ev005113:0354",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "いろんな{h }ふきつなできごとに\nなんだか{h }ふあんになっちゃった‥‥",
-   "en": ""
+   "en": "All these unlucky things\nare making me kind of nervous..."
   },
   {
    "id": "event_ev005113:0396",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１４{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -14{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005113:03DA",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　−１{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart -1{i210}\"\n\"{i20E} Light Steps -1{i210}\""
   }
  ]
 }

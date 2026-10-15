@@ -9,7 +9,7 @@
     35
    ],
    "jp": "（カンッ）",
-   "en": ""
+   "en": "(Clank)"
   },
   {
    "id": "event_ev005102:000C",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "あ…　空きカンけっちゃった",
-   "en": ""
+   "en": "Oops... I kicked an empty can."
   },
   {
    "id": "event_ev005102:0028",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "ギャンッ",
-   "en": ""
+   "en": "Yelp!"
   },
   {
    "id": "event_ev005102:0032",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "あれ　ひょっとしてあのイヌに\nあたっちゃった…？",
-   "en": ""
+   "en": "Huh? Did I just\nhit that dog...?"
   },
   {
    "id": "event_ev005102:0064",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "グルル…　ワンワンッ！",
-   "en": ""
+   "en": "Grrr... Woof woof!"
   },
   {
    "id": "event_ev005102:007C",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "きゃああ　ごめんね！\nわるぎはなかったの！",
-   "en": ""
+   "en": "Eeek, I'm sorry!\nI didn't mean it!"
   },
   {
    "id": "event_ev005102:00A8",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "ほんとにごめん〜\nいや〜ん　おいかけないで〜",
-   "en": ""
+   "en": "I'm really sorry!\nNooo, don't chase meee!"
   },
   {
    "id": "event_ev005102:00D6",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "イヌに{h }おいかけられて\nたいへん！",
-   "en": ""
+   "en": "Chased by a dog!\nWhat a mess!"
   },
   {
    "id": "event_ev005102:00FA",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005102:013E",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "イヌに　からみつかれて\nふくがドロドロに",
-   "en": ""
+   "en": "The dog jumped all over me\nand my clothes are all muddy."
   },
   {
    "id": "event_ev005102:0168",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4005][4000]より下\nきがえアイテムを{h }ひとつなくす』",
-   "en": ""
+   "en": "\"If {i20E}Light Steps is below [4005][4000],\nlose one outfit item.\""
   },
   {
    "id": "event_ev005102:01B0",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005102:01F4",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "ギャンッ",
-   "en": ""
+   "en": "Yelp!"
   },
   {
    "id": "event_ev005102:01FE",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "あ　ご　ごめん\nしっぽ　ふんじゃった？",
-   "en": ""
+   "en": "Oh, s-sorry!\nDid I step on your tail?"
   },
   {
    "id": "event_ev005102:0226",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "グルル…　ワンワンッ！",
-   "en": ""
+   "en": "Grrr... Woof woof!"
   },
   {
    "id": "event_ev005102:023E",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "きゃああ　ごめんね！\nわるぎはなかったの！",
-   "en": ""
+   "en": "Eeek, I'm sorry!\nI didn't mean it!"
   },
   {
    "id": "event_ev005102:026A",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "やばい　にげなきゃ",
-   "en": ""
+   "en": "Uh-oh, I'd better run!"
   },
   {
    "id": "event_ev005102:027E",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "イヌに{h }おいかけられて\nたいへん！",
-   "en": ""
+   "en": "Chased by a dog!\nWhat a mess!"
   },
   {
    "id": "event_ev005102:02A2",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005102:02E6",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "イヌに　からみつかれて\nふくがドロドロに",
-   "en": ""
+   "en": "The dog jumped all over me\nand my clothes are all muddy."
   },
   {
    "id": "event_ev005102:0310",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4005][4000]より下\nきがえアイテムを{h }ひとつなくす』",
-   "en": ""
+   "en": "\"If {i20E}Light Steps is below [4005][4000],\nlose one outfit item.\""
   },
   {
    "id": "event_ev005102:0358",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005102:039C",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "（ドスッ）",
-   "en": ""
+   "en": "(THUMP)"
   },
   {
    "id": "event_ev005102:03A8",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "ギャンッ",
-   "en": ""
+   "en": "Yelp!"
   },
   {
    "id": "event_ev005102:03B2",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "おっと　なんだ？　イヌ？",
-   "en": ""
+   "en": "Whoa, what's that? A dog?"
   },
   {
    "id": "event_ev005102:03CC",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "しまった…\nおもいっきり　けってしまった…",
-   "en": ""
+   "en": "Oops...\nI kicked it really hard..."
   },
   {
    "id": "event_ev005102:03F8",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "ウウ…　ワンワンッ！",
-   "en": ""
+   "en": "Grrr... Woof woof!"
   },
   {
    "id": "event_ev005102:040E",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "すまなかった\nわるぎはなかったんだ",
-   "en": ""
+   "en": "Sorry about that.\nI didn't mean it."
   },
   {
    "id": "event_ev005102:0432",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "といっても　つうようしないか…",
-   "en": ""
+   "en": "Not that a dog would understand..."
   },
   {
    "id": "event_ev005102:0452",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "ここは…　にげるがかちだな",
-   "en": ""
+   "en": "In this case...\nrunning away wins."
   },
   {
    "id": "event_ev005102:046E",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "イヌに{h }おいかけられて\nたいへん！",
-   "en": ""
+   "en": "Chased by a dog!\nWhat a mess!"
   },
   {
    "id": "event_ev005102:0492",
@@ -257,7 +257,7 @@
     31
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005102:04D6",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "イヌに　からみつかれて\nふくがドロドロに",
-   "en": ""
+   "en": "The dog jumped all over me\nand my clothes are all muddy."
   },
   {
    "id": "event_ev005102:0500",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4005][4000]より下\nそうびアイテムを{h }ひとつなくす』",
-   "en": ""
+   "en": "\"If {i20E}Light Steps is below [4005][4000],\nlose one equipped item.\""
   },
   {
    "id": "event_ev005102:0548",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   }
  ]
 }

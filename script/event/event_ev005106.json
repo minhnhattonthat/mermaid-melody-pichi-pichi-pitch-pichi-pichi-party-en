@@ -10,7 +10,7 @@
     23
    ],
    "jp": "こうえん{h }はっけん！\nちょっとひとやすみしていこ！",
-   "en": ""
+   "en": "I found a park!\nLet's take a little break!"
   },
   {
    "id": "event_ev005106:0034",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "ふああ〜　なんだかいいきもちで\nねむくなってきちゃった",
-   "en": ""
+   "en": "Haaah... It feels so nice,\nI'm getting sleepy..."
   },
   {
    "id": "event_ev005106:0072",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "はっ",
-   "en": ""
+   "en": "Huh!"
   },
   {
    "id": "event_ev005106:0078",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "つい{h }いねむりしちゃった\nよ{h }よだれが‥‥",
-   "en": ""
+   "en": "I dozed off...\nAnd I'm d-drooling..."
   },
   {
    "id": "event_ev005106:00A4",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "ひとやすみのつもりが\nベンチで{h }うとうと　はずかしい〜",
-   "en": ""
+   "en": "I meant to take a break, but I\nnodded off on a bench. How embarrassing!"
   },
   {
    "id": "event_ev005106:00DC",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005106:0120",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "こんなところに{h }こうえんはっけん！",
-   "en": ""
+   "en": "Look, I found a park here!"
   },
   {
    "id": "event_ev005106:0144",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "ちょっと\nひとやすみしていっちゃおうかな",
-   "en": ""
+   "en": "Maybe I'll\ntake a little break."
   },
   {
    "id": "event_ev005106:016E",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "ふわ‥‥　なんだかいいきもちで\nねむくなってきちゃった",
-   "en": ""
+   "en": "Haah... It feels so nice,\nI'm getting sleepy..."
   },
   {
    "id": "event_ev005106:01AC",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "はっ",
-   "en": ""
+   "en": "Huh!"
   },
   {
    "id": "event_ev005106:01B8",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "ひょっとして{h }ねちゃってた‥‥？\nあ　よだれ‥‥　いや〜ん‥‥",
-   "en": ""
+   "en": "Did I... fall asleep...?\nOh, drool... Nooo..."
   },
   {
    "id": "event_ev005106:01F8",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "ひとやすみのつもりが\nベンチで{h }うとうと　はずかしい〜",
-   "en": ""
+   "en": "I meant to take a break, but I\nnodded off on a bench. How embarrassing!"
   },
   {
    "id": "event_ev005106:0230",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   },
   {
    "id": "event_ev005106:0274",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "こんなところに{h }こうえんか‥‥\nちょっと{h }ひとやすみしていくか",
-   "en": ""
+   "en": "A park here, huh...\nI'll take a little break."
   },
   {
    "id": "event_ev005106:02B4",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "はっ",
-   "en": ""
+   "en": "Huh!"
   },
   {
    "id": "event_ev005106:02C0",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "いま{h }ねむってたのか‥‥\nあ{h }よだれ‥‥",
-   "en": ""
+   "en": "Was I just asleep...?\nAh, drool..."
   },
   {
    "id": "event_ev005106:02EA",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "ひとやすみのつもりが\nベンチで{h }うとうと　はずかしい〜",
-   "en": ""
+   "en": "I meant to take a break, but I\nnodded off on a bench. How embarrassing!"
   },
   {
    "id": "event_ev005106:0322",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１８{i210}』\n『{i20C}{h }うたう{h }ちから　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -18{i210}\"\n\"{i20C} Singing Power -1{i210}\""
   }
  ]
 }

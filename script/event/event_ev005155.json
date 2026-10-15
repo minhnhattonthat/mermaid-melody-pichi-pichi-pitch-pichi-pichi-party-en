@@ -8,7 +8,7 @@
     0
    ],
    "jp": "このぬいぐるみ{h }かわいい〜！\nしかも{h }ワゴンセールで５０％びき！",
-   "en": ""
+   "en": "This plushie is so cute!\nAnd it's 50% off in the bargain bin!"
   },
   {
    "id": "event_ev005155:0042",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "ほしい〜‥‥\nううん　ムダづかいしちゃだめだもん",
-   "en": ""
+   "en": "I want iiit...\nNo, I can't waste money!"
   },
   {
    "id": "event_ev005155:0074",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005155:00BE",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "　ゆうわくにまけそう",
-   "en": ""
+   "en": " Temptation!"
   },
   {
    "id": "event_ev005155:00D4",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "だ{h }だめだめ！　",
-   "en": ""
+   "en": "N-no, no!"
   },
   {
    "id": "event_ev005155:00E6",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "とーっても{h }ほしかったけど\nがまんできた",
-   "en": ""
+   "en": "I really, really wanted it,\nbut I held back."
   },
   {
    "id": "event_ev005155:0110",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005155:0134",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "え〜い！　かっちゃえ〜！",
-   "en": ""
+   "en": "Oh, whatever! I'm buying it!"
   },
   {
    "id": "event_ev005155:014E",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "つい{h }ゆうわくにまけて\nかっちゃった‥‥",
-   "en": ""
+   "en": "I gave in to temptation\nand bought it..."
   },
   {
    "id": "event_ev005155:0178",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005155:01BE",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "このぬいぐるみ{h }かわいい〜！\nしかも{h }ワゴンセールで５０％びき！",
-   "en": ""
+   "en": "This plushie is so cute!\nAnd it's 50% off in the bargain bin!"
   },
   {
    "id": "event_ev005155:0200",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "ほしい〜‥‥　でも　あんまり\nムダづかいも{h }できないのよね",
-   "en": ""
+   "en": "I want iiit... But I really\ncan't waste money..."
   },
   {
    "id": "event_ev005155:023C",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005155:0286",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "　ゆうわくにまけそう",
-   "en": ""
+   "en": " Temptation!"
   },
   {
    "id": "event_ev005155:029C",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "まようってことは　ほんとうに\nほしくないってことよね",
-   "en": ""
+   "en": "If I'm unsure, it means\nI don't really want it."
   },
   {
    "id": "event_ev005155:02D2",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "こんかいは{h }がまんしよっと",
-   "en": ""
+   "en": "I'll hold back this time."
   },
   {
    "id": "event_ev005155:02EE",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "とーっても{h }ほしかったけど\nがまんできた",
-   "en": ""
+   "en": "I really, really wanted it,\nbut I held back."
   },
   {
    "id": "event_ev005155:0318",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005155:033C",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "え〜い！\nもう{h }かっちゃお！",
-   "en": ""
+   "en": "Oh, whatever!\nI'm just buying it!"
   },
   {
    "id": "event_ev005155:035A",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "つい{h }ゆうわくにまけて\nかっちゃった‥‥",
-   "en": ""
+   "en": "I gave in to temptation\nand bought it..."
   },
   {
    "id": "event_ev005155:0384",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005155:03CA",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "む！　このクマのおきもの\nすばらしいできだ！",
-   "en": ""
+   "en": "Hm! This bear figurine\nis superbly made!"
   },
   {
    "id": "event_ev005155:03F8",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "しかも{h }ワゴンセールで５０％びき！\nかってしまおうか‥‥",
-   "en": ""
+   "en": "And it's 50% off in the bargain bin!\nMaybe I should buy it..."
   },
   {
    "id": "event_ev005155:0432",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "いやいや\nムダづかいできないしな‥‥",
-   "en": ""
+   "en": "No, no.\nI can't waste money..."
   },
   {
    "id": "event_ev005155:0458",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": ""
+   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005155:04A2",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "　ゆうわくにまけそう",
-   "en": ""
+   "en": " Temptation!"
   },
   {
    "id": "event_ev005155:04B8",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "‥‥ッ！　ふう‥‥　まずはこのばを\nはなれて{h }じっくりかんがえよう‥‥",
-   "en": ""
+   "en": "...! Phew... First I'll leave\nand think it over carefully..."
   },
   {
    "id": "event_ev005155:0500",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "とーっても{h }ほしかったけど\nがまんできたよ",
-   "en": ""
+   "en": "I really, really wanted it,\nbut I held back!"
   },
   {
    "id": "event_ev005155:052C",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\""
   },
   {
    "id": "event_ev005155:0550",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "ふ　クヨクヨ{h }なやまず\nかってしまおう！",
-   "en": ""
+   "en": "Heh. No point agonizing.\nI'll just buy it!"
   },
   {
    "id": "event_ev005155:057A",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "つい{h }ゆうわくにまけて\nかっちゃった‥‥",
-   "en": ""
+   "en": "I gave in to temptation\nand bought it..."
   },
   {
    "id": "event_ev005155:05A4",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   }
  ]
 }

@@ -9,7 +9,7 @@
     15
    ],
    "jp": "あれ？　あれ？\nわたし{h }バッグ{h }どうしたっけ‥‥？",
-   "en": ""
+   "en": "Huh? Huh?\nWhat did I do with my bag...?"
   },
   {
    "id": "event_ev005166:0034",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "‥‥なくしちゃったみたい‥‥",
-   "en": ""
+   "en": "...Looks like I lost it..."
   },
   {
    "id": "event_ev005166:0052",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "バッグを\nどこかへわすれちゃった",
-   "en": ""
+   "en": "I left my bag\nsomewhere."
   },
   {
    "id": "event_ev005166:0074",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "『すべてのカードをうしなう』",
-   "en": ""
+   "en": "\"Lose all your cards.\""
   },
   {
    "id": "event_ev005166:0092",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005166:00D8",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "あれ？　おかしいなあ？\nわたし{h }バッグ{h }どうしたっけ‥‥？",
-   "en": ""
+   "en": "Huh? That's weird.\nWhat did I do with my bag...?"
   },
   {
    "id": "event_ev005166:0114",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "が〜ん　ショック！\nなくしちゃったみたい‥‥",
-   "en": ""
+   "en": "Oh nooo, what a shock!\nLooks like I lost it..."
   },
   {
    "id": "event_ev005166:0142",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "バッグを\nどこかへわすれちゃった",
-   "en": ""
+   "en": "I left my bag\nsomewhere."
   },
   {
    "id": "event_ev005166:0164",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "『すべてのカードをうしなう』",
-   "en": ""
+   "en": "\"Lose all your cards.\""
   },
   {
    "id": "event_ev005166:0182",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005166:01C8",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "おや？　手にもっていた\nバッグ{h }どうしたんだっけ‥‥？",
-   "en": ""
+   "en": "Hm? What did I do with\nthe bag I was holding...?"
   },
   {
    "id": "event_ev005166:0200",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "ひょっとして　どこかへ\nわすれてきてしまったのか‥‥？",
-   "en": ""
+   "en": "Could I have left it\nsomewhere...?"
   },
   {
    "id": "event_ev005166:0238",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "バッグを\nどこかへわすれちゃった",
-   "en": ""
+   "en": "I left my bag\nsomewhere."
   },
   {
    "id": "event_ev005166:025A",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "『すべてのカードをうしなう』",
-   "en": ""
+   "en": "\"Lose all your cards.\""
   },
   {
    "id": "event_ev005166:0278",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -10{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   }
  ]
 }

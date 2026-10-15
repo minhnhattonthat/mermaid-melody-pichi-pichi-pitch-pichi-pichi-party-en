@@ -9,7 +9,7 @@
     19
    ],
    "jp": "くつやさん{h }はっけん！",
-   "en": ""
+   "en": "I found a shoe store!"
   },
   {
    "id": "event_ev005019:0018",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "すっごーい{h }かわったクツばっかり",
-   "en": ""
+   "en": "Wooow, it's all unusual shoes."
   },
   {
    "id": "event_ev005019:003A",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "これなんて{h }かわいくていいかも！",
-   "en": ""
+   "en": "These might be nice, they're cute!"
   },
   {
    "id": "event_ev005019:005C",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "かわったデザインのクツばかり\nうってる{h }おみせを見つけたよ！",
-   "en": ""
+   "en": "You found a store that sells\nonly unusually designed shoes!"
   },
   {
    "id": "event_ev005019:009A",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "『クツ{h }アイテムゲット！』",
-   "en": ""
+   "en": "\"You got a shoe item!\""
   },
   {
    "id": "event_ev005019:00B6",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\""
   },
   {
    "id": "event_ev005019:00DA",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "くつやさん{h }はっけん！",
-   "en": ""
+   "en": "I found a shoe store!"
   },
   {
    "id": "event_ev005019:00F2",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "すっごーい{h }かわったクツばっかり",
-   "en": ""
+   "en": "Wooow, it's all unusual shoes."
   },
   {
    "id": "event_ev005019:0114",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "これなんて{h }かわいくていいかも！",
-   "en": ""
+   "en": "These might be nice, they're cute!"
   },
   {
    "id": "event_ev005019:0136",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "かわったデザインのクツばかり\nうってる{h }おみせを見つけたよ！",
-   "en": ""
+   "en": "You found a store that sells\nonly unusually designed shoes!"
   },
   {
    "id": "event_ev005019:0174",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "『クツ{h }アイテムゲット！』",
-   "en": ""
+   "en": "\"You got a shoe item!\""
   },
   {
    "id": "event_ev005019:0190",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\""
   },
   {
    "id": "event_ev005019:01B4",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "ほう　かわったくつやだな",
-   "en": ""
+   "en": "Hm, an unusual shoe store."
   },
   {
    "id": "event_ev005019:01CE",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "どくとくのデザインのものばかりだ\nちょっと{h }のぞいていこう",
-   "en": ""
+   "en": "Everything here has its own unique\ndesign. I'll take a little look."
   },
   {
    "id": "event_ev005019:020A",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "このクツ‥‥",
-   "en": ""
+   "en": "These shoes..."
   },
   {
    "id": "event_ev005019:0218",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "さくしゃのおもいいれのつよく\nつたわってくる{h }いっぴんだ‥‥",
-   "en": ""
+   "en": "A fine piece that really shows\nhow much the maker cared..."
   },
   {
    "id": "event_ev005019:0256",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "かわったデザインのクツばかり\nうってる{h }おみせを見つけたよ！",
-   "en": ""
+   "en": "You found a store that sells\nonly unusually designed shoes!"
   },
   {
    "id": "event_ev005019:0294",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "『クツ{h }アイテムゲット！』",
-   "en": ""
+   "en": "\"You got a shoe item!\""
   },
   {
    "id": "event_ev005019:02B0",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋１２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +12{i20F}\""
   }
  ]
 }

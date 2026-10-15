@@ -8,7 +8,7 @@
     0
    ],
    "jp": "じどうはんばいきは‥‥と\nあった！",
-   "en": ""
+   "en": "Let's see, a vending machine...\nThere it is!"
   },
   {
    "id": "event_ev005107:0024",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "あー{h }のど{h }かわいた！\nジュース{h }ジュースっと",
-   "en": ""
+   "en": "Ahh, I'm so thirsty!\nJuice, juice!"
   },
   {
    "id": "event_ev005107:0054",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "（ポチッ{h }‥‥ガコン！）",
-   "en": ""
+   "en": "(Click... CLUNK!)"
   },
   {
    "id": "event_ev005107:006E",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "あ‥‥{h }まちがって{h }たんさんの\nジュース{h }おしちゃった‥‥",
-   "en": ""
+   "en": "Oh... I pushed the button\nfor fizzy juice by mistake..."
   },
   {
    "id": "event_ev005107:00AA",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "‥‥ま{h }いいか",
-   "en": ""
+   "en": "...Oh well."
   },
   {
    "id": "event_ev005107:00BA",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "‥‥\nしゅわしゅわしてる〜",
-   "en": ""
+   "en": "...\nIt's all fizzy..."
   },
   {
    "id": "event_ev005107:00D6",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "まちがってかった　たんさんの\nジュースで{h }よっぱらっちゃった‥‥",
-   "en": ""
+   "en": "I got tipsy on the fizzy juice\nI bought by mistake..."
   },
   {
    "id": "event_ev005107:0118",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　−３０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -30{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005107:015E",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "じどうはんばいきは‥‥と\nあった！",
-   "en": ""
+   "en": "Let's see, a vending machine...\nThere it is!"
   },
   {
    "id": "event_ev005107:0182",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "あー{h }のど{h }かわいちゃった\nジュースかっちゃお",
-   "en": ""
+   "en": "Ahh, I'm thirsty.\nI'll buy some juice."
   },
   {
    "id": "event_ev005107:01B2",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "（ポチッ{h }‥‥ガコン！）",
-   "en": ""
+   "en": "(Click... CLUNK!)"
   },
   {
    "id": "event_ev005107:01CC",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "あ‥‥{h }まちがって{h }たんさんの\nジュース{h }おしちゃった‥‥",
-   "en": ""
+   "en": "Oh... I pushed the button\nfor fizzy juice by mistake..."
   },
   {
    "id": "event_ev005107:0208",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "‥‥ちょっとだけならへいきよね",
-   "en": ""
+   "en": "...Just a little should be fine."
   },
   {
    "id": "event_ev005107:0228",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "しゅわしゅわでいいきもち‥‥",
-   "en": ""
+   "en": "All fizzy and feeling good..."
   },
   {
    "id": "event_ev005107:0246",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "まちがってかった　たんさんの\nジュースで{h }よっぱらっちゃった‥‥",
-   "en": ""
+   "en": "I got tipsy on the fizzy juice\nI bought by mistake..."
   },
   {
    "id": "event_ev005107:0288",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　−３０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -30{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   },
   {
    "id": "event_ev005107:02CE",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "ふう{h }のどがかわいたな\nジュースでもかうか",
-   "en": ""
+   "en": "Phew, I'm thirsty.\nMaybe I'll buy some juice."
   },
   {
    "id": "event_ev005107:02FA",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "じどうはんばいき‥‥と\nあった",
-   "en": ""
+   "en": "A vending machine...\nThere."
   },
   {
    "id": "event_ev005107:031A",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "（カチッ{h }‥‥ガコン！）",
-   "en": ""
+   "en": "(Click... CLUNK!)"
   },
   {
    "id": "event_ev005107:0334",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "しまった‥‥{h }まちがって\nたんさんのジュースを‥‥",
-   "en": ""
+   "en": "Oops... I got the fizzy\njuice by mistake..."
   },
   {
    "id": "event_ev005107:0368",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "‥‥ま{h }すこしくらいなら\nだいじょうぶだろう",
-   "en": ""
+   "en": "...Well, a little bit\nshould be fine."
   },
   {
    "id": "event_ev005107:0396",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "まちがってかった　たんさんの\nジュースで{h }よっぱらっちゃった‥‥",
-   "en": ""
+   "en": "I got tipsy on the fizzy juice\nI bought by mistake..."
   },
   {
    "id": "event_ev005107:03DE",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "『{i211}{h }ヒロインポイント　−３０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points -30{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
   }
  ]
 }

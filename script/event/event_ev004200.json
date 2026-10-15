@@ -9,7 +9,7 @@
     7
    ],
    "jp": "なんてことです！",
-   "en": ""
+   "en": "Oh, how dreadful!"
   },
   {
    "id": "event_ev004200:0012",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "『ごうけいヒロインポイント』が\nいちばん{h }ひくくなったので‥‥",
-   "en": ""
+   "en": "Your \"Total Heroine Points\"\ncame in the lowest, so..."
   },
   {
    "id": "event_ev004200:0052",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "ゲームオーバーに\nなってしまいましたよ",
-   "en": ""
+   "en": "it's game over\nfor you, I'm afraid."
   },
   {
    "id": "event_ev004200:007A",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "‥‥（くすん）",
-   "en": ""
+   "en": "...(sniff)"
   },
   {
    "id": "event_ev004200:008A",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "いくつか{h }きろくをつくっておくと\nやりなおしが{h }かんたんですよ",
-   "en": ""
+   "en": "If you make a few saves,\nstarting over is easy."
   },
   {
    "id": "event_ev004200:00CA",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "これに{h }あきらめないで\nまた{h }ちょうせんしてください",
-   "en": ""
+   "en": "Don't give up because of this.\nPlease try again!"
   },
   {
    "id": "event_ev004200:0100",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "　\n　　　　『ゲームオーバー』　　　　",
-   "en": ""
+   "en": " \n                \"GAME OVER\""
   }
  ]
 }

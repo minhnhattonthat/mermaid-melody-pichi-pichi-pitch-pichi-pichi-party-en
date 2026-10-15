@@ -10,7 +10,7 @@
     23
    ],
    "jp": "そこの{h }おじょうさん\nうらないはどうだい‥‥？",
-   "en": ""
+   "en": "You there, miss...\nHow about a fortune reading...?"
   },
   {
    "id": "event_ev005008:0030",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "え‥‥　わたし？",
-   "en": ""
+   "en": "Huh... Me?"
   },
   {
    "id": "event_ev005008:0042",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "そうじゃ{h }そうじゃ‥‥\nいまなら{h }やすくしとくぞえ‥‥",
-   "en": ""
+   "en": "Yes, yes, you...\nI'll give you a discount today..."
   },
   {
    "id": "event_ev005008:007A",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "え〜と‥‥　どうしよう",
-   "en": ""
+   "en": "Ummm... What should I do?"
   },
   {
    "id": "event_ev005008:0092",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "（海斗とのこと\nきいちゃおうかな‥‥）",
-   "en": ""
+   "en": "(Maybe I'll ask\nabout me and Kaito...)"
   },
   {
    "id": "event_ev005008:00BA",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "マーメイドうらないで\nれんあいうんバッチリ！",
-   "en": ""
+   "en": "A mermaid fortune says your\nlove luck is perfect!"
   },
   {
    "id": "event_ev005008:00E8",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005008:012C",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "そこの{h }おじょうさん\nうらないはどうだい‥‥？",
-   "en": ""
+   "en": "You there, miss...\nHow about a fortune reading...?"
   },
   {
    "id": "event_ev005008:015C",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "おじょうさんって\nわたしのこと？",
-   "en": ""
+   "en": "\"Miss\"...\nYou mean me?"
   },
   {
    "id": "event_ev005008:017E",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "そうじゃ{h }そうじゃ‥‥\nいまなら{h }やすくしとくぞえ‥‥",
-   "en": ""
+   "en": "Yes, yes, you...\nI'll give you a discount today..."
   },
   {
    "id": "event_ev005008:01B6",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "うらないかあ‥‥\nうん{h }いいかも！",
-   "en": ""
+   "en": "A fortune, huh...\nYeah, why not!"
   },
   {
    "id": "event_ev005008:01DA",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "（太郎ちゃんとのこと\nきいちゃおーっと！）",
-   "en": ""
+   "en": "(I'll ask about\nme and Taro!)"
   },
   {
    "id": "event_ev005008:0206",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "マーメイドうらないで\nれんあいうんバッチリ！",
-   "en": ""
+   "en": "A mermaid fortune says your\nlove luck is perfect!"
   },
   {
    "id": "event_ev005008:0234",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   },
   {
    "id": "event_ev005008:0278",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "そこの{h }おじょうさん\nうらないはどうだい‥‥？",
-   "en": ""
+   "en": "You there, miss...\nHow about a fortune reading...?"
   },
   {
    "id": "event_ev005008:02A8",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "？　わたしのことか？",
-   "en": ""
+   "en": "? You mean me?"
   },
   {
    "id": "event_ev005008:02BE",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "そうじゃ{h }そうじゃ‥‥\nいまなら{h }やすくしとくぞえ‥‥",
-   "en": ""
+   "en": "Yes, yes, you...\nI'll give you a discount today..."
   },
   {
    "id": "event_ev005008:02F6",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "こいうらないなんて\nわたしには‥‥",
-   "en": ""
+   "en": "A love fortune is\nnot for me..."
   },
   {
    "id": "event_ev005008:031A",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "そうじゃろう{h }そうじゃろう‥‥",
-   "en": ""
+   "en": "So it seems, so it seems..."
   },
   {
    "id": "event_ev005008:033A",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "しかし{h }しょうらいまで\nそうとはかぎるまい‥‥？",
-   "en": ""
+   "en": "But who's to say it'll\nstay that way forever...?"
   },
   {
    "id": "event_ev005008:036C",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "マーメイドうらないで\nれんあいうんバッチリ！",
-   "en": ""
+   "en": "A mermaid fortune says your\nlove luck is perfect!"
   },
   {
    "id": "event_ev005008:039A",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２２{i20F}』\n『{i20C}{h }うたう{h }ちから　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +22{i20F}\"\n\"{i20C} Singing Power +2{i20F}\""
   }
  ]
 }

@@ -8,7 +8,7 @@
     0
    ],
    "jp": "わあ　すごーい！\nおさかなさんの　たいぐんだよ！",
-   "en": ""
+   "en": "Wow, amazing!\nIt's a huge school of fish!"
   },
   {
    "id": "event_ev005202:0032",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "まるで　わたしを\nかんげいして　くれてるみたい！",
-   "en": ""
+   "en": "It's like they're\nwelcoming me!"
   },
   {
    "id": "event_ev005202:0064",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "おれいに　うたをうたってあげるね！",
-   "en": ""
+   "en": "I'll sing you a song to say thanks!"
   },
   {
    "id": "event_ev005202:0088",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "さかなの　たいぐんに\nうたを　うたってあげたよ",
-   "en": ""
+   "en": "I sang a song\nfor the school of fish!"
   },
   {
    "id": "event_ev005202:00B8",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
   },
   {
    "id": "event_ev005202:0100",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "わあー！　すごいかずの\nさかなの　たいぐん！",
-   "en": ""
+   "en": "Wow! What a huge\nschool of fish!"
   },
   {
    "id": "event_ev005202:012E",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "いろとりどりの　さかながいる！",
-   "en": ""
+   "en": "There are fish of every color!"
   },
   {
    "id": "event_ev005202:014E",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "これだけの　たいぐんだと\n見てるだけで　たのしくなっちゃう！",
-   "en": ""
+   "en": "With a school this big,\njust watching it is fun!"
   },
   {
    "id": "event_ev005202:018C",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "なんだか\nうたを　うたいたくなっちゃった！",
-   "en": ""
+   "en": "Somehow I feel\nlike singing a song!"
   },
   {
    "id": "event_ev005202:01B8",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "さかなの　たいぐんに\nうたを　うたってあげたよ",
-   "en": ""
+   "en": "I sang a song\nfor the school of fish!"
   },
   {
    "id": "event_ev005202:01E8",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
   },
   {
    "id": "event_ev005202:0230",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "すごいかずの\nさかなの　たいぐんだな",
-   "en": ""
+   "en": "What a huge\nschool of fish."
   },
   {
    "id": "event_ev005202:0256",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "あんなに　おおくのさかなが\nいきいきとおよいでいる‥‥",
-   "en": ""
+   "en": "So many fish,\nswimming so lively..."
   },
   {
    "id": "event_ev005202:028E",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "うみの　へいわは\nわたしが　まもってみせるからな",
-   "en": ""
+   "en": "I'll protect\nthe peace of the sea."
   },
   {
    "id": "event_ev005202:02C0",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "さかなの　たいぐんに\nうたを　うたってあげたよ",
-   "en": ""
+   "en": "I sang a song\nfor the school of fish!"
   },
   {
    "id": "event_ev005202:02F0",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
   }
  ]
 }

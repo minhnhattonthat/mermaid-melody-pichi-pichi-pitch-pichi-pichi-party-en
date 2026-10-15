@@ -9,7 +9,7 @@
     19
    ],
    "jp": "う〜ん‥‥\nむ{h }むずかしいなあ‥‥",
-   "en": ""
+   "en": "Hmmm...\nTh-this is hard..."
   },
   {
    "id": "event_ev005009:0024",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "もう　ちょっと‥‥",
-   "en": ""
+   "en": "Just a little more..."
   },
   {
    "id": "event_ev005009:0038",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "やったあ！　かんせい！",
-   "en": ""
+   "en": "Yay! It's done!"
   },
   {
    "id": "event_ev005009:0050",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "これで{h }みんなとおそろいの\nおまじないアクセサリーが{h }できた！",
-   "en": ""
+   "en": "Now I've made a charm accessory\nthat matches everyone's!"
   },
   {
    "id": "event_ev005009:0090",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "おまじないアクセサリーが\nかんせい{h }したよ！",
-   "en": ""
+   "en": "You finished making\na charm accessory!"
   },
   {
    "id": "event_ev005009:00BE",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005009:0102",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005009:0148",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "え〜と‥‥\nこうかな？",
-   "en": ""
+   "en": "Ummm...\nLike this?"
   },
   {
    "id": "event_ev005009:0160",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "よし！　やったあ\nかんせい！",
-   "en": ""
+   "en": "Okay! Yay,\nit's done!"
   },
   {
    "id": "event_ev005009:017E",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "これで{h }みんなとおそろいの\nおまじないアクセサリーが{h }できた！",
-   "en": ""
+   "en": "Now I've made a charm accessory\nthat matches everyone's!"
   },
   {
    "id": "event_ev005009:01BE",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "おまじないアクセサリーが\nかんせい{h }したよ！",
-   "en": ""
+   "en": "You finished making\na charm accessory!"
   },
   {
    "id": "event_ev005009:01EC",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005009:0230",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005009:0276",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "む　こうか？",
-   "en": ""
+   "en": "Hm, like this?"
   },
   {
    "id": "event_ev005009:0284",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "よし　うまくできたぞ\nかんせいだ",
-   "en": ""
+   "en": "Good, that turned out well.\nIt's done."
   },
   {
    "id": "event_ev005009:02A6",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "これで{h }みんなとおそろいの\nおまじないアクセサリーが{h }できたな",
-   "en": ""
+   "en": "Now I've made a charm accessory\nthat matches everyone's."
   },
   {
    "id": "event_ev005009:02E6",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "おまじないアクセサリーが\nかんせい{h }したよ！",
-   "en": ""
+   "en": "You finished making\na charm accessory!"
   },
   {
    "id": "event_ev005009:0314",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20C}{h }うたう{h }ちから　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005009:0358",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "『{i20D}{h }まけない{h }こころ　＋１{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   }
  ]
 }
