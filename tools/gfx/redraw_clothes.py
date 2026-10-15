@@ -35,7 +35,7 @@ def f6(text):
     cols = []
     for i, ch in enumerate(text):
         if ch == " ":
-            cols.append(np.zeros((6, 2), np.uint8)); continue
+            cols.append(np.zeros((6, 3), np.uint8)); continue
         cols.append(np.array([[c == "#" for c in r] for r in _F6[ch]], np.uint8))
         if i + 1 < len(text) and text[i + 1] != " ":
             cols.append(np.zeros((6, 1), np.uint8))

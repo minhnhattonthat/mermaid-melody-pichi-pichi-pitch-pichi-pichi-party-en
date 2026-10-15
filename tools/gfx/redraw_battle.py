@@ -112,7 +112,7 @@ def voted_bg(a, cells, struct_set):
 
 
 def relabel(a, box, text, size, letters, struct=(), rings=((2, "bg"),), bg=None, fill=None, align="c",
-            dy=0, pad=0):
+            dy=0, pad=0, font=NARROW):
     """Replace the text in box (x0, y0, x1, y1) of index array a.
     letters: indices of the original letter fill (its per-row gradient is reused); struct: other indices that belong
     to the text (outlines) and are erased with it; rings: (radius, index | 'bg' | f(row)) outlines, outermost first
@@ -133,8 +133,8 @@ def relabel(a, box, text, size, letters, struct=(), rings=((2, "bg"),), bg=None,
     else:
         b = bg
     sub[:] = b
-    plate = nearest({y0 + y: int(b[y].max()) for y in range(b.shape[0]) if b[y].max()}, 0)
-    m, cap = tmask(text, size)
+    plate = nearest({y0 + y: int(np.bincount(b[y][b[y] > 0]).argmax()) for y in range(b.shape[0]) if b[y].max()}, 0)
+    m, cap = tmask(text, size, font)
     w = m.shape[1]
     if align == "c":
         x = (x0 + x1) // 2 - w // 2
@@ -196,22 +196,33 @@ def bg_def():
 def call_bar():
     p = "/battle/battle_call_bar.dcg"
     a, im = load(p)
-    # turn banners: white letters shaded c/d on the blue ribbon; stars at both ends stay
-    turns = [(0, "Lucia's Turn"), (32, "Hanon's Turn"), (64, "Rina's Turn")]
-    struct = [0xf, 0xc, 0xd, 0xe, 7]
-    cells = [(18, y, 85, 32) for y, _ in turns]
-    bg = voted_bg(a, cells, struct)
-    for y, t in turns:
-        relabel(a, (18, y, 103, y + 32), t, 15, letters=[0xf, 0xc, 0xd], struct=[0xe, 7], bg=bg,
-                rings=((2, "bg"),))
-    # enemy attack bars: pink-gradient letters, white then teal outline over the ribbon
+    # turn banners (128x32 at y 0/32/64): white letters shaded c/d on a twisted blue ribbon, stars at both ends.
+    # Clean ribbon from the Rina banner (shortest text): rows 22+ and the star columns as drawn, the text rows flat
+    # (0 above, 8 upper band, 1 lower band).
+    ref = a[64:96].copy()
+    flat = np.repeat(np.array([0] * 9 + [8] * 7 + [1] * 6)[:, None], 87, 1)
+    for y, t in ((0, "Lucia's Turn"), (32, "Hanon's Turn"), (64, "Rina's Turn")):
+        orig = a[y:y + 32].copy()
+        a[y:y + 32] = ref
+        a[y:y + 32, 18:105] = orig[:, 18:105]                # relabel reads the letters' gradient here
+        bg = ref[:, 18:105].copy()
+        bg[:22, 4:85] = flat[:, 4:85]                      # keep the ribbon's twists at both ends
+        bg[:9, 1:] = 0
+        relabel(a, (18, y, 105, y + 32), t, 15, letters=[0xf, 0xc, 0xd], struct=[0xe, 7], bg=bg)
+    # enemy attack bars (128x24 cells): purple letters, white then navy outline, on a slanted ribbon (rows 10-23)
+    # whose clean form is rebuilt row by row from the Mishap bar (text centred, edges free).
+    m = a[216:240]
+    tpl = np.zeros((24, 128), int)
+    for r in range(10, 24):
+        xs = np.nonzero(m[r])[0]
+        xl, xr = xs.min(), xs.max()
+        tpl[r, xl:xr + 1] = np.bincount(m[r, xl + 1:xl + 8]).argmax()
+        tpl[r, xr - 3:xr + 1] = m[r, xr - 3:xr + 1]           # the 5/4 right edge
     names = ["Izuru's Attack", "Eriru's Attack", "Yuri's Attack", "Maria's Attack", "Gaito's Attack", "Mishap!"]
-    cells = [(0, 96 + 24 * k, 128, 24) for k in range(6)] + [(128, 32 * k, 128, 24) for k in range(6)]
-    struct = [8, 7, 6, 9, 0xf, 0xa]
-    bg = voted_bg(a, cells, struct)
-    for (x, y, w, h), t in zip(cells, names + names):
-        relabel(a, (x, y, x + 120, y + h), t, 15, letters=[8, 7, 6], struct=[9, 0xf, 0xa, 4], bg=bg[:, :120],
-                rings=((2, 4), (1, 0xf)))
+    cells = [(0, 96 + 24 * k) for k in range(6)] + [(128, 32 * k) for k in range(6)]
+    for (x, y), t in zip(cells, names + names):
+        relabel(a, (x, y, x + 128, y + 24), t, 14, letters=[8, 7, 6], struct=[9, 0xf, 0xa, 4], bg=tpl,
+                rings=((3, 4), (1, 0xf)), font="ARLRDBD.TTF", pad=2)
     save(a, im, p)
 
 

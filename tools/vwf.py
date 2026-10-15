@@ -106,7 +106,9 @@ loop:
     mov r0, r8
     ldrh r6, [r0, #6]
     ldrh r1, [r0, #4]
-    lsls r1, r1, #1
+    lsls r2, r1, #3
+    lsls r1, r1, #2
+    adds r1, r1, r2
     ldr r4, [sp, #28]
     cmp r4, r1
     blo lp_go
@@ -361,13 +363,32 @@ plot_r:
     bx lr
 
 cost:
-    lsrs r1, r1, #14
-    cmp r1, #1
-    beq cost1
-    movs r1, #2
+    lsrs r0, r1, #14
+    cmp r0, #1
+    beq c_half
+    cmp r0, #2
+    bhs c_ctl
+    movs r1, #12
     bx lr
-cost1:
-    movs r1, #1
+c_ctl:
+    ldr r0, lit_8000
+    adds r0, #1
+    cmp r1, r0
+    beq c_nl
+    movs r1, #0
+    bx lr
+c_nl:
+    movs r1, #12
+    bx lr
+c_half:
+    lsls r1, r1, #24
+    lsrs r1, r1, #24
+    ldr r0, lit_adv
+    ldrb r1, [r0, r1]
+    cmp r1, #0
+    bne c_ret
+    movs r1, #8
+c_ret:
     bx lr
 
 tiles:
