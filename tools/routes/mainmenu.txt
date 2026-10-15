@@ -1,0 +1,8 @@
+# cold boot -> main menu (Story selected)
+2100 -
+5 start
+100 -
+5 start
+100 -
+5 start
+200 -

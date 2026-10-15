@@ -1,0 +1,9 @@
+rom/
+build/
+work/
+dist/
+release/
+tools/mesen/
+*.mss
+*.sav
+__pycache__/
