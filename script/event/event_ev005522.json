@@ -8,7 +8,7 @@
     0
    ],
    "jp": "じんじゃって　しずかで\nいいところだよね",
-   "en": ""
+   "en": "The shrine is so quiet.\nIt's a nice place."
   },
   {
    "id": "event_ev005522:002A",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "海斗が{h }サーフィンで\nケガ{h }なんかしないように",
-   "en": ""
+   "en": "So Kaito won't get hurt\nsurfing or anything..."
   },
   {
    "id": "event_ev005522:005A",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "おまいり{h }していこう！",
-   "en": ""
+   "en": "I'll say a prayer!"
   },
   {
    "id": "event_ev005522:0072",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "じんじゃに{h }おまいりして\nおまもりをもらったよ",
-   "en": ""
+   "en": "I prayed at the shrine\nand got a good luck charm!"
   },
   {
    "id": "event_ev005522:00A2",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "『カードゲット！』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005522:00B6",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20D}{h }まけない　こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20D} Strong Heart +1{i20F}\""
   },
   {
    "id": "event_ev005522:00FC",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "じんじゃって　しんぴてきな{h }\nかんじがするよね",
-   "en": ""
+   "en": "Shrines feel kind of\nmysterious, don't they?"
   },
   {
    "id": "event_ev005522:012C",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "わたしと{h }太郎ちゃんのことを\nおまいり{h }していこうっと☆",
-   "en": ""
+   "en": "I'll pray for me\nand Taro! ☆"
   },
   {
    "id": "event_ev005522:0166",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "じんじゃに{h }おまいりして\nおまもりをもらったよ",
-   "en": ""
+   "en": "I prayed at the shrine\nand got a good luck charm!"
   },
   {
    "id": "event_ev005522:0196",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "『カードゲット！』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005522:01AA",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20D}{h }まけない　こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20D} Strong Heart +1{i20F}\""
   },
   {
    "id": "event_ev005522:01F0",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "じんじゃに{h }くると\nこころが{h }おちつくな‥‥",
-   "en": ""
+   "en": "Coming to the shrine\ncalms my heart..."
   },
   {
    "id": "event_ev005522:021E",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "せっかくだから{h }\nおまいり{h }していこう",
-   "en": ""
+   "en": "Since I'm here,\nI'll say a prayer."
   },
   {
    "id": "event_ev005522:0246",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "じんじゃに{h }おまいりして\nおまもりをもらったよ",
-   "en": ""
+   "en": "I prayed at the shrine\nand got a good luck charm!"
   },
   {
    "id": "event_ev005522:0276",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "『カードゲット！』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005522:028A",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20D}{h }まけない　こころ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20D} Strong Heart +1{i20F}\""
   }
  ]
 }

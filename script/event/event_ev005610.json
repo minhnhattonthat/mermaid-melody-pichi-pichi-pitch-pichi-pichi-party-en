@@ -9,7 +9,7 @@
     79
    ],
    "jp": "あ{h }あそこにいるのは{h }海月先生？\nあいさつしなくっちゃ！",
-   "en": ""
+   "en": "Oh, is that Mr. Mitsuki over there?\nI have to say hello!"
   },
   {
    "id": "event_ev005610:003A",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "ああ{h }るちあさん‥‥{h }\nお出かけですか？",
-   "en": ""
+   "en": "Ah, Lucia...\nAre you going somewhere?"
   },
   {
    "id": "event_ev005610:0064",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "はい{h }ちょっとあっちのほうまで‥‥{h }\n海月先生は？",
-   "en": ""
+   "en": "Yes, just over that way...\nWhat about you, Mr. Mitsuki?"
   },
   {
    "id": "event_ev005610:0098",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "ぼくもそちらに{h }ようじがあるんです",
-   "en": ""
+   "en": "I have some business that way too."
   },
   {
    "id": "event_ev005610:00BC",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "いっしょにいきましょうか",
-   "en": ""
+   "en": "Shall we go together?"
   },
   {
    "id": "event_ev005610:00D6",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "海月先生といっしょに{h }おさんぽ\nすることに　ちょっと{h }きんちょう",
-   "en": ""
+   "en": "I'm taking a walk with\nMr. Mitsuki. I'm a bit nervous."
   },
   {
    "id": "event_ev005610:0118",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005610:013A",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "るちあさん？　こんにちは{h }\nどこかへ{h }お出かけですか？",
-   "en": ""
+   "en": "Lucia? Hello.\nAre you going somewhere?"
   },
   {
    "id": "event_ev005610:0196",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "はい{h }ちょっとあっちのほうまで‥‥{h }\n海月先生は？",
-   "en": ""
+   "en": "Yes, just over that way...\nWhat about you, Mr. Mitsuki?"
   },
   {
    "id": "event_ev005610:01CA",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "ちょうど{h }ぼくも{h }\nそちらに{h }ようじがあるんです",
-   "en": ""
+   "en": "As it happens, I have\nsome business that way too."
   },
   {
    "id": "event_ev005610:01FC",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "いっしょにいきましょうか",
-   "en": ""
+   "en": "Shall we go together?"
   },
   {
    "id": "event_ev005610:0216",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "海月先生といっしょに{h }おさんぽ\nすることに　ちょっと{h }きんちょう",
-   "en": ""
+   "en": "I'm taking a walk with\nMr. Mitsuki. I'm a bit nervous."
   },
   {
    "id": "event_ev005610:0258",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005610:027A",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "やあ{h }るちあさん　こんにちは{h }\nどこかへ{h }お出かけですか？",
-   "en": ""
+   "en": "Hello there, Lucia.\nAre you going somewhere?"
   },
   {
    "id": "event_ev005610:02DA",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "はい{h }ちょっとあっちのほうまで‥‥{h }\n海月先生は？",
-   "en": ""
+   "en": "Yes, just over that way...\nWhat about you, Mr. Mitsuki?"
   },
   {
    "id": "event_ev005610:030E",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "ちょうど{h }ぼくも{h }\nそちらに{h }ようじがあるんです",
-   "en": ""
+   "en": "As it happens, I have\nsome business that way too."
   },
   {
    "id": "event_ev005610:0340",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "よかったら{h }\nいっしょにいきましょうか",
-   "en": ""
+   "en": "If you'd like,\nshall we go together?"
   },
   {
    "id": "event_ev005610:0368",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "海月先生といっしょに{h }おさんぽ\nすることに　ちょっと{h }きんちょう",
-   "en": ""
+   "en": "I'm taking a walk with\nMr. Mitsuki. I'm a bit nervous."
   },
   {
    "id": "event_ev005610:03AA",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005610:03CC",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005610:03F0",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "あそこに見えるのは‥‥{h }{h }\n太郎ちゃん！",
-   "en": ""
+   "en": "Who's that over there...\nIt's Taro!"
   },
   {
    "id": "event_ev005610:041A",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "海月せんせーいっ！！",
-   "en": ""
+   "en": "Mr. Mitsukiii!!"
   },
   {
    "id": "event_ev005610:0430",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "ああ{h }波音さん{h }{h }\nきょうも　げんきがいいですね",
-   "en": ""
+   "en": "Ah, Hanon.\nFull of energy as always."
   },
   {
    "id": "event_ev005610:0462",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "はいっ！{h }\n先生は{h }どこかへお出かけですか？",
-   "en": ""
+   "en": "Yes!\nAre you going somewhere, sir?"
   },
   {
    "id": "event_ev005610:0490",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "ちょっと{h }あちらの本やまで‥‥",
-   "en": ""
+   "en": "Just over to that bookstore..."
   },
   {
    "id": "event_ev005610:04B0",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "あ{h }あの！{h }ごいっしょしても\nよろしいですか‥‥？",
-   "en": ""
+   "en": "Um, um! Would it be okay\nif I came along...?"
   },
   {
    "id": "event_ev005610:04E4",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "ええ{h }かまいませんよ{h }波音さん",
-   "en": ""
+   "en": "Yes, I don't mind, Hanon."
   },
   {
    "id": "event_ev005610:0504",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "海月先生と{h }デートすることに！\nラッキー！！",
-   "en": ""
+   "en": "I get to go on a date\nwith Mr. Mitsuki! Lucky!!"
   },
   {
    "id": "event_ev005610:0532",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005610:0554",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "波音さん{h }こんにちは{h }\nきょうも　げんきがいいですね",
-   "en": ""
+   "en": "Hello, Hanon.\nFull of energy as always."
   },
   {
    "id": "event_ev005610:05AE",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "はいっ！{h }\n先生は{h }どこかへお出かけですか？",
-   "en": ""
+   "en": "Yes!\nAre you going somewhere, sir?"
   },
   {
    "id": "event_ev005610:05DC",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "ちょっと{h }あちらの本やまで‥‥",
-   "en": ""
+   "en": "Just over to that bookstore..."
   },
   {
    "id": "event_ev005610:05FC",
@@ -289,7 +289,7 @@
     35
    ],
    "jp": "あ{h }あの！{h }ごいっしょしても\nよろしいですか‥‥？",
-   "en": ""
+   "en": "Um, um! Would it be okay\nif I came along...?"
   },
   {
    "id": "event_ev005610:0630",
@@ -297,7 +297,7 @@
     36
    ],
    "jp": "じゃあ{h }\nいっしょにいきましょうか{h }波音さん",
-   "en": ""
+   "en": "Well then,\nshall we go together, Hanon?"
   },
   {
    "id": "event_ev005610:065E",
@@ -305,7 +305,7 @@
     37
    ],
    "jp": "海月先生と{h }デートすることに！\nラッキー！！",
-   "en": ""
+   "en": "I get to go on a date\nwith Mr. Mitsuki! Lucky!!"
   },
   {
    "id": "event_ev005610:068C",
@@ -313,7 +313,7 @@
     38
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005610:06AE",
@@ -329,7 +329,7 @@
     40
    ],
    "jp": "こんにちは{h }波音さん{h }\nきょうも　げんきがいいですね",
-   "en": ""
+   "en": "Hello, Hanon.\nFull of energy as always."
   },
   {
    "id": "event_ev005610:0708",
@@ -337,7 +337,7 @@
     41
    ],
    "jp": "はいっ！{h }\n先生は{h }どこかへお出かけですか？",
-   "en": ""
+   "en": "Yes!\nAre you going somewhere, sir?"
   },
   {
    "id": "event_ev005610:0736",
@@ -345,7 +345,7 @@
     42
    ],
    "jp": "ちょっと{h }あちらの本やまで‥‥",
-   "en": ""
+   "en": "Just over to that bookstore..."
   },
   {
    "id": "event_ev005610:0756",
@@ -353,7 +353,7 @@
     43
    ],
    "jp": "あ{h }あの！{h }ごいっしょしても\nよろしいですか‥‥？",
-   "en": ""
+   "en": "Um, um! Would it be okay\nif I came along...?"
   },
   {
    "id": "event_ev005610:078A",
@@ -361,7 +361,7 @@
     44
    ],
    "jp": "ええ{h }かまいませんよ",
-   "en": ""
+   "en": "Yes, I don't mind."
   },
   {
    "id": "event_ev005610:07A0",
@@ -369,7 +369,7 @@
     45
    ],
    "jp": "それでは{h }いっしょに\nいきましょうか{h }波音さん",
-   "en": ""
+   "en": "Well then, shall we\ngo together, Hanon?"
   },
   {
    "id": "event_ev005610:07D0",
@@ -377,7 +377,7 @@
     46
    ],
    "jp": "海月先生と{h }デートすることに！\nラッキー！！",
-   "en": ""
+   "en": "I get to go on a date\nwith Mr. Mitsuki! Lucky!!"
   },
   {
    "id": "event_ev005610:07FE",
@@ -385,7 +385,7 @@
     47
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005610:0820",
@@ -393,7 +393,7 @@
     48
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005610:0844",
@@ -401,7 +401,7 @@
     49
    ],
    "jp": "海月先生だ{h }\nあいさつをしなくちゃな‥‥",
-   "en": ""
+   "en": "It's Mr. Mitsuki.\nI should say hello..."
   },
   {
    "id": "event_ev005610:086E",
@@ -409,7 +409,7 @@
     50
    ],
    "jp": "リナさん‥‥\nどこかへ{h }お出かけですか",
-   "en": ""
+   "en": "Rina...\nAre you going somewhere?"
   },
   {
    "id": "event_ev005610:0896",
@@ -417,7 +417,7 @@
     51
    ],
    "jp": "はい{h }まあ‥‥\nちょっとあっちのほうに",
-   "en": ""
+   "en": "Yes, well...\njust over that way."
   },
   {
    "id": "event_ev005610:08BE",
@@ -425,7 +425,7 @@
     52
    ],
    "jp": "ぼくも{h }そちらに{h }ようじがあるんです",
-   "en": ""
+   "en": "I have some business that way too."
   },
   {
    "id": "event_ev005610:08E4",
@@ -433,7 +433,7 @@
     53
    ],
    "jp": "いっしょにいきましょうか",
-   "en": ""
+   "en": "Shall we go together?"
   },
   {
    "id": "event_ev005610:08FE",
@@ -441,7 +441,7 @@
     54
    ],
    "jp": "なぜか{h }海月先生と\nさんぽすることに{h }なってしまう",
-   "en": ""
+   "en": "Somehow I ended up taking\na walk with Mr. Mitsuki."
   },
   {
    "id": "event_ev005610:0932",
@@ -449,7 +449,7 @@
     55
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005610:0954",
@@ -465,7 +465,7 @@
     57
    ],
    "jp": "リナさん{h }こんにちは{h }\nどこかへ{h }お出かけですか",
-   "en": ""
+   "en": "Hello, Rina.\nAre you going somewhere?"
   },
   {
    "id": "event_ev005610:09AA",
@@ -473,7 +473,7 @@
     58
    ],
    "jp": "はい{h }まあ‥‥\nちょっとあっちのほうに",
-   "en": ""
+   "en": "Yes, well...\njust over that way."
   },
   {
    "id": "event_ev005610:09D2",
@@ -481,7 +481,7 @@
     59
    ],
    "jp": "ちょうど{h }ぼくも{h }\nそちらに{h }ようじがあるんです",
-   "en": ""
+   "en": "As it happens, I have\nsome business that way too."
   },
   {
    "id": "event_ev005610:0A04",
@@ -489,7 +489,7 @@
     60
    ],
    "jp": "いっしょにいきましょうか",
-   "en": ""
+   "en": "Shall we go together?"
   },
   {
    "id": "event_ev005610:0A1E",
@@ -497,7 +497,7 @@
     61
    ],
    "jp": "なぜか{h }海月先生と\nさんぽすることに{h }なってしまう",
-   "en": ""
+   "en": "Somehow I ended up taking\na walk with Mr. Mitsuki."
   },
   {
    "id": "event_ev005610:0A52",
@@ -505,7 +505,7 @@
     62
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005610:0A74",
@@ -521,7 +521,7 @@
     64
    ],
    "jp": "ああ{h }リナさん{h }こんにちは",
-   "en": ""
+   "en": "Ah, Rina, hello."
   },
   {
    "id": "event_ev005610:0AB4",
@@ -529,7 +529,7 @@
     65
    ],
    "jp": "こんなところで{h }あうなんて\nきぐうですね",
-   "en": ""
+   "en": "What a coincidence,\nmeeting you here."
   },
   {
    "id": "event_ev005610:0ADE",
@@ -537,7 +537,7 @@
     66
    ],
    "jp": "どこかへ{h }お出かけですか",
-   "en": ""
+   "en": "Are you going somewhere?"
   },
   {
    "id": "event_ev005610:0AF8",
@@ -545,7 +545,7 @@
     67
    ],
    "jp": "はい{h }まあ‥‥\nちょっとあっちのほうに",
-   "en": ""
+   "en": "Yes, well...\njust over that way."
   },
   {
    "id": "event_ev005610:0B20",
@@ -553,7 +553,7 @@
     68
    ],
    "jp": "ちょうど{h }ぼくも{h }\nそちらに{h }ようじがあるんです",
-   "en": ""
+   "en": "As it happens, I have\nsome business that way too."
   },
   {
    "id": "event_ev005610:0B52",
@@ -561,7 +561,7 @@
     69
    ],
    "jp": "よかったら\nいっしょに{h }いきましょうか",
-   "en": ""
+   "en": "If you'd like,\nshall we go together?"
   },
   {
    "id": "event_ev005610:0B7A",
@@ -569,7 +569,7 @@
     70
    ],
    "jp": "なぜか{h }海月先生と\nさんぽすることに{h }なってしまう",
-   "en": ""
+   "en": "Somehow I ended up taking\na walk with Mr. Mitsuki."
   },
   {
    "id": "event_ev005610:0BAE",
@@ -577,7 +577,7 @@
     71
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005610:0BD0",
@@ -585,7 +585,7 @@
     72
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005610:0BF4",
@@ -593,7 +593,7 @@
     73
    ],
    "jp": "では{h }るちあさん\nこのへんで{h }おわかれですね",
-   "en": ""
+   "en": "Well, Lucia,\nthis is where we part."
   },
   {
    "id": "event_ev005610:0C22",
@@ -601,7 +601,7 @@
     74
    ],
    "jp": "『海月先生と{h }おわかれしたよ』",
-   "en": ""
+   "en": "\"You said goodbye to Mr. Mitsuki.\""
   },
   {
    "id": "event_ev005610:0C42",
@@ -609,7 +609,7 @@
     75
    ],
    "jp": "じゃあこのへんで{h }おわかれですね\nまたあいましょう{h }波音さん",
-   "en": ""
+   "en": "Well, this is where we part.\nSee you again, Hanon."
   },
   {
    "id": "event_ev005610:0C80",
@@ -617,7 +617,7 @@
     76
    ],
    "jp": "『太郎ちゃんと{h }おわかれしたよ』",
-   "en": ""
+   "en": "\"You said goodbye to Taro.\""
   },
   {
    "id": "event_ev005610:0CA2",
@@ -625,7 +625,7 @@
     77
    ],
    "jp": "リナさん{h }じゃあこのへんで\nおわかれですね",
-   "en": ""
+   "en": "Well, Rina, this is\nwhere we part."
   },
   {
    "id": "event_ev005610:0CCE",
@@ -633,7 +633,7 @@
     78
    ],
    "jp": "『海月先生と{h }おわかれした』",
-   "en": ""
+   "en": "\"You said goodbye to Mr. Mitsuki.\""
   }
  ]
 }

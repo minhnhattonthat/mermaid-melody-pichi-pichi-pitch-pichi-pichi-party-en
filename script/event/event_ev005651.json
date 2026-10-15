@@ -9,7 +9,7 @@
     103
    ],
    "jp": "タキさん　すいぞくかんで\nほんとによかったの？",
-   "en": ""
+   "en": "Taki, are you sure the\naquarium was the right place?"
   },
   {
    "id": "event_ev005651:0030",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "るちあが{h }すいぞくかんに\nいきたいとおもうなら‥‥",
-   "en": ""
+   "en": "If you felt like going\nto the aquarium, Lucia..."
   },
   {
    "id": "event_ev005651:0064",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "そこが{h }さがしものの\nヒントになるはずなのさ",
-   "en": ""
+   "en": "then that's where the clue\nto what I seek should be."
   },
   {
    "id": "event_ev005651:0092",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "ふう〜ん　そういうもの\nなのかなあ？",
-   "en": ""
+   "en": "Hmmm, is that\nhow it works?"
   },
   {
    "id": "event_ev005651:00B8",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "タキさんとすいぞくかんを\n見てまわったよ",
-   "en": ""
+   "en": "I went around the aquarium\nwith Taki."
   },
   {
    "id": "event_ev005651:00E2",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:0104",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "ふむふむ　なるほど‥‥",
-   "en": ""
+   "en": "Hmm, hmm, I see..."
   },
   {
    "id": "event_ev005651:0140",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "タキさんったら\nずっとあのちょうしなんだから",
-   "en": ""
+   "en": "Taki's been like that\nthe whole time..."
   },
   {
    "id": "event_ev005651:016E",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "あ〜あ　タキさんと\nこんなところにきてもね〜",
-   "en": ""
+   "en": "Sigh... coming to a place\nlike this with Taki..."
   },
   {
    "id": "event_ev005651:019C",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "これが太郎ちゃんだったらな‥‥",
-   "en": ""
+   "en": "If only it were Taro..."
   },
   {
    "id": "event_ev005651:01BC",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "‥‥ううん！",
-   "en": ""
+   "en": "...No!"
   },
   {
    "id": "event_ev005651:01CA",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "きたるべき{h }\n太郎ちゃんとのデートの",
-   "en": ""
+   "en": "I'll just think of it as\npractice for my future date"
   },
   {
    "id": "event_ev005651:01F0",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "れんしゅうと{h }\nおもえばいいのよね☆",
-   "en": ""
+   "en": "with Taro! ☆"
   },
   {
    "id": "event_ev005651:0216",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "タキさんとデートのれんしゅうに\nすいぞくかんを{h }まわったよ",
-   "en": ""
+   "en": "I went around the aquarium with\nTaki to practice for a date."
   },
   {
    "id": "event_ev005651:0252",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:0274",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "リナちゃん！　ここだよ\nビンビンかんじるねえ",
-   "en": ""
+   "en": "Rina! It's here!\nI can really feel it!"
   },
   {
    "id": "event_ev005651:02C6",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "さがしものの\nけはいというやつですか？",
-   "en": ""
+   "en": "You mean the presence of\nwhat you're looking for?"
   },
   {
    "id": "event_ev005651:02EE",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "すいぞくかんに‥‥？",
-   "en": ""
+   "en": "At the aquarium...?"
   },
   {
    "id": "event_ev005651:0304",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "む！　どうやら\nむこうのようだね",
-   "en": ""
+   "en": "Hmm! Looks like it's\nover that way."
   },
   {
    "id": "event_ev005651:0326",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "ま{h }まってください！\nタキさん！",
-   "en": ""
+   "en": "W-Wait!\nTaki!"
   },
   {
    "id": "event_ev005651:0348",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "タキさんにつれまわされるように\nすいぞくかんをまわった",
-   "en": ""
+   "en": "Taki dragged me all\naround the aquarium."
   },
   {
    "id": "event_ev005651:0380",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "つかれたけれど{h }ちょっとそれも\nたのしかったかな‥‥？",
-   "en": ""
+   "en": "I'm tired, but maybe it was\na little fun too...?"
   },
   {
    "id": "event_ev005651:03B8",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:03DA",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "あ{h }タキさん\nうみのいえで{h }おちゃしていこうよ",
-   "en": ""
+   "en": "Oh, Taki, let's stop for some\ntea at the Beach House."
   },
   {
    "id": "event_ev005651:042E",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "いいねえ{h }るちあ\nちょっと{h }よっていこうか",
-   "en": ""
+   "en": "Good idea, Lucia.\nLet's drop in for a bit."
   },
   {
    "id": "event_ev005651:045A",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "さがしものも\n見つかるかもしれないしね",
-   "en": ""
+   "en": "We might even find\nwhat I'm looking for."
   },
   {
    "id": "event_ev005651:0482",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "ねえ{h }タキさん‥‥\nそのさがしものって‥‥",
-   "en": ""
+   "en": "Hey, Taki...\nwhat you're looking for is..."
   },
   {
    "id": "event_ev005651:04AE",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "うみのいえで{h }タキさんと\nおちゃをのんで{h }いろいろおはなし",
-   "en": ""
+   "en": "I had tea with Taki at the\nBeach House and we talked a lot."
   },
   {
    "id": "event_ev005651:04EA",
@@ -257,7 +257,7 @@
     31
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:050C",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "波音ちゃん{h }ちょっと\nそこで{h }休んでいこうか",
-   "en": ""
+   "en": "Hanon, let's take\na little rest there."
   },
   {
    "id": "event_ev005651:055E",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "いいわよ　そのかわり\nおごってくれるんでしょ？",
-   "en": ""
+   "en": "Sure! But in return,\nyou're treating me, right?"
   },
   {
    "id": "event_ev005651:058E",
@@ -289,7 +289,7 @@
     35
    ],
    "jp": "まったく{h }しっかりしてるね",
-   "en": ""
+   "en": "My, you're a sharp one."
   },
   {
    "id": "event_ev005651:05AA",
@@ -297,7 +297,7 @@
     36
    ],
    "jp": "えへへ　ごちそうさま〜！",
-   "en": ""
+   "en": "Hehe, thanks for the treat!"
   },
   {
    "id": "event_ev005651:05C4",
@@ -305,7 +305,7 @@
     37
    ],
    "jp": "タキさんと{h }うみのいえで\nおちゃしたよ",
-   "en": ""
+   "en": "I had tea with Taki\nat the Beach House."
   },
   {
    "id": "event_ev005651:05EC",
@@ -313,7 +313,7 @@
     38
    ],
    "jp": "ごちそうしてもらって\nラッキー！",
-   "en": ""
+   "en": "She treated me.\nLucky!"
   },
   {
    "id": "event_ev005651:060E",
@@ -321,7 +321,7 @@
     39
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:0630",
@@ -337,7 +337,7 @@
     41
    ],
    "jp": "リナちゃん　そこの{h }うみのいえで\n休んでいかないかい？",
-   "en": ""
+   "en": "Rina, shall we rest a while\nat the Beach House there?"
   },
   {
    "id": "event_ev005651:068C",
@@ -345,7 +345,7 @@
     42
    ],
    "jp": "ああ{h }そうですね\nけっこう{h }あるきましたし",
-   "en": ""
+   "en": "Oh, sure.\nWe've walked quite a bit."
   },
   {
    "id": "event_ev005651:06B8",
@@ -353,7 +353,7 @@
     43
    ],
    "jp": "ふう{h }なかなかさがしものは\n見つからないねえ‥‥",
-   "en": ""
+   "en": "Phew, what I'm looking for\nsure is hard to find..."
   },
   {
    "id": "event_ev005651:06EA",
@@ -361,7 +361,7 @@
     44
    ],
    "jp": "そうですね‥‥",
-   "en": ""
+   "en": "It sure is..."
   },
   {
    "id": "event_ev005651:06FA",
@@ -369,7 +369,7 @@
     45
    ],
    "jp": "それはそうと‥‥",
-   "en": ""
+   "en": "By the way..."
   },
   {
    "id": "event_ev005651:070C",
@@ -377,7 +377,7 @@
     46
    ],
    "jp": "リナちゃん　おまえの{h }さがしものは\n見つかりそうかい？",
-   "en": ""
+   "en": "Rina, do you think you'll\nfind what you're looking for?"
   },
   {
    "id": "event_ev005651:0744",
@@ -385,7 +385,7 @@
     47
    ],
    "jp": "え？　わたしは\nさがしものなんて‥‥",
-   "en": ""
+   "en": "Huh? I'm not\nlooking for anything..."
   },
   {
    "id": "event_ev005651:076A",
@@ -393,7 +393,7 @@
     48
    ],
    "jp": "だれしも　なにかをさがしながら\n生きているものさ",
-   "en": ""
+   "en": "Everyone lives their life\nsearching for something."
   },
   {
    "id": "event_ev005651:079C",
@@ -401,7 +401,7 @@
     49
    ],
    "jp": "もし{h }すでにこれだと{h }おもうものが\nあるなら{h }それをだいじにするんだね",
-   "en": ""
+   "en": "If you've already found what you\nthink it is, treasure it."
   },
   {
    "id": "event_ev005651:07E4",
@@ -409,7 +409,7 @@
     50
    ],
    "jp": "はい‥‥",
-   "en": ""
+   "en": "Yes..."
   },
   {
    "id": "event_ev005651:07EE",
@@ -417,7 +417,7 @@
     51
    ],
    "jp": "タキさんと{h }うみのいえで\nゆったり{h }おちゃしたよ",
-   "en": ""
+   "en": "I had a relaxing tea\nwith Taki at the Beach House."
   },
   {
    "id": "event_ev005651:0820",
@@ -425,7 +425,7 @@
     52
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:0842",
@@ -441,7 +441,7 @@
     54
    ],
    "jp": "コンサートホールでクラシックなんて\nねむくなってきちゃった‥‥",
-   "en": ""
+   "en": "Classical music at the Concert\nHall is making me sleepy..."
   },
   {
    "id": "event_ev005651:08A6",
@@ -449,7 +449,7 @@
     55
    ],
    "jp": "こら　るちあ{h }ねたらダメだよ",
-   "en": ""
+   "en": "Hey, Lucia, no sleeping."
   },
   {
    "id": "event_ev005651:08C4",
@@ -457,7 +457,7 @@
     56
    ],
    "jp": "‥‥まったく\nこのげいじゅつが{h }わからないなんて",
-   "en": ""
+   "en": "...Honestly, not appreciating\nthis kind of art..."
   },
   {
    "id": "event_ev005651:08F6",
@@ -465,7 +465,7 @@
     57
    ],
    "jp": "（く〜‥‥）",
-   "en": ""
+   "en": "(Zzz...)"
   },
   {
    "id": "event_ev005651:0904",
@@ -473,7 +473,7 @@
     58
    ],
    "jp": "コンサートホールで{h }タキさんと\nおんがくかんしょう",
-   "en": ""
+   "en": "I listened to music with Taki\nat the Concert Hall."
   },
   {
    "id": "event_ev005651:0938",
@@ -481,7 +481,7 @@
     59
    ],
    "jp": "きもちよくって{h }おもわず\nぐっすり！",
-   "en": ""
+   "en": "It felt so nice, I fell\nfast asleep before I knew it!"
   },
   {
    "id": "event_ev005651:095E",
@@ -489,7 +489,7 @@
     60
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:0980",
@@ -505,7 +505,7 @@
     62
    ],
    "jp": "しずかなピアノのしらべ\nすてき！",
-   "en": ""
+   "en": "The quiet sound of the piano...\nIt's lovely!"
   },
   {
    "id": "event_ev005651:09C6",
@@ -513,7 +513,7 @@
     63
    ],
    "jp": "こら{h }波音ちゃん{h }しずかにしなさい\nきこえないだろう",
-   "en": ""
+   "en": "Hey, Hanon, be quiet.\nI can't hear."
   },
   {
    "id": "event_ev005651:09FC",
@@ -521,7 +521,7 @@
     64
    ],
    "jp": "はーい",
-   "en": ""
+   "en": "Okaaay."
   },
   {
    "id": "event_ev005651:0A04",
@@ -529,7 +529,7 @@
     65
    ],
    "jp": "（タキさんってば{h }よく\nこういうとこに{h }くるのかなあ？）",
-   "en": ""
+   "en": "(Does Taki come to places\nlike this a lot?)"
   },
   {
    "id": "event_ev005651:0A3E",
@@ -537,7 +537,7 @@
     66
    ],
    "jp": "（‥‥ちょっと{h }いがい）",
-   "en": ""
+   "en": "(...That's a little surprising.)"
   },
   {
    "id": "event_ev005651:0A58",
@@ -545,7 +545,7 @@
     67
    ],
    "jp": "コンサートホールで{h }タキさんと\nおんがくかんしょう",
-   "en": ""
+   "en": "I listened to music with Taki\nat the Concert Hall."
   },
   {
    "id": "event_ev005651:0A8C",
@@ -553,7 +553,7 @@
     68
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:0AAE",
@@ -569,7 +569,7 @@
     70
    ],
    "jp": "ほら{h }入るよリナちゃん\nはやくおいで",
-   "en": ""
+   "en": "Come on, we're going in, Rina.\nHurry up."
   },
   {
    "id": "event_ev005651:0AF8",
@@ -577,7 +577,7 @@
     71
    ],
    "jp": "‥‥タキさんに{h }クラシックを\nきくしゅみが{h }あったとは",
-   "en": ""
+   "en": "...I didn't know you liked\nlistening to classical music."
   },
   {
    "id": "event_ev005651:0B30",
@@ -585,7 +585,7 @@
     72
    ],
    "jp": "なんだい{h }いがいかい？",
-   "en": ""
+   "en": "What, is that surprising?"
   },
   {
    "id": "event_ev005651:0B48",
@@ -593,7 +593,7 @@
     73
    ],
    "jp": "ええ{h }ちょっと‥‥",
-   "en": ""
+   "en": "Yes, a little..."
   },
   {
    "id": "event_ev005651:0B5C",
@@ -601,7 +601,7 @@
     74
    ],
    "jp": "タキさんと{h }コンサートホールで\nおんがくを{h }きいてきたよ",
-   "en": ""
+   "en": "I listened to music with Taki\nat the Concert Hall."
   },
   {
    "id": "event_ev005651:0B96",
@@ -609,7 +609,7 @@
     75
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:0BB8",
@@ -625,7 +625,7 @@
     77
    ],
    "jp": "ふう〜　いいかぜ",
-   "en": ""
+   "en": "Phew, nice breeze."
   },
   {
    "id": "event_ev005651:0BEE",
@@ -633,7 +633,7 @@
     78
    ],
    "jp": "‥‥タキさん\nさがしものは{h }さがさなくていいの？",
-   "en": ""
+   "en": "...Taki, don't you need to\nlook for what you're looking for?"
   },
   {
    "id": "event_ev005651:0C20",
@@ -641,7 +641,7 @@
     79
    ],
    "jp": "いそいでさがしたってね‥‥",
-   "en": ""
+   "en": "Searching in a hurry..."
   },
   {
    "id": "event_ev005651:0C3C",
@@ -649,7 +649,7 @@
     80
    ],
    "jp": "かくじつに見つかるって\nもんでもないからね",
-   "en": ""
+   "en": "doesn't mean you're\nsure to find it."
   },
   {
    "id": "event_ev005651:0C68",
@@ -657,7 +657,7 @@
     81
    ],
    "jp": "ゆっくりでいいのさ",
-   "en": ""
+   "en": "Slow and steady is fine."
   },
   {
    "id": "event_ev005651:0C7C",
@@ -665,7 +665,7 @@
     82
    ],
    "jp": "そういうもの？",
-   "en": ""
+   "en": "Is that how it works?"
   },
   {
    "id": "event_ev005651:0C8C",
@@ -673,7 +673,7 @@
     83
    ],
    "jp": "そうだよ　だいじなさがしものほど\nあせっちゃダメなのさ",
-   "en": ""
+   "en": "That's right. The more important\nit is, the less you should rush."
   },
   {
    "id": "event_ev005651:0CC4",
@@ -681,7 +681,7 @@
     84
    ],
    "jp": "みさきのてんぼうだいで\nきもちのいいかぜを{h }うけながら",
-   "en": ""
+   "en": "At the Cape Lookout, in\nthe pleasant breeze..."
   },
   {
    "id": "event_ev005651:0CFC",
@@ -689,7 +689,7 @@
     85
    ],
    "jp": "タキさんとおしゃべり{h!}",
-   "en": ""
+   "en": "I chatted with Taki!"
   },
   {
    "id": "event_ev005651:0D14",
@@ -697,7 +697,7 @@
     86
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:0D36",
@@ -713,7 +713,7 @@
     88
    ],
    "jp": "う〜ん　いいかぜね　タキさん",
-   "en": ""
+   "en": "Mmm, nice breeze, huh, Taki?"
   },
   {
    "id": "event_ev005651:0D78",
@@ -721,7 +721,7 @@
     89
    ],
    "jp": "そうだねえ　たまにはゆっくりと\nうみを{h }ながめるのもいいねえ",
-   "en": ""
+   "en": "It sure is. Gazing at the sea\nslowly once in a while is nice."
   },
   {
    "id": "event_ev005651:0DB6",
@@ -729,7 +729,7 @@
     90
    ],
    "jp": "（こんどは{h }太郎ちゃんを\nさそってみよっと☆）",
-   "en": ""
+   "en": "(Next time I'll\ninvite Taro! ☆)"
   },
   {
    "id": "event_ev005651:0DE6",
@@ -737,7 +737,7 @@
     91
    ],
    "jp": "みさきのてんぼうだいで{h }タキさんと\nゆったりとしたじかんを{h }すごしたよ",
-   "en": ""
+   "en": "I spent a relaxing time\nwith Taki at the Cape Lookout."
   },
   {
    "id": "event_ev005651:0E2E",
@@ -745,7 +745,7 @@
     92
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:0E50",
@@ -761,7 +761,7 @@
     94
    ],
    "jp": "ふ〜　いいかぜだねえ‥‥",
-   "en": ""
+   "en": "Phew, what a nice breeze..."
   },
   {
    "id": "event_ev005651:0E8E",
@@ -769,7 +769,7 @@
     95
    ],
    "jp": "ええ　ほんとうに‥‥",
-   "en": ""
+   "en": "Yes, it really is..."
   },
   {
    "id": "event_ev005651:0EA4",
@@ -777,7 +777,7 @@
     96
    ],
    "jp": "ここで{h }しおかぜをみにうけると\nおちつくかんじがします‥‥",
-   "en": ""
+   "en": "Feeling the sea breeze here\nmakes me feel calm..."
   },
   {
    "id": "event_ev005651:0EE0",
@@ -785,7 +785,7 @@
     97
    ],
    "jp": "さて{h }そろそろ\nさがしものにもどろうか",
-   "en": ""
+   "en": "Well, time to get back\nto searching."
   },
   {
    "id": "event_ev005651:0F08",
@@ -793,7 +793,7 @@
     98
    ],
    "jp": "はい！　‥‥そろそろ　さがしものが\nなんなのか{h }おしえてくれませんか？",
-   "en": ""
+   "en": "Okay! ...Will you tell me what\nwe're looking for already?"
   },
   {
    "id": "event_ev005651:0F50",
@@ -801,7 +801,7 @@
     99
    ],
    "jp": "ふふ　ないしょだよ\n見つかったら　おしえてあげよう‥‥",
-   "en": ""
+   "en": "Hehe, it's a secret.\nI'll tell you once we find it..."
   },
   {
    "id": "event_ev005651:0F88",
@@ -809,7 +809,7 @@
     100
    ],
    "jp": "みさきのてんぼうだいで{h }タキさんと\nゆっくりしたよ",
-   "en": ""
+   "en": "I relaxed with Taki\nat the Cape Lookout."
   },
   {
    "id": "event_ev005651:0FBC",
@@ -817,7 +817,7 @@
     101
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005651:0FDE",

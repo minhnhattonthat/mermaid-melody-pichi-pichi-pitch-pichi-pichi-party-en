@@ -11,7 +11,7 @@
     15
    ],
    "jp": "あ！{h }あたらしい{h }おみせができてる",
-   "en": ""
+   "en": "Oh! A new shop has opened."
   },
   {
    "id": "event_ev005545:0024",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "うん！{h }ここの{h }アイスクリーム\nおいしい！",
-   "en": ""
+   "en": "Mmm! The ice cream here\nis yummy!"
   },
   {
    "id": "event_ev005545:0050",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "かわいい{h }おみせがならぶ\nふんすいひろばを{h }たんけんしたよ！",
-   "en": ""
+   "en": "I explored Fountain Plaza,\nlined with cute shops!"
   },
   {
    "id": "event_ev005545:008E",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005545:00B2",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "あ！{h }あたらしい{h }おみせができてる",
-   "en": ""
+   "en": "Oh! A new shop has opened."
   },
   {
    "id": "event_ev005545:00D6",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "うん！{h }ここの{h }アイスクリーム\nなかなかね！{h }",
-   "en": ""
+   "en": "Mmm! The ice cream here\nis pretty good!"
   },
   {
    "id": "event_ev005545:0106",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "かわいい{h }おみせがならぶ\nふんすいひろばを{h }たんけんしたよ！",
-   "en": ""
+   "en": "I explored Fountain Plaza,\nlined with cute shops!"
   },
   {
    "id": "event_ev005545:0144",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005545:0168",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "ちょっと{h }ひとやすみしようかな",
-   "en": ""
+   "en": "Maybe I'll take a little break."
   },
   {
    "id": "event_ev005545:0188",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "へえ{h }しらないあいだに{h }\nアイスクリームのおみせが{h }できてる",
-   "en": ""
+   "en": "Huh, an ice cream shop\nopened without me noticing."
   },
   {
    "id": "event_ev005545:01C6",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "たまには{h }アイスクリームでも\nたべようか",
-   "en": ""
+   "en": "Maybe I'll have\nsome ice cream for once."
   },
   {
    "id": "event_ev005545:01F0",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "かわいい{h }おみせがならぶ\nふんすいひろばを{h }たんけんしたよ！",
-   "en": ""
+   "en": "I explored Fountain Plaza,\nlined with cute shops!"
   },
   {
    "id": "event_ev005545:022E",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   }
  ]
 }

@@ -11,7 +11,7 @@
     91
    ],
    "jp": "あっ{h }ヒッポ",
-   "en": ""
+   "en": "Oh, Hippo."
   },
   {
    "id": "event_ev005630:000E",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "るちあさん！",
-   "en": ""
+   "en": "Lucia!"
   },
   {
    "id": "event_ev005630:001C",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "なにやってんですかぁ！\nこんなところで！",
-   "en": ""
+   "en": "What are you doing\nin a place like this?!"
   },
   {
    "id": "event_ev005630:0046",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "ホテルの{h }\nおてつだいを{h }して下さいよ！",
-   "en": ""
+   "en": "Please help out\nat the hotel!"
   },
   {
    "id": "event_ev005630:0070",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "な{h }なにって‥‥",
-   "en": ""
+   "en": "Wh-What do you mean..."
   },
   {
    "id": "event_ev005630:0082",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "ホテルにかえるまで{h }\nついていきますからね！",
-   "en": ""
+   "en": "I'm following you\nuntil you go back to the hotel!"
   },
   {
    "id": "event_ev005630:00B0",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "ヒッポに\nまとわりつかれることに",
-   "en": ""
+   "en": "Hippo ended up\ntagging along after me."
   },
   {
    "id": "event_ev005630:00D2",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005630:00F4",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "あっ{h }るちあさん！",
-   "en": ""
+   "en": "Ah, Lucia!"
   },
   {
    "id": "event_ev005630:012C",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "なにやってんですかぁ！\nこんなところで！",
-   "en": ""
+   "en": "What are you doing\nin a place like this?!"
   },
   {
    "id": "event_ev005630:0156",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "ホテルの{h }\nおてつだいを{h }して下さいよ！",
-   "en": ""
+   "en": "Please help out\nat the hotel!"
   },
   {
    "id": "event_ev005630:0180",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "な{h }なにって‥‥",
-   "en": ""
+   "en": "Wh-What do you mean..."
   },
   {
    "id": "event_ev005630:0192",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "なによー{h }そっちこそ{h }\nこんなところにいて",
-   "en": ""
+   "en": "What? You're the one\nout here in a place like this."
   },
   {
    "id": "event_ev005630:01BE",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "どうぶつえんに{h }\n入れられちゃっても{h }しらないから",
-   "en": ""
+   "en": "Don't blame me if you\nget put in a zoo."
   },
   {
    "id": "event_ev005630:01F2",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "ホテルにかえるまで{h }\nワタシが{h }ついていきますからね！",
-   "en": ""
+   "en": "I'm following you\nuntil you go back to the hotel!"
   },
   {
    "id": "event_ev005630:022A",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "ヒッポに\nまとわりつかれることに",
-   "en": ""
+   "en": "Hippo ended up\ntagging along after me."
   },
   {
    "id": "event_ev005630:024C",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005630:026E",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "あっ{h }るちあさん！\n見つけましたよ〜！",
-   "en": ""
+   "en": "Ah, Lucia!\nI found you!"
   },
   {
    "id": "event_ev005630:02BA",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "なにやってんですかぁ〜\nこんなところで",
-   "en": ""
+   "en": "What are you doing\nin a place like this?"
   },
   {
    "id": "event_ev005630:02E2",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "ホテルの{h }\nおてつだいを{h }して下さいよ",
-   "en": ""
+   "en": "Please help out\nat the hotel."
   },
   {
    "id": "event_ev005630:030A",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "な{h }なにって‥‥",
-   "en": ""
+   "en": "Wh-What do you mean..."
   },
   {
    "id": "event_ev005630:031C",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "なによー{h }そっちこそ{h }\nこんなところにいて",
-   "en": ""
+   "en": "What? You're the one\nout here in a place like this."
   },
   {
    "id": "event_ev005630:0348",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "あそんでるんでしょ",
-   "en": ""
+   "en": "You're out playing, aren't you?"
   },
   {
    "id": "event_ev005630:035C",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "う‥‥\nそんなことありません！",
-   "en": ""
+   "en": "Ugh...\nI am not!"
   },
   {
    "id": "event_ev005630:037C",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "ホテルにかえるまで{h }\nワタシが{h }ついていきます",
-   "en": ""
+   "en": "I'm following you\nuntil you go back to the hotel."
   },
   {
    "id": "event_ev005630:03AC",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "いいですね！？",
-   "en": ""
+   "en": "Understood?!"
   },
   {
    "id": "event_ev005630:03BC",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "ヒッポに\nまとわりつかれることに",
-   "en": ""
+   "en": "Hippo ended up\ntagging along after me."
   },
   {
    "id": "event_ev005630:03DE",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005630:0400",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005630:0424",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "あっ{h }ヒッポだ",
-   "en": ""
+   "en": "Oh, it's Hippo."
   },
   {
    "id": "event_ev005630:0434",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "波音さん‥‥{h }るちあさんを\nしりませんか？",
-   "en": ""
+   "en": "Hanon... Do you know\nwhere Lucia is?"
   },
   {
    "id": "event_ev005630:0460",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "るちあ？{h }うーん‥‥",
-   "en": ""
+   "en": "Lucia? Hmmm..."
   },
   {
    "id": "event_ev005630:0476",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "海斗くんと{h }いっしょだったりして☆",
-   "en": ""
+   "en": "Maybe she's with Kaito! ☆"
   },
   {
    "id": "event_ev005630:049A",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "また！　るちあさんは\nホテルのおそうじも{h }すまさないで",
-   "en": ""
+   "en": "Again! Lucia hasn't even\nfinished cleaning the hotel!"
   },
   {
    "id": "event_ev005630:04D2",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "って{h }波音さんも{h }たまには\nおてつだいをして下さい！",
-   "en": ""
+   "en": "And Hanon, you should\nhelp out once in a while too!"
   },
   {
    "id": "event_ev005630:0508",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "なんとなく\nいっしょにあるくことに",
-   "en": ""
+   "en": "Somehow we ended up\nwalking together."
   },
   {
    "id": "event_ev005630:052C",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005630:054E",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "あっ　波音さん{h }\nるちあさんを　しりませんか？",
-   "en": ""
+   "en": "Ah, Hanon,\ndo you know where Lucia is?"
   },
   {
    "id": "event_ev005630:05A2",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "るちあ？{h }うーん‥‥",
-   "en": ""
+   "en": "Lucia? Hmmm..."
   },
   {
    "id": "event_ev005630:05B8",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "海斗くんと{h }いっしょだったりして☆",
-   "en": ""
+   "en": "Maybe she's with Kaito! ☆"
   },
   {
    "id": "event_ev005630:05DC",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "また！　るちあさんは\nホテルのおそうじも{h }すまさないで",
-   "en": ""
+   "en": "Again! Lucia hasn't even\nfinished cleaning the hotel!"
   },
   {
    "id": "event_ev005630:0614",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "って{h }波音さんも{h }たまには\nおてつだいをして下さいよぉ〜",
-   "en": ""
+   "en": "And Hanon, you should\nhelp out once in a while toooo!"
   },
   {
    "id": "event_ev005630:064E",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "なんとなく\nいっしょにあるくことに",
-   "en": ""
+   "en": "Somehow we ended up\nwalking together."
   },
   {
    "id": "event_ev005630:0672",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005630:0694",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "あっ　波音さん！",
-   "en": ""
+   "en": "Ah, Hanon!"
   },
   {
    "id": "event_ev005630:06CA",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "るちあさんを　さがしてるんですが\nしりませんか？",
-   "en": ""
+   "en": "I'm looking for Lucia.\nDo you know where she is?"
   },
   {
    "id": "event_ev005630:06FC",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "るちあ？{h }うーん‥‥",
-   "en": ""
+   "en": "Lucia? Hmmm..."
   },
   {
    "id": "event_ev005630:0712",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "海斗くんと{h }いっしょだったりして☆",
-   "en": ""
+   "en": "Maybe she's with Kaito! ☆"
   },
   {
    "id": "event_ev005630:0736",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "また{h }るちあさんは\nホテルのおそうじも{h }すまさないで",
-   "en": ""
+   "en": "Lucia hasn't even finished\ncleaning the hotel again!"
   },
   {
    "id": "event_ev005630:076C",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "って{h }波音さん！",
-   "en": ""
+   "en": "And Hanon!"
   },
   {
    "id": "event_ev005630:077E",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "波音さんも{h }たまには\nおてつだいをして下さいよぉ〜",
-   "en": ""
+   "en": "You should help out\nonce in a while toooo!"
   },
   {
    "id": "event_ev005630:07B2",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "なんとなく\nいっしょにあるくことに",
-   "en": ""
+   "en": "Somehow we ended up\nwalking together."
   },
   {
    "id": "event_ev005630:07D6",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005630:07F8",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005630:081C",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "‥‥ヒッポ？{h }なにしてるんだ\nそんなに{h }ものをかついで",
-   "en": ""
+   "en": "...Hippo? What are you doing,\ncarrying so much stuff?"
   },
   {
    "id": "event_ev005630:0854",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "あっ{h }リナさん‥‥\n見ればわかるでしょう",
-   "en": ""
+   "en": "Oh, Rina...\nIsn't it obvious?"
   },
   {
    "id": "event_ev005630:087E",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "夕はんの{h }かいだしです",
-   "en": ""
+   "en": "Grocery shopping for dinner."
   },
   {
    "id": "event_ev005630:0896",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "‥‥かいものぶくろが\n１人であるいているようで",
-   "en": ""
+   "en": "...It looks like the shopping bags\nare walking on their own..."
   },
   {
    "id": "event_ev005630:08C6",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "‥‥ぶきみだぞ",
-   "en": ""
+   "en": "...It's creepy."
   },
   {
    "id": "event_ev005630:08D6",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "しつれいですよ{h }リナさん！",
-   "en": ""
+   "en": "How rude, Rina!"
   },
   {
    "id": "event_ev005630:08F2",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "なんとなく\nいっしょにあるくことに",
-   "en": ""
+   "en": "Somehow we ended up\nwalking together."
   },
   {
    "id": "event_ev005630:0916",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005630:0938",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "リナさん‥‥{h }なにって　\n見ればわかるでしょう",
-   "en": ""
+   "en": "Rina... What am I doing?\nIsn't it obvious?"
   },
   {
    "id": "event_ev005630:098C",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "夕はんの{h }かいだしですよ",
-   "en": ""
+   "en": "Grocery shopping for dinner."
   },
   {
    "id": "event_ev005630:09A6",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "‥‥かいものぶくろが\n１人であるいているようで",
-   "en": ""
+   "en": "...It looks like the shopping bags\nare walking on their own..."
   },
   {
    "id": "event_ev005630:09D6",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "‥‥ぶきみだぞ",
-   "en": ""
+   "en": "...It's creepy."
   },
   {
    "id": "event_ev005630:09E6",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "それはないですよ{h }リナさ〜ん",
-   "en": ""
+   "en": "That's just mean, Rinaaa!"
   },
   {
    "id": "event_ev005630:0A04",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "なんとなく\nいっしょにあるくことに",
-   "en": ""
+   "en": "Somehow we ended up\nwalking together."
   },
   {
    "id": "event_ev005630:0A28",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005630:0A4A",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "あっ{h }リナさん！",
-   "en": ""
+   "en": "Ah, Rina!"
   },
   {
    "id": "event_ev005630:0A80",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "なにって　見てわかりませんか？\n夕はんの{h }かいだしですよ",
-   "en": ""
+   "en": "What am I doing? Can't you tell?\nGrocery shopping for dinner."
   },
   {
    "id": "event_ev005630:0ABA",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "もつのを{h }手つだって\nくれませんか？",
-   "en": ""
+   "en": "Could you help me\ncarry them?"
   },
   {
    "id": "event_ev005630:0AE0",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "りょうが{h }おおくて\nたいへんなんですよぉ〜",
-   "en": ""
+   "en": "There's so much,\nit's really hard!"
   },
   {
    "id": "event_ev005630:0B0C",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "ああいいよ{h }はんぶん\nわたしが{h }もってやるよ",
-   "en": ""
+   "en": "Sure. I'll carry\nhalf for you."
   },
   {
    "id": "event_ev005630:0B3A",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "なんとなく\nいっしょにあるくことに",
-   "en": ""
+   "en": "Somehow we ended up\nwalking together."
   },
   {
    "id": "event_ev005630:0B5E",
@@ -659,7 +659,7 @@
     81
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005630:0B80",
@@ -667,7 +667,7 @@
     82
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005630:0BA4",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "るちあさん！{h }ちゃんとおてつだい\nして下さいよ！！",
-   "en": ""
+   "en": "Lucia! Please help out\nproperly!!"
   },
   {
    "id": "event_ev005630:0BD8",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "『ヒッポと{h }おわかれしたよ』",
-   "en": ""
+   "en": "\"You said goodbye to Hippo.\""
   },
   {
    "id": "event_ev005630:0BF6",
@@ -691,7 +691,7 @@
     85
    ],
    "jp": "たまには　おてつだいして下さいよ\n波音さん！！",
-   "en": ""
+   "en": "Please help out once in a while,\nHanon!!"
   },
   {
    "id": "event_ev005630:0C26",
@@ -699,7 +699,7 @@
     86
    ],
    "jp": "『ヒッポと{h }おわかれしたよ』",
-   "en": ""
+   "en": "\"You said goodbye to Hippo.\""
   },
   {
    "id": "event_ev005630:0C44",
@@ -707,7 +707,7 @@
     87
    ],
    "jp": "ではリナさん{h }このへんで\nおわかれですね",
-   "en": ""
+   "en": "Well, Rina, this is\nwhere we part."
   },
   {
    "id": "event_ev005630:0C6E",
@@ -715,7 +715,7 @@
     88
    ],
    "jp": "『ヒッポと{h }おわかれした』",
-   "en": ""
+   "en": "\"You said goodbye to Hippo.\""
   }
  ]
 }

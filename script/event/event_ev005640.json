@@ -11,7 +11,7 @@
     87
    ],
    "jp": "あっ{h }おねえちゃん！",
-   "en": ""
+   "en": "Oh, Sis!"
   },
   {
    "id": "event_ev005640:0016",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "あら{h }るちあ",
-   "en": ""
+   "en": "Oh, Lucia."
   },
   {
    "id": "event_ev005640:0024",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "おかいものに{h }いくから{h }\nつきあってよ",
-   "en": ""
+   "en": "I'm going shopping,\nso come with me."
   },
   {
    "id": "event_ev005640:004C",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "ええ〜っ　いいけど‥‥\nおねえちゃんの{h }おかいものって",
-   "en": ""
+   "en": "Whaaat? Okay, but...\nwhen you go shopping, Sis..."
   },
   {
    "id": "event_ev005640:0084",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "りょうが\nはんぱじゃ{h }ないんだもん",
-   "en": ""
+   "en": "you always buy\na crazy amount."
   },
   {
    "id": "event_ev005640:00A8",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "さっ！{h }いくわよ",
-   "en": ""
+   "en": "Come on! Let's go."
   },
   {
    "id": "event_ev005640:00BA",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "いっしょにおかいものに{h }いくことに\nなにか{h }かってもらえるかな",
-   "en": ""
+   "en": "I'm going shopping with her.\nMaybe she'll buy me something!"
   },
   {
    "id": "event_ev005640:00FA",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005640:011C",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "あら{h }るちあ{h }\nちょうどよかった",
-   "en": ""
+   "en": "Oh, Lucia,\nperfect timing."
   },
   {
    "id": "event_ev005640:0162",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "これから{h }おかいものに\nいくんだけど{h }つきあってよ",
-   "en": ""
+   "en": "I'm going shopping now,\nso come with me."
   },
   {
    "id": "event_ev005640:0196",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "ええ〜っ　いいけど‥‥{h }\nおねえちゃんの{h }おかいものって",
-   "en": ""
+   "en": "Whaaat? Okay, but...\nwhen you go shopping, Sis..."
   },
   {
    "id": "event_ev005640:01D0",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "りょうが\nはんぱじゃ{h }ないんだもん",
-   "en": ""
+   "en": "you always buy\na crazy amount."
   },
   {
    "id": "event_ev005640:01F4",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "そういわないで{h }ほらほら！",
-   "en": ""
+   "en": "Don't say that! Come on, come on!"
   },
   {
    "id": "event_ev005640:0210",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "いっしょにおかいものに{h }いくことに\nなにか{h }かってもらえるかな",
-   "en": ""
+   "en": "I'm going shopping with her.\nMaybe she'll buy me something!"
   },
   {
    "id": "event_ev005640:0250",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005640:0272",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "あら{h }るちあ！{h }\nいいところで{h }あったわ〜",
-   "en": ""
+   "en": "Oh, Lucia!\nJust the person I wanted to see!"
   },
   {
    "id": "event_ev005640:02C2",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "これから{h }おかいものに\nいくんだけど",
-   "en": ""
+   "en": "I'm going shopping\nnow, and..."
   },
   {
    "id": "event_ev005640:02E8",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "ちょっと{h }\nつきあってほしいのよ〜",
-   "en": ""
+   "en": "I'd like you to\ncome along!"
   },
   {
    "id": "event_ev005640:030C",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "ええ〜っ　いいけど‥‥\nおねえちゃんの{h }おかいものって",
-   "en": ""
+   "en": "Whaaat? Okay, but...\nwhen you go shopping, Sis..."
   },
   {
    "id": "event_ev005640:0344",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "りょうが\nはんぱじゃ{h }ないんだもん",
-   "en": ""
+   "en": "you always buy\na crazy amount."
   },
   {
    "id": "event_ev005640:0368",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "そういわないで{h }\nねっ！{h }おねがい！",
-   "en": ""
+   "en": "Don't say that!\nCome on! Please!"
   },
   {
    "id": "event_ev005640:038E",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "いっしょにおかいものに{h }いくことに\nなにか{h }かってもらえるかな",
-   "en": ""
+   "en": "I'm going shopping with her.\nMaybe she'll buy me something!"
   },
   {
    "id": "event_ev005640:03CE",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005640:03F0",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005640:0414",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "にこらさーん！",
-   "en": ""
+   "en": "Nikoraaa!"
   },
   {
    "id": "event_ev005640:0424",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "あら{h }波音ちゃん",
-   "en": ""
+   "en": "Oh, Hanon."
   },
   {
    "id": "event_ev005640:0436",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "ちょっとつきあってよ",
-   "en": ""
+   "en": "Come with me for a bit."
   },
   {
    "id": "event_ev005640:044C",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "え？　なになに？",
-   "en": ""
+   "en": "Huh? What is it?"
   },
   {
    "id": "event_ev005640:045E",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "これから{h }おかいものに\nいくから",
-   "en": ""
+   "en": "I'm going shopping\nnow..."
   },
   {
    "id": "event_ev005640:0480",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "にもつを{h }もってほしいのよ",
-   "en": ""
+   "en": "and I need someone to carry my bags."
   },
   {
    "id": "event_ev005640:049C",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "いっしょにおかいものに{h }いくことに\nなにか{h }かってもらえるかな",
-   "en": ""
+   "en": "I'm going shopping with her.\nMaybe she'll buy me something!"
   },
   {
    "id": "event_ev005640:04DC",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005640:04FE",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "波音ちゃんじゃない",
-   "en": ""
+   "en": "Why, it's Hanon."
   },
   {
    "id": "event_ev005640:0536",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "ちょうどよかったわ{h }\nちょっとつきあってよ",
-   "en": ""
+   "en": "Perfect timing.\nCome with me for a bit."
   },
   {
    "id": "event_ev005640:0562",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "え？　なになに？",
-   "en": ""
+   "en": "Huh? What is it?"
   },
   {
    "id": "event_ev005640:0574",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "これから{h }おかいものに\nいくんだけど",
-   "en": ""
+   "en": "I'm going shopping\nnow, and..."
   },
   {
    "id": "event_ev005640:059A",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "にもつを{h }もってほしいのよ\nさっ{h }いきましょ！",
-   "en": ""
+   "en": "I need someone to carry my bags.\nCome on, let's go!"
   },
   {
    "id": "event_ev005640:05CA",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "いっしょにおかいものに{h }いくことに\nなにか{h }かってもらえるかな",
-   "en": ""
+   "en": "I'm going shopping with her.\nMaybe she'll buy me something!"
   },
   {
    "id": "event_ev005640:060A",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005640:062C",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "あら！{h }波音ちゃんじゃない",
-   "en": ""
+   "en": "Oh! Why, it's Hanon."
   },
   {
    "id": "event_ev005640:066C",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "ちょうどよかったわ〜",
-   "en": ""
+   "en": "Perfect timing!"
   },
   {
    "id": "event_ev005640:0682",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "ねえ{h }ちょっと\nつきあってくれない？",
-   "en": ""
+   "en": "Hey, could you\ncome with me for a bit?"
   },
   {
    "id": "event_ev005640:06A8",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "え？　なになに？",
-   "en": ""
+   "en": "Huh? What is it?"
   },
   {
    "id": "event_ev005640:06BA",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "これから{h }おかいものに\nいくんだけど",
-   "en": ""
+   "en": "I'm going shopping\nnow, and..."
   },
   {
    "id": "event_ev005640:06E0",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "にもつを{h }もってほしいのよ\nさっ{h }いきましょ！",
-   "en": ""
+   "en": "I need someone to carry my bags.\nCome on, let's go!"
   },
   {
    "id": "event_ev005640:0710",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "いっしょにおかいものに{h }いくことに\nなにか{h }かってもらえるかな",
-   "en": ""
+   "en": "I'm going shopping with her.\nMaybe she'll buy me something!"
   },
   {
    "id": "event_ev005640:0750",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005640:0772",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005640:0796",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "あれ{h }にこらさん",
-   "en": ""
+   "en": "Oh, Nikora."
   },
   {
    "id": "event_ev005640:07A8",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "あらリナちゃん{h }さんぽ？",
-   "en": ""
+   "en": "Oh, Rina. Out for a walk?"
   },
   {
    "id": "event_ev005640:07C2",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "にこらさんは‥‥\nその{h }かいものぶくろのかず",
-   "en": ""
+   "en": "Nikora... with that many\nshopping bags..."
   },
   {
    "id": "event_ev005640:07F0",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "たたかいのあとって\nかんじですね‥‥",
-   "en": ""
+   "en": "you look like you just\ncame back from a battle..."
   },
   {
    "id": "event_ev005640:0816",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "まあね〜{h }\nそうだリナちゃんもいかない？",
-   "en": ""
+   "en": "Sort of! Oh, I know,\nRina, want to come too?"
   },
   {
    "id": "event_ev005640:0840",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "あそこのデパートで\nだい２ラウンドよ！",
-   "en": ""
+   "en": "Round two is at\nthat department store!"
   },
   {
    "id": "event_ev005640:0868",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "いっしょにおかいものへ{h }いくことに\nなにか{h }かってもらえるかも",
-   "en": ""
+   "en": "I'm going shopping with her.\nMaybe she'll buy me something."
   },
   {
    "id": "event_ev005640:08A8",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005640:08CA",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "あらリナちゃん{h }\nぐうぜんねー　さんぽ？",
-   "en": ""
+   "en": "Oh, Rina! What a coincidence!\nOut for a walk?"
   },
   {
    "id": "event_ev005640:0918",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "にこらさんは‥‥\nその{h }かいものぶくろのかず",
-   "en": ""
+   "en": "Nikora... with that many\nshopping bags..."
   },
   {
    "id": "event_ev005640:0946",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "たたかいのあとって\nかんじですね‥‥",
-   "en": ""
+   "en": "you look like you just\ncame back from a battle..."
   },
   {
    "id": "event_ev005640:096C",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "まあね〜{h }でもまだまだよ！\nそうだ　リナちゃんもいかない？",
-   "en": ""
+   "en": "Sort of! But I'm far from done!\nOh, I know, Rina, want to come too?"
   },
   {
    "id": "event_ev005640:09A8",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "あそこのデパートで\nだい２ラウンドよ！",
-   "en": ""
+   "en": "Round two is at\nthat department store!"
   },
   {
    "id": "event_ev005640:09D0",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "いっしょにおかいものへ{h }いくことに\nなにか{h }かってもらえるかも",
-   "en": ""
+   "en": "I'm going shopping with her.\nMaybe she'll buy me something."
   },
   {
    "id": "event_ev005640:0A10",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005640:0A32",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "あら{h }リナちゃんじゃない！{h }\nぐうぜんねー　さんぽ？",
-   "en": ""
+   "en": "Oh, if it isn't Rina!\nWhat a coincidence! Out for a walk?"
   },
   {
    "id": "event_ev005640:0A8C",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "にこらさんは‥‥\nその{h }かいものぶくろのかず",
-   "en": ""
+   "en": "Nikora... with that many\nshopping bags..."
   },
   {
    "id": "event_ev005640:0ABA",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "たたかいのあとって\nかんじですね‥‥",
-   "en": ""
+   "en": "you look like you just\ncame back from a battle..."
   },
   {
    "id": "event_ev005640:0AE0",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "まあね〜{h }でもまだまだよ！",
-   "en": ""
+   "en": "Sort of! But I'm far from done!"
   },
   {
    "id": "event_ev005640:0AFC",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "そうだ！{h }リナちゃんもいっしょに\nいかない？",
-   "en": ""
+   "en": "Oh, I know! Rina,\nwant to come with me?"
   },
   {
    "id": "event_ev005640:0B2A",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "あそこのデパートで\nだい２ラウンドよ！",
-   "en": ""
+   "en": "Round two is at\nthat department store!"
   },
   {
    "id": "event_ev005640:0B52",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "さっ！{h }いきましょ",
-   "en": ""
+   "en": "Come on! Let's go."
   },
   {
    "id": "event_ev005640:0B66",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "いっしょにおかいものへ{h }いくことに\nなにか{h }かってもらえるかも",
-   "en": ""
+   "en": "I'm going shopping with her.\nMaybe she'll buy me something."
   },
   {
    "id": "event_ev005640:0BA6",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005640:0BC8",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005640:0BEC",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "ごくろうさま{h }るちあ\nまた{h }たのむわね！",
-   "en": ""
+   "en": "Thanks for your help, Lucia.\nI'll count on you again!"
   },
   {
    "id": "event_ev005640:0C16",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "『おねえちゃんと{h }おわかれしたよ』",
-   "en": ""
+   "en": "\"You said goodbye to Sis.\""
   },
   {
    "id": "event_ev005640:0C3A",
@@ -659,7 +659,7 @@
     81
    ],
    "jp": "ありがとう{h }波音ちゃん\nほんと{h }たすかったわ！",
-   "en": ""
+   "en": "Thank you, Hanon.\nYou were a big help!"
   },
   {
    "id": "event_ev005640:0C6A",
@@ -667,7 +667,7 @@
     82
    ],
    "jp": "『にこらさんと{h }おわかれしたよ』",
-   "en": ""
+   "en": "\"You said goodbye to Nikora.\""
   },
   {
    "id": "event_ev005640:0C8C",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "じゃあね　リナちゃん\nまた{h }いっしょにいきましょ！",
-   "en": ""
+   "en": "See you, Rina.\nLet's go together again!"
   },
   {
    "id": "event_ev005640:0CC0",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "『にこらさんと{h }おわかれした』",
-   "en": ""
+   "en": "\"You said goodbye to Nikora.\""
   }
  ]
 }

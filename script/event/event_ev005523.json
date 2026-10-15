@@ -8,7 +8,7 @@
     0
    ],
    "jp": "このどうくつ\nおくは{h }どうなってるんだろ？",
-   "en": ""
+   "en": "I wonder what's\ndeep inside this cave?"
   },
   {
    "id": "event_ev005523:002C",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "ちょっと{h }中を\nたんけん{h }してみよう！",
-   "en": ""
+   "en": "I'll go in and\nexplore a little!"
   },
   {
    "id": "event_ev005523:0054",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "『どうくつたんけん！』",
-   "en": ""
+   "en": "\"Cave Exploring!\""
   },
   {
    "id": "event_ev005523:006C",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "出た目のかずで\nいろんなところをたんけん",
-   "en": ""
+   "en": "Explore all kinds of places\nby the number you roll."
   },
   {
    "id": "event_ev005523:0096",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "　どうくつたんけん！",
-   "en": ""
+   "en": " Cave Exploring!"
   },
   {
    "id": "event_ev005523:00AC",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "にんぎょのどうくつを{h }たんけん\nふしぎなカードをはっけんしたよ",
-   "en": ""
+   "en": "I explored the Mermaid Cave\nand found a mysterious card!"
   },
   {
    "id": "event_ev005523:010E",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『カードゲット！』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005523:0122",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "いきどまりだ‥‥\nざんねん　ひきかえそう‥‥",
-   "en": ""
+   "en": "A dead end...\nToo bad. I'll head back..."
   },
   {
    "id": "event_ev005523:0150",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "にんぎょのどうくつを\nたんけん{h }したよ！",
-   "en": ""
+   "en": "I explored\nthe Mermaid Cave!"
   },
   {
    "id": "event_ev005523:017A",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "だんだん\nどうくつがせまくなってる",
-   "en": ""
+   "en": "The cave is\ngetting narrower..."
   },
   {
    "id": "event_ev005523:019E",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "もう{h }これいじょう\nすすめないよ‥‥",
-   "en": ""
+   "en": "I can't go\nany further..."
   },
   {
    "id": "event_ev005523:01C4",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "にんぎょのどうくつを\nたんけん{h }したよ！",
-   "en": ""
+   "en": "I explored\nthe Mermaid Cave!"
   },
   {
    "id": "event_ev005523:01EE",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "こうもりのたいぐん！\nここ　す{h }だ！　にげよう！",
-   "en": ""
+   "en": "A swarm of bats!\nThis is their nest! Run!"
   },
   {
    "id": "event_ev005523:0220",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "にげるときに　カードを{h }\n１まい{h }おとしちゃった‥‥",
-   "en": ""
+   "en": "While running away,\nI dropped a card..."
   },
   {
    "id": "event_ev005523:0256",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "やったあ！\nひみつのたからべやをはっけん！",
-   "en": ""
+   "en": "Yay! I found\na secret treasure room!"
   },
   {
    "id": "event_ev005523:0282",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "にんぎょのどうくつを{h }たんけん！\nそうびアイテムをはっけんしたよ",
-   "en": ""
+   "en": "I explored the Mermaid Cave!\nI found an equipment item!"
   },
   {
    "id": "event_ev005523:02C4",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "『アイテムゲット！』",
-   "en": ""
+   "en": "\"You got an item!\""
   },
   {
    "id": "event_ev005523:02DA",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20C}{h }うたう　ちから＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005523:031C",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "『{i20D}{h }まけないこころ　＋１{i20F}』\n『{i20E}けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart +1{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
   },
   {
    "id": "event_ev005523:035E",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "このどうくつ\nおくは{h }どうなってるんだろ？",
-   "en": ""
+   "en": "I wonder what's\ndeep inside this cave?"
   },
   {
    "id": "event_ev005523:038A",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "ちょっと{h }中をのぞいてみよう！",
-   "en": ""
+   "en": "I'll take a little peek inside!"
   },
   {
    "id": "event_ev005523:03AA",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "『どうくつたんけん！』",
-   "en": ""
+   "en": "\"Cave Exploring!\""
   },
   {
    "id": "event_ev005523:03C2",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "出た目のかずで\nいろんなところをたんけん",
-   "en": ""
+   "en": "Explore all kinds of places\nby the number you roll."
   },
   {
    "id": "event_ev005523:03EC",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "　どうくつたんけん！",
-   "en": ""
+   "en": " Cave Exploring!"
   },
   {
    "id": "event_ev005523:0402",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "にんぎょのどうくつを{h }たんけん\nふしぎなカードをはっけんしたよ",
-   "en": ""
+   "en": "I explored the Mermaid Cave\nand found a mysterious card!"
   },
   {
    "id": "event_ev005523:0464",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "『カードゲット！』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005523:0478",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "いきどまりみたい‥‥\nざんねん　ひきかえそうっと‥‥",
-   "en": ""
+   "en": "Looks like a dead end...\nToo bad. I'll head back..."
   },
   {
    "id": "event_ev005523:04AE",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "にんぎょのどうくつを\nたんけん{h }したよ！",
-   "en": ""
+   "en": "I explored\nthe Mermaid Cave!"
   },
   {
    "id": "event_ev005523:04D8",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "だんだん\nどうくつがせまくなってる",
-   "en": ""
+   "en": "The cave is\ngetting narrower..."
   },
   {
    "id": "event_ev005523:04FC",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "もう{h }これいじょう\nすすめないみたい‥‥",
-   "en": ""
+   "en": "Looks like I can't\ngo any further..."
   },
   {
    "id": "event_ev005523:0526",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "にんぎょのどうくつを\nたんけん{h }したよ！",
-   "en": ""
+   "en": "I explored\nthe Mermaid Cave!"
   },
   {
    "id": "event_ev005523:0550",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "こうもりのたいぐん！\nここ　す{h }だ！　にげなきゃ！",
-   "en": ""
+   "en": "A swarm of bats!\nThis is their nest! I have to run!"
   },
   {
    "id": "event_ev005523:0584",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "にげるときに　カードを{h }\n１まい{h }おとしちゃった‥‥",
-   "en": ""
+   "en": "While running away,\nI dropped a card..."
   },
   {
    "id": "event_ev005523:05BA",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "やったあ！\nひみつのたからべやをはっけん！",
-   "en": ""
+   "en": "Yay! I found\na secret treasure room!"
   },
   {
    "id": "event_ev005523:05E6",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "にんぎょのどうくつを{h }たんけん！\nそうびアイテムをはっけんしたよ",
-   "en": ""
+   "en": "I explored the Mermaid Cave!\nI found an equipment item!"
   },
   {
    "id": "event_ev005523:0628",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "『アイテムゲット！』",
-   "en": ""
+   "en": "\"You got an item!\""
   },
   {
    "id": "event_ev005523:063E",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20C}{h }うたう　ちから＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005523:0680",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "『{i20D}{h }まけないこころ　＋１{i20F}』\n『{i20E}けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart +1{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
   },
   {
    "id": "event_ev005523:06C2",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "このどうくつ\nどこまで{h }つづいてるんだ？",
-   "en": ""
+   "en": "How far does\nthis cave go?"
   },
   {
    "id": "event_ev005523:06EC",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "ちょっと{h }いってみるか",
-   "en": ""
+   "en": "Guess I'll go take a look."
   },
   {
    "id": "event_ev005523:0704",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "『どうくつたんけん！』",
-   "en": ""
+   "en": "\"Cave Exploring!\""
   },
   {
    "id": "event_ev005523:071C",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "出た目のかずで\nいろんなところをたんけん",
-   "en": ""
+   "en": "Explore all kinds of places\nby the number you roll."
   },
   {
    "id": "event_ev005523:0746",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "　どうくつたんけん！",
-   "en": ""
+   "en": " Cave Exploring!"
   },
   {
    "id": "event_ev005523:075C",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "なんだ‥‥\nなにかハコがおいてある",
-   "en": ""
+   "en": "What's this...\nThere's some kind of box here."
   },
   {
    "id": "event_ev005523:0780",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "にんぎょのどうくつを{h }たんけん\nふしぎなカードをはっけんしたよ",
-   "en": ""
+   "en": "I explored the Mermaid Cave\nand found a mysterious card!"
   },
   {
    "id": "event_ev005523:07C0",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "『カードゲット！』",
-   "en": ""
+   "en": "\"You got a card!\""
   },
   {
    "id": "event_ev005523:07D4",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "いきどまりか‥‥\nしかたない　ひきかえそう‥‥",
-   "en": ""
+   "en": "A dead end, huh...\nCan't be helped. I'll head back..."
   },
   {
    "id": "event_ev005523:0804",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "にんぎょのどうくつを\nたんけん{h }したよ！",
-   "en": ""
+   "en": "I explored\nthe Mermaid Cave!"
   },
   {
    "id": "event_ev005523:082E",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "だんだん\nどうくつがせまくなってる",
-   "en": ""
+   "en": "The cave is\ngetting narrower..."
   },
   {
    "id": "event_ev005523:0852",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "もう{h }これいじょうは\nすすめないな‥‥",
-   "en": ""
+   "en": "I can't go\nany further..."
   },
   {
    "id": "event_ev005523:087A",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "にんぎょのどうくつを\nたんけん{h }したよ！",
-   "en": ""
+   "en": "I explored\nthe Mermaid Cave!"
   },
   {
    "id": "event_ev005523:08A4",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "こうもりのたいぐん！\nここは{h }す{h }か！　にげよう！",
-   "en": ""
+   "en": "A swarm of bats!\nSo this is their nest! Run!"
   },
   {
    "id": "event_ev005523:08D8",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "にげるときに　カードを{h }\n１まい{h }おとしちゃった‥‥",
-   "en": ""
+   "en": "While running away,\nI dropped a card..."
   },
   {
    "id": "event_ev005523:090E",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "ここは‥‥\nひみつのたからべやみたいだな",
-   "en": ""
+   "en": "This place...\nlooks like a secret treasure room."
   },
   {
    "id": "event_ev005523:0938",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "にんぎょのどうくつを{h }たんけん！\nそうびアイテムをはっけんしたよ",
-   "en": ""
+   "en": "I explored the Mermaid Cave!\nI found an equipment item!"
   },
   {
    "id": "event_ev005523:097A",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "『アイテムゲット！』",
-   "en": ""
+   "en": "\"You got an item!\""
   },
   {
    "id": "event_ev005523:0990",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２０{i20F}』\n『{i20C}{h }うたう　ちから＋１{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +20{i20F}\"\n\"{i20C} Singing Power +1{i20F}\""
   },
   {
    "id": "event_ev005523:09D2",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "『{i20D}{h }まけないこころ　＋１{i20F}』\n『{i20E}けいかいなステップ　＋１{i20F}』",
-   "en": ""
+   "en": "\"{i20D} Strong Heart +1{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
   }
  ]
 }

@@ -6,7 +6,8 @@ import collections, os, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.dirname(HERE)); sys.path.insert(0, HERE)
-import fs, gfx  # noqa: E402
+import fs  # noqa: E402
+import gfxfmt as gfx  # noqa: E402
 
 GFX_EXT = (".dcg", ".acg", ".imb", ".bst")
 

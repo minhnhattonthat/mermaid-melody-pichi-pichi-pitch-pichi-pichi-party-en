@@ -10,7 +10,7 @@
     119
    ],
    "jp": "ヒッポ〜？{h }ねえヒッポってばぁ〜",
-   "en": ""
+   "en": "Hippo? Hey, Hippooo!"
   },
   {
    "id": "event_ev005631:0022",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "なんですか{h }るちあさん",
-   "en": ""
+   "en": "What is it, Lucia?"
   },
   {
    "id": "event_ev005631:003A",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "こちらの{h }ごふじんがたとの\nおしゃべりで",
-   "en": ""
+   "en": "I'm chatting with\nthese ladies here..."
   },
   {
    "id": "event_ev005631:0064",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "ワタシはいま{h }いそがしいんですよ",
-   "en": ""
+   "en": "I'm very busy right now."
   },
   {
    "id": "event_ev005631:0086",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "もう〜‥‥\nあと{h }もうちょっとだけだよ",
-   "en": ""
+   "en": "Geez...\nJust a little longer, okay?"
   },
   {
    "id": "event_ev005631:00AE",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "ヒッポってば{h }女の子に\nよわすぎ‥‥",
-   "en": ""
+   "en": "Hippo is way too weak\nwhen it comes to girls..."
   },
   {
    "id": "event_ev005631:00D4",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "ヒッポとすいぞくかんに\nあそびにいったよ！",
-   "en": ""
+   "en": "I went to the aquarium\nwith Hippo!"
   },
   {
    "id": "event_ev005631:0100",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:0122",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "ねえヒッポ　あの子なんかどお？",
-   "en": ""
+   "en": "Hey Hippo, how about that girl?"
   },
   {
    "id": "event_ev005631:0166",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "うう〜ん‥‥\nすてきな{h }じょせいですが‥‥",
-   "en": ""
+   "en": "Hmmm...\nShe's a lovely lady, but..."
   },
   {
    "id": "event_ev005631:0192",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "ワタシのこのみとは{h }ちょっと\nちがうんですよねぇ〜",
-   "en": ""
+   "en": "She's not quite\nmy type."
   },
   {
    "id": "event_ev005631:01C6",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "えー？　ヒッポってば{h }\nもしかして{h }メンクイ？",
-   "en": ""
+   "en": "Huh? Hippo, could it be\nyou only go for looks?"
   },
   {
    "id": "event_ev005631:01F6",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "やあねえ　ちょーっと\nモテるからって〜",
-   "en": ""
+   "en": "Oh please, just because\nyou're a little popular..."
   },
   {
    "id": "event_ev005631:021E",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "なにをいうんですか波音さん！",
-   "en": ""
+   "en": "What are you saying, Hanon!"
   },
   {
    "id": "event_ev005631:023C",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "そういう波音さんだって‥‥",
-   "en": ""
+   "en": "You're one to talk, Hanon..."
   },
   {
    "id": "event_ev005631:0258",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "カッコイイだんせいが\nすきじゃないですかあ〜！",
-   "en": ""
+   "en": "You like good-looking\nguys yourself!"
   },
   {
    "id": "event_ev005631:0288",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "わたしはいーの！",
-   "en": ""
+   "en": "That's different for me!"
   },
   {
    "id": "event_ev005631:029A",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "ヒッポとすいぞくかんに\nあそびにいったよ！",
-   "en": ""
+   "en": "I went to the aquarium\nwith Hippo!"
   },
   {
    "id": "event_ev005631:02C6",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:02E8",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "ペンギンプールか‥‥\nみんな{h }おなじにしか見えないが‥‥",
-   "en": ""
+   "en": "The penguin pool, huh...\nThey all look the same to me..."
   },
   {
    "id": "event_ev005631:0346",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "ヒッポには{h }ちがいがわかるのか？",
-   "en": ""
+   "en": "Can you tell them apart, Hippo?"
   },
   {
    "id": "event_ev005631:0368",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "なにいってるんですかあ〜\nあたりまえですよ！",
-   "en": ""
+   "en": "What are you saying?\nOf course I can!"
   },
   {
    "id": "event_ev005631:0396",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "ほら　あのかたなんて‥‥\nここではナンバーワンですよ！",
-   "en": ""
+   "en": "Look, that one there...\nShe's number one around here!"
   },
   {
    "id": "event_ev005631:03CE",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "いや‥‥そういわれても‥‥",
-   "en": ""
+   "en": "Well... even if you say that..."
   },
   {
    "id": "event_ev005631:03EA",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "それにあちらのかた！",
-   "en": ""
+   "en": "And that one over there!"
   },
   {
    "id": "event_ev005631:0400",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "とても{h }チャーミング\nじゃないですか！",
-   "en": ""
+   "en": "Isn't she\ncharming?"
   },
   {
    "id": "event_ev005631:0428",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "わからないんですか　リナさん！",
-   "en": ""
+   "en": "Can't you tell, Rina?!"
   },
   {
    "id": "event_ev005631:0448",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "わかるわけないって‥‥",
-   "en": ""
+   "en": "There's no way I could tell..."
   },
   {
    "id": "event_ev005631:0460",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "ヒッポとすいぞくかんに\nあそびにいったよ",
-   "en": ""
+   "en": "I went to the aquarium\nwith Hippo."
   },
   {
    "id": "event_ev005631:048A",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:04AC",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "うみを{h }ながめながらたべる\nしょくじは{h }さいこうだね！",
-   "en": ""
+   "en": "A meal while gazing at\nthe sea is the best!"
   },
   {
    "id": "event_ev005631:0508",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "そうですねえ〜",
-   "en": ""
+   "en": "It sure is!"
   },
   {
    "id": "event_ev005631:0518",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "って{h }るちあさん\nそれ　ワタシのさかな‥‥！",
-   "en": ""
+   "en": "Wait, Lucia,\nthat's my fish...!"
   },
   {
    "id": "event_ev005631:0546",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "えっ？　あ{h }ごめん‥‥",
-   "en": ""
+   "en": "Huh? Oh, sorry..."
   },
   {
    "id": "event_ev005631:055E",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "って　あ！{h }ちょっと〜\nわたしのぶん{h }とらないでよお！",
-   "en": ""
+   "en": "Hey! Wait a minute!\nDon't take my share!"
   },
   {
    "id": "event_ev005631:0596",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "うみのいえで{h }ヒッポと\nおしょくじしたよ！",
-   "en": ""
+   "en": "I had a meal with Hippo\nat the Beach House!"
   },
   {
    "id": "event_ev005631:05C2",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:05E4",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "いいけしきに　おいしいごはん",
-   "en": ""
+   "en": "A nice view and yummy food..."
   },
   {
    "id": "event_ev005631:0626",
@@ -346,7 +346,7 @@
     42
    ],
    "jp": "これで{h }目のまえにいるのが\nカッコイイ男の子だったらなぁ〜",
-   "en": ""
+   "en": "If only the one across from me\nwere a cute boy..."
   },
   {
    "id": "event_ev005631:0662",
@@ -354,7 +354,7 @@
     43
    ],
    "jp": "しつれいな〜！",
-   "en": ""
+   "en": "How rude!"
   },
   {
    "id": "event_ev005631:0672",
@@ -362,7 +362,7 @@
     44
    ],
    "jp": "これでもワタシは{h }\nモテるんですよお！",
-   "en": ""
+   "en": "I'll have you know\nI'm very popular!"
   },
   {
    "id": "event_ev005631:069A",
@@ -370,7 +370,7 @@
     45
    ],
    "jp": "ペンギンげんていじゃあねえ〜",
-   "en": ""
+   "en": "Only with penguins, though!"
   },
   {
    "id": "event_ev005631:06B8",
@@ -378,7 +378,7 @@
     46
    ],
    "jp": "うみのいえで{h }ヒッポと\nおしょくじしたよ！",
-   "en": ""
+   "en": "I had a meal with Hippo\nat the Beach House!"
   },
   {
    "id": "event_ev005631:06E4",
@@ -386,7 +386,7 @@
     47
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:0706",
@@ -402,7 +402,7 @@
     49
    ],
    "jp": "おいヒッポ‥‥",
-   "en": ""
+   "en": "Hey, Hippo..."
   },
   {
    "id": "event_ev005631:073A",
@@ -410,7 +410,7 @@
     50
    ],
    "jp": "（もぐもぐ‥‥）\nひゃんですか　ひはさん？",
-   "en": ""
+   "en": "(Munch munch...)\nWhab is it, Wina?"
   },
   {
    "id": "event_ev005631:0766",
@@ -418,7 +418,7 @@
     51
    ],
    "jp": "おまえ{h }さっきからすこし\nたべすぎだぞ",
-   "en": ""
+   "en": "You've been eating a bit\ntoo much for a while now."
   },
   {
    "id": "event_ev005631:078E",
@@ -434,7 +434,7 @@
     53
    ],
    "jp": "だいじょうぶですよ〜‥‥",
-   "en": ""
+   "en": "I'm fiiine..."
   },
   {
    "id": "event_ev005631:07BA",
@@ -450,7 +450,7 @@
     55
    ],
    "jp": "‥‥あ　あれえ‥‥",
-   "en": ""
+   "en": "...Huh, wha..."
   },
   {
    "id": "event_ev005631:07D4",
@@ -458,7 +458,7 @@
     56
    ],
    "jp": "おなかが‥‥おもたくて‥‥\nた　立てない‥‥",
-   "en": ""
+   "en": "My tummy is... so heavy...\nI c-can't stand up..."
   },
   {
    "id": "event_ev005631:0802",
@@ -466,7 +466,7 @@
     57
    ],
    "jp": "いわんこっちゃない‥‥",
-   "en": ""
+   "en": "I told you so..."
   },
   {
    "id": "event_ev005631:081A",
@@ -474,7 +474,7 @@
     58
    ],
    "jp": "うみのいえで{h }ヒッポと\nおしょくじしたよ！",
-   "en": ""
+   "en": "I had a meal with Hippo\nat the Beach House!"
   },
   {
    "id": "event_ev005631:0846",
@@ -482,7 +482,7 @@
     59
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:0868",
@@ -498,7 +498,7 @@
     61
    ],
    "jp": "（いいおんがく〜）",
-   "en": ""
+   "en": "(What nice music...)"
   },
   {
    "id": "event_ev005631:08A0",
@@ -506,7 +506,7 @@
     62
    ],
    "jp": "（でもちょっとねむたくなって\nきちゃったなぁ‥‥）",
-   "en": ""
+   "en": "(But I'm getting\na little sleepy...)"
   },
   {
    "id": "event_ev005631:08D4",
@@ -514,7 +514,7 @@
     63
    ],
    "jp": "ふわああ‥‥",
-   "en": ""
+   "en": "Yaaawn..."
   },
   {
    "id": "event_ev005631:08E2",
@@ -522,7 +522,7 @@
     64
    ],
    "jp": "るちあさんっ！\nあくびなんて{h }はしたないですよ〜！",
-   "en": ""
+   "en": "Lucia! Yawning like that\nis so unladylike!"
   },
   {
    "id": "event_ev005631:0916",
@@ -530,7 +530,7 @@
     65
    ],
    "jp": "もうちょっと{h }プリンセスとしての\nじかくをもってですねぇ〜‥‥",
-   "en": ""
+   "en": "You should be more aware\nthat you are a princess..."
   },
   {
    "id": "event_ev005631:0956",
@@ -538,7 +538,7 @@
     66
    ],
    "jp": "え〜ん　だってえ‥‥",
-   "en": ""
+   "en": "Waaah, but..."
   },
   {
    "id": "event_ev005631:096C",
@@ -546,7 +546,7 @@
     67
    ],
    "jp": "ヒッポといっしょに\nすてきなおんがくをきいたよ！",
-   "en": ""
+   "en": "I listened to some lovely\nmusic with Hippo!"
   },
   {
    "id": "event_ev005631:099E",
@@ -554,7 +554,7 @@
     68
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:09C0",
@@ -570,7 +570,7 @@
     70
    ],
    "jp": "こんや　太郎ちゃんが\nここで{h }えんそうするのよ",
-   "en": ""
+   "en": "Taro is performing\nhere tonight!"
   },
   {
    "id": "event_ev005631:0A14",
@@ -578,7 +578,7 @@
     71
    ],
    "jp": "へえ〜{h }それはスゴイですねえ〜",
-   "en": ""
+   "en": "Oh my, how impressive!"
   },
   {
    "id": "event_ev005631:0A34",
@@ -586,7 +586,7 @@
     72
    ],
    "jp": "あったりまえじゃない！\n太郎ちゃんだもん☆",
-   "en": ""
+   "en": "Of course it is!\nHe's Taro! ☆"
   },
   {
    "id": "event_ev005631:0A60",
@@ -594,7 +594,7 @@
     73
    ],
    "jp": "だから　わたしとしても",
-   "en": ""
+   "en": "So as for me..."
   },
   {
    "id": "event_ev005631:0A78",
@@ -602,7 +602,7 @@
     74
    ],
    "jp": "おうえんに{h }てぬきは{h }\nできないのよね",
-   "en": ""
+   "en": "I can't slack off\non cheering for him!"
   },
   {
    "id": "event_ev005631:0AA0",
@@ -610,7 +610,7 @@
     75
    ],
    "jp": "だからって‥‥",
-   "en": ""
+   "en": "Even so..."
   },
   {
    "id": "event_ev005631:0AB0",
@@ -618,7 +618,7 @@
     76
    ],
    "jp": "こんな{h }なんじかんもまえから\nまたなくても‥‥",
-   "en": ""
+   "en": "you didn't have to wait\nso many hours early..."
   },
   {
    "id": "event_ev005631:0AE0",
@@ -626,7 +626,7 @@
     77
    ],
    "jp": "ワタシ　もうすわってるの\nあきちゃいましたよお〜",
-   "en": ""
+   "en": "I'm tired of\nsitting here alreadyyy..."
   },
   {
    "id": "event_ev005631:0B12",
@@ -634,7 +634,7 @@
     78
    ],
    "jp": "ヒッポといっしょに\nすてきなおんがくをきいたよ！",
-   "en": ""
+   "en": "I listened to some lovely\nmusic with Hippo!"
   },
   {
    "id": "event_ev005631:0B44",
@@ -642,7 +642,7 @@
     79
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:0B66",
@@ -658,7 +658,7 @@
     81
    ],
    "jp": "ヒッポは{h }おんがくに\nきょうみが{h }あるのか？",
-   "en": ""
+   "en": "Hippo, are you\ninterested in music?"
   },
   {
    "id": "event_ev005631:0BB8",
@@ -666,7 +666,7 @@
     82
    ],
    "jp": "そりゃあ{h }ありますよ〜",
-   "en": ""
+   "en": "Why, of course I am!"
   },
   {
    "id": "event_ev005631:0BD0",
@@ -674,7 +674,7 @@
     83
    ],
    "jp": "マーメイドプリンセスを\nまもるものとして{h }とうぜんです",
-   "en": ""
+   "en": "It's only natural for one who\nprotects the Mermaid Princesses."
   },
   {
    "id": "event_ev005631:0C08",
@@ -682,7 +682,7 @@
     84
    ],
    "jp": "へえ‥‥{h }\nじゃあなにか{h }うたってみて",
-   "en": ""
+   "en": "Huh...\nThen sing something."
   },
   {
    "id": "event_ev005631:0C30",
@@ -690,7 +690,7 @@
     85
    ],
    "jp": "では　めいきょく\n『あいの{h }ペンギンでんせつ』を",
-   "en": ""
+   "en": "Then here is the masterpiece,\n\"The Legend of the Penguin of Love\"!"
   },
   {
    "id": "event_ev005631:0C62",
@@ -698,7 +698,7 @@
     86
    ],
    "jp": "‥‥わるい　やっぱりいいから\nやめてくれ‥‥",
-   "en": ""
+   "en": "...Sorry, never mind.\nPlease stop..."
   },
   {
    "id": "event_ev005631:0C90",
@@ -706,7 +706,7 @@
     87
    ],
    "jp": "コンサートホールで\nヒッポのうたをきいたよ！",
-   "en": ""
+   "en": "I heard Hippo sing\nat the Concert Hall!"
   },
   {
    "id": "event_ev005631:0CBE",
@@ -714,7 +714,7 @@
     88
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:0CE0",
@@ -730,7 +730,7 @@
     90
    ],
    "jp": "うーん\nかぜがさわやかだね{h }ヒッポ！",
-   "en": ""
+   "en": "Mmm, what a fresh breeze,\nHippo!"
   },
   {
    "id": "event_ev005631:0D2A",
@@ -738,7 +738,7 @@
     91
    ],
    "jp": "そうですねえ〜",
-   "en": ""
+   "en": "It sure is!"
   },
   {
    "id": "event_ev005631:0D3A",
@@ -746,7 +746,7 @@
     92
    ],
    "jp": "かぜに{h }かみのけがなびいて\nきもちいいですねぇ〜",
-   "en": ""
+   "en": "The wind blowing through my hair\nfeels so nice!"
   },
   {
    "id": "event_ev005631:0D6C",
@@ -754,7 +754,7 @@
     93
    ],
    "jp": "かみのけ？{h }‥‥ヒッポの？\n‥‥どこにあるの？",
-   "en": ""
+   "en": "Hair? ...Yours, Hippo?\n...Where is it?"
   },
   {
    "id": "event_ev005631:0D9C",
@@ -762,7 +762,7 @@
     94
    ],
    "jp": "しっけいな！",
-   "en": ""
+   "en": "How rude!"
   },
   {
    "id": "event_ev005631:0DAA",
@@ -770,7 +770,7 @@
     95
    ],
    "jp": "ここにほら！",
-   "en": ""
+   "en": "Right here, look!"
   },
   {
    "id": "event_ev005631:0DB8",
@@ -778,7 +778,7 @@
     96
    ],
    "jp": "ええ〜？　わかんないよお",
-   "en": ""
+   "en": "Huh? I can't see it!"
   },
   {
    "id": "event_ev005631:0DD2",
@@ -786,7 +786,7 @@
     97
    ],
    "jp": "てんぼうだいで\nヒッポとおしゃべりしたよ！",
-   "en": ""
+   "en": "I chatted with Hippo\nat the lookout!"
   },
   {
    "id": "event_ev005631:0DFE",
@@ -794,7 +794,7 @@
     98
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:0E20",
@@ -810,7 +810,7 @@
     100
    ],
    "jp": "やっぱりここは\nすてきな{h }ながめ〜！",
-   "en": ""
+   "en": "This place really has\na lovely view!"
   },
   {
    "id": "event_ev005631:0E6A",
@@ -818,7 +818,7 @@
     101
    ],
    "jp": "ですねぇ\nあ　パールピアリが見えますね",
-   "en": ""
+   "en": "It does!\nOh, I can see Pearl Piari."
   },
   {
    "id": "event_ev005631:0E92",
@@ -826,7 +826,7 @@
     102
    ],
    "jp": "ああ〜っ！太郎ちゃん！\nあそこに{h }太郎ちゃんがいるう☆",
-   "en": ""
+   "en": "Ahhh! Taro!\nTaro is over there! ☆"
   },
   {
    "id": "event_ev005631:0ECA",
@@ -834,7 +834,7 @@
     103
    ],
    "jp": "ほら見て　ヒッポ！！",
-   "en": ""
+   "en": "Look, Hippo!!"
   },
   {
    "id": "event_ev005631:0EE0",
@@ -842,7 +842,7 @@
     104
    ],
    "jp": "え〜？　小さすぎて\nわかりませんよお〜",
-   "en": ""
+   "en": "Huh? It's too small,\nI can't tell!"
   },
   {
    "id": "event_ev005631:0F08",
@@ -850,7 +850,7 @@
     105
    ],
    "jp": "波音さん{h }よく見えますねえ〜",
-   "en": ""
+   "en": "You've got good eyes, Hanon..."
   },
   {
    "id": "event_ev005631:0F26",
@@ -858,7 +858,7 @@
     106
    ],
    "jp": "てんぼうだいで\nヒッポとおしゃべりしたよ！",
-   "en": ""
+   "en": "I chatted with Hippo\nat the lookout!"
   },
   {
    "id": "event_ev005631:0F52",
@@ -866,7 +866,7 @@
     107
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:0F74",
@@ -882,7 +882,7 @@
     109
    ],
    "jp": "ヒッポ　ほら{h }\nここは{h }いいながめだろう？",
-   "en": ""
+   "en": "Hippo, look.\nNice view here, isn't it?"
   },
   {
    "id": "event_ev005631:0FC4",
@@ -890,7 +890,7 @@
     110
    ],
    "jp": "うわあ〜ほんとですねえ",
-   "en": ""
+   "en": "Wow, it really is!"
   },
   {
    "id": "event_ev005631:0FDC",
@@ -898,7 +898,7 @@
     111
    ],
    "jp": "こんな{h }ばしょがあったこと\nしりませんでしたよ〜",
-   "en": ""
+   "en": "I never knew there was\na place like this!"
   },
   {
    "id": "event_ev005631:100E",
@@ -906,7 +906,7 @@
     112
    ],
    "jp": "ヒッポは{h }ホテルにいることが\nおおいからな",
-   "en": ""
+   "en": "You're at the hotel\nmost of the time, Hippo."
   },
   {
    "id": "event_ev005631:103A",
@@ -914,7 +914,7 @@
     113
    ],
    "jp": "こんなばしょで{h }ゆっくりするのも\nたまにはいいだろう？",
-   "en": ""
+   "en": "It's nice to relax in a place\nlike this once in a while, right?"
   },
   {
    "id": "event_ev005631:1072",
@@ -922,7 +922,7 @@
     114
    ],
    "jp": "ありがとうございますう〜\nリナさん！",
-   "en": ""
+   "en": "Thank you so much,\nRina!"
   },
   {
    "id": "event_ev005631:1098",
@@ -930,7 +930,7 @@
     115
    ],
    "jp": "てんぼうだいでヒッポと\nおしゃべりしたよ！",
-   "en": ""
+   "en": "I chatted with Hippo\nat the lookout!"
   },
   {
    "id": "event_ev005631:10C4",
@@ -938,7 +938,7 @@
     116
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005631:10E6",

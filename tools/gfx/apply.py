@@ -2,7 +2,7 @@
 
 <name> = file path with "/" -> "__" and the extension kept (e.g. system__title__ev000000.dcg.png).
 PNGs are palette-mode ("P") images whose pixel values ARE the tile colour indices (4bpp: 0-15; 8bpp: 0-255);
-their size must be the export size (tools/gfx/export.py), whose tile width is recorded in gfx/layout.json.
+their size must be the export size (tools/gfx/export.py), whose tile width is recorded in gfx/layout/<name>.json.
     python -X utf8 tools/gfx/export.py PATH [--tw N] [--pal PALFILE_OR_DUMP --bank B]   -> gfx/orig/<name>.png
     python -X utf8 tools/gfx/apply.py --check   (decode/encode roundtrip of every exported original; exit 1 on error)
 """
@@ -11,12 +11,13 @@ import glob, json, os, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 sys.path.insert(0, os.path.dirname(HERE)); sys.path.insert(0, HERE)
-import fs, gfx  # noqa: E402
+import fs  # noqa: E402
+import gfxfmt as gfx  # noqa: E402
 from PIL import Image  # noqa: E402
 
 EN = os.path.join(ROOT, "gfx", "en")
 ORIGD = os.path.join(ROOT, "gfx", "orig")
-LAYOUT = os.path.join(ROOT, "gfx", "layout.json")
+LAYOUT = os.path.join(ROOT, "gfx", "layout")  # one <name>.json per exported file (parallel-safe)
 
 
 def path_of(png):
@@ -27,15 +28,22 @@ def name_of(path):
     return path.strip("/").replace("/", "__") + ".png"
 
 
-def layout():
-    return json.load(open(LAYOUT)) if os.path.exists(LAYOUT) else {}
+def layout_of(path):
+    p = os.path.join(LAYOUT, name_of(path)[:-4] + ".json")
+    return json.load(open(p)) if os.path.exists(p) else {}
+
+
+def save_layout(path, lay):
+    os.makedirs(LAYOUT, exist_ok=True)
+    with open(os.path.join(LAYOUT, name_of(path)[:-4] + ".json"), "w", newline="\n") as f:
+        json.dump(lay, f, sort_keys=True)
 
 
 def file_bytes(rom, path, png):
     """Encode PNG indices into the file's byte layout (header kept from the ROM)."""
     o, s = fs.get(rom, path)
     data = bytes(rom[o:o + s])
-    lay = layout().get(path, {})
+    lay = layout_of(path)
     hdr = data[:12] if gfx.has_header(data) else b""
     bpp = lay.get("bpp", 4)
     im = Image.open(png)

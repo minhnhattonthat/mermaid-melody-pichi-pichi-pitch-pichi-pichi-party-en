@@ -11,7 +11,7 @@
     15
    ],
    "jp": "うわ〜{h }きれいな{h }音いろ",
-   "en": ""
+   "en": "Wow, what a beautiful sound."
   },
   {
    "id": "event_ev005546:001A",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "なんだか‥‥ねむく‥\nなってきちゃった‥‥",
-   "en": ""
+   "en": "Somehow... I'm getting...\nsleepy..."
   },
   {
    "id": "event_ev005546:0062",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "ピアノのコンサートをききにいったよ\nきれいな音いろに{h }ききほれちゃった",
-   "en": ""
+   "en": "I went to a piano concert.\nThe beautiful sound enchanted me!"
   },
   {
    "id": "event_ev005546:00AA",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "『{i211}ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211}Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005546:00CC",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "すばらしい{h }音いろだわ",
-   "en": ""
+   "en": "What a wonderful sound."
   },
   {
    "id": "event_ev005546:00E4",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "でも{h }太郎ちゃんの{h }ピアノには\nかなわないかも☆",
-   "en": ""
+   "en": "But maybe it's no match\nfor Taro's piano! ☆"
   },
   {
    "id": "event_ev005546:0116",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "ピアノのコンサートをききにいったよ\nきれいな音いろに{h }ききほれちゃった",
-   "en": ""
+   "en": "I went to a piano concert.\nThe beautiful sound enchanted me!"
   },
   {
    "id": "event_ev005546:015E",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "『{i211}ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211}Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005546:0180",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "すばらしい{h }えんそうだな",
-   "en": ""
+   "en": "What a wonderful performance."
   },
   {
    "id": "event_ev005546:019A",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "ピアノのコンサートをききにいったよ\nきれいな音いろに{h }ききほれちゃった",
-   "en": ""
+   "en": "I went to a piano concert.\nThe beautiful sound enchanted me!"
   },
   {
    "id": "event_ev005546:01FE",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "『{i211}ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211}Heroine Points +40{i20F}\""
   }
  ]
 }

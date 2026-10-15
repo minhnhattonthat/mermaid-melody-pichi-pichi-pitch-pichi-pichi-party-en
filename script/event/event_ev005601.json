@@ -10,7 +10,7 @@
     195
    ],
    "jp": "わあ〜　おさかながたくさんだあ",
-   "en": ""
+   "en": "Wow, so many fishies!"
   },
   {
    "id": "event_ev005601:0020",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "きらきらひかってきれい！\nねっ　海斗！",
-   "en": ""
+   "en": "They're so pretty and sparkly!\nRight, Kaito?"
   },
   {
    "id": "event_ev005601:0048",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "ああ　そうだな",
-   "en": ""
+   "en": "Yeah, I guess so."
   },
   {
    "id": "event_ev005601:0058",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "‥でも　おまえのほうが\nもっと‥‥　きれいだぜ",
-   "en": ""
+   "en": "...But you're even...\nprettier."
   },
   {
    "id": "event_ev005601:0088",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "ええ〜っ！",
-   "en": ""
+   "en": "Whaaat!"
   },
   {
    "id": "event_ev005601:0094",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "ほんとに？　ほんとに〜！？",
-   "en": ""
+   "en": "Really? Reeeally?!"
   },
   {
    "id": "event_ev005601:00B0",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "（どうしよう\nすごくうれしいよ〜！）",
-   "en": ""
+   "en": "(What do I do?\nI'm sooo happy!)"
   },
   {
    "id": "event_ev005601:00D6",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "‥‥な〜んてな！",
-   "en": ""
+   "en": "...Just kidding!"
   },
   {
    "id": "event_ev005601:00E8",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "ええっ",
-   "en": ""
+   "en": "Huh?!"
   },
   {
    "id": "event_ev005601:00F0",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "もう〜‥‥{h }海斗のばかぁ",
-   "en": ""
+   "en": "Hmph... Kaito, you dummy!"
   },
   {
    "id": "event_ev005601:010A",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "海斗と　ちょっといいふんいきに\nなっちゃった！",
-   "en": ""
+   "en": "Things got a little romantic\nwith Kaito!"
   },
   {
    "id": "event_ev005601:013A",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:015C",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "きゃあ　あの子かわいい〜！",
-   "en": ""
+   "en": "Eek, that one's so cute!"
   },
   {
    "id": "event_ev005601:019C",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "どれが{h }かわいいって？",
-   "en": ""
+   "en": "Which one's cute?"
   },
   {
    "id": "event_ev005601:01C0",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "ほら　あのたこちゃん！",
-   "en": ""
+   "en": "Look, that little octopus!"
   },
   {
    "id": "event_ev005601:01D8",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "まんまるくって\nすっごくかわいいとおもわない？",
-   "en": ""
+   "en": "It's so round!\nDon't you think it's super cute?"
   },
   {
    "id": "event_ev005601:0208",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "おまえの{h }しゅみって　\n‥‥‥すごいかわってるな",
-   "en": ""
+   "en": "You've got...\nreally strange taste."
   },
   {
    "id": "event_ev005601:0244",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "海斗とたのしくおしゃべりしたよ",
-   "en": ""
+   "en": "I had a fun chat with Kaito!"
   },
   {
    "id": "event_ev005601:0264",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:0286",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "すいぞくかんか‥‥",
-   "en": ""
+   "en": "The aquarium, huh..."
   },
   {
    "id": "event_ev005601:02BE",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "なんどきても　おちつくばしょだな",
-   "en": ""
+   "en": "No matter how often I come,\nit's a calming place."
   },
   {
    "id": "event_ev005601:02E0",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "ああ",
-   "en": ""
+   "en": "Yeah."
   },
   {
    "id": "event_ev005601:02E6",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "おなじ水なのに　サーフィンのときの\nうみとちがって　おちつくな",
-   "en": ""
+   "en": "It's water too, but unlike the sea\nwhen I surf, it's calming."
   },
   {
    "id": "event_ev005601:0326",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "‥‥ああ",
-   "en": ""
+   "en": "...Yeah."
   },
   {
    "id": "event_ev005601:0330",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "（わたしのくにのみんな‥‥\nどうしているだろうか？）",
-   "en": ""
+   "en": "(Everyone in my kingdom...\nI wonder how they are?)"
   },
   {
    "id": "event_ev005601:0366",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "（なつかしい{h }きもちで\nむねが{h }いっぱいだ‥‥）",
-   "en": ""
+   "en": "(My heart is full\nof longing...)"
   },
   {
    "id": "event_ev005601:0398",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "海斗とおだやかなじかんをすごせたよ",
-   "en": ""
+   "en": "I spent a peaceful time with Kaito."
   },
   {
    "id": "event_ev005601:03BC",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:03DE",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "わあ　いいかぜ〜！！\n天気もいいし{h }さいこう！",
-   "en": ""
+   "en": "Wow, what a nice breeze!!\nGreat weather too, the best!"
   },
   {
    "id": "event_ev005601:0432",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "さっきから\nけしきばっかり{h }見てるけど",
-   "en": ""
+   "en": "You've been looking at\nnothing but the view..."
   },
   {
    "id": "event_ev005601:045A",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "‥‥なにか{h }\nちゅうもんしないのか？",
-   "en": ""
+   "en": "...Aren't you going\nto order anything?"
   },
   {
    "id": "event_ev005601:0480",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "う　う〜ん",
-   "en": ""
+   "en": "W-Well, umm..."
   },
   {
    "id": "event_ev005601:048C",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "いま　あんまりおなかすいてなくって",
-   "en": ""
+   "en": "I'm not really that hungry right now."
   },
   {
    "id": "event_ev005601:04B0",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "（たべたいけど〜　たべるのに\nむちゅうに{h }なっちゃいそうだし{h)}",
-   "en": ""
+   "en": "(I want to eat, but I'd get\ntotally lost in eating...)"
   },
   {
    "id": "event_ev005601:04F0",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "（そんなのはずかしいんだもん‥‥）",
-   "en": ""
+   "en": "(That'd be so embarrassing...)"
   },
   {
    "id": "event_ev005601:0514",
@@ -330,7 +330,7 @@
     40
    ],
    "jp": "むりすんなって\nオレは{h }気にしないから",
-   "en": ""
+   "en": "Don't force yourself.\nI don't mind."
   },
   {
    "id": "event_ev005601:053C",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "（え〜ん　ばれてるう‥‥）",
-   "en": ""
+   "en": "(Waaah, he saw right through me...)"
   },
   {
    "id": "event_ev005601:0558",
@@ -346,7 +346,7 @@
     42
    ],
    "jp": "海斗といっしょに\nおしょくじしちゃった！",
-   "en": ""
+   "en": "I ended up having\na meal with Kaito!"
   },
   {
    "id": "event_ev005601:0582",
@@ -354,7 +354,7 @@
     43
    ],
    "jp": "いつもより　おいしくかんじたよ",
-   "en": ""
+   "en": "It tasted better than usual!"
   },
   {
    "id": "event_ev005601:05A2",
@@ -362,7 +362,7 @@
     44
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:05C4",
@@ -378,7 +378,7 @@
     46
    ],
    "jp": "うーんと　あれにそれにでしょ　\nあっ{h }こっちも！　それからあ",
-   "en": ""
+   "en": "Ummm, that and that,\noh, and this too! And then..."
   },
   {
    "id": "event_ev005601:0626",
@@ -386,7 +386,7 @@
     47
    ],
    "jp": "おいおい　まだたのむ気なのかよ？",
-   "en": ""
+   "en": "Whoa, you're still ordering?"
   },
   {
    "id": "event_ev005601:0648",
@@ -394,7 +394,7 @@
     48
    ],
    "jp": "よくたべるなあ",
-   "en": ""
+   "en": "You sure can eat."
   },
   {
    "id": "event_ev005601:0658",
@@ -402,7 +402,7 @@
     49
    ],
    "jp": "デザートはべつばら！\n女の子はみーんなそうなのよ",
-   "en": ""
+   "en": "Dessert goes in a separate stomach!\nAll girls are like that."
   },
   {
    "id": "event_ev005601:068A",
@@ -410,7 +410,7 @@
     50
    ],
    "jp": "すいませ〜ん！\nジャンボパフェ{h }ひとつつ下さあい！",
-   "en": ""
+   "en": "Excuse meee!\nOne jumbo parfait, pleeease!"
   },
   {
    "id": "event_ev005601:06BE",
@@ -418,7 +418,7 @@
     51
    ],
    "jp": "マジかよ‥‥",
-   "en": ""
+   "en": "Seriously..."
   },
   {
    "id": "event_ev005601:06CC",
@@ -426,7 +426,7 @@
     52
    ],
    "jp": "海斗とたのしくおしょくじしちゃった",
-   "en": ""
+   "en": "I had a fun meal with Kaito!"
   },
   {
    "id": "event_ev005601:06F0",
@@ -434,7 +434,7 @@
     53
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:0712",
@@ -458,7 +458,7 @@
     56
    ],
    "jp": "洞院　いつまでメニューと\n見つめあってる{h }つもりだよ？",
-   "en": ""
+   "en": "Toin, how long are you going\nto stare at that menu?"
   },
   {
    "id": "event_ev005601:0778",
@@ -466,7 +466,7 @@
     57
    ],
    "jp": "もう{h }３０ぷんはたつぜ？\nしょうがないやつだな",
-   "en": ""
+   "en": "It's been 30 minutes.\nYou're hopeless."
   },
   {
    "id": "event_ev005601:07A8",
@@ -474,7 +474,7 @@
     58
    ],
    "jp": "う　うるさい\nわたしは{h }しんちょうなんだ",
-   "en": ""
+   "en": "Sh-Shut up.\nI'm just careful."
   },
   {
    "id": "event_ev005601:07D2",
@@ -482,7 +482,7 @@
     59
    ],
    "jp": "オレと{h }おなじのにしろよ\nうまいぜ　コレ",
-   "en": ""
+   "en": "Just get the same as me.\nThis is good."
   },
   {
    "id": "event_ev005601:07FC",
@@ -490,7 +490,7 @@
     60
    ],
    "jp": "なんだと？いや　でも‥‥",
-   "en": ""
+   "en": "What? No, but..."
   },
   {
    "id": "event_ev005601:0816",
@@ -498,7 +498,7 @@
     61
    ],
    "jp": "う‥‥そっちもすてがたい‥‥",
-   "en": ""
+   "en": "Ugh... that one's hard\nto pass up too..."
   },
   {
    "id": "event_ev005601:0834",
@@ -506,7 +506,7 @@
     62
    ],
    "jp": "海斗とたのしくおしょくじしちゃった",
-   "en": ""
+   "en": "I had a fun meal with Kaito!"
   },
   {
    "id": "event_ev005601:0858",
@@ -514,7 +514,7 @@
     63
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:087A",
@@ -530,7 +530,7 @@
     65
    ],
    "jp": "きょうのコンサートは‥‥",
-   "en": ""
+   "en": "Today's concert is..."
   },
   {
    "id": "event_ev005601:08B8",
@@ -538,7 +538,7 @@
     66
    ],
    "jp": "あっ　海月先生が{h }出てるみたい！\nきいていこうよ　海斗",
-   "en": ""
+   "en": "Oh, it looks like Mr. Mitsuki\nis playing! Let's listen, Kaito."
   },
   {
    "id": "event_ev005601:08F0",
@@ -546,7 +546,7 @@
     67
    ],
    "jp": "いいけど‥‥\nでも　おまえいねむりするしなぁ",
-   "en": ""
+   "en": "Sure, but...\nyou'll just fall asleep."
   },
   {
    "id": "event_ev005601:091E",
@@ -554,7 +554,7 @@
     68
    ],
    "jp": "しっ　しないもん！\nきょうは{h }だいじょうぶだよ！",
-   "en": ""
+   "en": "I-I will not!\nI'll be fine today!"
   },
   {
    "id": "event_ev005601:0950",
@@ -562,7 +562,7 @@
     69
    ],
    "jp": "ほんとうか？{h }あやしいよなあ",
-   "en": ""
+   "en": "Really? I'm not so sure."
   },
   {
    "id": "event_ev005601:096E",
@@ -570,7 +570,7 @@
     70
    ],
    "jp": "ほんとうだよ！",
-   "en": ""
+   "en": "Really!"
   },
   {
    "id": "event_ev005601:097E",
@@ -578,7 +578,7 @@
     71
    ],
    "jp": "‥‥たぶん‥‥",
-   "en": ""
+   "en": "...Probably..."
   },
   {
    "id": "event_ev005601:098E",
@@ -586,7 +586,7 @@
     72
    ],
    "jp": "海斗とすてきな\nおんがくをきいちゃった！",
-   "en": ""
+   "en": "I listened to some lovely\nmusic with Kaito!"
   },
   {
    "id": "event_ev005601:09B8",
@@ -594,7 +594,7 @@
     73
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:09DA",
@@ -610,7 +610,7 @@
     75
    ],
    "jp": "ほら海斗くん　はやくはやく！",
-   "en": ""
+   "en": "Come on, Kaito, hurry, hurry!"
   },
   {
    "id": "event_ev005601:0A1C",
@@ -618,7 +618,7 @@
     76
    ],
    "jp": "おちつけって　宝生",
-   "en": ""
+   "en": "Calm down, Hosho."
   },
   {
    "id": "event_ev005601:0A30",
@@ -626,7 +626,7 @@
     77
    ],
    "jp": "まだ{h }海月先生の{h }出ばんまでには\nよゆうあるだろ？",
-   "en": ""
+   "en": "There's still plenty of time\nbefore Mr. Mitsuki is on, right?"
   },
   {
    "id": "event_ev005601:0A64",
@@ -634,7 +634,7 @@
     78
    ],
    "jp": "いいせきをとりたいんだから〜！",
-   "en": ""
+   "en": "I want to get good seats!"
   },
   {
    "id": "event_ev005601:0A84",
@@ -642,7 +642,7 @@
     79
    ],
    "jp": "いちばんまえのせきにすわって\n太郎ちゃんを{h }まぢかでおうえんよ！",
-   "en": ""
+   "en": "I'll sit in the very front row\nand cheer for Taro up close!"
   },
   {
    "id": "event_ev005601:0AC6",
@@ -650,7 +650,7 @@
     80
    ],
    "jp": "おうえんって‥‥{h }コンサートでか？",
-   "en": ""
+   "en": "Cheer...? At a concert?"
   },
   {
    "id": "event_ev005601:0AEA",
@@ -658,7 +658,7 @@
     81
    ],
    "jp": "はあ‥‥\nしょうがないな　オレもつきあうよ",
-   "en": ""
+   "en": "Sigh...\nFine, I'll go with you."
   },
   {
    "id": "event_ev005601:0B16",
@@ -666,7 +666,7 @@
     82
    ],
    "jp": "海斗とすてきな\nおんがくをきいちゃった！",
-   "en": ""
+   "en": "I listened to some lovely\nmusic with Kaito!"
   },
   {
    "id": "event_ev005601:0B40",
@@ -674,7 +674,7 @@
     83
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:0B62",
@@ -690,7 +690,7 @@
     85
    ],
    "jp": "きょうのえんもくは‥‥",
-   "en": ""
+   "en": "Today's program is..."
   },
   {
    "id": "event_ev005601:0B9E",
@@ -698,7 +698,7 @@
     86
    ],
    "jp": "これと{h }これの２つあるな",
-   "en": ""
+   "en": "There are two:\nthis one and this one."
   },
   {
    "id": "event_ev005601:0BB8",
@@ -706,7 +706,7 @@
     87
    ],
    "jp": "どうする？　オレとしては\nこっちを{h }見たいんだけど",
-   "en": ""
+   "en": "What do you think?\nI'd like to see this one."
   },
   {
    "id": "event_ev005601:0BEC",
@@ -714,7 +714,7 @@
     88
    ],
    "jp": "わたしは{h }もうひとつのほうだ",
-   "en": ""
+   "en": "I want the other one."
   },
   {
    "id": "event_ev005601:0C0A",
@@ -722,7 +722,7 @@
     89
    ],
    "jp": "‥‥わるいが{h }ゆずれないな",
-   "en": ""
+   "en": "...Sorry, but I won't give in."
   },
   {
    "id": "event_ev005601:0C26",
@@ -730,7 +730,7 @@
     90
    ],
    "jp": "‥‥ここは{h }こうへいに\n‥‥じゃんけん{h }するか？",
-   "en": ""
+   "en": "...To be fair,\n...rock-paper-scissors?"
   },
   {
    "id": "event_ev005601:0C58",
@@ -738,7 +738,7 @@
     91
    ],
    "jp": "よし　のぞむところだ",
-   "en": ""
+   "en": "Fine. Bring it on."
   },
   {
    "id": "event_ev005601:0C6E",
@@ -746,7 +746,7 @@
     92
    ],
    "jp": "海斗とすてきなおんがくを\nきいちゃった！",
-   "en": ""
+   "en": "I listened to some lovely\nmusic with Kaito!"
   },
   {
    "id": "event_ev005601:0C98",
@@ -754,7 +754,7 @@
     93
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:0CBA",
@@ -770,7 +770,7 @@
     95
    ],
    "jp": "うわああ〜っ　すっごーい！！",
-   "en": ""
+   "en": "Waaah! Amazing!!"
   },
   {
    "id": "event_ev005601:0CFC",
@@ -778,7 +778,7 @@
     96
    ],
    "jp": "町が{h }ぜーんぶ{h }見下ろせちゃうよ\nいいながめ〜！",
-   "en": ""
+   "en": "I can see the whole town from here!\nWhat a view!"
   },
   {
    "id": "event_ev005601:0D2E",
@@ -786,7 +786,7 @@
     97
    ],
    "jp": "ああ　この町いちばんの\nじまんだよな　このながめ",
-   "en": ""
+   "en": "Yeah, this view is what\nthis town's proudest of."
   },
   {
    "id": "event_ev005601:0D60",
@@ -794,7 +794,7 @@
     98
    ],
    "jp": "えーっと〜‥‥　あれ？あれ？",
-   "en": ""
+   "en": "Ummm... Huh? Huh?"
   },
   {
    "id": "event_ev005601:0D7E",
@@ -802,7 +802,7 @@
     99
    ],
    "jp": "オレんちなら{h }\nあそこに{h }見えるだろ？",
-   "en": ""
+   "en": "If you're looking for my place,\nyou can see it over there."
   },
   {
    "id": "event_ev005601:0DA6",
@@ -810,7 +810,7 @@
     100
    ],
    "jp": "で　パールピアリが{h }あそこ",
-   "en": ""
+   "en": "And Pearl Piari is over there."
   },
   {
    "id": "event_ev005601:0DC2",
@@ -818,7 +818,7 @@
     101
    ],
    "jp": "あっ　ほんとだ！",
-   "en": ""
+   "en": "Oh, you're right!"
   },
   {
    "id": "event_ev005601:0DD4",
@@ -826,7 +826,7 @@
     102
    ],
    "jp": "‥‥って　わたしが海斗のいえ\nさがしてるって",
-   "en": ""
+   "en": "...Wait, that I was looking\nfor your house..."
   },
   {
    "id": "event_ev005601:0E02",
@@ -834,7 +834,7 @@
     103
    ],
    "jp": "なんでわかったの〜！",
-   "en": ""
+   "en": "how did you know?!"
   },
   {
    "id": "event_ev005601:0E18",
@@ -842,7 +842,7 @@
     104
    ],
    "jp": "海斗とてんぼうだいで\nおしゃべりしたよ！",
-   "en": ""
+   "en": "I chatted with Kaito\nat the lookout!"
   },
   {
    "id": "event_ev005601:0E42",
@@ -850,7 +850,7 @@
     105
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:0E64",
@@ -866,7 +866,7 @@
     107
    ],
    "jp": "いいながめ〜！",
-   "en": ""
+   "en": "What a view!"
   },
   {
    "id": "event_ev005601:0E98",
@@ -874,7 +874,7 @@
     108
    ],
    "jp": "あ！　犬のおさんぽしてる人{h }みっけ",
-   "en": ""
+   "en": "Oh! I spotted someone\nwalking a dog."
   },
   {
    "id": "event_ev005601:0EBC",
@@ -882,7 +882,7 @@
     109
    ],
    "jp": "わ〜{h }うみの上のヨットが\nおもちゃみたい！",
-   "en": ""
+   "en": "Wow, the yachts on the sea\nlook like toys!"
   },
   {
    "id": "event_ev005601:0EE8",
@@ -890,7 +890,7 @@
     110
    ],
    "jp": "きょうは{h }ぜっこうの\nサーフィンびよりだな",
-   "en": ""
+   "en": "Today's perfect\nweather for surfing."
   },
   {
    "id": "event_ev005601:0F14",
@@ -898,7 +898,7 @@
     111
    ],
    "jp": "ほら{h }見ろよ　はまべにサーファーが\nたくさんいる",
-   "en": ""
+   "en": "Look, there are lots\nof surfers on the beach."
   },
   {
    "id": "event_ev005601:0F46",
@@ -906,7 +906,7 @@
     112
    ],
    "jp": "オレたちも　あとではまべに\nいってみようぜ",
-   "en": ""
+   "en": "Let's head down\nto the beach later."
   },
   {
    "id": "event_ev005601:0F72",
@@ -914,7 +914,7 @@
     113
    ],
    "jp": "海斗くん‥‥",
-   "en": ""
+   "en": "Kaito..."
   },
   {
    "id": "event_ev005601:0F80",
@@ -922,7 +922,7 @@
     114
    ],
    "jp": "せっかくの{h }ながめなのに\nうみしか{h }見てないの〜？",
-   "en": ""
+   "en": "With a view like this,\nyou're only looking at the sea?"
   },
   {
    "id": "event_ev005601:0FB4",
@@ -930,7 +930,7 @@
     115
    ],
    "jp": "もったいなーい！　もー",
-   "en": ""
+   "en": "What a waste! Geez!"
   },
   {
    "id": "event_ev005601:0FCC",
@@ -938,7 +938,7 @@
     116
    ],
    "jp": "海斗とてんぼうだいで\nおしゃべりしたよ！",
-   "en": ""
+   "en": "I chatted with Kaito\nat the lookout!"
   },
   {
    "id": "event_ev005601:0FF6",
@@ -946,7 +946,7 @@
     117
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:1018",
@@ -962,7 +962,7 @@
     119
    ],
    "jp": "いいながめだな‥‥",
-   "en": ""
+   "en": "What a view..."
   },
   {
    "id": "event_ev005601:1050",
@@ -970,7 +970,7 @@
     120
    ],
    "jp": "めったに{h }こないばしょなのが\nもったいないくらいだ",
-   "en": ""
+   "en": "It's almost a shame\nI so rarely come here."
   },
   {
    "id": "event_ev005601:1084",
@@ -978,7 +978,7 @@
     121
    ],
    "jp": "そうだな‥‥",
-   "en": ""
+   "en": "Yeah..."
   },
   {
    "id": "event_ev005601:1092",
@@ -986,7 +986,7 @@
     122
    ],
    "jp": "でも{h }まいにちきてたら\nきっと‥‥",
-   "en": ""
+   "en": "But if you came every day,\nI bet..."
   },
   {
    "id": "event_ev005601:10B6",
@@ -994,7 +994,7 @@
     123
    ],
    "jp": "よさが{h }わからなくなると\nおもうぜ‥‥",
-   "en": ""
+   "en": "you'd stop seeing\nwhat's so great about it..."
   },
   {
    "id": "event_ev005601:10DE",
@@ -1002,7 +1002,7 @@
     124
    ],
    "jp": "ああ　たまにくるから\nちょうどいいんだろうな",
-   "en": ""
+   "en": "Yeah. Coming once in a while\nis probably just right."
   },
   {
    "id": "event_ev005601:110C",
@@ -1010,7 +1010,7 @@
     125
    ],
    "jp": "‥‥おまえとも\nたまには{h }気があうみたいだ",
-   "en": ""
+   "en": "...Looks like even you and I\nagree once in a while."
   },
   {
    "id": "event_ev005601:1138",
@@ -1018,7 +1018,7 @@
     126
    ],
    "jp": "いえてるな",
-   "en": ""
+   "en": "You said it."
   },
   {
    "id": "event_ev005601:1144",
@@ -1026,7 +1026,7 @@
     127
    ],
    "jp": "海斗とてんぼうだいで\nおしゃべりしたよ！",
-   "en": ""
+   "en": "I chatted with Kaito\nat the lookout!"
   },
   {
    "id": "event_ev005601:116E",
@@ -1034,7 +1034,7 @@
     128
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:1190",
@@ -1050,7 +1050,7 @@
     130
    ],
    "jp": "海斗　きょうのうみは{h }どう？",
-   "en": ""
+   "en": "Kaito, how's the sea today?"
   },
   {
    "id": "event_ev005601:11D2",
@@ -1066,7 +1066,7 @@
     132
    ],
    "jp": "ああ　いいかんじだ",
-   "en": ""
+   "en": "Yeah, it feels good."
   },
   {
    "id": "event_ev005601:11EE",
@@ -1074,7 +1074,7 @@
     133
    ],
    "jp": "いまなら{h }さいこうにいいえんぎが\nできそうな気が{h }するぜ",
-   "en": ""
+   "en": "I feel like I could pull off\nmy best moves right now."
   },
   {
    "id": "event_ev005601:1228",
@@ -1082,7 +1082,7 @@
     134
    ],
    "jp": "（わぁ‥‥！）",
-   "en": ""
+   "en": "(Wow...!)"
   },
   {
    "id": "event_ev005601:1238",
@@ -1090,7 +1090,7 @@
     135
    ],
    "jp": "（サーフィンのこと\nかんがえてる{h }海斗‥‥）",
-   "en": ""
+   "en": "(Kaito, when he's\nthinking about surfing...)"
   },
   {
    "id": "event_ev005601:1266",
@@ -1098,7 +1098,7 @@
     136
    ],
    "jp": "（とっても　きらきらしてる！）",
-   "en": ""
+   "en": "(He's just sparkling!)"
   },
   {
    "id": "event_ev005601:1286",
@@ -1106,7 +1106,7 @@
     137
    ],
    "jp": "（こんな{h }海斗を見てると\nわたしも{h }うれしくなっちゃうよ）",
-   "en": ""
+   "en": "(Seeing Kaito like this\nmakes me happy too.)"
   },
   {
    "id": "event_ev005601:12C2",
@@ -1114,7 +1114,7 @@
     138
    ],
    "jp": "つぎのたいかいでも\nぜったい　ゆうしょうするからな！",
-   "en": ""
+   "en": "I'm definitely winning\nthe next contest too!"
   },
   {
    "id": "event_ev005601:12F8",
@@ -1122,7 +1122,7 @@
     139
    ],
    "jp": "きたいしてろよ　るちあ",
-   "en": ""
+   "en": "Look forward to it, Lucia."
   },
   {
    "id": "event_ev005601:1310",
@@ -1138,7 +1138,7 @@
     141
    ],
    "jp": "サーフィンかいじょうで\n海斗とおしゃべりしたよ",
-   "en": ""
+   "en": "I chatted with Kaito\nat the surfing spot."
   },
   {
    "id": "event_ev005601:1348",
@@ -1146,7 +1146,7 @@
     142
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:136A",
@@ -1162,7 +1162,7 @@
     144
    ],
    "jp": "きょうも{h }サーファーさんが\nいっぱいねえ〜",
-   "en": ""
+   "en": "Lots of surfers\nout again today!"
   },
   {
    "id": "event_ev005601:13BA",
@@ -1170,7 +1170,7 @@
     145
    ],
    "jp": "このはまは{h }いいなみが\nくるからな",
-   "en": ""
+   "en": "This beach gets\ngood waves."
   },
   {
    "id": "event_ev005601:13DE",
@@ -1178,7 +1178,7 @@
     146
    ],
    "jp": "きもちいいんだぜ　なみにのるのは",
-   "en": ""
+   "en": "Riding the waves feels great."
   },
   {
    "id": "event_ev005601:1400",
@@ -1186,7 +1186,7 @@
     147
    ],
    "jp": "うみの中を{h }およぐのも\nとっても{h }きもちいいんだけどね",
-   "en": ""
+   "en": "Swimming in the sea\nfeels really great too, though."
   },
   {
    "id": "event_ev005601:1438",
@@ -1194,7 +1194,7 @@
     148
    ],
    "jp": "？　うみの中？\nダイビングしたことあるのか？",
-   "en": ""
+   "en": "? In the sea?\nHave you been diving?"
   },
   {
    "id": "event_ev005601:1466",
@@ -1202,7 +1202,7 @@
     149
    ],
    "jp": "まあね〜",
-   "en": ""
+   "en": "Sort of!"
   },
   {
    "id": "event_ev005601:1470",
@@ -1210,7 +1210,7 @@
     150
    ],
    "jp": "サーフィンかいじょうで\n海斗とおしゃべりしたよ！",
-   "en": ""
+   "en": "I chatted with Kaito\nat the surfing spot!"
   },
   {
    "id": "event_ev005601:14A2",
@@ -1218,7 +1218,7 @@
     151
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:14C4",
@@ -1234,7 +1234,7 @@
     153
    ],
    "jp": "きょうは{h }いいなみのようだな",
-   "en": ""
+   "en": "Looks like good waves today."
   },
   {
    "id": "event_ev005601:1506",
@@ -1242,7 +1242,7 @@
     154
    ],
    "jp": "ああ　わくわくするぜ\nいいえんぎが{h }できそうだ",
-   "en": ""
+   "en": "Yeah, I'm psyched.\nI think I can pull off some good moves."
   },
   {
    "id": "event_ev005601:1536",
@@ -1250,7 +1250,7 @@
     155
    ],
    "jp": "ほんとうに{h }すきなんだな\nサーフィンが",
-   "en": ""
+   "en": "You really do\nlove surfing."
   },
   {
    "id": "event_ev005601:155E",
@@ -1258,7 +1258,7 @@
     156
    ],
    "jp": "がんばれよ　おうえんしてやる",
-   "en": ""
+   "en": "Go for it. I'll cheer for you."
   },
   {
    "id": "event_ev005601:157C",
@@ -1266,7 +1266,7 @@
     157
    ],
    "jp": "ああ　\nサンキュー　洞院",
-   "en": ""
+   "en": "Yeah.\nThanks, Toin."
   },
   {
    "id": "event_ev005601:1596",
@@ -1274,7 +1274,7 @@
     158
    ],
    "jp": "サーフィンかいじょうで\n海斗とおしゃべりしたよ！",
-   "en": ""
+   "en": "I chatted with Kaito\nat the surfing spot!"
   },
   {
    "id": "event_ev005601:15C8",
@@ -1282,7 +1282,7 @@
     159
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:15EA",
@@ -1298,7 +1298,7 @@
     161
    ],
    "jp": "お　おじゃましまぁす‥‥！",
-   "en": ""
+   "en": "S-Sorry for intruding...!"
   },
   {
    "id": "event_ev005601:162A",
@@ -1306,7 +1306,7 @@
     162
    ],
    "jp": "‥‥どうしたんだ？\nなんかみょうに　ぎこちなくないか",
-   "en": ""
+   "en": "...What's wrong?\nAren't you acting kind of stiff?"
   },
   {
    "id": "event_ev005601:1660",
@@ -1314,7 +1314,7 @@
     163
    ],
    "jp": "そそ　そんなことないよ！！",
-   "en": ""
+   "en": "N-N-No I'm not!!"
   },
   {
    "id": "event_ev005601:167C",
@@ -1322,7 +1322,7 @@
     164
    ],
    "jp": "（海斗のおうちで\n２人っきりなんて‥‥）",
-   "en": ""
+   "en": "(Just the two of us\nat Kaito's house...)"
   },
   {
    "id": "event_ev005601:16A6",
@@ -1330,7 +1330,7 @@
     165
    ],
    "jp": "（きんちょう{h }しないほうが\nむりだよ〜‥‥）",
-   "en": ""
+   "en": "(How could I\nnot be nervous...?)"
   },
   {
    "id": "event_ev005601:16D4",
@@ -1338,7 +1338,7 @@
     166
    ],
    "jp": "えんりょするなよ　うちには\nオレしか{h }いないからさ",
-   "en": ""
+   "en": "Make yourself at home.\nI'm the only one here."
   },
   {
    "id": "event_ev005601:1708",
@@ -1354,7 +1354,7 @@
     168
    ],
    "jp": "（わあん　いわないで〜\nよけい{h }いしきしちゃうよお〜‥‥）",
-   "en": ""
+   "en": "(Waaah, don't say that!\nIt makes me even more nervous!)"
   },
   {
    "id": "event_ev005601:1752",
@@ -1362,7 +1362,7 @@
     169
    ],
    "jp": "海斗のいえでおしゃべりしたよ！",
-   "en": ""
+   "en": "I chatted at Kaito's House!"
   },
   {
    "id": "event_ev005601:1772",
@@ -1370,7 +1370,7 @@
     170
    ],
    "jp": "２人っきりでどきどき‥‥！！",
-   "en": ""
+   "en": "Just the two of us...\nmy heart's pounding!!"
   },
   {
    "id": "event_ev005601:1790",
@@ -1378,7 +1378,7 @@
     171
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:17B2",
@@ -1394,7 +1394,7 @@
     173
    ],
    "jp": "海斗くんって{h }キレイずきなのねぇ",
-   "en": ""
+   "en": "Kaito, you really like\nkeeping things clean, huh?"
   },
   {
    "id": "event_ev005601:17F8",
@@ -1402,7 +1402,7 @@
     174
    ],
    "jp": "そうか？　べつにふつうだと\nおもうけど‥‥",
-   "en": ""
+   "en": "Really? I think\nit's pretty normal..."
   },
   {
    "id": "event_ev005601:1824",
@@ -1410,7 +1410,7 @@
     175
    ],
    "jp": "だって　こんなにひろいおうちなのに",
-   "en": ""
+   "en": "But your house is so big..."
   },
   {
    "id": "event_ev005601:1848",
@@ -1418,7 +1418,7 @@
     176
    ],
    "jp": "よごれてるところ\nぜーんぜん{h }ないんだもん",
-   "en": ""
+   "en": "and there isn't a single\ndirty spot anywhere!"
   },
   {
    "id": "event_ev005601:1874",
@@ -1426,7 +1426,7 @@
     177
    ],
    "jp": "‥‥イイおむこさんに\nなれるかもね☆",
-   "en": ""
+   "en": "...You might make\na good husband! ☆"
   },
   {
    "id": "event_ev005601:189A",
@@ -1434,7 +1434,7 @@
     178
    ],
    "jp": "‥なんだよ　それ‥‥",
-   "en": ""
+   "en": "...What's that supposed to mean..."
   },
   {
    "id": "event_ev005601:18B0",
@@ -1442,7 +1442,7 @@
     179
    ],
    "jp": "海斗のいえでたのしく\nおしゃべりしたよ！",
-   "en": ""
+   "en": "I had a fun chat\nat Kaito's House!"
   },
   {
    "id": "event_ev005601:18DA",
@@ -1450,7 +1450,7 @@
     180
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:18FC",
@@ -1466,7 +1466,7 @@
     182
    ],
    "jp": "あくまで{h }るちあのためを\nおもってきくがな‥‥",
-   "en": ""
+   "en": "I'm only asking this\nfor Lucia's sake..."
   },
   {
    "id": "event_ev005601:1950",
@@ -1474,7 +1474,7 @@
     183
    ],
    "jp": "なんだよ　るちあが{h }どうかしたのか",
-   "en": ""
+   "en": "What? Did something\nhappen to Lucia?"
   },
   {
    "id": "event_ev005601:1974",
@@ -1482,7 +1482,7 @@
     184
    ],
    "jp": "じっさい{h }\nおまえは{h }どっちがすきなんだ？",
-   "en": ""
+   "en": "Honestly,\nwhich one do you like?"
   },
   {
    "id": "event_ev005601:19A0",
@@ -1490,7 +1490,7 @@
     185
    ],
    "jp": "おもいでのマーメイドか？\nそれとも　るちあか？",
-   "en": ""
+   "en": "The mermaid from your memories?\nOr Lucia?"
   },
   {
    "id": "event_ev005601:19D0",
@@ -1498,7 +1498,7 @@
     186
    ],
    "jp": "るちあを　どうおもってるか\nこのさい{h }はっきりしろ",
-   "en": ""
+   "en": "Make it clear once and for all\nhow you feel about Lucia."
   },
   {
    "id": "event_ev005601:1A04",
@@ -1506,7 +1506,7 @@
     187
    ],
    "jp": "なんだよ　いきなりいっぺんに‥‥\nそんなこと{h }きくなよな",
-   "en": ""
+   "en": "Whoa, all of a sudden...\nDon't ask me stuff like that."
   },
   {
    "id": "event_ev005601:1A3E",
@@ -1514,7 +1514,7 @@
     188
    ],
    "jp": "このままじゃ{h }るちあが\nかわいそうだ‥‥",
-   "en": ""
+   "en": "At this rate,\nI feel sorry for Lucia..."
   },
   {
    "id": "event_ev005601:1A68",
@@ -1522,7 +1522,7 @@
     189
    ],
    "jp": "はっきり{h }こたえを出すまで\nかえらないからな！",
-   "en": ""
+   "en": "I'm not leaving until\nyou give me a clear answer!"
   },
   {
    "id": "event_ev005601:1A98",
@@ -1530,7 +1530,7 @@
     190
    ],
    "jp": "‥あのなぁ〜‥‥",
-   "en": ""
+   "en": "...Come on..."
   },
   {
    "id": "event_ev005601:1AAA",
@@ -1538,7 +1538,7 @@
     191
    ],
    "jp": "海斗のいえにおしかけちゃった",
-   "en": ""
+   "en": "I barged in on Kaito at his house."
   },
   {
    "id": "event_ev005601:1AC8",
@@ -1546,7 +1546,7 @@
     192
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋２{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +2{i20F}\""
   },
   {
    "id": "event_ev005601:1AEA",

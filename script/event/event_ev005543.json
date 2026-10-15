@@ -11,7 +11,7 @@
     15
    ],
    "jp": "すっごーい　とおくまで見える",
-   "en": ""
+   "en": "Amazing! I can see so far!"
   },
   {
    "id": "event_ev005543:001E",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "しおかぜもきもちいいし",
-   "en": ""
+   "en": "And the sea breeze feels nice."
   },
   {
    "id": "event_ev005543:0036",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "こんなところでおべんとう\nたべたら{h }おいしそう！",
-   "en": ""
+   "en": "Eating a packed lunch\nhere would be so yummy!"
   },
   {
    "id": "event_ev005543:0068",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "みさきのてんぼうだいで\nちょっとひとやすみ",
-   "en": ""
+   "en": "I took a little break at\nthe Cape Lookout."
   },
   {
    "id": "event_ev005543:0094",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005543:00B8",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "すっご〜い　見はらしがいい",
-   "en": ""
+   "en": "Amazing! What a view!"
   },
   {
    "id": "event_ev005543:00D4",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "しおかぜもきもちいいし\nぜっこうのデートスポットよね",
-   "en": ""
+   "en": "And the sea breeze feels nice.\nIt's the perfect date spot!"
   },
   {
    "id": "event_ev005543:010A",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "みさきのてんぼうだいで\nちょっとひとやすみ",
-   "en": ""
+   "en": "I took a little break at\nthe Cape Lookout."
   },
   {
    "id": "event_ev005543:0136",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005543:015A",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "ふう‥‥　いいかぜだ",
-   "en": ""
+   "en": "Phew... nice breeze."
   },
   {
    "id": "event_ev005543:0170",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "しばらくやすんでいくか",
-   "en": ""
+   "en": "Guess I'll rest here a while."
   },
   {
    "id": "event_ev005543:0188",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "みさきのてんぼうだいで\nちょっとひとやすみ",
-   "en": ""
+   "en": "I took a little break at\nthe Cape Lookout."
   },
   {
    "id": "event_ev005543:01B4",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   }
  ]
 }

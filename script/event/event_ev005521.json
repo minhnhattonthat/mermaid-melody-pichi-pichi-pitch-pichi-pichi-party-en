@@ -10,7 +10,7 @@
     7
    ],
    "jp": "いっぱいあるー\nあ{h }ビーズのゆびわ{h }かわいい",
-   "en": ""
+   "en": "There's so much stuff!\nOh, this bead ring is cute."
   },
   {
    "id": "event_ev005521:002E",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "どうしよう{h }ほしいものが\nいっぱいだよ〜",
-   "en": ""
+   "en": "What should I do? There are\nso many things I want!"
   },
   {
    "id": "event_ev005521:0058",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "このアクセサリーほしい〜\nあ！　これも！",
-   "en": ""
+   "en": "I want this accessory!\nOh! This too!"
   },
   {
    "id": "event_ev005521:0082",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "‥‥{h }ぜんぶ{h }ほしい〜\nもう　なやんじゃう‥‥",
-   "en": ""
+   "en": "...I want them all!\nI can't decide..."
   },
   {
    "id": "event_ev005521:00B2",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "きょうもたくさん\nろてんがならんでるな",
-   "en": ""
+   "en": "Lots of street stalls\nlined up again today."
   },
   {
    "id": "event_ev005521:00DA",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "こうやって{h }ぶらぶら\nかいものするのも{h }わるくないな",
-   "en": ""
+   "en": "Wandering around shopping\nlike this isn't so bad."
   }
  ]
 }

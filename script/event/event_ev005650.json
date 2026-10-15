@@ -10,7 +10,7 @@
     91
    ],
    "jp": "あれ{h }タキさん　なにしてるの？",
-   "en": ""
+   "en": "Huh? Taki, what are you doing?"
   },
   {
    "id": "event_ev005650:0020",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "るちあ‥‥{h }\nひがしのほうがく{h }からきたね？",
-   "en": ""
+   "en": "Lucia...\nYou came from the east, didn't you?"
   },
   {
    "id": "event_ev005650:004E",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "え？あ{h }うーんと{h }そうかも？？",
-   "en": ""
+   "en": "Huh? Oh, ummm,\nmaybe I did??"
   },
   {
    "id": "event_ev005650:006E",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "さがしものは{h }ひがしよりきたると\nわたしの{h }うらないに出ている‥‥",
-   "en": ""
+   "en": "My fortune says what I seek\nwill come from the east..."
   },
   {
    "id": "event_ev005650:00B2",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "‥‥{h }るちあ{h }なにか\nヒントを{h }もっているね？",
-   "en": ""
+   "en": "...Lucia, you have\nsome kind of clue, don't you?"
   },
   {
    "id": "event_ev005650:00E2",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "ええ〜っ？{h }しらないよお〜‥‥",
-   "en": ""
+   "en": "Whaaat? I don't know anything!"
   },
   {
    "id": "event_ev005650:0102",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "なしくずしてきに{h }いっしょに\nさがしものをすることに",
-   "en": ""
+   "en": "Somehow I got roped into\nhelping her search."
   },
   {
    "id": "event_ev005650:0138",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005650:015A",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "るちあ{h }いま{h }\nひがしのほうがく{h }からきたね？",
-   "en": ""
+   "en": "Lucia, you just came\nfrom the east, didn't you?"
   },
   {
    "id": "event_ev005650:01AE",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "え？あ{h }うーんと{h }そうかも？？",
-   "en": ""
+   "en": "Huh? Oh, ummm,\nmaybe I did??"
   },
   {
    "id": "event_ev005650:01CE",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "さがしものは{h }ひがしよりきたると\nわたしの{h }うらないに出ている",
-   "en": ""
+   "en": "My fortune says what I seek\nwill come from the east."
   },
   {
    "id": "event_ev005650:020E",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "‥‥{h }るちあ{h }なにか\nヒントを{h }もっているね？",
-   "en": ""
+   "en": "...Lucia, you have\nsome kind of clue, don't you?"
   },
   {
    "id": "event_ev005650:023E",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "ええ〜っ？{h }しらないよお〜‥‥",
-   "en": ""
+   "en": "Whaaat? I don't know anything!"
   },
   {
    "id": "event_ev005650:025E",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "なしくずしてきに{h }いっしょに\nさがしものをすることに",
-   "en": ""
+   "en": "Somehow I got roped into\nhelping her search."
   },
   {
    "id": "event_ev005650:0294",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005650:02B6",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "おお！{h }るちあ{h }いま{h }\nひがしのほうがく{h }からきたね！？",
-   "en": ""
+   "en": "Oh! Lucia, you just came\nfrom the east, didn't you?!"
   },
   {
    "id": "event_ev005650:0314",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "え？あ{h }うーんと{h }そうかも？？",
-   "en": ""
+   "en": "Huh? Oh, ummm,\nmaybe I did??"
   },
   {
    "id": "event_ev005650:0334",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "さがしものは{h }ひがしよりきたると\nわたしの{h }うらないに出ている！",
-   "en": ""
+   "en": "My fortune says what I seek\nwill come from the east!"
   },
   {
    "id": "event_ev005650:0376",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "‥‥{h }るちあ{h }なにか\nヒントを{h }もっているね？",
-   "en": ""
+   "en": "...Lucia, you have\nsome kind of clue, don't you?"
   },
   {
    "id": "event_ev005650:03A6",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "ええ〜っ？{h }しらないよお〜‥‥",
-   "en": ""
+   "en": "Whaaat? I don't know anything!"
   },
   {
    "id": "event_ev005650:03C6",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "なしくずしてきに{h }いっしょに\nさがしものをすることに",
-   "en": ""
+   "en": "Somehow I got roped into\nhelping her search."
   },
   {
    "id": "event_ev005650:03FC",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005650:041E",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005650:0442",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "タキさん？",
-   "en": ""
+   "en": "Taki?"
   },
   {
    "id": "event_ev005650:044E",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "すいしょう玉と{h }\nにらめっこなんかして",
-   "en": ""
+   "en": "Having a staring contest\nwith your crystal ball?"
   },
   {
    "id": "event_ev005650:0482",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "どうかしたの？",
-   "en": ""
+   "en": "What's the matter?"
   },
   {
    "id": "event_ev005650:0492",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "ちょっと{h }タキさ〜ん？\nもしもーし？",
-   "en": ""
+   "en": "Hey, Takiii?\nHellooo?"
   },
   {
    "id": "event_ev005650:04B8",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "むっ！{h }波音ちゃん！\nそこからうごくんじゃないよ！",
-   "en": ""
+   "en": "Hmm! Hanon!\nDon't you move from that spot!"
   },
   {
    "id": "event_ev005650:04EC",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "波音ちゃんのいるばしょが{h }\nさがしものの{h }キーポイントだと",
-   "en": ""
+   "en": "My fortune says the place\nwhere you're standing, Hanon,"
   },
   {
    "id": "event_ev005650:0528",
@@ -266,7 +266,7 @@
     32
    ],
    "jp": "うらないには　出たからね！",
-   "en": ""
+   "en": "is the key to what I'm looking for!"
   },
   {
    "id": "event_ev005650:0544",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "なしくずしてきに{h }いっしょに\nさがしものをすることに",
-   "en": ""
+   "en": "Somehow I got roped into\nhelping her search."
   },
   {
    "id": "event_ev005650:057A",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005650:059C",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "んん〜‥‥",
-   "en": ""
+   "en": "Hmmm..."
   },
   {
    "id": "event_ev005650:05CC",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "すいしょう玉と{h }\nにらめっこなんかして",
-   "en": ""
+   "en": "Having a staring contest\nwith your crystal ball?"
   },
   {
    "id": "event_ev005650:05F4",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "どうかしたの？",
-   "en": ""
+   "en": "What's the matter?"
   },
   {
    "id": "event_ev005650:0604",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "ちょっと{h }タキさ〜ん？\nもしもーし？",
-   "en": ""
+   "en": "Hey, Takiii?\nHellooo?"
   },
   {
    "id": "event_ev005650:062A",
@@ -330,7 +330,7 @@
     40
    ],
    "jp": "しずかに‥‥‥",
-   "en": ""
+   "en": "Quiet..."
   },
   {
    "id": "event_ev005650:063A",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "むっ！{h }波音ちゃん！\nそこからうごくんじゃないよ！",
-   "en": ""
+   "en": "Hmm! Hanon!\nDon't you move from that spot!"
   },
   {
    "id": "event_ev005650:066E",
@@ -346,7 +346,7 @@
     42
    ],
    "jp": "波音ちゃんのいるばしょが{h }\nさがしものの{h }キーポイントだと",
-   "en": ""
+   "en": "My fortune says the place\nwhere you're standing, Hanon,"
   },
   {
    "id": "event_ev005650:06AA",
@@ -354,7 +354,7 @@
     43
    ],
    "jp": "うらないには　出たからね！",
-   "en": ""
+   "en": "is the key to what I'm looking for!"
   },
   {
    "id": "event_ev005650:06C6",
@@ -362,7 +362,7 @@
     44
    ],
    "jp": "なしくずしてきに{h }いっしょに\nさがしものをすることに",
-   "en": ""
+   "en": "Somehow I got roped into\nhelping her search."
   },
   {
    "id": "event_ev005650:06FC",
@@ -370,7 +370,7 @@
     45
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005650:071E",
@@ -386,7 +386,7 @@
     47
    ],
    "jp": "んん〜‥‥",
-   "en": ""
+   "en": "Hmmm..."
   },
   {
    "id": "event_ev005650:074E",
@@ -394,7 +394,7 @@
     48
    ],
    "jp": "すいしょう玉と{h }\nにらめっこなんかして",
-   "en": ""
+   "en": "Having a staring contest\nwith your crystal ball?"
   },
   {
    "id": "event_ev005650:0776",
@@ -402,7 +402,7 @@
     49
    ],
    "jp": "どうかしたの？",
-   "en": ""
+   "en": "What's the matter?"
   },
   {
    "id": "event_ev005650:0786",
@@ -410,7 +410,7 @@
     50
    ],
    "jp": "ちょっと{h }タキさ〜ん？\nもしもーし？",
-   "en": ""
+   "en": "Hey, Takiii?\nHellooo?"
   },
   {
    "id": "event_ev005650:07AC",
@@ -418,7 +418,7 @@
     51
    ],
    "jp": "おや波音ちゃん　どうかしたのかい？\n‥‥‥‥{h }むっ！",
-   "en": ""
+   "en": "Oh, Hanon, what's the matter?\n...Hmm!"
   },
   {
    "id": "event_ev005650:07E2",
@@ -426,7 +426,7 @@
     52
    ],
    "jp": "{h }波音ちゃん！{h }いいかい？\nそこからうごくんじゃないよ！",
-   "en": ""
+   "en": "Hanon! Listen to me!\nDon't you move from that spot!"
   },
   {
    "id": "event_ev005650:081C",
@@ -434,7 +434,7 @@
     53
    ],
    "jp": "波音ちゃんのいるばしょが{h }\nさがしものの{h }キーポイントだと",
-   "en": ""
+   "en": "My fortune says the place\nwhere you're standing, Hanon,"
   },
   {
    "id": "event_ev005650:0858",
@@ -442,7 +442,7 @@
     54
    ],
    "jp": "わたしうらないには　出たからね！",
-   "en": ""
+   "en": "That's what my fortune said!"
   },
   {
    "id": "event_ev005650:087A",
@@ -450,7 +450,7 @@
     55
    ],
    "jp": "なしくずしてきに{h }いっしょに\nさがしものをすることに",
-   "en": ""
+   "en": "Somehow I got roped into\nhelping her search."
   },
   {
    "id": "event_ev005650:08B0",
@@ -458,7 +458,7 @@
     56
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005650:08D2",
@@ -466,7 +466,7 @@
     57
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005650:08F6",
@@ -474,7 +474,7 @@
     58
    ],
    "jp": "タキさんだ‥‥",
-   "en": ""
+   "en": "It's Taki..."
   },
   {
    "id": "event_ev005650:0906",
@@ -482,7 +482,7 @@
     59
    ],
    "jp": "なにを{h }きょろきょろしてるんだ？\nかかわらないほうが{h }いいかもな‥‥",
-   "en": ""
+   "en": "What is she looking around for?\nMaybe I'd better not get involved..."
   },
   {
    "id": "event_ev005650:094C",
@@ -498,7 +498,7 @@
     61
    ],
    "jp": "！？{h }な{h }なに‥‥",
-   "en": ""
+   "en": "?! Wh-What..."
   },
   {
    "id": "event_ev005650:096A",
@@ -506,7 +506,7 @@
     62
    ],
    "jp": "いま{h }にげようとしたね？",
-   "en": ""
+   "en": "You were about to run off\njust now, weren't you?"
   },
   {
    "id": "event_ev005650:0984",
@@ -514,7 +514,7 @@
     63
    ],
    "jp": "こまっている人は{h }\nきちんと{h }たすけるものだ",
-   "en": ""
+   "en": "When someone's in trouble,\nyou help them properly."
   },
   {
    "id": "event_ev005650:09B2",
@@ -522,7 +522,7 @@
     64
    ],
    "jp": "ちょっと{h }こっちへきなさい！",
-   "en": ""
+   "en": "Come over here!"
   },
   {
    "id": "event_ev005650:09D0",
@@ -530,7 +530,7 @@
     65
    ],
    "jp": "なしくずしてきに{h }いっしょに\nさがしものをすることに",
-   "en": ""
+   "en": "Somehow I got roped into\nhelping her search."
   },
   {
    "id": "event_ev005650:0A06",
@@ -538,7 +538,7 @@
     66
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005650:0A28",
@@ -554,7 +554,7 @@
     68
    ],
    "jp": "リナちゃん‥‥！",
-   "en": ""
+   "en": "Rina...!"
   },
   {
    "id": "event_ev005650:0A5E",
@@ -562,7 +562,7 @@
     69
    ],
    "jp": "！？{h }な{h }なに‥‥",
-   "en": ""
+   "en": "?! Wh-What..."
   },
   {
    "id": "event_ev005650:0A72",
@@ -570,7 +570,7 @@
     70
    ],
    "jp": "いま{h }わたしを見て{h }\nにげようとしたね？",
-   "en": ""
+   "en": "You saw me and were about\nto run off just now, weren't you?"
   },
   {
    "id": "event_ev005650:0A9C",
@@ -578,7 +578,7 @@
     71
    ],
    "jp": "こまっている人は{h }\nきちんと{h }たすけるものだ！",
-   "en": ""
+   "en": "When someone's in trouble,\nyou help them properly!"
   },
   {
    "id": "event_ev005650:0ACC",
@@ -586,7 +586,7 @@
     72
    ],
    "jp": "ちょっと{h }こっちへきなさい",
-   "en": ""
+   "en": "Come over here."
   },
   {
    "id": "event_ev005650:0AE8",
@@ -594,7 +594,7 @@
     73
    ],
    "jp": "なしくずしてきに{h }いっしょに\nさがしものをすることに",
-   "en": ""
+   "en": "Somehow I got roped into\nhelping her search."
   },
   {
    "id": "event_ev005650:0B1E",
@@ -602,7 +602,7 @@
     74
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005650:0B40",
@@ -618,7 +618,7 @@
     76
    ],
    "jp": "ちょっとまちなさい{h }リナちゃん",
-   "en": ""
+   "en": "Hold on a minute, Rina."
   },
   {
    "id": "event_ev005650:0B84",
@@ -626,7 +626,7 @@
     77
    ],
    "jp": "！？{h }な{h }なに‥‥",
-   "en": ""
+   "en": "?! Wh-What..."
   },
   {
    "id": "event_ev005650:0B98",
@@ -634,7 +634,7 @@
     78
    ],
    "jp": "いま{h }わたしを見て{h }\nにげようとしたね？",
-   "en": ""
+   "en": "You saw me and were about\nto run off just now, weren't you?"
   },
   {
    "id": "event_ev005650:0BC2",
@@ -642,7 +642,7 @@
     79
    ],
    "jp": "こまっている人は{h }\nきちんと{h }たすけるものだよ",
-   "en": ""
+   "en": "When someone's in trouble,\nyou help them properly."
   },
   {
    "id": "event_ev005650:0BF2",
@@ -650,7 +650,7 @@
     80
    ],
    "jp": "ちょっと{h }こっちへきなさい",
-   "en": ""
+   "en": "Come over here."
   },
   {
    "id": "event_ev005650:0C0E",
@@ -658,7 +658,7 @@
     81
    ],
    "jp": "なしくずしてきに{h }いっしょに\nさがしものをすることに",
-   "en": ""
+   "en": "Somehow I got roped into\nhelping her search."
   },
   {
    "id": "event_ev005650:0C44",
@@ -666,7 +666,7 @@
     82
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005650:0C66",
@@ -674,7 +674,7 @@
     83
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005650:0C8A",
@@ -682,7 +682,7 @@
     84
    ],
    "jp": "じゃあね{h }るちあ\nこのへんで{h }おわかれだよ",
-   "en": ""
+   "en": "Well, Lucia,\nthis is where we part."
   },
   {
    "id": "event_ev005650:0CB6",
@@ -690,7 +690,7 @@
     85
    ],
    "jp": "『タキさんと{h }おわかれしたよ』",
-   "en": ""
+   "en": "\"You said goodbye to Taki.\""
   },
   {
    "id": "event_ev005650:0CD6",
@@ -698,7 +698,7 @@
     86
    ],
    "jp": "じゃあね{h }波音ちゃん\nここで{h }おわかれだよ",
-   "en": ""
+   "en": "Well, Hanon,\nthis is where we part."
   },
   {
    "id": "event_ev005650:0D02",
@@ -706,7 +706,7 @@
     87
    ],
    "jp": "『タキさんと{h }おわかれしたよ』",
-   "en": ""
+   "en": "\"You said goodbye to Taki.\""
   },
   {
    "id": "event_ev005650:0D22",
@@ -714,7 +714,7 @@
     88
    ],
    "jp": "それじゃあね{h }リナちゃん\nこのへんで{h }おわかれだよ",
-   "en": ""
+   "en": "Well then, Rina,\nthis is where we part."
   },
   {
    "id": "event_ev005650:0D56",
@@ -722,7 +722,7 @@
     89
    ],
    "jp": "『タキさんと{h }おわかれした』",
-   "en": ""
+   "en": "\"You said goodbye to Taki.\""
   }
  ]
 }

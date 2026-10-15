@@ -9,7 +9,7 @@
     7
    ],
    "jp": "このふく{h }かわいい！\nあ！　これも！",
-   "en": ""
+   "en": "These clothes are so cute!\nOh! This too!"
   },
   {
    "id": "event_ev005520:0026",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "どうしよう　どれを{h }かおうかな\n目うつりしちゃうよ〜",
-   "en": ""
+   "en": "What should I buy?\nThere's too much to choose from!"
   },
   {
    "id": "event_ev005520:005C",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "このキャミソールかわいいっ！\nもう{h }手ばなしたくないかも！",
-   "en": ""
+   "en": "This camisole is so cute!\nI might never let it go!"
   },
   {
    "id": "event_ev005520:0098",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "こっちも！　う〜ん{h }どれを\nかおうかなあ　なやんじゃう〜",
-   "en": ""
+   "en": "This one too! Hmmm, which\nshould I buy? I can't decide!"
   },
   {
    "id": "event_ev005520:00D2",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "バーゲンか‥‥\nたまには{h }ふくでも見ていこうかな",
-   "en": ""
+   "en": "A sale, huh...\nMaybe I'll look at clothes for once."
   },
   {
    "id": "event_ev005520:0104",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "シンプルなのがいいが‥‥",
-   "en": ""
+   "en": "I like simple things, but..."
   },
   {
    "id": "event_ev005520:011E",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "なかなか{h }気に入るのが\nないんだよな‥‥",
-   "en": ""
+   "en": "I can't really find\nanything I like..."
   }
  ]
 }

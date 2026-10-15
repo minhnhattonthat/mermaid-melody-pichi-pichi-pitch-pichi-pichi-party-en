@@ -8,7 +8,7 @@
     0
    ],
    "jp": "あ〜あ　つかれた\nちょっと　おちゃして{h }いこーっと",
-   "en": ""
+   "en": "Ahh, I'm tired.\nI'll stop for some tea!"
   },
   {
    "id": "event_ev005542:0034",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "う〜ん☆\nしおかぜがきもちいい‥‥",
-   "en": ""
+   "en": "Mmm! ☆\nThe sea breeze feels so nice..."
   },
   {
    "id": "event_ev005542:0058",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "うみのそばの\nオープンカフェでひとやすみ",
-   "en": ""
+   "en": "I took a break at an\nopen-air cafe by the sea."
   },
   {
    "id": "event_ev005542:0082",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005542:00A6",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "あ〜あ　つかれちゃった\nちょっと　おちゃして{h }いこーっと",
-   "en": ""
+   "en": "Ahh, I'm so tired.\nI'll stop for some tea!"
   },
   {
    "id": "event_ev005542:00E0",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "う〜ん☆\nしおかぜがきもちいい‥‥",
-   "en": ""
+   "en": "Mmm! ☆\nThe sea breeze feels so nice..."
   },
   {
    "id": "event_ev005542:0104",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "うみのそばの\nオープンカフェでひとやすみ",
-   "en": ""
+   "en": "I took a break at an\nopen-air cafe by the sea."
   },
   {
    "id": "event_ev005542:012E",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005542:0152",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ふう　ひとやすみしていくか",
-   "en": ""
+   "en": "Phew, guess I'll take a break."
   },
   {
    "id": "event_ev005542:016E",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ここはゆっくりできて\nおちつくな‥‥",
-   "en": ""
+   "en": "I can relax here.\nIt's calming..."
   },
   {
    "id": "event_ev005542:0194",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "うみのそばの\nオープンカフェでひとやすみ",
-   "en": ""
+   "en": "I took a break at an\nopen-air cafe by the sea."
   },
   {
    "id": "event_ev005542:01BE",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   }
  ]
 }

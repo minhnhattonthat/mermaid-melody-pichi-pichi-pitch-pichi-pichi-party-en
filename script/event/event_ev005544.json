@@ -8,7 +8,7 @@
     0
    ],
    "jp": "このこうえんがいちばん\n木かげが{h }おおいのよね",
-   "en": ""
+   "en": "This park has the most\nshade from the trees."
   },
   {
    "id": "event_ev005544:0030",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "ちょっとベンチで\nひとやすみしていこーっと",
-   "en": ""
+   "en": "I'll take a little break\non a bench!"
   },
   {
    "id": "event_ev005544:005C",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "こうえんのベンチで\n木にかこまれて{h }ひとやすみ",
-   "en": ""
+   "en": "I took a break on a park\nbench, surrounded by trees."
   },
   {
    "id": "event_ev005544:008C",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005544:00B0",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "木かげでゆっくりするのも\nいいもんよね",
-   "en": ""
+   "en": "Relaxing in the shade\nof the trees is nice."
   },
   {
    "id": "event_ev005544:00D8",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "木のあいだをぬけるかぜが\nいいきもち",
-   "en": ""
+   "en": "The breeze through the trees\nfeels so good."
   },
   {
    "id": "event_ev005544:00FE",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "こうえんのベンチで\n木にかこまれて{h }ひとやすみ",
-   "en": ""
+   "en": "I took a break on a park\nbench, surrounded by trees."
   },
   {
    "id": "event_ev005544:012E",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005544:0152",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ふう‥‥　いいかぜだ",
-   "en": ""
+   "en": "Phew... nice breeze."
   },
   {
    "id": "event_ev005544:0168",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "木もれ日がきれいだ‥‥\nゆっくりしていくか‥‥",
-   "en": ""
+   "en": "The sunlight through the leaves\nis pretty... I'll take it easy..."
   },
   {
    "id": "event_ev005544:0198",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "こうえんのベンチで\n木にかこまれて{h }ひとやすみ",
-   "en": ""
+   "en": "I took a break on a park\nbench, surrounded by trees."
   },
   {
    "id": "event_ev005544:01C8",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "{i211}ヒロインポイント　＋４０{i20F}",
-   "en": ""
+   "en": "{i211}Heroine Points +40{i20F}"
   }
  ]
 }

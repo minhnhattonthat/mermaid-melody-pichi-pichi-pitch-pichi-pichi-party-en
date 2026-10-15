@@ -9,7 +9,8 @@ import json, os, struct, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.dirname(HERE)); sys.path.insert(0, HERE)
-import fs, gfx, apply  # noqa: E402
+import fs, apply  # noqa: E402
+import gfxfmt as gfx  # noqa: E402
 from PIL import Image  # noqa: E402
 
 
@@ -48,10 +49,7 @@ def main():
     out = a[a.index("--out") + 1] if "--out" in a else os.path.join(apply.ORIGD, apply.name_of(path))
     os.makedirs(os.path.dirname(out), exist_ok=True)
     im.save(out)
-    L = apply.layout()
-    L[path] = {"tw": tw, "bpp": bpp}
-    with open(apply.LAYOUT, "w", newline="\n") as f:
-        json.dump(L, f, indent=1, sort_keys=True)
+    apply.save_layout(path, {"tw": tw, "bpp": bpp})
     print(out, f"{len(px[0])}x{len(px)} bpp{bpp}")
 
 

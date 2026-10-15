@@ -9,7 +9,7 @@
     75
    ],
    "jp": "あれっ{h }クラちゃん？\nこんなところで{h }どうしたの",
-   "en": ""
+   "en": "Huh? Kura?\nWhat are you doing here?"
   },
   {
    "id": "event_ev005660:0032",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "ふんふん{h }ええっと{h }ん〜\n‥‥つまりまいご{h }かな？",
-   "en": ""
+   "en": "Uh-huh, uh-huh, ummm...\n...So you're lost?"
   },
   {
    "id": "event_ev005660:0070",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "‥‥‥‥（クスン）",
-   "en": ""
+   "en": "......(Sniff)"
   },
   {
    "id": "event_ev005660:0084",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "だいじょうぶ{h }\nいっしょにいてあげるよ！",
-   "en": ""
+   "en": "It's okay!\nI'll stay with you!"
   },
   {
    "id": "event_ev005660:00AE",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "さみしそうな{h }クラちゃんに\nついていて{h }あげることにしたよ",
-   "en": ""
+   "en": "Kura looked lonely,\nso I decided to stay with her."
   },
   {
    "id": "event_ev005660:00EA",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005660:010C",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "ふんふん{h }ええっと{h }ん〜\n‥‥つまりまいご{h }かな？",
-   "en": ""
+   "en": "Uh-huh, uh-huh, ummm...\n...So you're lost?"
   },
   {
    "id": "event_ev005660:017A",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "‥‥‥‥‥‥（クスン）",
-   "en": ""
+   "en": "......(Sniff)"
   },
   {
    "id": "event_ev005660:0192",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "だいじょうぶ{h }\nいっしょにいてあげるよ！",
-   "en": ""
+   "en": "It's okay!\nI'll stay with you!"
   },
   {
    "id": "event_ev005660:01BC",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "さみしそうな{h }クラちゃんに\nついていて{h }あげることにしたよ",
-   "en": ""
+   "en": "Kura looked lonely,\nso I decided to stay with her."
   },
   {
    "id": "event_ev005660:01F8",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005660:021A",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "ふんふん{h }ええっと{h }ん〜\n‥‥つまりまいご{h }かな？",
-   "en": ""
+   "en": "Uh-huh, uh-huh, ummm...\n...So you're lost?"
   },
   {
    "id": "event_ev005660:0296",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "‥‥‥‥{h }‥‥‥‥\n‥‥‥‥（クスン）",
-   "en": ""
+   "en": "...... ......\n......(Sniff)"
   },
   {
    "id": "event_ev005660:02BE",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "だいじょうぶ{h }\nいっしょにいてあげるよ！",
-   "en": ""
+   "en": "It's okay!\nI'll stay with you!"
   },
   {
    "id": "event_ev005660:02E8",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "さみしそうな{h }クラちゃんに\nついていて{h }あげることにしたよ",
-   "en": ""
+   "en": "Kura looked lonely,\nso I decided to stay with her."
   },
   {
    "id": "event_ev005660:0324",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005660:0346",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005660:036A",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "ああっ{h }クラちゃん！",
-   "en": ""
+   "en": "Ah, Kura!"
   },
   {
    "id": "event_ev005660:0380",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "もう{h }だめじゃない{h }\nまいごに{h }なっちゃうわよ？",
-   "en": ""
+   "en": "Come on, you can't do that!\nYou'll get lost, you know?"
   },
   {
    "id": "event_ev005660:03C0",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "‥‥‥‥‥（クスン）",
-   "en": ""
+   "en": "......(Sniff)"
   },
   {
    "id": "event_ev005660:03D6",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "え‥‥{h }わたしをさがしてたの？",
-   "en": ""
+   "en": "Huh... You were looking for me?"
   },
   {
    "id": "event_ev005660:03F6",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "しょうがないなぁ〜\nじゃ{h }いっしょにいきましょ！",
-   "en": ""
+   "en": "Oh, all right!\nThen let's go together!"
   },
   {
    "id": "event_ev005660:0428",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "さみしそうな{h }クラちゃんに\nついていて{h }あげることにしたよ",
-   "en": ""
+   "en": "Kura looked lonely,\nso I decided to stay with her."
   },
   {
    "id": "event_ev005660:0464",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005660:0486",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "もう{h }だめじゃない{h }\nまいごに{h }なっちゃうわよ？",
-   "en": ""
+   "en": "Come on, you can't do that!\nYou'll get lost, you know?"
   },
   {
    "id": "event_ev005660:04F6",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "‥‥‥‥‥‥‥\n‥‥（クスン）",
-   "en": ""
+   "en": "......\n...(Sniff)"
   },
   {
    "id": "event_ev005660:0516",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "え‥‥{h }わたしをさがしてたの？",
-   "en": ""
+   "en": "Huh... You were looking for me?"
   },
   {
    "id": "event_ev005660:0536",
@@ -289,7 +289,7 @@
     35
    ],
    "jp": "しょうがないなぁ〜\nじゃ{h }いっしょにいきましょ！",
-   "en": ""
+   "en": "Oh, all right!\nThen let's go together!"
   },
   {
    "id": "event_ev005660:0568",
@@ -297,7 +297,7 @@
     36
    ],
    "jp": "さみしそうな{h }クラちゃんに\nついていて{h }あげることにしたよ",
-   "en": ""
+   "en": "Kura looked lonely,\nso I decided to stay with her."
   },
   {
    "id": "event_ev005660:05A4",
@@ -305,7 +305,7 @@
     37
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005660:05C6",
@@ -329,7 +329,7 @@
     40
    ],
    "jp": "もう{h }だめじゃない{h }\nまいごに{h }なっちゃうわよ？",
-   "en": ""
+   "en": "Come on, you can't do that!\nYou'll get lost, you know?"
   },
   {
    "id": "event_ev005660:0646",
@@ -337,7 +337,7 @@
     41
    ],
    "jp": "‥‥‥　‥‥‥‥‥‥\n‥‥‥‥‥‥（クスン）",
-   "en": ""
+   "en": "... ......\n......(Sniff)"
   },
   {
    "id": "event_ev005660:0674",
@@ -345,7 +345,7 @@
     42
    ],
    "jp": "え‥‥{h }わたしをさがしてたの？",
-   "en": ""
+   "en": "Huh... You were looking for me?"
   },
   {
    "id": "event_ev005660:0694",
@@ -353,7 +353,7 @@
     43
    ],
    "jp": "しょうがないなぁ〜\nじゃ{h }いっしょにいきましょ！",
-   "en": ""
+   "en": "Oh, all right!\nThen let's go together!"
   },
   {
    "id": "event_ev005660:06C6",
@@ -361,7 +361,7 @@
     44
    ],
    "jp": "さみしそうな{h }クラちゃんに\nついていて{h }あげることにしたよ",
-   "en": ""
+   "en": "Kura looked lonely,\nso I decided to stay with her."
   },
   {
    "id": "event_ev005660:0702",
@@ -369,7 +369,7 @@
     45
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005660:0724",
@@ -377,7 +377,7 @@
     46
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005660:0748",
@@ -385,7 +385,7 @@
     47
    ],
    "jp": "あれは‥‥波音の\nクラちゃん？",
-   "en": ""
+   "en": "Is that...\nHanon's Kura?"
   },
   {
    "id": "event_ev005660:0768",
@@ -401,7 +401,7 @@
     49
    ],
    "jp": "どうしたんだ{h }\nそんなに{h }さみしそうにするなよ",
-   "en": ""
+   "en": "What's wrong?\nDon't look so lonely."
   },
   {
    "id": "event_ev005660:07A4",
@@ -409,7 +409,7 @@
     50
    ],
    "jp": "‥‥‥‥‥（クスン）",
-   "en": ""
+   "en": "......(Sniff)"
   },
   {
    "id": "event_ev005660:07BA",
@@ -417,7 +417,7 @@
     51
    ],
    "jp": "‥‥しょうがないな{h }\nわたしが{h }いっしょにいてやるから",
-   "en": ""
+   "en": "...Oh, all right.\nI'll stay with you."
   },
   {
    "id": "event_ev005660:07F2",
@@ -425,7 +425,7 @@
     52
    ],
    "jp": "さみしそうな{h }クラちゃんに\nついていて{h }あげることにしたよ",
-   "en": ""
+   "en": "Kura looked lonely,\nso I decided to stay with her."
   },
   {
    "id": "event_ev005660:082E",
@@ -433,7 +433,7 @@
     53
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005660:0850",
@@ -457,7 +457,7 @@
     56
    ],
    "jp": "どうしたんだ{h }\nそんなに{h }さみしそうにするなよ",
-   "en": ""
+   "en": "What's wrong?\nDon't look so lonely."
   },
   {
    "id": "event_ev005660:08C0",
@@ -465,7 +465,7 @@
     57
    ],
    "jp": "‥‥‥‥‥‥‥\n‥‥（クスン）",
-   "en": ""
+   "en": "......\n...(Sniff)"
   },
   {
    "id": "event_ev005660:08E0",
@@ -473,7 +473,7 @@
     58
    ],
    "jp": "‥‥しょうがないな{h }\nわたしが{h }いっしょにいてやるから",
-   "en": ""
+   "en": "...Oh, all right.\nI'll stay with you."
   },
   {
    "id": "event_ev005660:0918",
@@ -481,7 +481,7 @@
     59
    ],
    "jp": "さみしそうな{h }クラちゃんに\nついていて{h }あげることにしたよ",
-   "en": ""
+   "en": "Kura looked lonely,\nso I decided to stay with her."
   },
   {
    "id": "event_ev005660:0954",
@@ -489,7 +489,7 @@
     60
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005660:0976",
@@ -513,7 +513,7 @@
     63
    ],
    "jp": "どうしたんだ{h }\nそんなに{h }さみしそうにするなよ",
-   "en": ""
+   "en": "What's wrong?\nDon't look so lonely."
   },
   {
    "id": "event_ev005660:09EE",
@@ -521,7 +521,7 @@
     64
    ],
    "jp": "‥‥‥？{h }‥‥‥‥‥‥\n‥‥‥‥‥‥（クスン）",
-   "en": ""
+   "en": "...? ......\n......(Sniff)"
   },
   {
    "id": "event_ev005660:0A1E",
@@ -529,7 +529,7 @@
     65
    ],
    "jp": "‥‥しょうがないな{h }\nわたしが{h }いっしょにいてやるから",
-   "en": ""
+   "en": "...Oh, all right.\nI'll stay with you."
   },
   {
    "id": "event_ev005660:0A56",
@@ -537,7 +537,7 @@
     66
    ],
    "jp": "さみしそうな{h }クラちゃんに\nついていて{h }あげることにしたよ",
-   "en": ""
+   "en": "Kura looked lonely,\nso I decided to stay with her."
   },
   {
    "id": "event_ev005660:0A92",
@@ -545,7 +545,7 @@
     67
    ],
    "jp": "『{i21D}{h }なかよしポイント　＋４{i20F}』",
-   "en": ""
+   "en": "\"{i21D} Friendship Points +4{i20F}\""
   },
   {
    "id": "event_ev005660:0AB4",
@@ -553,7 +553,7 @@
     68
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋４０{i20F}』",
-   "en": ""
+   "en": "\"{i211} Heroine Points +40{i20F}\""
   },
   {
    "id": "event_ev005660:0AD8",
@@ -569,7 +569,7 @@
     70
    ],
    "jp": "『クラちゃんと{h }おわかれしたよ』",
-   "en": ""
+   "en": "\"You said goodbye to Kura.\""
   },
   {
    "id": "event_ev005660:0B10",
@@ -585,7 +585,7 @@
     72
    ],
    "jp": "『クラちゃんと{h }おわかれしたよ』",
-   "en": ""
+   "en": "\"You said goodbye to Kura.\""
   },
   {
    "id": "event_ev005660:0B48",
@@ -601,7 +601,7 @@
     74
    ],
    "jp": "『クラちゃんと{h }おわかれした』",
-   "en": ""
+   "en": "\"You said goodbye to Kura.\""
   }
  ]
 }
