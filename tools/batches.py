@@ -23,9 +23,10 @@ BMS_WIN = {
     "card_info": (DLG_PX, 2), "card_use": (DLG_PX, 2), "info_msg": (DLG_PX, 2), "info_stat": (DLG_PX, 2),
     "item_msg": (DLG_PX, 2), "item_get": (DLG_PX, 2), "item_info": (DLG_PX, 2), "blk_info": (DLG_PX, 2),
 }
-DATA_FILES = {"/system/textbin/numeric.bms", "/event/ev000002.bin", "/event/ev000003.bin", "/event/ev000006.bin"}
+DATA_FILES = {"/system/textbin/numeric.bms", "/event/ev000002.bin", "/event/ev000003.bin", "/event/ev000006.bin",
+              "/system/textbin/sysstat.bms"}  # sysstat: digit/unit slots patched by code, translated by hand
 SPEAKERS = {0: "Lucia", 1: "Hanon", 2: "Rina", 3: "Lucia", 4: "Hanon", 5: "Rina", 7: "Hippo", 0xA: "Kaito",
-            0xB: "Taro Mitsuki", 0xC: "Taro Mitsuki", 0x12: "Lucia", 0x13: "Hanon", 0x14: "Rina", 0xFE: "narration/SFX"}
+            0xB: "Taro Mitsuki", 0xC: "Taro Mitsuki", 0x12: "Lucia", 0x13: "Hanon", 0x14: "Rina"}
 TOKS = re.compile(r"\[(?!FFB[23])[0-9A-F]{4}\]|\{i[0-9A-F]{3}\}")  # [FFB2]/[FFB3] = quote marks, may become "
 
 
