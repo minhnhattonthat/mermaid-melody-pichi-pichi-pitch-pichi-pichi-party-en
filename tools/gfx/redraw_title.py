@@ -2,7 +2,10 @@
 title menus, name entry header.  Writes gfx/en/<name>.png from gfx/orig/<name>.png (palette-mode, colour indices).
     python -X utf8 tools/gfx/redraw_title.py            (report: docs/re/gfx_title.md)
 Originals: export.py exports (OBJ sheets with --tw 32: these files are loaded 1:1 into 2D-mapped OBJ VRAM), except
-title_logo.acg (8bpp OBJ + IS-ACG03 trailer), which this script exports itself (orig_acg()).
+title_logo.acg (8bpp OBJ + IS-ACG03 trailer), which this script exports itself (orig_acg()):
+    export.py /mode/k_logo/logo.dcg ; export.py /mode/title/title_logo01.dcg ; export.py /mode/title/name.imb
+    export.py /mode/title/title_obj.dcg|title_serect.dcg|title_menu.dcg --tw 32 --pal <menu dump>.pal.bin --obj --bank 11
+(the --pal choice only colours the PNG for viewing; pixel values are what is written back).
 """
 import os, struct, sys
 
@@ -216,8 +219,8 @@ def title_serect():
         pill_label(a, y0, 21, 98, text)
     for y0, text in [(0, "Hard"), (16, "Normal"), (32, "Easy")]:
         diff_label(a, 104, y0, text, 155)
-    right = [(48, "New Game", 128), (64, "Continue", 128), (80, "Three Players", 126), (96, "Party Pitch", 126),
-             (112, "All-Out Pitch", 126), (128, "Hard Rules", 126), (144, "Easy Rules", 126)]
+    right = [(48, "New Game", 128), (64, "Continue", 128), (80, "Three Players", 125), (96, "Party Pitch", 125),
+             (112, "All-Out Pitch", 125), (128, "Hard Rules", 125), (144, "Easy Rules", 125)]
     for y0, text, tx0 in right:
         pill_label(a, y0, tx0, 202, text)
     save(path, a, pal)
@@ -226,7 +229,7 @@ def title_serect():
 def title_menu():
     path = "/mode/title/title_menu.dcg"
     a, pal = load(path)
-    heads = ["Mode Select", "Checking Link", "Players", "Character Select", "Episodes", "Load Save",
+    heads = ["Mode Select", "Checking Link", "Players", "Character Select", "Game Length", "Load Save",
              "Story...", "Turn Order"]
     for i, text in enumerate(heads):
         header(a, 16 * i, text, 0, 160)
@@ -325,6 +328,9 @@ PARTY = [(0, 0, 64, 64, 0, 0), (64, 0, 64, 64, 64, 0), (0, 64, 64, 64, 128, 0), 
 PITCH = [(48, 160, 32, 16, 32, 0), (80, 160, 32, 16, 64, 0), (112, 160, 16, 8, 96, 0),
          (0, 128, 64, 32, 0, 8), (64, 128, 32, 32, 64, 8), (96, 128, 32, 32, 96, 8), (0, 160, 32, 32, 128, 8),
          (32, 160, 16, 32, 160, 8)]
+# one canvas = screen (0, 8)-(256, 112); the Pitch cloud's bottom rows are drawn by the Party sprites
+LOGO = [(x, y, w, h, cx + 32, cy) for x, y, w, h, cx, cy in PITCH] + \
+       [(x, y, w, h, cx, cy + 40) for x, y, w, h, cx, cy in PARTY]
 
 
 def orig_acg():
@@ -364,12 +370,10 @@ def logo():
     used = set(int(v) for v in np.unique(a[:192])) - {0}
     used = {v for v in used if v < 224}
     col = lambda rgb: nearest(pal, rgb, used)
-    party, pok = gather(a, PARTY, 256, 64)
-    pitch, tok = gather(a, PITCH, 176, 40)
-    logo_party(party, P, col)
-    logo_pitch(pitch, tok, P, col)
-    scatter(a, party, PARTY)
-    scatter(a, pitch, PITCH)
+    c, ok = gather(a, LOGO, 256, 104)
+    logo_party(c[40:], P, col)
+    logo_pitch(c, ok, P, col)
+    scatter(a, c, LOGO)
     save(ACG, a, pal)
 
 
@@ -393,63 +397,75 @@ def logo_party(c, P, col):
     text = "Pichi Pichi Party"
     size = 34
     while True:
-        m, cap = ttf(text, "BAUHS93.TTF", size)
-        if m.shape[1] <= bx1 - bx0 - 6 and m.shape[0] <= by1 - by0 - 4:
+        m = ttf(text, "BAUHS93.TTF", size)[0]
+        if m.shape[1] <= bx1 - bx0 - 6:
             break
         size -= 1
+    # stretch to the kana's height (chunky like the original lettering)
+    th = min(by1 - by0 - 8, m.shape[0] * 6 // 5)
+    m = np.array(Image.fromarray(m * 255).resize((m.shape[1], th), Image.NEAREST)) // 255
+    cy0, cy1 = np.nonzero(core.any(1))[0][[0, -1]]
     x = (bx0 + bx1 + 1 - m.shape[1]) // 2
-    y = (by0 + by1 + 1 - m.shape[0]) // 2
+    y = (cy0 + cy1 + 1 - m.shape[0]) // 2
     grad = [(248, 248, 200), (248, 248, 160), (248, 240, 120), (248, 240, 64), (248, 232, 24), (248, 216, 32),
             (248, 192, 48)]
     gi = [col(g) for g in grad]
     h = m.shape[0]
     fill = lambda row: gi[min(len(gi) - 1, max(0, (row - y) * len(gi) // h))]
-    styled(c, x, y, m, fill, [(1, col((240, 88, 160)))])
+    # where the English needs more plate than the kana had: plate edge as the original (light blue, lavender)
+    notplate = set(range(256)) - {plate}
+    put(c, x - 5, y - 5, dil(m, 5), col((200, 168, 208)), notplate)
+    put(c, x - 4, y - 4, dil(m, 4), col((136, 216, 248)), notplate)
+    styled(c, x, y, m, fill, [(1, col((240, 88, 160))), (2, plate)])
 
 
 def logo_pitch(c, ok, P, col):
     """Pitch block: マーメイドメロディー (rainbow kana) / Pichi Pichi Pitch (small) / ぴちぴちピッチ (big pink) on a
     white cloud with a cyan rim. The cloud keeps its rim; inside: "Mermaid Melody" (rainbow letters) and
     "Pichi Pichi Pitch" (big pink, Bauhaus 93)."""
-    cloud = ndimage.binary_fill_holes(c != 0) & ok
-    inner = ndimage.binary_erosion(cloud, iterations=2, structure=np.ones((3, 3)))
-    white = col((248, 248, 248))
-    c[inner] = white
-    ys, xs = np.nonzero(inner)
-    # big line in the lower part
-    text = "Pichi Pichi Pitch"
-    size = 30
-    while True:
-        m, cap = ttf(text, "BAUHS93.TTF", size)
-        if m.shape[1] <= 168 and m.shape[0] <= 20:
-            break
-        size -= 1
-    x = (c.shape[1] - m.shape[1]) // 2
-    y = 38 - 2 - m.shape[0]
-    pinks = [col((240, 112, 176)), col((240, 72, 152)), col((232, 32, 136)), col((216, 16, 120))]
-    h = m.shape[0]
-    fill = lambda row: pinks[min(3, max(0, (row - y) * 4 // h))]
-    styled(c, x, y, m, fill, [(1, col((176, 16, 104)))])
-    # rainbow small line on top
-    mm, _ = pix("Mermaid Melody", bold=True)
-    rainbow = [col(v) for v in [(232, 32, 32), (248, 144, 56), (232, 184, 0), (120, 192, 48), (0, 168, 240),
-                                (144, 88, 200), (232, 32, 136)]]
-    x0 = (c.shape[1] - mm.shape[1]) // 2
-    k = 0
-    cols = np.nonzero(mm.any(0))[0]
-    start = 0
-    for i in range(1, mm.shape[1] + 1):
-        if i == mm.shape[1] or not mm[:, i].any():
-            if i > start and mm[:, start:i].any():
-                seg = np.zeros_like(mm)
-                seg[:, start:i] = mm[:, start:i]
-                put(c, x0, 2, seg, rainbow[k % len(rainbow)])
-                k += 1
-            start = i + 1
+    win = np.zeros_like(ok)
+    win[0:48, 30:212] = True
+    lab, _ = ndimage.label(ndimage.binary_fill_holes((c != 0) & win))
+    cloud = lab == lab[24, 128]
+    # big line "Pichi Pichi Pitch" (rows 21-39) and "Mermaid Melody" above it, both centred on screen x 120
+    big = pixfont.trim_rows(ttf("Pichi Pichi Pitch", "BAUHS93.TTF", 21)[0])
+    bx, by = 120 - big.shape[1] // 2, 40 - big.shape[0]
+    text = "Mermaid Melody"
+    ms = [ttf(ch, "BAUHS93.TTF", 13)[0] if ch != " " else np.zeros((1, 4), np.uint8) for ch in text]
+    ms = [g[:np.nonzero(g.any(1))[0].max() + 1] if g.any() else g for g in ms]   # drop empty descender rows
+    w = sum(g.shape[1] for g in ms) + len(ms) - 1
+    hh = max(g.shape[0] for g in ms)
+    tx, ty = 120 - w // 2, by - 1 - hh
+    assert ty >= 11, ty   # rows 0-7 exist only left of x 112 (OAM 9-11)
+    # the cloud grows to hold the English (old outline kept where it is larger), 1 px blue rim, white inside
+    grow = np.zeros_like(cloud)
+    grow[by:by + big.shape[0], bx:bx + big.shape[1]] |= big.astype(bool)
+    grow[ty:ty + hh, tx:tx + w] = True
+    yy, xx = np.mgrid[-5:6, -5:6]
+    grow = ndimage.binary_dilation(grow, structure=yy * yy + xx * xx <= 22)   # round corners
+    lim = np.zeros_like(ok)
+    lim[0:44, 36:205] = True
+    cloud = ndimage.binary_fill_holes(cloud | (grow & lim)) & ok
+    inner = ndimage.binary_erosion(cloud, structure=np.ones((3, 3)))
+    c[cloud] = col((0, 168, 240))
+    c[inner] = col((248, 248, 248))
+    pinks = [col((240, 120, 176)), col((240, 88, 160)), col((232, 40, 144)), col((216, 16, 120))]
+    h = big.shape[0]
+    styled(c, bx, by, big, lambda row: pinks[min(3, max(0, (row - by) * 4 // h))], [(1, col((168, 16, 104)))])
+    # one colour per letter, as the kana of マーメイドメロディー
+    rainbow = [col(v) for v in [(232, 32, 32), (248, 144, 56), (216, 176, 0), (96, 184, 48), (0, 160, 232),
+                                (136, 88, 208), (232, 32, 136)]]
+    k, x = 0, tx
+    for ch, g in zip(text, ms):
+        if ch != " ":
+            put(c, x, ty, g, rainbow[k % len(rainbow)])
+            k += 1
+        x += g.shape[1] + 1
 
 
 GROUPS = {"title_obj": title_obj, "title_serect": title_serect, "title_menu": title_menu, "k_logo": k_logo,
           "press_start": press_start, "name_entry": name_entry, "logo": logo}
+# /system/common/modetitle.dcg (board ribbons, verified on the board) is drawn by redraw_board.py.
 
 if __name__ == "__main__":
     for g in (sys.argv[1:] or GROUPS):

@@ -6,7 +6,7 @@
 local after, seen, armed, last = AFTER or 1, 0, true, -100
 local mash_from = MASH_FROM or 2400
 L.on_frame(function(f)
-  if armed and f >= mash_from and f % 40 == 0 and L.route_done() then L.press("a", 6) end
+  if armed and f >= mash_from and f % 40 == 0 and L.route_done() and f - last > 30 then L.press("a", 6) end
 end)
 L.on_exec(0x0803843C, 0x0803843C, function()
   if not armed then return end

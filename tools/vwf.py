@@ -24,7 +24,7 @@ render:
     mov r6, r10
     mov r7, r11
     push {r4-r7}
-    sub sp, #48
+    sub sp, #56
     mov r8, r0
     ldr r1, lit_dmacnt
     ldrh r1, [r1]
@@ -142,7 +142,35 @@ lp_ch:
     b loop
 notnl:
     lsrs r3, r5, #15
-    bne loop
+    beq nt_g
+    lsrs r3, r5, #8
+    cmp r3, #0x81
+    beq ext
+    b loop
+nt_g:
+    bl glyph
+    b loop
+ext:
+    lsls r1, r5, #24
+    lsrs r1, r1, #22
+    ldr r2, lit_ext
+    ldr r2, [r2, r1]
+    str r2, [sp, #52]
+ext_lp:
+    ldr r2, [sp, #52]
+    ldrh r5, [r2]
+    ldr r3, lit_8000
+    cmp r5, r3
+    bne ext_g
+    b loop
+ext_g:
+    adds r2, #2
+    str r2, [sp, #52]
+    bl glyph
+    b ext_lp
+glyph:
+    mov r3, lr
+    str r3, [sp, #48]
     lsls r3, r5, #17
     lsrs r3, r3, #31
     beq full
@@ -260,7 +288,8 @@ advance:
     ldrh r1, [r0, #0xE]
     adds r1, r1, r7
     strh r1, [r0, #0xE]
-    b loop
+    ldr r3, [sp, #48]
+    bx r3
 done:
     mov r0, r8
     ldrh r6, [r0, #6]
@@ -296,7 +325,7 @@ dn_dma:
     bl callr2
     ldr r0, [sp, #44]
 ret:
-    add sp, #48
+    add sp, #56
     pop {r4-r7}
     mov r8, r4
     mov r9, r5
@@ -438,12 +467,14 @@ lit_queue:  .word 0x08035061
 lit_map:    .word 0x0202520C
 lit_adv:    .word ADV
 lit_en:     .word ENG
+lit_ext:    .word EXT
 """
 
 
-def assemble(addr, adv, eng):
+def assemble(addr, adv, eng, ext=0):
     ks = Ks(KS_ARCH_ARM, KS_MODE_THUMB)
-    src = ASM.replace("ADV", hex(0x08000000 + adv)).replace("ENG", hex(0x08000000 + eng))
+    src = ASM.replace("ADV", hex(0x08000000 + adv)).replace("ENG", hex(0x08000000 + eng)) \
+             .replace("EXT", hex(0x08000000 + ext))
     enc, _ = ks.asm(src, 0x08000000 + addr)
     code = bytes(enc)
     check_thumb1(code)
@@ -475,13 +506,17 @@ def hook(rom, at, target):
     rom[at:at + 8] = bytes.fromhex("004b1847") + struct.pack("<I", 0x08000000 + target + 1)
 
 
-def install(rom, alloc, adv_table, eng_table):
-    """adv_table: 256 bytes; eng_table: 256 x 16 u32 rows (2bpp, pixel x at bits 2x)."""
+def install(rom, alloc, adv_table, eng_table, ext_strings=()):
+    """adv_table: 256 bytes; eng_table: 256 x 16 u32 rows (2bpp, pixel x at bits 2x).
+    ext_strings: list of code lists; code 0x8100|k in any string draws ext_strings[k] inline (fixed-width slots in
+    code/data tables hold [81kk] plus zero-width filler codes 0x8002)."""
     adv = alloc.put(bytes(adv_table), align=4)
     eng = alloc.put(eng_table, align=4)
-    code = assemble(0, adv, eng)
+    ptrs = [0x08000000 + alloc.put(struct.pack("<%dH" % (len(c) + 1), *c, 0x8000), align=2) for c in ext_strings]
+    ext = alloc.put(struct.pack("<%dI" % max(1, len(ptrs)), *(ptrs or [0])), align=4)
+    code = assemble(0, adv, eng, ext)
     at = alloc.put(b"\0" * len(code), align=4)
-    code = assemble(at, adv, eng)
+    code = assemble(at, adv, eng, ext)
     rom[at:at + len(code)] = code
     assert code.count(MAPB_PROLOGUE) == 1
     mb = at + code.index(MAPB_PROLOGUE)

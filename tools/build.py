@@ -44,8 +44,13 @@ def build(marker=False, qa=None):
     rom = bytearray(load_orig())
     rom += b"\xff" * (SIZE - len(rom))
     alloc = Alloc(rom, TEXT_LO, GFX_LO)
+    import romdata
     adv, eng = font_en.tables()
-    adv_off = vwf.install(rom, alloc, adv, eng)
+    romdata.patch_rom(rom)
+    qa = dict(qa or {})
+    for sid, codes in romdata.sysstat_codes(rom, lambda s: text.encode(s, "jp")).items():
+        qa.setdefault(sid, text.decode(codes))
+    adv_off = vwf.install(rom, alloc, adv, eng, romdata.ext_codes(lambda s: text.encode(s, "en")))
     import patches
     patches.apply(rom, alloc, adv_off, lambda s: text.encode(s, "en"))
     orig = bytes(rom)
