@@ -46,7 +46,21 @@ SYSSTAT = [  # label, unit (None = keep the row's tail as is)
 ]
 
 
+NAME_GRID = 0x29AFD4  # name entry: 5 rows x 12 cells of codes (FFFE/FFFD dakuten keys, FFFC space, FFFF OK)
+NAME_ROWS = ["ABCDEFGHIJKL", "MNOPQRSTUVWX", "YZabcdefghij", "klmnopqrstuv", "wxyz!?.-'&"]
+
+
+def name_grid_codes():
+    codes = []
+    for r in NAME_ROWS:
+        codes += [0x4000 | (ord(ch) + 0x10) for ch in r]
+    return codes + [0xFFFC, 0xFFFF]
+
+
 def patch_rom(rom):
+    old = struct.unpack_from("<60H", rom, NAME_GRID)
+    assert old[0] == 0xD2 and old[58:] == (0xFFFC, 0xFFFF), old[:3]
+    struct.pack_into("<60H", rom, NAME_GRID, *name_grid_codes())
     for off, n, en in ROM_SLOTS:
         if off in JP_CHECK:
             assert list(struct.unpack_from("<%dH" % len(JP_CHECK[off]), rom, off)) == JP_CHECK[off], hex(off)

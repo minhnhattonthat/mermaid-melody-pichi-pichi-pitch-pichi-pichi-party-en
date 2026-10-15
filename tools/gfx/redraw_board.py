@@ -573,6 +573,23 @@ def roulet_ev():
     a, pal = load(path)
     success(a, 16)
     strip(a, 12, "NIMBLE STEPS", x0=180)
+    # ごうけい (roulette total) strip: two 8-row sprites stacked on screen, top = x 176-207, bottom = x 208-255
+    # of rows 24-31. Rebuilt as one 48x16 strip, then split back.
+    v = np.zeros((16, 48), np.uint8)
+    v[0:8, 0:32] = a[24:32, 176:208]
+    v[8:16] = a[24:32, 208:256]
+    e = [x for x in range(48) if v[10, x] == 14]
+    tail = e[-1]
+    while tail - 1 in e:
+        tail -= 1
+    v[0:4, :tail] = 0
+    v[4:13, :tail] = 12
+    t = v[0:11, tail:]
+    t[t == 15] = 0
+    m = tiny("TOTAL")
+    paint(v, 3, 6, m, 15)
+    a[24:32, 176:208] = v[0:8, 0:32]
+    a[24:32, 208:256] = v[8:16]
     save(a, pal, path)
     path = "/system/event/roulet_ev0.dcg"
     a, pal = load(path)
