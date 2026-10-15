@@ -9,7 +9,7 @@
     99
    ],
    "jp": "どうしたんだ{h }２人とも\nひどく{h }くらいかおに{h }なってるぞ？",
-   "en": ""
+   "en": "What's wrong, you two?\nYou both look really gloomy."
   },
   {
    "id": "event_ev001300:003C",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "あのね　海斗に{h }いっしょに\nかえろうって{h }いったらね‥‥",
-   "en": ""
+   "en": "Well, when I asked Kaito\nto walk home with me..."
   },
   {
    "id": "event_ev001300:0076",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "うっとうしいって\nいわれちゃった‥‥",
-   "en": ""
+   "en": "he said I was\na pain..."
   },
   {
    "id": "event_ev001300:009C",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "太郎ちゃんに　ピアノをそばで\nきいていい？　っていったら‥‥",
-   "en": ""
+   "en": "When I asked Taro if I could\nlisten to him play piano up close..."
   },
   {
    "id": "event_ev001300:00DA",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "ジャマだって　いわれちゃった‥‥",
-   "en": ""
+   "en": "he said I was in the way..."
   },
   {
    "id": "event_ev001300:00FC",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "なにっ！？　あの２人が\nそんなことを{h }いったのか？",
-   "en": ""
+   "en": "What?! Those two\nsaid that?"
   },
   {
    "id": "event_ev001300:0130",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "ちょっと{h }しんじられないな‥‥",
-   "en": ""
+   "en": "That's kind of hard to believe..."
   },
   {
    "id": "event_ev001300:0150",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "そうだよね‥‥なにかが{h }海斗たちを\nおかしくしてるのかも？",
-   "en": ""
+   "en": "Right... Maybe something is\nmaking Kaito and them act weird?"
   },
   {
    "id": "event_ev001300:018C",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "ひょっとして{h }なんだけど‥‥",
-   "en": ""
+   "en": "This is just a guess, but..."
   },
   {
    "id": "event_ev001300:01AA",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "かすかに{h }きこえている\nこの{h }おんがくのせい？",
-   "en": ""
+   "en": "could it be this music\nwe can faintly hear?"
   },
   {
    "id": "event_ev001300:01DA",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "わたしも　ずっと{h }いやな音だとは\nおもっていたが‥‥",
-   "en": ""
+   "en": "I've been thinking it's\na nasty sound for a while..."
   },
   {
    "id": "event_ev001300:0210",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "その{h }かのうせいは\nじゅうぶん{h }ありそうだ‥‥",
-   "en": ""
+   "en": "That seems quite\npossible..."
   },
   {
    "id": "event_ev001300:0240",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "学校から{h }きこえてくるようだし\nみんなで　しらべてみよう！",
-   "en": ""
+   "en": "It seems to be coming from School.\nLet's all go check it out!"
   },
   {
    "id": "event_ev001300:027C",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "海斗を{h }もとに{h }もどすために\n学校へ{h }いそがなきゃ！",
-   "en": ""
+   "en": "I have to hurry to School\nto get Kaito back to normal!"
   },
   {
    "id": "event_ev001300:02B2",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "いやな{h }おんがく‥‥\n学校から{h }きこえてくるわ",
-   "en": ""
+   "en": "That nasty music...\nIt's coming from School."
   },
   {
    "id": "event_ev001300:02E2",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "‥‥学校に{h }いそがなきゃ！",
-   "en": ""
+   "en": "...I have to hurry to School!"
   },
   {
    "id": "event_ev001300:02FE",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "学校へ{h }いって{h }おんがくを{h }とめれば\nきっと{h }海斗も{h }もとに‥‥",
-   "en": ""
+   "en": "If I go to School and stop the music,\nKaito will surely be back to..."
   },
   {
    "id": "event_ev001300:0340",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "この{h }おんがくの{h }せいで\n太郎ちゃんが！",
-   "en": ""
+   "en": "It's this music that's\ndoing this to Taro!"
   },
   {
    "id": "event_ev001300:036A",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "この{h }おんがく‥‥\nたしかに{h }学校から{h }きこえてくるわ",
-   "en": ""
+   "en": "This music...\nIt's coming from School, all right."
   },
   {
    "id": "event_ev001300:03A2",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "いそいで{h }学校にいって\nこの{h }おんがく　やめさせなくちゃ！",
-   "en": ""
+   "en": "I have to hurry to School\nand make this music stop!"
   },
   {
    "id": "event_ev001300:03DE",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "太郎ちゃんが{h }おかしくなったのって\nこの{h }おんがくの{h }せいだよね？",
-   "en": ""
+   "en": "Taro's acting weird because\nof this music, right?"
   },
   {
    "id": "event_ev001300:0422",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "いやな{h }おんがくだ‥‥\n早く学校に{h }いって{h }とめなくちゃ",
-   "en": ""
+   "en": "Nasty music... I have to get\nto School fast and stop it."
   },
   {
    "id": "event_ev001300:045C",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "まちがいなく{h }学校から\nきこえて{h }くるな‥‥",
-   "en": ""
+   "en": "It's coming from School,\nno doubt about it..."
   },
   {
    "id": "event_ev001300:048A",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "この{h }おんがくの{h }せいで\nみんな{h }おかしくなったようだな",
-   "en": ""
+   "en": "Looks like this music\nmade everyone act weird."
   },
   {
    "id": "event_ev001300:04C4",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "早く{h }おんがくを{h }とめないと‥‥\n学校へ{h }いそごう！",
-   "en": ""
+   "en": "We have to stop the music fast...\nHurry to School!"
   },
   {
    "id": "event_ev001300:04FA",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "ピアノっていうのも　いがいと\nおもしろいわね〜　ららら〜",
-   "en": ""
+   "en": "Playing the piano is surprisingly\nfun, isn't it? La la laaa..."
   },
   {
    "id": "event_ev001300:0534",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "水妖！　さては{h }あなたの{h }しわざね！\nそのピアノを{h }やめなさい！",
-   "en": ""
+   "en": "A water demon! So you're behind this!\nStop playing that piano!"
   },
   {
    "id": "event_ev001300:0576",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "こころを{h }あやつるピアノを\nひいているのは　ユーリよ〜ん",
-   "en": ""
+   "en": "The one playing the heart-controlling\npiano is Yuuuri!"
   },
   {
    "id": "event_ev001300:05B0",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "だから{h }やめても{h }とまらないのよね〜\nわたしって{h }ほーんと{h }おちゃめさん〜",
-   "en": ""
+   "en": "So even if you tell me to stop, I can't!\nI'm sooo mischievous~"
   },
   {
    "id": "event_ev001300:05FC",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "あっ！　にげたぁ！　でも{h }やっぱり\nおんがくは{h }きえないみたい‥‥",
-   "en": ""
+   "en": "Ah! She ran away! But it looks like\nthe music hasn't stopped..."
   },
   {
    "id": "event_ev001300:0640",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "どこから{h }きこえてくるのかな？\n‥‥コンサートホールのほう？",
-   "en": ""
+   "en": "Where is it coming from?\n...The Concert Hall?"
   },
   {
    "id": "event_ev001300:067E",
@@ -257,7 +257,7 @@
     31
    ],
    "jp": "ピアノっていうのも　いがいと\nおもしろいわね〜　ららら〜",
-   "en": ""
+   "en": "Playing the piano is surprisingly\nfun, isn't it? La la laaa..."
   },
   {
    "id": "event_ev001300:06B8",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "ああっ！　水妖！\nその{h }おんがくを{h }やめなさい！",
-   "en": ""
+   "en": "Ah! A water demon!\nStop that music!"
   },
   {
    "id": "event_ev001300:06EA",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "こころを{h }あやつるピアノを\nひいているのは　ユーリよ〜ん",
-   "en": ""
+   "en": "The one playing the heart-controlling\npiano is Yuuuri!"
   },
   {
    "id": "event_ev001300:0724",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "だから{h }やめても{h }とまらないのよね〜\nわたしって{h }ほーんと{h }おちゃめさん〜",
-   "en": ""
+   "en": "So even if you tell me to stop, I can't!\nI'm sooo mischievous~"
   },
   {
    "id": "event_ev001300:0770",
@@ -289,7 +289,7 @@
     35
    ],
    "jp": "ああっ！　にげたわねーっ！！",
-   "en": ""
+   "en": "Ah! She ran awaaay!!"
   },
   {
    "id": "event_ev001300:078E",
@@ -297,7 +297,7 @@
     36
    ],
    "jp": "しかも　ほんとうに{h }おんがくは\nつづいてるみたいだし‥‥",
-   "en": ""
+   "en": "And the music really does\nseem to be going on..."
   },
   {
    "id": "event_ev001300:07C8",
@@ -305,7 +305,7 @@
     37
    ],
    "jp": "うーん　コンサートホールから\nきこえるみたい‥‥とめなくっちゃ！",
-   "en": ""
+   "en": "Hmm, it sounds like it's coming\nfrom the Concert Hall... I must stop it!"
   },
   {
    "id": "event_ev001300:080A",
@@ -313,7 +313,7 @@
     38
    ],
    "jp": "ピアノっていうのも　いがいと\nおもしろいわね〜　ららら〜",
-   "en": ""
+   "en": "Playing the piano is surprisingly\nfun, isn't it? La la laaa..."
   },
   {
    "id": "event_ev001300:0844",
@@ -321,7 +321,7 @@
     39
    ],
    "jp": "きさま　水妖だな！\nその{h }おんがくを{h }とめるんだ！",
-   "en": ""
+   "en": "You're a water demon!\nStop that music!"
   },
   {
    "id": "event_ev001300:0878",
@@ -329,7 +329,7 @@
     40
    ],
    "jp": "こころを{h }あやつるピアノを\nひいているのは　ユーリよ〜ん",
-   "en": ""
+   "en": "The one playing the heart-controlling\npiano is Yuuuri!"
   },
   {
    "id": "event_ev001300:08B2",
@@ -337,7 +337,7 @@
     41
    ],
    "jp": "だから{h }やめても{h }とまらないのよね〜\nわたしって{h }ほーんと{h }おちゃめさん〜",
-   "en": ""
+   "en": "So even if you tell me to stop, I can't!\nI'm sooo mischievous~"
   },
   {
    "id": "event_ev001300:08FE",
@@ -345,7 +345,7 @@
     42
    ],
    "jp": "しまった　にげられた！\n‥‥んっ　まだ{h }おんがくが{h }きこえる",
-   "en": ""
+   "en": "Darn, she got away!\n...Huh? I can still hear the music."
   },
   {
    "id": "event_ev001300:093C",
@@ -353,7 +353,7 @@
     43
    ],
    "jp": "どうやら　コンサートホールからだな\n早く{h }やめさせないと！",
-   "en": ""
+   "en": "Looks like it's from the Concert Hall.\nI have to make her stop, fast!"
   },
   {
    "id": "event_ev001300:0978",
@@ -361,7 +361,7 @@
     44
    ],
    "jp": "コンサートホールに\nいそがないと！",
-   "en": ""
+   "en": "I have to hurry\nto the Concert Hall!"
   },
   {
    "id": "event_ev001300:099C",
@@ -369,7 +369,7 @@
     45
    ],
    "jp": "‥‥コンサートホールね！\n水妖が{h }いるのは！！",
-   "en": ""
+   "en": "...The Concert Hall!\nThat's where the water demon is!!"
   },
   {
    "id": "event_ev001300:09CC",
@@ -377,7 +377,7 @@
     46
    ],
    "jp": "コンサートホールに{h }いって\nあんな{h }おんがく{h }やめさせなきゃ！",
-   "en": ""
+   "en": "I'll go to the Concert Hall\nand make her stop that music!"
   },
   {
    "id": "event_ev001300:0A0C",
@@ -385,7 +385,7 @@
     47
    ],
    "jp": "海斗　早く{h }もとにもどって〜！",
-   "en": ""
+   "en": "Kaito, please go back to normal soon!"
   },
   {
    "id": "event_ev001300:0A2C",
@@ -393,7 +393,7 @@
     48
    ],
    "jp": "水妖は　コンサートホールね！",
-   "en": ""
+   "en": "The water demon's at the Concert Hall!"
   },
   {
    "id": "event_ev001300:0A4A",
@@ -401,7 +401,7 @@
     49
    ],
    "jp": "コンサートホールに\nいそいで{h }いかないと！",
-   "en": ""
+   "en": "I have to hurry\nto the Concert Hall!"
   },
   {
    "id": "event_ev001300:0A76",
@@ -409,7 +409,7 @@
     50
    ],
    "jp": "コンサートホールに{h }いって\nこのいやな{h }おんがく{h }とめないと！",
-   "en": ""
+   "en": "I'll go to the Concert Hall\nand stop that awful music!"
   },
   {
    "id": "event_ev001300:0AB6",
@@ -417,7 +417,7 @@
     51
    ],
    "jp": "太郎ちゃん‥‥\n早く{h }もとにもどって〜！！",
-   "en": ""
+   "en": "Taro...\nPlease go back to normal soon!!"
   },
   {
    "id": "event_ev001300:0AE2",
@@ -425,7 +425,7 @@
     52
    ],
    "jp": "うん　まちがいない！\nコンサートホールから{h }きこえる‥‥",
-   "en": ""
+   "en": "Yes, no doubt about it!\nIt's coming from the Concert Hall..."
   },
   {
    "id": "event_ev001300:0B1C",
@@ -433,7 +433,7 @@
     53
    ],
    "jp": "コンサートホールへ\nいそがなきゃな‥‥",
-   "en": ""
+   "en": "I'd better hurry\nto the Concert Hall..."
   },
   {
    "id": "event_ev001300:0B44",
@@ -441,7 +441,7 @@
     54
    ],
    "jp": "あんなおんがく\nぜったいに{h }とめなきゃな！",
-   "en": ""
+   "en": "I've got to stop\nthat music, no matter what!"
   },
   {
    "id": "event_ev001300:0B70",
@@ -449,7 +449,7 @@
     55
    ],
    "jp": "水妖め‥‥ゆるさないぞ！",
-   "en": ""
+   "en": "Water demon... I won't forgive you!"
   },
   {
    "id": "event_ev001300:0B8A",
@@ -457,7 +457,7 @@
     56
    ],
    "jp": "あ！　いた！\n見つけたわよ！",
-   "en": ""
+   "en": "Ah! There she is!\nI found you!"
   },
   {
    "id": "event_ev001300:0BA8",
@@ -465,7 +465,7 @@
     57
    ],
    "jp": "このおんがくを{h }やめさせなきゃ！",
-   "en": ""
+   "en": "I have to make her stop this music!"
   },
   {
    "id": "event_ev001300:0BCA",
@@ -473,7 +473,7 @@
     58
    ],
    "jp": "キャハ　やっときたのね\nオ・マ・ヌ・ケさん！",
-   "en": ""
+   "en": "Kyaha! You finally made it,\nyou big dum-mies!"
   },
   {
    "id": "event_ev001300:0BF8",
@@ -481,7 +481,7 @@
     59
    ],
    "jp": "この{h }おんがくで　やさしいきもちを\nみーんな{h }けしちゃうんだもーん！",
-   "en": ""
+   "en": "With this music, I'm gonna wipe out\neveryone's kind feelings!"
   },
   {
    "id": "event_ev001300:0C3E",
@@ -489,7 +489,7 @@
     60
    ],
    "jp": "そんなこと　ぜったいに\nゆるさないんだから！",
-   "en": ""
+   "en": "I'll never, ever\nlet you do that!"
   },
   {
    "id": "event_ev001300:0C6C",
@@ -497,7 +497,7 @@
     61
    ],
    "jp": "やっと見つけた！\nもう　ゆるさないわよ！",
-   "en": ""
+   "en": "Found you at last!\nI won't forgive you now!"
   },
   {
    "id": "event_ev001300:0C96",
@@ -505,7 +505,7 @@
     62
    ],
    "jp": "いくわよ！",
-   "en": ""
+   "en": "Here we go!"
   },
   {
    "id": "event_ev001300:0CA2",
@@ -513,7 +513,7 @@
     63
    ],
    "jp": "キャハ　やっときたのね\nオ・マ・ヌ・ケさん！",
-   "en": ""
+   "en": "Kyaha! You finally made it,\nyou big dum-mies!"
   },
   {
    "id": "event_ev001300:0CD0",
@@ -521,7 +521,7 @@
     64
    ],
    "jp": "この{h }おんがくで　やさしいきもちを\nみーんな{h }けしちゃうんだもーん！",
-   "en": ""
+   "en": "With this music, I'm gonna wipe out\neveryone's kind feelings!"
   },
   {
    "id": "event_ev001300:0D16",
@@ -529,7 +529,7 @@
     65
    ],
    "jp": "そんなことは{h }させないわよ！\nぜったいに　とめちゃうんだから！！",
-   "en": ""
+   "en": "I won't let you do that!\nI'm going to stop you for sure!!"
   },
   {
    "id": "event_ev001300:0D58",
@@ -537,7 +537,7 @@
     66
    ],
    "jp": "見つけたぞ！\nおんがくをやめさせないと！",
-   "en": ""
+   "en": "Found you!\nI have to stop that music!"
   },
   {
    "id": "event_ev001300:0D82",
@@ -545,7 +545,7 @@
     67
    ],
    "jp": "いくぞ！",
-   "en": ""
+   "en": "Let's go!"
   },
   {
    "id": "event_ev001300:0D8C",
@@ -553,7 +553,7 @@
     68
    ],
    "jp": "キャハ　やっときたのね\nオ・マ・ヌ・ケさん！",
-   "en": ""
+   "en": "Kyaha! You finally made it,\nyou big dum-mies!"
   },
   {
    "id": "event_ev001300:0DBA",
@@ -561,7 +561,7 @@
     69
    ],
    "jp": "この{h }おんがくで　やさしいきもちを\nみーんな{h }けしちゃうんだもーん！",
-   "en": ""
+   "en": "With this music, I'm gonna wipe out\neveryone's kind feelings!"
   },
   {
    "id": "event_ev001300:0E00",
@@ -569,7 +569,7 @@
     70
    ],
    "jp": "るちあや{h }波音のためにも\nやさしいきもちを{h }とりもどす！",
-   "en": ""
+   "en": "For Lucia and Hanon too,\nI'll bring back everyone's kindness!"
   },
   {
    "id": "event_ev001300:0E3A",
@@ -577,7 +577,7 @@
     71
    ],
    "jp": "ふぅ　おんがくが{h }やんで\n海斗　もとに{h }もどってるかな？",
-   "en": ""
+   "en": "Phew, the music stopped...\nI wonder if Kaito's back to normal?"
   },
   {
    "id": "event_ev001300:0E74",
@@ -585,7 +585,7 @@
     72
    ],
    "jp": "おーい！　るちあ！",
-   "en": ""
+   "en": "Hey! Lucia!"
   },
   {
    "id": "event_ev001300:0E88",
@@ -593,7 +593,7 @@
     73
    ],
    "jp": "いま　いいか？",
-   "en": ""
+   "en": "Got a minute?"
   },
   {
    "id": "event_ev001300:0E98",
@@ -601,7 +601,7 @@
     74
    ],
    "jp": "どうしたの？　海斗‥‥\n（もとに‥‥{h }もどってるよね）",
-   "en": ""
+   "en": "What is it, Kaito...?\n(He's... back to normal, right?)"
   },
   {
    "id": "event_ev001300:0ED0",
@@ -609,7 +609,7 @@
     75
    ],
    "jp": "あのな‥‥学校では{h }わるかったな",
-   "en": ""
+   "en": "Listen... Sorry about school."
   },
   {
    "id": "event_ev001300:0EF2",
@@ -617,7 +617,7 @@
     76
    ],
    "jp": "なんで{h }あんなたいどを{h }とったのか\nオレにも‥‥",
-   "en": ""
+   "en": "Why I acted like that...\neven I don't..."
   },
   {
    "id": "event_ev001300:0F24",
@@ -625,7 +625,7 @@
     77
    ],
    "jp": "それは{h }水妖の‥‥",
-   "en": ""
+   "en": "That was the water demon's..."
   },
   {
    "id": "event_ev001300:0F38",
@@ -633,7 +633,7 @@
     78
    ],
    "jp": "すい‥‥？",
-   "en": ""
+   "en": "Water... what?"
   },
   {
    "id": "event_ev001300:0F44",
@@ -641,7 +641,7 @@
     79
    ],
    "jp": "ううん　なんでもないよ",
-   "en": ""
+   "en": "Oh, never mind, it's nothing."
   },
   {
    "id": "event_ev001300:0F5C",
@@ -649,7 +649,7 @@
     80
    ],
    "jp": "ぜんぜん{h }気にしてないから\nへいきだよ☆",
-   "en": ""
+   "en": "I'm not bothered at all,\nso it's fine! ☆"
   },
   {
    "id": "event_ev001300:0F86",
@@ -657,7 +657,7 @@
     81
    ],
    "jp": "（海斗が　もとにもどって\nほんとに{h }よかった〜！！）",
-   "en": ""
+   "en": "(I'm sooo glad Kaito's\nback to normal!!)"
   },
   {
    "id": "event_ev001300:0FBC",
@@ -665,7 +665,7 @@
     82
    ],
    "jp": "やっと{h }おんがくが{h }やんだわ\nこれで{h }みんな{h }もとどおりよね",
-   "en": ""
+   "en": "The music finally stopped.\nNow everyone's back to normal!"
   },
   {
    "id": "event_ev001300:0FFA",
@@ -673,7 +673,7 @@
     83
    ],
    "jp": "あ　波音さん\nようやく{h }見つけました",
-   "en": ""
+   "en": "Ah, Hanon.\nI've finally found you."
   },
   {
    "id": "event_ev001300:1020",
@@ -681,7 +681,7 @@
     84
    ],
    "jp": "きゃ☆　海月先生！\nどうしたんですか？",
-   "en": ""
+   "en": "Kya☆ Mr. Mitsuki!\nWhat's the matter?"
   },
   {
    "id": "event_ev001300:1048",
@@ -689,7 +689,7 @@
     85
    ],
    "jp": "いえ　きょうは{h }学校で\nあんな{h }たいどを{h }とってしまって‥‥",
-   "en": ""
+   "en": "Well, at school today,\nI behaved so badly..."
   },
   {
    "id": "event_ev001300:1086",
@@ -697,7 +697,7 @@
     86
    ],
    "jp": "それは　しかたないことで‥‥いいえ\nぜんぜん{h }気にしてないです☆",
-   "en": ""
+   "en": "That couldn't be helped... I mean,\nI'm not bothered at all! ☆"
   },
   {
    "id": "event_ev001300:10C8",
@@ -705,7 +705,7 @@
     87
    ],
    "jp": "だから　またピアノ\nきかせてくださいね！",
-   "en": ""
+   "en": "So please play the piano\nfor me again!"
   },
   {
    "id": "event_ev001300:10F2",
@@ -713,7 +713,7 @@
     88
    ],
    "jp": "もちろんですよ　波音さん",
-   "en": ""
+   "en": "Of course, Hanon."
   },
   {
    "id": "event_ev001300:110C",
@@ -721,7 +721,7 @@
     89
    ],
    "jp": "（やったぁ{h }いままでよりも\nやさしくなったみたい☆）",
-   "en": ""
+   "en": "(Yaaay! He seems even\nnicer than before! ☆)"
   },
   {
    "id": "event_ev001300:1142",
@@ -729,7 +729,7 @@
     90
    ],
    "jp": "ようやく{h }おんがくが{h }やんだな‥‥",
-   "en": ""
+   "en": "The music finally stopped..."
   },
   {
    "id": "event_ev001300:1166",
@@ -737,7 +737,7 @@
     91
    ],
    "jp": "これでみんな{h }もとどおりに\nなったんだろうか？",
-   "en": ""
+   "en": "I wonder if everyone's\nback to normal now?"
   },
   {
    "id": "event_ev001300:1196",
@@ -745,7 +745,7 @@
     92
    ],
    "jp": "えへへ{h }リナ　あのね{h }海斗が\nわざわざ{h }あやまりにきてくれたんだ",
-   "en": ""
+   "en": "Hehe, Rina, guess what? Kaito\ncame all the way to say sorry!"
   },
   {
    "id": "event_ev001300:11D8",
@@ -753,7 +753,7 @@
     93
    ],
    "jp": "太郎ちゃんも　ごめんって\nいつでも{h }ピアノを{h }ききにきてって☆",
-   "en": ""
+   "en": "Taro said sorry too, and said\nto come hear him play anytime! ☆"
   },
   {
    "id": "event_ev001300:1218",
@@ -761,7 +761,7 @@
     94
    ],
    "jp": "そうか　ちゃんと{h }もとに\nもどったんだな‥‥",
-   "en": ""
+   "en": "I see. So they really\ndid go back to normal..."
   },
   {
    "id": "event_ev001300:1246",
@@ -769,7 +769,7 @@
     95
    ],
    "jp": "えへへ☆",
-   "en": ""
+   "en": "Hehe ☆"
   },
   {
    "id": "event_ev001300:1250",
@@ -777,7 +777,7 @@
     96
    ],
    "jp": "うれしい☆",
-   "en": ""
+   "en": "I'm so happy ☆"
   },
   {
    "id": "event_ev001300:125C",
@@ -785,7 +785,7 @@
     97
    ],
    "jp": "（ふふ‥‥\n２人とも{h }よかったな）",
-   "en": ""
+   "en": "(Heh...\nGood for both of them.)"
   },
   {
    "id": "event_ev001300:1280",
@@ -793,7 +793,7 @@
     98
    ],
    "jp": "{h }　　　　エピソード　１４　　　　\n　『みわくのメロディー』{h }おわり　",
-   "en": ""
+   "en": "Episode 14\n\"Enchanting Melody\" - The End"
   }
  ]
 }

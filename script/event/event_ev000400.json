@@ -8,7 +8,7 @@
     0
    ],
    "jp": "フルーツパフェを\nつくってみたんだ",
-   "en": ""
+   "en": "I tried making\na fruit parfait."
   },
   {
    "id": "event_ev000400:0024",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "みんな　あじみがてら\nたべてくれないかな",
-   "en": ""
+   "en": "Would you all try it\nand tell me how it tastes?"
   },
   {
    "id": "event_ev000400:004E",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "きゃー！　こんどのも{h }おいしそう☆\nしかも　すっごくおっきいー！！",
-   "en": ""
+   "en": "Kyaaa! This one looks yummy too! ☆\nAnd it's sooo big!!"
   },
   {
    "id": "event_ev000400:0092",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "リナが{h }おかしづくりにハマってから\nいつも{h }おやつがゴージャスよね☆",
-   "en": ""
+   "en": "Ever since Rina got into baking,\nour snacks are always gorgeous! ☆"
   },
   {
    "id": "event_ev000400:00D8",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "じぃいぃぃぃぃぃ‥‥\nみなさん{h }ちょっと{h }ふとってません？",
-   "en": ""
+   "en": "Staaaaare......\nHaven't you all gotten a bit plump?"
   },
   {
    "id": "event_ev000400:0114",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ヒッポったら{h }ひどーい！\nそんなこと‥‥",
-   "en": ""
+   "en": "Hippo, that's so mean!\nWe haven't..."
   },
   {
    "id": "event_ev000400:013E",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "ちょっとあるかも",
-   "en": ""
+   "en": "Well, maybe a little."
   },
   {
    "id": "event_ev000400:0150",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "ドスコイにんぎょなんて　いやー！！\nみんなでダイエットするわよ！！",
-   "en": ""
+   "en": "No way I'm becoming a sumo mermaid!!\nWe're all going on a diet!!"
   },
   {
    "id": "event_ev000400:0194",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ダイエットなら{h }ジョギング\nスニーカーを{h }かいにいこう",
-   "en": ""
+   "en": "For a diet, jogging!\nLet's go buy sneakers."
   },
   {
    "id": "event_ev000400:01CC",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "足をいためないためには\nスニーカーを{h }かわないと",
-   "en": ""
+   "en": "So I don't hurt my feet,\nI need to buy sneakers."
   },
   {
    "id": "event_ev000400:01FE",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "くつやさんに{h }いそがなきゃ",
-   "en": ""
+   "en": "I'd better hurry to the shoe store."
   },
   {
    "id": "event_ev000400:021A",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "くつやさんで{h }スニーカーをかって\nジョギングするわよ！",
-   "en": ""
+   "en": "I'll buy sneakers at the shoe store\nand go jogging!"
   },
   {
    "id": "event_ev000400:0252",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "なわとびがいいかな？\nおもちゃやさんに{h }うってるよね？",
-   "en": ""
+   "en": "Maybe a jump rope?\nThe toy store sells them, right?"
   },
   {
    "id": "event_ev000400:028A",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "おもちゃやさんで\nなわとび{h }かおーっと",
-   "en": ""
+   "en": "I'll go buy a jump rope\nat the toy store."
   },
   {
    "id": "event_ev000400:02B2",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "なわとびで{h }ダイエットよ！",
-   "en": ""
+   "en": "Jump rope diet, here I come!"
   },
   {
    "id": "event_ev000400:02CE",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "おもちゃやさんに　いそがなきゃ！",
-   "en": ""
+   "en": "I'd better hurry to the toy store!"
   },
   {
    "id": "event_ev000400:02F0",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "うんどうして{h }やせるのが{h }いいな\n‥‥よし　スポーツようひんてんだ",
-   "en": ""
+   "en": "Exercise is the way to slim down.\n...Right, the sporting goods store."
   },
   {
    "id": "event_ev000400:0334",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "スポーツようひんてんに{h }いって\nダンベルを{h }かってこよう",
-   "en": ""
+   "en": "I'll go to the sporting goods store\nand buy some dumbbells."
   },
   {
    "id": "event_ev000400:036E",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "スポーツようひんてんなら\nいろいろあるだろう",
-   "en": ""
+   "en": "The sporting goods store\nshould have all sorts of things."
   },
   {
    "id": "event_ev000400:039C",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "ダンベルをつかって\nダイエットしよう",
-   "en": ""
+   "en": "I'll use dumbbells\nfor my diet."
   },
   {
    "id": "event_ev000400:03C2",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "しっかり{h }はしれる{h }くつをください！",
-   "en": ""
+   "en": "Shoes I can really run in, please!"
   },
   {
    "id": "event_ev000400:03E8",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "あ！　あのくつ　かわいいかも☆",
-   "en": ""
+   "en": "Oh! Those shoes might be cute! ☆"
   },
   {
    "id": "event_ev000400:0408",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "よーし！\n学校にいって{h }ダイエットよ！",
-   "en": ""
+   "en": "All right!\nTo school for my diet!"
   },
   {
    "id": "event_ev000400:0430",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "えーっと　どれがいいかなー",
-   "en": ""
+   "en": "Ummm, which one should I get..."
   },
   {
    "id": "event_ev000400:044C",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "よし　このなわとびに{h }きーめた！",
-   "en": ""
+   "en": "Okay, I pick this jump rope!"
   },
   {
    "id": "event_ev000400:046E",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "さーてと　学校で\nうんどうしようかな！",
-   "en": ""
+   "en": "Now then, maybe I'll\nexercise at school!"
   },
   {
    "id": "event_ev000400:0496",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "たくさんあるな　どれがいいかな‥‥",
-   "en": ""
+   "en": "There are so many. Which one..."
   },
   {
    "id": "event_ev000400:04BA",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "よし　このおもさのダンベルにしよう",
-   "en": ""
+   "en": "Okay, I'll go with dumbbells this heavy."
   },
   {
    "id": "event_ev000400:04DE",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "さてと　学校に{h }いそごう\nちゃんと{h }うんどうしないとな",
-   "en": ""
+   "en": "Now, I'll hurry to school.\nI need to exercise properly."
   },
   {
    "id": "event_ev000400:0516",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "学校なら　いっぱい{h }からだを\nうごかせるわ",
-   "en": ""
+   "en": "At school, I can move\nmy body as much as I want."
   },
   {
    "id": "event_ev000400:0542",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "学校で{h }うんどうしよう！",
-   "en": ""
+   "en": "Let's exercise at school!"
   },
   {
    "id": "event_ev000400:055C",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "学校にいって{h }ダイエットよ！",
-   "en": ""
+   "en": "To school for my diet!"
   },
   {
    "id": "event_ev000400:057A",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "スマートになって‥‥海斗と☆",
-   "en": ""
+   "en": "I'll get slim, and then... with Kaito! ☆"
   },
   {
    "id": "event_ev000400:0598",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "学校でなら\nしっかり{h }うんどうできるわね",
-   "en": ""
+   "en": "At school, I can\nget some real exercise."
   },
   {
    "id": "event_ev000400:05C2",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "さーてと　学校で\nうんどうしよう",
-   "en": ""
+   "en": "Now then, I'll\nexercise at school."
   },
   {
    "id": "event_ev000400:05E4",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "学校へ{h }いそがないと！",
-   "en": ""
+   "en": "I have to hurry to school!"
   },
   {
    "id": "event_ev000400:05FC",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "ドスコイにんぎょかぁ‥‥\nうーん　イヤすぎる！",
-   "en": ""
+   "en": "A sumo mermaid...\nUgh, no way, no way!"
   },
   {
    "id": "event_ev000400:062C",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "学校なら\nうんどうにちょうどいいな",
-   "en": ""
+   "en": "School is just right\nfor exercising."
   },
   {
    "id": "event_ev000400:0650",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "学校で　うんどうしよう",
-   "en": ""
+   "en": "I'll exercise at school."
   },
   {
    "id": "event_ev000400:0668",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "しっかり{h }うんどうすれば\nたいりょくも{h }ちゃんとつくからな",
-   "en": ""
+   "en": "If I exercise properly,\nI'll build up my stamina too."
   },
   {
    "id": "event_ev000400:06A4",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "学校に{h }いそごう\nちゃんと{h }うんどうしないとな",
-   "en": ""
+   "en": "I'll hurry to school.\nI need to exercise properly."
   },
   {
    "id": "event_ev000400:06D4",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "さあ！　ジョギングかいし！",
-   "en": ""
+   "en": "Okay! Time to start jogging!"
   },
   {
    "id": "event_ev000400:06F0",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "せっかくだから\nうたに{h }あわせよう！",
-   "en": ""
+   "en": "While I'm at it,\nI'll keep time with a song!"
   },
   {
    "id": "event_ev000400:0716",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "よーし　うたにあわせて\nうんどうするわよ！",
-   "en": ""
+   "en": "All right, I'm gonna\nexercise to a song!"
   },
   {
    "id": "event_ev000400:0742",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "リズムに{h }あわせて{h }うんどうするぞ\nさあ　はじめよう！",
-   "en": ""
+   "en": "I'll exercise to the rhythm.\nLet's begin!"
   },
   {
    "id": "event_ev000400:077A",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "いやーん☆　やっぱり　リナのつくる\nパフェって{h }さいこう！",
-   "en": ""
+   "en": "Kyaaa! ☆ Rina's parfaits really\nare the best!"
   },
   {
    "id": "event_ev000400:07B6",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "るちあさん！\nダイエットは{h }どうしたんです！？",
-   "en": ""
+   "en": "Lucia!\nWhat happened to your diet?!"
   },
   {
    "id": "event_ev000400:07E6",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "だあってぇ‥‥\nたくさん{h }うんどうしたしぃ",
-   "en": ""
+   "en": "But...\nI did lots of exercise..."
   },
   {
    "id": "event_ev000400:0812",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "ですが{h }みなさん　いくら{h }うんどうを\nしたからといって{h }それじゃあ‥‥",
-   "en": ""
+   "en": "But everyone, no matter how much\nyou exercised, if you eat that..."
   },
   {
    "id": "event_ev000400:085A",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "せっかく{h }つくってくれたリナに\nわるいじゃない",
-   "en": ""
+   "en": "It'd be rude to Rina\nafter she went to the trouble."
   },
   {
    "id": "event_ev000400:088A",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "パフェもたべてあげないと\nかわいそうだよぉ‥‥",
-   "en": ""
+   "en": "And the poor parfait,\nif nobody eats it..."
   },
   {
    "id": "event_ev000400:08BA",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "んー‥‥おいしい☆",
-   "en": ""
+   "en": "Mmm... yummy! ☆"
   },
   {
    "id": "event_ev000400:08CE",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "るちあさん‥‥　ダイエットのいみ\n‥‥わかってませんよね？",
-   "en": ""
+   "en": "Lucia... You don't understand\nwhat a diet is... do you?"
   },
   {
    "id": "event_ev000400:090A",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "んー　おいしー☆",
-   "en": ""
+   "en": "Mmm, yummy! ☆"
   },
   {
    "id": "event_ev000400:091C",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "うんどうの{h }あとのパフェって\nもう　さいこう！",
-   "en": ""
+   "en": "A parfait after exercise\nis just the best!"
   },
   {
    "id": "event_ev000400:094C",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "でも　ダイエット中なのに\nこんなに{h }たべていいのかなぁ？",
-   "en": ""
+   "en": "But we're on a diet...\nIs it okay to eat this much?"
   },
   {
    "id": "event_ev000400:0986",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "あしたからまた\nがんばれば{h }いいのよ",
-   "en": ""
+   "en": "We can just try hard\nagain tomorrow."
   },
   {
    "id": "event_ev000400:09AC",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "それに　リナのつくったパフェが\nもったいないじゃない",
-   "en": ""
+   "en": "Besides, it'd be a waste\nof Rina's parfait!"
   },
   {
    "id": "event_ev000400:09E2",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "たしかに　じしんさくだから\nたべてもらえないのは{h }かなしい",
-   "en": ""
+   "en": "True. I'm proud of this one,\nso it'd be sad if no one ate it."
   },
   {
    "id": "event_ev000400:0A1E",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "でっしょー！　こんなにおいしいのに\nもったいないもんねー！",
-   "en": ""
+   "en": "Riiight?! It's so yummy,\nit'd be such a waste!"
   },
   {
    "id": "event_ev000400:0A5A",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "（みんなで{h }ふとれば\nへいきだもーん☆）",
-   "en": ""
+   "en": "(If we all get chubby\ntogether, it's fine! ☆)"
   },
   {
    "id": "event_ev000400:0A84",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "うん　おもったとおりだ\nこのフルーツの{h }くみあわせはいい！",
-   "en": ""
+   "en": "Yeah, just as I thought.\nThis mix of fruit is good!"
   },
   {
    "id": "event_ev000400:0AC0",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "ほんとうだわぁ　あまいクリームと\nすっぱめのフルーツが{h }たまんなーい",
-   "en": ""
+   "en": "It really is! The sweet cream\nand tangy fruit are heavenly!"
   },
   {
    "id": "event_ev000400:0B06",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "ダイエットしてるのに\nこんなにたべて{h }いいのかなぁ？",
-   "en": ""
+   "en": "We're on a diet...\nIs it okay to eat this much?"
   },
   {
    "id": "event_ev000400:0B3C",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "んん〜‥‥でも　おいしい！！",
-   "en": ""
+   "en": "Mmmm... But it's so yummy!!"
   },
   {
    "id": "event_ev000400:0B5A",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "むりなダイエットは{h }からだにわるい",
-   "en": ""
+   "en": "Crash diets are bad for your body."
   },
   {
    "id": "event_ev000400:0B7E",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "わたしたちは\nそだちざかりなんだからな",
-   "en": ""
+   "en": "We're still growing,\nafter all."
   },
   {
    "id": "event_ev000400:0BA6",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "そう！　リナかしこい！\nそのとおりよ",
-   "en": ""
+   "en": "Right! Rina, you're so smart!\nThat's exactly it."
   },
   {
    "id": "event_ev000400:0BCC",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "そっか　そうなのかぁ\nだったら　たべていいよねー",
-   "en": ""
+   "en": "Oh, I see, so that's it.\nThen it's okay to eat, right?"
   },
   {
    "id": "event_ev000400:0BFE",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "たくさんたべて\nたくさん{h }うんどうする‥‥",
-   "en": ""
+   "en": "Eat a lot,\nand exercise a lot..."
   },
   {
    "id": "event_ev000400:0C2A",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "これがからだに\nいちばんいいんだ",
-   "en": ""
+   "en": "That's what's best\nfor your body."
   },
   {
    "id": "event_ev000400:0C4C",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "{h }　　　　エピソード　５　　　　　\n　『マーメイドのくのう』　おわり{h }{h }",
-   "en": ""
+   "en": "       Episode 5\n\"A Mermaid's Troubles\" - The End"
   }
  ]
 }

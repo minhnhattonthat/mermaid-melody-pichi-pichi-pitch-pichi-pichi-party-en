@@ -11,7 +11,7 @@
     83
    ],
    "jp": "海斗くん\n学校{h }休むから{h }しんぱいして",
-   "en": ""
+   "en": "Kaito skipped school, so\nwe got worried about him..."
   },
   {
    "id": "event_ev001100:0028",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "おみまいに{h }きてあげたのに\nいがいと{h }げんきだったわよね",
-   "en": ""
+   "en": "We went to visit him, but he\nwas way more energetic than I thought."
   },
   {
    "id": "event_ev001100:0062",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "まったくだ　その上\nシチューが{h }たべたいだなんてな",
-   "en": ""
+   "en": "Seriously. And on top of that,\nhe says he wants to eat stew."
   },
   {
    "id": "event_ev001100:0096",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "カゼのときは　こころぼそく\nなるもんだよ！",
-   "en": ""
+   "en": "When you've got a cold,\nyou feel kind of lonely!"
   },
   {
    "id": "event_ev001100:00C2",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "それに　げんきなふりを\nしてるだけかもしれないし‥‥",
-   "en": ""
+   "en": "And he might just be\npretending he's fine..."
   },
   {
    "id": "event_ev001100:00F8",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "それより‥‥ねえ　おねがい！\nシチューをつくるの　てつだってぇ！",
-   "en": ""
+   "en": "More importantly... Please!\nHelp me make the stew!"
   },
   {
    "id": "event_ev001100:013A",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "えー！　まあ{h }しょうがないか\nわかったわ{h }きょうりょくしてあげる",
-   "en": ""
+   "en": "Whaaat! Well, I guess so.\nFine, I'll help you out."
   },
   {
    "id": "event_ev001100:017C",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "そうときまれば‥‥\nまずは{h }てわけしてかいものをするか",
-   "en": ""
+   "en": "In that case...\nlet's split up and go shopping first."
   },
   {
    "id": "event_ev001100:01B4",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "わたしの{h }たんとうは{h }やさいよね\nやおやさんへ{h }いこう！",
-   "en": ""
+   "en": "I'm in charge of vegetables!\nOff to the greengrocer!"
   },
   {
    "id": "event_ev001100:01EE",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "やおやさんで{h }やさいを{h }かわないと",
-   "en": ""
+   "en": "I need to buy vegetables\nat the greengrocer."
   },
   {
    "id": "event_ev001100:0212",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "さぁて　やおやさんに\nいそがなきゃ！",
-   "en": ""
+   "en": "Okay, I've gotta hurry\nto the greengrocer!"
   },
   {
    "id": "event_ev001100:0238",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "海斗　早くよくなって‥‥",
-   "en": ""
+   "en": "Kaito, get better soon..."
   },
   {
    "id": "event_ev001100:0252",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "わたしの{h }たんとうは\nおにくやさんね！",
-   "en": ""
+   "en": "I'm in charge of\nthe butcher shop!"
   },
   {
    "id": "event_ev001100:027A",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "シチューの{h }おにくを{h }かいに\nおにくやさんへ{h }いかないとね",
-   "en": ""
+   "en": "I've gotta go to the butcher shop\nto buy meat for the stew."
   },
   {
    "id": "event_ev001100:02B6",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "おにくやさん　こっちでいいよね？",
-   "en": ""
+   "en": "The butcher shop is this way, right?"
   },
   {
    "id": "event_ev001100:02D8",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "るちあと{h }海斗くんのために\nがんばっちゃいますか！",
-   "en": ""
+   "en": "Time to do my best\nfor Lucia and Kaito!"
   },
   {
    "id": "event_ev001100:030C",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "わたしは{h }コンビニに\nちょうみりょうを{h }かいにいこう‥‥",
-   "en": ""
+   "en": "I'll go to the convenience store\nto buy seasonings..."
   },
   {
    "id": "event_ev001100:0346",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "たしか{h }コンビニに\nちょうみりょうは{h }あるよな‥‥",
-   "en": ""
+   "en": "The convenience store\nhas seasonings, I think..."
   },
   {
    "id": "event_ev001100:037A",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "いそいで{h }ちょうみりょうを\nかわないとな",
-   "en": ""
+   "en": "I'd better hurry\nand buy the seasonings."
   },
   {
    "id": "event_ev001100:03A4",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "ちょうみりょうは\nコンビニで{h }かおう‥‥",
-   "en": ""
+   "en": "I'll buy the seasonings\nat the convenience store..."
   },
   {
    "id": "event_ev001100:03CE",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "やおやさんに{h }とうちゃーく！\nシチューにつかう　おやさいを下さい",
-   "en": ""
+   "en": "Here at the greengrocer!\nVegetables for stew, please!"
   },
   {
    "id": "event_ev001100:0410",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "にんじん　ジャガイモ　たまねぎ\nさ！　パールピアリに{h }かえろう",
-   "en": ""
+   "en": "Carrots, potatoes, onions...\nOkay! Back to Pearl Piari!"
   },
   {
    "id": "event_ev001100:0450",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "すいませーん\nシチューようの{h }おにくを下さい☆",
-   "en": ""
+   "en": "Excuse meee!\nMeat for stew, please! ☆"
   },
   {
    "id": "event_ev001100:0480",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "よーし　かいもの{h }かんりょう！！\nパールピアリに　もどりましょ！",
-   "en": ""
+   "en": "All right, shopping done!!\nBack to Pearl Piari!"
   },
   {
    "id": "event_ev001100:04C2",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "んん？　コレと　コレと\nよし　こんなもので{h }いいだろう‥‥",
-   "en": ""
+   "en": "Hmm? This, and this...\nOkay, this should do..."
   },
   {
    "id": "event_ev001100:04FE",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "これをもって\n早く{h }パールピアリへ{h }もどろう",
-   "en": ""
+   "en": "I'll take these\nback to Pearl Piari, quick."
   },
   {
    "id": "event_ev001100:052C",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "さてと！　パールピアリで\nおりょうり{h }しなくっちゃ！",
-   "en": ""
+   "en": "Okay! Time to cook\nat Pearl Piari!"
   },
   {
    "id": "event_ev001100:0562",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "海斗のために\nシチューを{h }つくらなきゃねー",
-   "en": ""
+   "en": "I've gotta make stew\nfor Kaito!"
   },
   {
    "id": "event_ev001100:058E",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "パールピアリで\n早く{h }シチューを{h }つくらなきゃ",
-   "en": ""
+   "en": "I've gotta hurry and make\nthe stew at Pearl Piari."
   },
   {
    "id": "event_ev001100:05BE",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "海斗　まってて‥‥すぐに\nおりょうりするから！",
-   "en": ""
+   "en": "Kaito, hang on...\nI'll be cooking soon!"
   },
   {
    "id": "event_ev001100:05EE",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "おかいもの{h }かんりょう\nパールピアリに{h }もどらなきゃ",
-   "en": ""
+   "en": "Shopping done.\nI've gotta get back to Pearl Piari."
   },
   {
    "id": "event_ev001100:0624",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "パールピアリに　早く{h }もどらなきゃ",
-   "en": ""
+   "en": "I've gotta hurry back to Pearl Piari."
   },
   {
    "id": "event_ev001100:0648",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "パールピアリで\n早く{h }おりょうりを{h }はじめなきゃねー",
-   "en": ""
+   "en": "I've gotta hurry and start\ncooking at Pearl Piari!"
   },
   {
    "id": "event_ev001100:067E",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "海斗くんが　カゼひいちゃうなんて\nめっずらしー",
-   "en": ""
+   "en": "Kaito catching a cold?\nThat's sooo rare!"
   },
   {
    "id": "event_ev001100:06AE",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "パールピアリに　ちょうみりょうを\nもっていかないとな",
-   "en": ""
+   "en": "I need to bring the seasonings\nto Pearl Piari."
   },
   {
    "id": "event_ev001100:06E4",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "いそいで{h }パールピアリで\nシチューを{h }つくろう",
-   "en": ""
+   "en": "I'll hurry and make the stew\nat Pearl Piari."
   },
   {
    "id": "event_ev001100:0714",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "みんな{h }パールピアリに\nもどっているだろうか？",
-   "en": ""
+   "en": "I wonder if everyone's back\nat Pearl Piari yet?"
   },
   {
    "id": "event_ev001100:0744",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "おいしいシチューを\nつくらないと{h }いけないな",
-   "en": ""
+   "en": "I'd better make\na delicious stew."
   },
   {
    "id": "event_ev001100:0772",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "さぁて　海斗のために\nシチューを{h }つくらなくっちゃ！",
-   "en": ""
+   "en": "Okay, I've gotta make\nstew for Kaito!"
   },
   {
    "id": "event_ev001100:07A8",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "あいじょう{h }こめて\nクッキング{h }かいし！",
-   "en": ""
+   "en": "With lots of love...\nLet's start cooking!"
   },
   {
    "id": "event_ev001100:07D2",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "さてと‥‥ひとあし早く\nシチュー{h }つくりはじめなきゃ",
-   "en": ""
+   "en": "Okay... I'll get a head start\non the stew."
   },
   {
    "id": "event_ev001100:0808",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "しっぱい{h }しないように\nクッキング{h }かいし！",
-   "en": ""
+   "en": "No mistakes this time...\nLet's start cooking!"
   },
   {
    "id": "event_ev001100:0836",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "わたしが{h }いちばんか‥‥",
-   "en": ""
+   "en": "So I'm the first one..."
   },
   {
    "id": "event_ev001100:0850",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "それじゃあ先に\n下ごしらえを{h }はじめておくか‥‥",
-   "en": ""
+   "en": "Then I'll get started\non the prep work..."
   },
   {
    "id": "event_ev001100:0882",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "えいようたっぷりシチューを\nつくらなきゃな",
-   "en": ""
+   "en": "I'll have to make a stew\nthat's full of nutrition."
   },
   {
    "id": "event_ev001100:08AE",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "さて　クッキングかいしだ！",
-   "en": ""
+   "en": "Right, time to start cooking!"
   },
   {
    "id": "event_ev001100:08CA",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "おかわりはいかが？\n‥‥って　早く{h }いいたいな",
-   "en": ""
+   "en": "\"Would you like seconds?\"\n...I can't wait to say that."
   },
   {
    "id": "event_ev001100:08FA",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "おかわりはいかが？\n‥‥なーんてね☆",
-   "en": ""
+   "en": "\"Would you like seconds?\"\n...Just kidding! ☆"
   },
   {
    "id": "event_ev001100:0920",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "おかわりはいかが？\n‥‥ちがうか",
-   "en": ""
+   "en": "\"Would you like seconds?\"\n...Nah, not my style."
   },
   {
    "id": "event_ev001100:0942",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "海斗　からだのぐあいは{h }どう？\nシチュー{h }もってきたよー",
-   "en": ""
+   "en": "Kaito, how are you feeling?\nI brought you some stew!"
   },
   {
    "id": "event_ev001100:097C",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "え！　マジで{h }つくってきたのか？\nほんとうに{h }くえるのかよ？",
-   "en": ""
+   "en": "Huh! You seriously made it?\nIs it actually edible?"
   },
   {
    "id": "event_ev001100:09BA",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "ンもぉ　海斗のいじわるぅ〜！",
-   "en": ""
+   "en": "Hmph! Kaito, you meeeanie!"
   },
   {
    "id": "event_ev001100:09D8",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "そんなこと{h }いうのなら\nもって{h }かえっちゃうんだからぁ！",
-   "en": ""
+   "en": "If you're going to say that,\nI'm taking it back home!"
   },
   {
    "id": "event_ev001100:0A12",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "ははは　じょうだんだよ\nうっ　ゲホゲホゲホ‥‥",
-   "en": ""
+   "en": "Hahaha, I'm just kidding.\nUgh... *cough cough cough*..."
   },
   {
    "id": "event_ev001100:0A42",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "海斗！　おきなくていいよ\nたべさせて{h }あげるからね",
-   "en": ""
+   "en": "Kaito! You don't have to get up.\nI'll feed you, okay?"
   },
   {
    "id": "event_ev001100:0A76",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "えっ？　お{h }おい　るちあ",
-   "en": ""
+   "en": "Huh? H-hey, Lucia..."
   },
   {
    "id": "event_ev001100:0A90",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "えんりょしないで\nはい　あーん",
-   "en": ""
+   "en": "Don't be shy.\nHere, say \"aah.\""
   },
   {
    "id": "event_ev001100:0AB0",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "うーん　か・ん・ぺ・き☆\nおいしく{h }できあがったわ",
-   "en": ""
+   "en": "Mmm, p-e-r-f-e-c-t! ☆\nIt turned out delicious."
   },
   {
    "id": "event_ev001100:0AE4",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "るちあ　早く{h }海斗くんに\nもっていって{h }あげなさいよ",
-   "en": ""
+   "en": "Lucia, hurry up and\ntake it to Kaito!"
   },
   {
    "id": "event_ev001100:0B1A",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "うん！　波音ありがとう！",
-   "en": ""
+   "en": "Okay! Thanks, Hanon!"
   },
   {
    "id": "event_ev001100:0B34",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "ふふ‥‥るちあったら\nあんなに{h }よろこんじゃってさ",
-   "en": ""
+   "en": "Heh... Look at Lucia,\nshe's so happy."
   },
   {
    "id": "event_ev001100:0B68",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "でもいいなぁ‥‥そうだ　わたしも\n太郎ちゃんに{h }おすそわけしよう",
-   "en": ""
+   "en": "Lucky her... Oh, I know! I'll share\nsome with my Taro too!"
   },
   {
    "id": "event_ev001100:0BAA",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "『波音さんありがとう』なーんて！\nそのあと‥‥",
-   "en": ""
+   "en": "\"Thank you, Hanon!\" he'll say!\nAnd then..."
   },
   {
    "id": "event_ev001100:0BDA",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "いいふんいきに{h }\nなっちゃったりして！",
-   "en": ""
+   "en": "Maybe things will get\nall romantic!"
   },
   {
    "id": "event_ev001100:0C02",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "いや〜ん　もぅ‥‥{i21C}",
-   "en": ""
+   "en": "Oh, stop it, you... {i21C}"
   },
   {
    "id": "event_ev001100:0C18",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "そうときまれば！\nいってきまーすっ！！",
-   "en": ""
+   "en": "That settles it!\nI'm off!!"
   },
   {
    "id": "event_ev001100:0C40",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "まったく‥‥あいかわらず{h }波音は\nちゃっかりしてるよなぁ",
-   "en": ""
+   "en": "Honestly... Hanon never misses\na chance, does she?"
   },
   {
    "id": "event_ev001100:0C7A",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "ほら　シチューだ\nこぼさないよう{h }気をつけてな",
-   "en": ""
+   "en": "Here, the stew.\nBe careful not to spill it."
   },
   {
    "id": "event_ev001100:0CAA",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "うん‥‥",
-   "en": ""
+   "en": "Okay..."
   },
   {
    "id": "event_ev001100:0CB4",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "どうしたんだ？　きゅうに{h }げんきが\nなくなったみたいだけど",
-   "en": ""
+   "en": "What's wrong? You suddenly\nseem kind of down."
   },
   {
    "id": "event_ev001100:0CF0",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "海斗のいえの{h }まえまで{h }きたら‥‥",
-   "en": ""
+   "en": "Now that I'm at Kaito's house..."
   },
   {
    "id": "event_ev001100:0D14",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "なんだか　きゅうに\n入りづらく{h }なっちゃって‥‥",
-   "en": ""
+   "en": "all of a sudden, it feels\nkind of hard to go in..."
   },
   {
    "id": "event_ev001100:0D46",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "いまさら　なに{h }いってるんだよ",
-   "en": ""
+   "en": "What are you saying at this point?"
   },
   {
    "id": "event_ev001100:0D66",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "海斗は{h }いちばん{h }るちあに\nきて{h }もらいたがってるんだぞ",
-   "en": ""
+   "en": "You're the one Kaito wants\nto come over most, you know."
   },
   {
    "id": "event_ev001100:0DA0",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "そうなのかなぁ‥‥",
-   "en": ""
+   "en": "Do you really think so...?"
   },
   {
    "id": "event_ev001100:0DB4",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "そうだよ　海斗も{h }きっと‥‥\nううん　ぜったいに{h }うれしがるから",
-   "en": ""
+   "en": "I do. Kaito will surely...\nNo, he'll definitely be happy."
   },
   {
    "id": "event_ev001100:0DF6",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "で　でもー‥‥",
-   "en": ""
+   "en": "B-but..."
   },
   {
    "id": "event_ev001100:0E06",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "ほら　ゆうきを{h }だして\nおみまい　いってこい",
-   "en": ""
+   "en": "Come on, be brave\nand go visit him."
   },
   {
    "id": "event_ev001100:0E34",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "‥‥うん　そうだね！\nわたし　いってくるっ！！",
-   "en": ""
+   "en": "...Okay, you're right!\nI'm going!!"
   },
   {
    "id": "event_ev001100:0E64",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "がんばれよ　るちあ！",
-   "en": ""
+   "en": "Good luck, Lucia!"
   },
   {
    "id": "event_ev001100:0E7A",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "{h }　　　　エピソード　１２　　　　\n　『やさしいてりょうり』　おわり　",
-   "en": ""
+   "en": "Episode 12\n\"Cooked with Love\" - The End"
   }
  ]
 }

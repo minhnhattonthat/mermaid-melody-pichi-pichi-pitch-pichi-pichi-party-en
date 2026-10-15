@@ -10,6 +10,14 @@ tools/ or any file except your own output file.
 1. `docs/style-reference.md` - approved pairs and character voices. Match them.
 2. `work/tl/<batch>.terms.txt` - binding glossary rows for this batch (full table: `glossary.md`, section
    "Pichi Pichi Party terms" for this game; card/item names: use them exactly as written there).
+3. Board place names are fixed (from the board info text): Blue/Purple/Yellow Space, Pearl Piari, Sports Center,
+   School, Library, Shopping Mall, Central Park, Shrine, Mermaid Cave, Aqua Place, Surfing Beach, Beach House,
+   Cape Lookout, Seaside Park, Fountain Plaza (ふんすいひろば), Concert Hall, Church, Rina's House, Kaito's House,
+   Mr. Mitsuki's House. Shops: convenience store, electronics store, stationery store, shoe store, toy store,
+   sporting goods store. ＊ in the Japanese marks a kanji the font lacks: restore it from context.
+   Cooking Battle (りょうりバトル), Roulette Battle, Speed Up card.
+4. Episode titles are fixed: see the "Episode titles" paragraph at the end of glossary.md (e.g. おかしのプレゼント =
+   "A Gift of Sweets"). Episode-end lines: `Episode 8 / "Summer Flowers" - The End` (no centring spaces).
 
 ## Input: `work/tl/<batch>.tsv`
 `id<TAB>speaker<TAB>form<TAB>limit<TAB>Japanese`, in game order (neighbours give context). ` / ` = line break.

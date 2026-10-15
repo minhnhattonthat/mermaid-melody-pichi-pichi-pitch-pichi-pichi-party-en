@@ -10,7 +10,7 @@
     123
    ],
    "jp": "あ　るちあさん　こんなところで\nなに{h }やってるんですかぁ",
-   "en": ""
+   "en": "Oh, Lucia! What are you\ndoing in a place like this?"
   },
   {
    "id": "event_ev000900:003A",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "‥‥えーっと　あなた{h }だれ？",
-   "en": ""
+   "en": "...Umm, who are you?"
   },
   {
    "id": "event_ev000900:0058",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "‥‥あわわ　すみません！！",
-   "en": ""
+   "en": "...Eek! I'm so sorry!!"
   },
   {
    "id": "event_ev000900:0074",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "ヘンな子‥‥",
-   "en": ""
+   "en": "What a weird kid..."
   },
   {
    "id": "event_ev000900:0082",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "でも{h }かわいかったよね☆",
-   "en": ""
+   "en": "But he was cute! ☆"
   },
   {
    "id": "event_ev000900:009C",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "あの子　あきらかに　るちあを\nしってるって{h }かんじだったな‥‥",
-   "en": ""
+   "en": "That kid clearly seemed\nto know Lucia..."
   },
   {
    "id": "event_ev000900:00DC",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "それじゃあ{h }いまの子を{h }見つけ出して\nたしかめてみよっか！",
-   "en": ""
+   "en": "Then let's find that kid\nand find out!"
   },
   {
    "id": "event_ev000900:0118",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "あの子　どっかで見たような‥‥\nううん　見てはないんだけど‥‥",
-   "en": ""
+   "en": "I feel like I've seen him...\nNo, I haven't seen him, but..."
   },
   {
    "id": "event_ev000900:0158",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "見おぼえは{h }ないんだけど‥‥\nでも　ふんいきが{h }だれかに‥‥",
-   "en": ""
+   "en": "I don't recognize him...\nbut his vibe reminds me of someone..."
   },
   {
    "id": "event_ev000900:0196",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "あの子　どこへ{h }いったのかなぁ？",
-   "en": ""
+   "en": "Where did that kid go?"
   },
   {
    "id": "event_ev000900:01B8",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "えーっと　だれだっけ？",
-   "en": ""
+   "en": "Ummm, who was he again?"
   },
   {
    "id": "event_ev000900:01D0",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "どこに{h }いるのかなぁ？",
-   "en": ""
+   "en": "Where could he be?"
   },
   {
    "id": "event_ev000900:01E8",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "かわいい子だったな〜☆",
-   "en": ""
+   "en": "He was such a cute boy~ ☆"
   },
   {
    "id": "event_ev000900:0200",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "どこいったの〜{h }びしょうね〜ん{i21C}",
-   "en": ""
+   "en": "Where'd you go, pretty boy~? {i21C}"
   },
   {
    "id": "event_ev000900:0222",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "るちあを{h }しってる\nみたいだったけど‥‥",
-   "en": ""
+   "en": "He seemed to\nknow Lucia, but..."
   },
   {
    "id": "event_ev000900:024C",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "どこへ{h }いったんだ？",
-   "en": ""
+   "en": "Where did he go?"
   },
   {
    "id": "event_ev000900:0262",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "わたしは{h }見おぼえが{h }\nないんだが‥‥",
-   "en": ""
+   "en": "I don't recognize\nhim, though..."
   },
   {
    "id": "event_ev000900:028A",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "るちあを{h }しっている\nようだったな‥‥",
-   "en": ""
+   "en": "He seemed to\nknow Lucia..."
   },
   {
    "id": "event_ev000900:02B2",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "人を{h }さがすというのは\nたいへんだな‥‥",
-   "en": ""
+   "en": "Searching for someone\nsure is hard..."
   },
   {
    "id": "event_ev000900:02DC",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "みーつけたっ！\nねえねえ　あなた{h }ちょっといーい？",
-   "en": ""
+   "en": "Found you!\nHey, hey, got a sec?"
   },
   {
    "id": "event_ev000900:0310",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "‥‥‥‥！！\nあわわ　すみませーん！",
-   "en": ""
+   "en": "......!!\nEek, I'm so sorryyy!"
   },
   {
    "id": "event_ev000900:0336",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "ワタシ{h }これから{h }すいぞくかんへ{h }\nいくんですぅ〜！！",
-   "en": ""
+   "en": "I'm going to the\naquarium now!!"
   },
   {
    "id": "event_ev000900:036E",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "あーーっ！　また{h }にげたぁ！",
-   "en": ""
+   "en": "Aaah! He ran away again!"
   },
   {
    "id": "event_ev000900:038C",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "‥‥でも　こんどは{h }へーき\nいき先は{h }すいぞくかん{h }だよね！",
-   "en": ""
+   "en": "...But this time it's fine.\nHe's going to the aquarium!"
   },
   {
    "id": "event_ev000900:03CA",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "見つけたわよ〜！\nねえ　キミちょっと{h }いーい！",
-   "en": ""
+   "en": "Found you~!\nHey, you, got a sec?!"
   },
   {
    "id": "event_ev000900:03FA",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "‥‥‥‥！！\nあわわ　すみませーん！",
-   "en": ""
+   "en": "......!!\nEek, I'm so sorryyy!"
   },
   {
    "id": "event_ev000900:0420",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "ワタシ{h }これから{h }すいぞくかんへ{h }\nいくんですぅ〜！！",
-   "en": ""
+   "en": "I'm going to the\naquarium now!!"
   },
   {
    "id": "event_ev000900:0458",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "また　にげられたっ！",
-   "en": ""
+   "en": "He got away again!"
   },
   {
    "id": "event_ev000900:046E",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "でも　こんどは{h }へーきだもん\nいき先は{h }すいぞくかん{h }だよね！",
-   "en": ""
+   "en": "But this time it's fine! He's\ngoing to the aquarium, right?"
   },
   {
    "id": "event_ev000900:04AE",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "見つけた！\nなぁ　ちょっといいか？",
-   "en": ""
+   "en": "Found you!\nHey, got a minute?"
   },
   {
    "id": "event_ev000900:04D2",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "‥‥‥‥！！\nあわわ　すみませーん！",
-   "en": ""
+   "en": "......!!\nEek, I'm so sorryyy!"
   },
   {
    "id": "event_ev000900:04F8",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "これから{h }すいぞくかんへ{h }\nいくんですぅ〜！！",
-   "en": ""
+   "en": "I'm going to the\naquarium now!!"
   },
   {
    "id": "event_ev000900:0528",
@@ -266,7 +266,7 @@
     32
    ],
    "jp": "くっ　また{h }にげられたか‥‥",
-   "en": ""
+   "en": "Tch, he got away again..."
   },
   {
    "id": "event_ev000900:0546",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "まあ　いい‥‥\nいき先は{h }すいぞくかんか‥‥",
-   "en": ""
+   "en": "Well, fine...\nSo he's headed to the aquarium..."
   },
   {
    "id": "event_ev000900:0574",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "あの子　きっと{h }すいぞくかんに\nいるはずだよね",
-   "en": ""
+   "en": "I'm sure that kid\nmust be at the aquarium."
   },
   {
    "id": "event_ev000900:05A4",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "いき先は{h }すいぞくかん{h }かぁ‥‥",
-   "en": ""
+   "en": "So he's headed to the aquarium..."
   },
   {
    "id": "event_ev000900:05C6",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "あの子　すいぞくかんへ\nむかったんだ‥‥",
-   "en": ""
+   "en": "That kid went\nto the aquarium..."
   },
   {
    "id": "event_ev000900:05F0",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "あの子のふんいき\nだれかに{h }にてるんだよね‥‥",
-   "en": ""
+   "en": "That kid's vibe...\nhe reminds me of someone..."
   },
   {
    "id": "event_ev000900:0620",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "あの子　すいぞくかんへ\nいったのね！",
-   "en": ""
+   "en": "So that kid went\nto the aquarium!"
   },
   {
    "id": "event_ev000900:0646",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "こんどこそ　しょうたいを\nつきとめてやるんだからぁ！",
-   "en": ""
+   "en": "This time for sure, I'm gonna\nfind out who he really is!"
   },
   {
    "id": "event_ev000900:067C",
@@ -330,7 +330,7 @@
     40
    ],
    "jp": "あの子は\nすいぞくかんにいるのね！",
-   "en": ""
+   "en": "So that kid is\nat the aquarium!"
   },
   {
    "id": "event_ev000900:06A0",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "るちあは　あの子が{h }だれかに\nにてるっていってたけど‥‥",
-   "en": ""
+   "en": "Lucia said he reminds\nher of someone, but..."
   },
   {
    "id": "event_ev000900:06DA",
@@ -346,7 +346,7 @@
     42
    ],
    "jp": "よし　すいぞくかんへ\nいかなきゃな",
-   "en": ""
+   "en": "Right, I'd better\nhead to the aquarium."
   },
   {
    "id": "event_ev000900:06FE",
@@ -354,7 +354,7 @@
     43
    ],
    "jp": "こんどこそ　しょうたいを\nつきとめてやる！",
-   "en": ""
+   "en": "This time for sure,\nI'll find out who he is!"
   },
   {
    "id": "event_ev000900:072A",
@@ -362,7 +362,7 @@
     44
    ],
    "jp": "いき先は　すいぞくかんか‥‥",
-   "en": ""
+   "en": "So he's headed to the aquarium..."
   },
   {
    "id": "event_ev000900:0748",
@@ -370,7 +370,7 @@
     45
    ],
    "jp": "るちあは　あの子を{h }だれかに\nにていると{h }いってたが‥‥",
-   "en": ""
+   "en": "Lucia said that kid\nreminds her of someone..."
   },
   {
    "id": "event_ev000900:0782",
@@ -378,7 +378,7 @@
     46
    ],
    "jp": "すいぞくかんに{h }ついたぁー！\nそれじゃあ　さっそく{h }あの子を‥‥",
-   "en": ""
+   "en": "Made it to the aquarium!\nNow, let's find that kid..."
   },
   {
    "id": "event_ev000900:07C4",
@@ -386,7 +386,7 @@
     47
    ],
    "jp": "見つけた〜　見つけたわよ〜",
-   "en": ""
+   "en": "Found you~, I found you~"
   },
   {
    "id": "event_ev000900:07E0",
@@ -394,7 +394,7 @@
     48
    ],
    "jp": "ん？　このききおぼえのある{h }こえは",
-   "en": ""
+   "en": "Hm? That voice sounds familiar..."
   },
   {
    "id": "event_ev000900:0804",
@@ -402,7 +402,7 @@
     49
    ],
    "jp": "‥‥‥‥水妖だぁ！",
-   "en": ""
+   "en": "......A water demon!"
   },
   {
    "id": "event_ev000900:0818",
@@ -410,7 +410,7 @@
     50
    ],
    "jp": "どうして〜？\nどうして　あなたから",
-   "en": ""
+   "en": "Why~?\nWhy do I sense"
   },
   {
    "id": "event_ev000900:083C",
@@ -418,7 +418,7 @@
     51
    ],
    "jp": "マーメイドプリンセスの\nけはいがするの〜？",
-   "en": ""
+   "en": "a Mermaid Princess's\npresence from you~?"
   },
   {
    "id": "event_ev000900:0868",
@@ -426,7 +426,7 @@
     52
    ],
    "jp": "わわわ\nそ　そんなことありません！",
-   "en": ""
+   "en": "Eek!\nTh-that's not true!"
   },
   {
    "id": "event_ev000900:088C",
@@ -434,7 +434,7 @@
     53
    ],
    "jp": "しらばっくれても　ダメダメ〜",
-   "en": ""
+   "en": "Playing dumb won't work~"
   },
   {
    "id": "event_ev000900:08AA",
@@ -442,7 +442,7 @@
     54
    ],
    "jp": "き〜っちり\nききだしちゃうんだからぁ",
-   "en": ""
+   "en": "I'm gonna get\nevery last bit out of you~"
   },
   {
    "id": "event_ev000900:08D0",
@@ -450,7 +450,7 @@
     55
    ],
    "jp": "ん〜〜そうね　ガイトさまへの\nおみやげに{h }し〜ちゃおっと！",
-   "en": ""
+   "en": "Mmm~ I know! I'll take you\nas a gift for Lord Gaito~!"
   },
   {
    "id": "event_ev000900:090C",
@@ -458,7 +458,7 @@
     56
    ],
    "jp": "たいへん！",
-   "en": ""
+   "en": "Oh no!"
   },
   {
    "id": "event_ev000900:0918",
@@ -466,7 +466,7 @@
     57
    ],
    "jp": "あの子を{h }たすけなきゃ！",
-   "en": ""
+   "en": "I have to save that kid!"
   },
   {
    "id": "event_ev000900:0932",
@@ -474,7 +474,7 @@
     58
    ],
    "jp": "すいぞくかんに{h }ついたよー\nあのコは{h }どこにいるのかなぁ？",
-   "en": ""
+   "en": "Made it to the aquarium!\nWhere could that kid be?"
   },
   {
    "id": "event_ev000900:096E",
@@ -482,7 +482,7 @@
     59
    ],
    "jp": "見つけた〜　見つけたわよ〜",
-   "en": ""
+   "en": "Found you~, I found you~"
   },
   {
    "id": "event_ev000900:098A",
@@ -490,7 +490,7 @@
     60
    ],
    "jp": "このこえは　ひょっとして‥‥\n‥‥‥‥水妖じゃないの！？",
-   "en": ""
+   "en": "This voice... could it be...\n......a water demon?!"
   },
   {
    "id": "event_ev000900:09C4",
@@ -498,7 +498,7 @@
     61
    ],
    "jp": "どうして〜？\nどうして　あなたから",
-   "en": ""
+   "en": "Why~?\nWhy do I sense"
   },
   {
    "id": "event_ev000900:09E8",
@@ -506,7 +506,7 @@
     62
    ],
    "jp": "マーメイドプリンセスの\nけはいがするの〜？",
-   "en": ""
+   "en": "a Mermaid Princess's\npresence from you~?"
   },
   {
    "id": "event_ev000900:0A14",
@@ -514,7 +514,7 @@
     63
    ],
    "jp": "わわわ\nそ　そんなことありません！",
-   "en": ""
+   "en": "Eek!\nTh-that's not true!"
   },
   {
    "id": "event_ev000900:0A38",
@@ -522,7 +522,7 @@
     64
    ],
    "jp": "しらばっくれても　ダメダメ〜",
-   "en": ""
+   "en": "Playing dumb won't work~"
   },
   {
    "id": "event_ev000900:0A56",
@@ -530,7 +530,7 @@
     65
    ],
    "jp": "き〜っちり\nききだしちゃうんだからぁ",
-   "en": ""
+   "en": "I'm gonna get\nevery last bit out of you~"
   },
   {
    "id": "event_ev000900:0A7C",
@@ -538,7 +538,7 @@
     66
    ],
    "jp": "ん〜〜そうね　ガイトさまへの\nおみやげに{h }し〜ちゃおっと！",
-   "en": ""
+   "en": "Mmm~ I know! I'll take you\nas a gift for Lord Gaito~!"
   },
   {
    "id": "event_ev000900:0AB8",
@@ -546,7 +546,7 @@
     67
    ],
    "jp": "たいへん！　たすけなきゃ\n水妖って{h }なにかんがえてんだか‥‥",
-   "en": ""
+   "en": "Oh no! I have to save him!\nWhat are water demons thinking..."
   },
   {
    "id": "event_ev000900:0AF6",
@@ -554,7 +554,7 @@
     68
    ],
    "jp": "‥‥いくわよ！",
-   "en": ""
+   "en": "...Here I go!"
   },
   {
    "id": "event_ev000900:0B06",
@@ -562,7 +562,7 @@
     69
    ],
    "jp": "すいぞくかんに{h }ついた\nさて　さがそう‥‥",
-   "en": ""
+   "en": "Made it to the aquarium.\nNow, let's search..."
   },
   {
    "id": "event_ev000900:0B32",
@@ -570,7 +570,7 @@
     70
    ],
    "jp": "見つけた〜　見つけたわよ〜",
-   "en": ""
+   "en": "Found you~, I found you~"
   },
   {
    "id": "event_ev000900:0B4E",
@@ -578,7 +578,7 @@
     71
    ],
    "jp": "むっ　このこえは‥‥水妖かっ！？",
-   "en": ""
+   "en": "Hm, that voice... a water demon?!"
   },
   {
    "id": "event_ev000900:0B70",
@@ -586,7 +586,7 @@
     72
    ],
    "jp": "どうして〜？\nどうして　あなたから",
-   "en": ""
+   "en": "Why~?\nWhy do I sense"
   },
   {
    "id": "event_ev000900:0B94",
@@ -594,7 +594,7 @@
     73
    ],
    "jp": "マーメイドプリンセスの\nけはいがするの〜？",
-   "en": ""
+   "en": "a Mermaid Princess's\npresence from you~?"
   },
   {
    "id": "event_ev000900:0BC0",
@@ -602,7 +602,7 @@
     74
    ],
    "jp": "わわわ\nそ　そんなことありません！",
-   "en": ""
+   "en": "Eek!\nTh-that's not true!"
   },
   {
    "id": "event_ev000900:0BE4",
@@ -610,7 +610,7 @@
     75
    ],
    "jp": "しらばっくれても　ダメダメ〜",
-   "en": ""
+   "en": "Playing dumb won't work~"
   },
   {
    "id": "event_ev000900:0C02",
@@ -618,7 +618,7 @@
     76
    ],
    "jp": "き〜っちり\nききだしちゃうんだからぁ",
-   "en": ""
+   "en": "I'm gonna get\nevery last bit out of you~"
   },
   {
    "id": "event_ev000900:0C28",
@@ -626,7 +626,7 @@
     77
    ],
    "jp": "ん〜〜そうね　ガイトさまへの\nおみやげに{h }し〜ちゃおっと！",
-   "en": ""
+   "en": "Mmm~ I know! I'll take you\nas a gift for Lord Gaito~!"
   },
   {
    "id": "event_ev000900:0C64",
@@ -634,7 +634,7 @@
     78
    ],
    "jp": "水妖に{h }ねらわれているのか！\nあの子を{h }たすけなければ！",
-   "en": ""
+   "en": "A water demon is after him!\nI have to save that kid!"
   },
   {
    "id": "event_ev000900:0C9E",
@@ -642,7 +642,7 @@
     79
    ],
    "jp": "いくぞ！",
-   "en": ""
+   "en": "Let's go!"
   },
   {
    "id": "event_ev000900:0CA8",
@@ -650,7 +650,7 @@
     80
    ],
    "jp": "あ〜っ　るちあさん！",
-   "en": ""
+   "en": "Ah, Lucia!"
   },
   {
    "id": "event_ev000900:0CBE",
@@ -658,7 +658,7 @@
     81
    ],
    "jp": "えっ‥‥だれ？",
-   "en": ""
+   "en": "Huh... who are you?"
   },
   {
    "id": "event_ev000900:0CCE",
@@ -666,7 +666,7 @@
     82
    ],
    "jp": "なんで　みんなして\nワタシのあとを{h }つけるんですかぁ？",
-   "en": ""
+   "en": "Why is everyone\nfollowing me around?"
   },
   {
    "id": "event_ev000900:0D06",
@@ -674,7 +674,7 @@
     83
    ],
    "jp": "えーっと‥‥‥‥\nあなた　いったいだれなの？",
-   "en": ""
+   "en": "Ummm......\nWho in the world are you?"
   },
   {
    "id": "event_ev000900:0D34",
@@ -682,7 +682,7 @@
     84
    ],
    "jp": "わたしのこと\nしってるみたいだけど？",
-   "en": ""
+   "en": "You seem to\nknow me, though?"
   },
   {
    "id": "event_ev000900:0D5A",
@@ -690,7 +690,7 @@
     85
    ],
    "jp": "えっ{h }わからないんですか！？\nワタシです　ヒッポですよ〜〜！！",
-   "en": ""
+   "en": "Huh? You don't know?!\nIt's me, Hippo!!"
   },
   {
    "id": "event_ev000900:0D9A",
@@ -698,7 +698,7 @@
     86
    ],
    "jp": "‥‥え〜〜！{h }\nあなたヒッポなの！？",
-   "en": ""
+   "en": "...Whaaat?!\nYou're Hippo?!"
   },
   {
    "id": "event_ev000900:0DC0",
@@ -706,7 +706,7 @@
     87
    ],
    "jp": "どうしちゃったの　そのかっこう！？",
-   "en": ""
+   "en": "What happened to you, looking like that?!"
   },
   {
    "id": "event_ev000900:0DE4",
@@ -714,7 +714,7 @@
     88
    ],
    "jp": "‥‥ですよね　むりもないです\nこんな{h }みっともない{h }すがたじゃ",
-   "en": ""
+   "en": "...Of course, no wonder.\nNot in such a shabby form."
   },
   {
    "id": "event_ev000900:0E24",
@@ -722,7 +722,7 @@
     89
    ],
    "jp": "みっともないって‥‥\nそんなことないよ　ヒッポ",
-   "en": ""
+   "en": "Shabby...\nThat's not true, Hippo."
   },
   {
    "id": "event_ev000900:0E54",
@@ -730,7 +730,7 @@
     90
    ],
    "jp": "いーんです{h }いーんです\n気を{h }つかってくれなくたって",
-   "en": ""
+   "en": "It's fine, it's fine.\nYou don't have to be nice about it."
   },
   {
    "id": "event_ev000900:0E8A",
@@ -738,7 +738,7 @@
     91
    ],
    "jp": "ふだんの{h }かっこいいワタシからは\nそうぞうできるわけ{h }ないですし",
-   "en": ""
+   "en": "No one could ever imagine it\nfrom my usual dashing self."
   },
   {
    "id": "event_ev000900:0ECC",
@@ -746,7 +746,7 @@
     92
    ],
    "jp": "あはははは‥‥ヒッポったらぁ",
-   "en": ""
+   "en": "Ahahaha... Oh, Hippo..."
   },
   {
    "id": "event_ev000900:0EEA",
@@ -754,7 +754,7 @@
     93
    ],
    "jp": "あ〜っ　波音さん！",
-   "en": ""
+   "en": "Ah, Hanon!"
   },
   {
    "id": "event_ev000900:0EFE",
@@ -762,7 +762,7 @@
     94
    ],
    "jp": "えっ‥‥？",
-   "en": ""
+   "en": "Huh...?"
   },
   {
    "id": "event_ev000900:0F0A",
@@ -770,7 +770,7 @@
     95
    ],
    "jp": "なんで　みんなして\nワタシのあとを{h }つけるんですかぁ？",
-   "en": ""
+   "en": "Why is everyone\nfollowing me around?"
   },
   {
    "id": "event_ev000900:0F42",
@@ -778,7 +778,7 @@
     96
    ],
    "jp": "キャッ☆　さっきのびしょうねん！",
-   "en": ""
+   "en": "Eek! ☆ The pretty boy from before!"
   },
   {
    "id": "event_ev000900:0F64",
@@ -786,7 +786,7 @@
     97
    ],
    "jp": "どうしたの？　\nおねーさんに{h }なにかよう？",
-   "en": ""
+   "en": "What's up?\nNeed something from big sis?"
   },
   {
    "id": "event_ev000900:0F90",
@@ -794,7 +794,7 @@
     98
    ],
    "jp": "ちょっと{h }波音さん\nワタシです　ヒッポですよ〜〜！！",
-   "en": ""
+   "en": "Come on, Hanon,\nit's me, Hippo!!"
   },
   {
    "id": "event_ev000900:0FC6",
@@ -802,7 +802,7 @@
     99
    ],
    "jp": "‥‥‥ヒッポ‥‥‥？",
-   "en": ""
+   "en": "......Hippo......?"
   },
   {
    "id": "event_ev000900:0FDC",
@@ -810,7 +810,7 @@
     100
    ],
    "jp": "え〜〜！！\nあなたって　ヒッポなのー！？",
-   "en": ""
+   "en": "Whaaat?!\nYou're Hippo?!"
   },
   {
    "id": "event_ev000900:1006",
@@ -818,7 +818,7 @@
     101
    ],
    "jp": "ガァーーン！　し　しらなかった‥‥\nもう　なにも{h }しんじられない‥‥",
-   "en": ""
+   "en": "Shock! I-I never knew...\nI can't believe anything anymore..."
   },
   {
    "id": "event_ev000900:104C",
@@ -826,7 +826,7 @@
     102
    ],
    "jp": "波音さんったら　どうしてそんなに\nショックを{h }うけてるんですかぁ！",
-   "en": ""
+   "en": "Hanon, why are you\nso shocked?!"
   },
   {
    "id": "event_ev000900:1090",
@@ -834,7 +834,7 @@
     103
    ],
    "jp": "この{h }にんげんのすがた‥‥\nやっぱり　みっともないんですよね",
-   "en": ""
+   "en": "This human form...\nit really is shabby, isn't it?"
   },
   {
    "id": "event_ev000900:10CE",
@@ -842,7 +842,7 @@
     104
    ],
    "jp": "ねぇ　ヒッポ‥‥\nそれ{h }本気で{h }いってる？",
-   "en": ""
+   "en": "Hey, Hippo...\nDo you mean that seriously?"
   },
   {
    "id": "event_ev000900:10FA",
@@ -850,7 +850,7 @@
     105
    ],
    "jp": "本気の{h }本気でいってるの！？",
-   "en": ""
+   "en": "Do you seriously, seriously mean it?!"
   },
   {
    "id": "event_ev000900:1118",
@@ -858,7 +858,7 @@
     106
    ],
    "jp": "また{h }そうやってワタシを\nからかうつもりなんですね‥‥",
-   "en": ""
+   "en": "You're teasing me\nlike that again..."
   },
   {
    "id": "event_ev000900:1150",
@@ -866,7 +866,7 @@
     107
    ],
    "jp": "波音さんったら{h }ひどいですよ〜",
-   "en": ""
+   "en": "Hanon, that's so mean!"
   },
   {
    "id": "event_ev000900:1170",
@@ -874,7 +874,7 @@
     108
    ],
    "jp": "あはははは　本気なんだぁ‥‥\n（ダメだ　こりゃ）",
-   "en": ""
+   "en": "Ahahaha, he means it...\n(He's hopeless.)"
   },
   {
    "id": "event_ev000900:11A2",
@@ -882,7 +882,7 @@
     109
    ],
    "jp": "あ〜っ　リナさん！",
-   "en": ""
+   "en": "Ah, Rina!"
   },
   {
    "id": "event_ev000900:11B6",
@@ -890,7 +890,7 @@
     110
    ],
    "jp": "んっ‥‥？",
-   "en": ""
+   "en": "Hm...?"
   },
   {
    "id": "event_ev000900:11C2",
@@ -898,7 +898,7 @@
     111
    ],
    "jp": "なんで　みんなして\nワタシのあとを{h }つけるんですかぁ？",
-   "en": ""
+   "en": "Why is everyone\nfollowing me around?"
   },
   {
    "id": "event_ev000900:11FA",
@@ -906,7 +906,7 @@
     112
    ],
    "jp": "そういわれても‥‥\nそもそも{h }キミはだれなんだ？",
-   "en": ""
+   "en": "Even if you say that...\nwho are you, anyway?"
   },
   {
    "id": "event_ev000900:122C",
@@ -914,7 +914,7 @@
     113
    ],
    "jp": "るちあの{h }ともだちか？",
-   "en": ""
+   "en": "A friend of Lucia's?"
   },
   {
    "id": "event_ev000900:1244",
@@ -922,7 +922,7 @@
     114
    ],
    "jp": "えっ{h }わからないんですか！？\nワタシです　ヒッポですよ〜〜！！",
-   "en": ""
+   "en": "Huh? You don't know?!\nIt's me, Hippo!!"
   },
   {
    "id": "event_ev000900:1284",
@@ -938,7 +938,7 @@
     116
    ],
    "jp": "リナさんったら　なにを{h }だまって\nショックを{h }うけてるんですかぁ！",
-   "en": ""
+   "en": "Rina, why are you standing\nthere silent and shocked?!"
   },
   {
    "id": "event_ev000900:12D6",
@@ -946,7 +946,7 @@
     117
    ],
    "jp": "‥‥いや　スマン\nだが　なっとくが{h }できなくて‥‥",
-   "en": ""
+   "en": "...No, sorry.\nI just can't accept it..."
   },
   {
    "id": "event_ev000900:130A",
@@ -954,7 +954,7 @@
     118
    ],
    "jp": "‥‥ですよね\nなっとくできなくて{h }とうぜんですよ",
-   "en": ""
+   "en": "...Right?\nOf course you can't accept it."
   },
   {
    "id": "event_ev000900:133C",
@@ -962,7 +962,7 @@
     119
    ],
    "jp": "あの{h }カッコイイすがたのワタシが\nこんな{h }みっともないすがたじゃ‥‥",
-   "en": ""
+   "en": "For handsome old me to end up\nlooking this ridiculous..."
   },
   {
    "id": "event_ev000900:1382",
@@ -970,7 +970,7 @@
     120
    ],
    "jp": "‥‥‥‥‥‥\n（どこまで{h }本気でいってるんだ？）",
-   "en": ""
+   "en": "......\n(How much of that does he mean?)"
   },
   {
    "id": "event_ev000900:13B4",
@@ -978,7 +978,7 @@
     121
    ],
    "jp": "{h }　　　　エピソード　１０　　　　\n　　{h }『ヒッポのひみつ』　おわり　",
-   "en": ""
+   "en": "        Episode 10\n\"Hippo's Secret\" - The End"
   }
  ]
 }

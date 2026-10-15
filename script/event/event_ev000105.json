@@ -9,7 +9,7 @@
     3
    ],
    "jp": "ん？　あのこども\nないているようだが…",
-   "en": ""
+   "en": "Hm? That kid\nlooks like he's crying..."
   },
   {
    "id": "event_ev000105:0028",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "おい　ひとりか？\nそうか…　いっしょにさがしてやろう",
-   "en": ""
+   "en": "Hey, are you alone?\nI see... I'll help you look."
   },
   {
    "id": "event_ev000105:005E",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "まいごのおかあさんをさがしてあげた\nヒロインポイント　＋１００",
-   "en": ""
+   "en": "Helped a lost kid find his mom\nHeroine Points +100"
   }
  ]
 }

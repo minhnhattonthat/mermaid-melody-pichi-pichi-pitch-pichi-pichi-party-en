@@ -11,7 +11,7 @@
     115
    ],
    "jp": "‥‥ということで{h }きもだめしの\nよこうれんしゅう{h }するわよー！",
-   "en": ""
+   "en": "...So, we're gonna have a practice run\nfor the test of courage!"
   },
   {
    "id": "event_ev000800:0040",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "えーっ！　れんしゅうなんて\nしなくて{h }いいよぉ！",
-   "en": ""
+   "en": "Whaaat?! We don't need\nto practice!"
   },
   {
    "id": "event_ev000800:0072",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "チッチッチッ‥‥\nあまいわね　るちあ",
-   "en": ""
+   "en": "Tsk tsk tsk...\nYou're so naive, Lucia."
   },
   {
    "id": "event_ev000800:0098",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "せっかく{h }すきな人と\n２人きりに{h }なれるのよ",
-   "en": ""
+   "en": "You finally get to be alone\nwith the one you like!"
   },
   {
    "id": "event_ev000800:00C6",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "ほんばんで{h }ビクビクしてたら\nもったいないじゃない！",
-   "en": ""
+   "en": "If you're all jumpy on the big night,\nwhat a waste that'd be!"
   },
   {
    "id": "event_ev000800:00FC",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "いや　こんなに日が{h }たかいんだ\nれんしゅうには{h }ならないだろ？",
-   "en": ""
+   "en": "No, the sun's still high.\nThis won't be any practice, will it?"
   },
   {
    "id": "event_ev000800:013C",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "ううん　じんじゃのうらの\n小みちって‥‥",
-   "en": ""
+   "en": "Nope! The little path\nbehind the Shrine..."
   },
   {
    "id": "event_ev000800:0166",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "おひるでも{h }うすぐらくて\nこわいんだから{h }じゅうぶんよ",
-   "en": ""
+   "en": "...is dim and scary even at noon,\nso it's good enough!"
   },
   {
    "id": "event_ev000800:019E",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "というわけで‥‥２人とも",
-   "en": ""
+   "en": "So anyway... you two..."
   },
   {
    "id": "event_ev000800:01B8",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "じんじゃのおくに{h }おいてある\nおふだを{h }とりにいってきてね",
-   "en": ""
+   "en": "Go get the charm that's been\nleft at the back of the Shrine."
   },
   {
    "id": "event_ev000800:01F4",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "おふだには　３人で{h }あつまる\nばしょが{h }かいてあるから",
-   "en": ""
+   "en": "The charm says where\nthe three of us will meet up."
   },
   {
    "id": "event_ev000800:022C",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "こわいのか？　るちあ‥‥",
-   "en": ""
+   "en": "Are you scared, Lucia...?"
   },
   {
    "id": "event_ev000800:0254",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "るちあったら　なさけないわねー",
-   "en": ""
+   "en": "Lucia, you're such a scaredy-cat!"
   },
   {
    "id": "event_ev000800:0274",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "いまどきの女の子は\nつよくなくっちゃ{h }いけないのよ！",
-   "en": ""
+   "en": "Girls these days\nhave to be tough!"
   },
   {
    "id": "event_ev000800:02AA",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "また　でまかせを‥‥\nそうとは{h }かぎらないだろ",
-   "en": ""
+   "en": "Making stuff up again...\nThat's not necessarily true."
   },
   {
    "id": "event_ev000800:02DA",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "ともかく！　そんなことじゃあ\n海斗くんに{h }きらわれちゃうわよー",
-   "en": ""
+   "en": "Anyway! If you're like that,\nKaito's gonna hate you!"
   },
   {
    "id": "event_ev000800:031A",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "そ　それじゃあ\nがんばってみようかな‥‥",
-   "en": ""
+   "en": "W-well then...\nI guess I'll give it a try..."
   },
   {
    "id": "event_ev000800:0344",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "ひょっとして　波音のことばを\nしんじたのか？",
-   "en": ""
+   "en": "Wait, did you actually\nbelieve what Hanon said?"
   },
   {
    "id": "event_ev000800:0372",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "やっぱり{h }れんしゅうなんて\nしたくないよぉ‥‥",
-   "en": ""
+   "en": "I really don't wanna\npractice..."
   },
   {
    "id": "event_ev000800:03A2",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "いやだよ〜　こわいよ〜\nじんじゃに　いきたくないよぉ〜！",
-   "en": ""
+   "en": "Nooo, I'm scaaared!\nI don't wanna go to the Shrine!"
   },
   {
    "id": "event_ev000800:03DC",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "波音も　リナも\nこわくないのかなぁ？",
-   "en": ""
+   "en": "Aren't Hanon and Rina\nscared at all?"
   },
   {
    "id": "event_ev000800:0402",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "じんじゃかぁ‥‥　こわいなぁ‥‥",
-   "en": ""
+   "en": "The Shrine, huh... That's scary..."
   },
   {
    "id": "event_ev000800:0424",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "じんじゃで　きもだめしかぁ‥‥\n１人で{h }いくのは{h }こわいかも‥‥",
-   "en": ""
+   "en": "A test of courage at the Shrine...\nGoing alone might be scary..."
   },
   {
    "id": "event_ev000800:0466",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "こわくない　こわくない‥‥",
-   "en": ""
+   "en": "Not scary, not scary..."
   },
   {
    "id": "event_ev000800:0482",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "きもだめしのつもりでいくと\nなんだか{h }こわくなるよね",
-   "en": ""
+   "en": "When you think of it as a test of\ncourage, it kinda gets scary, huh?"
   },
   {
    "id": "event_ev000800:04B8",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "やっぱり　れんしゅうなんて\nしなくても{h }よかったかも‥‥",
-   "en": ""
+   "en": "Maybe we didn't need\nto practice after all..."
   },
   {
    "id": "event_ev000800:04F2",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "じんじゃ{h }か‥‥",
-   "en": ""
+   "en": "The Shrine, huh..."
   },
   {
    "id": "event_ev000800:0504",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "‥‥なんで{h }ひるまに\nきもだめしなんて{h }してるんだろう？",
-   "en": ""
+   "en": "...Why are we doing a test\nof courage in broad daylight?"
   },
   {
    "id": "event_ev000800:053E",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "こんな{h }ひるまに\nじんじゃへ{h }いってもなぁ‥‥",
-   "en": ""
+   "en": "Going to the Shrine\nat midday like this..."
   },
   {
    "id": "event_ev000800:056E",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "じんじゃへ{h }いったところで\nべつに{h }なにも{h }ないだろうがな‥‥",
-   "en": ""
+   "en": "Even if I go to the Shrine,\nI doubt there's anything there..."
   },
   {
    "id": "event_ev000800:05AE",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "つ　ついちゃったぁ〜\nおふだ　おふだは{h }どこ〜？",
-   "en": ""
+   "en": "I-I made it!\nThe charm... where's the charm?"
   },
   {
    "id": "event_ev000800:05E0",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "あっ　あったぁ‥‥",
-   "en": ""
+   "en": "Ah, there it is..."
   },
   {
    "id": "event_ev000800:05F4",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "でも‥‥つぎはどこへ\nいけばいいんだろう？",
-   "en": ""
+   "en": "But... where am I\nsupposed to go next?"
   },
   {
    "id": "event_ev000800:0620",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "えーっと　おふだに{h }かいてある\n『つぎは{h }学校にいってね☆』かぁ",
-   "en": ""
+   "en": "Um, the charm says...\n\"Next, go to the School ☆\""
   },
   {
    "id": "event_ev000800:0662",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "よ　よーし‥‥\n学校なら{h }こわくないもん！",
-   "en": ""
+   "en": "O-okay...\nThe School's not scary at all!"
   },
   {
    "id": "event_ev000800:068E",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "さてと　おふだは{h }たしか‥‥\nここに{h }おいたんだっけ",
-   "en": ""
+   "en": "Now, the charm... I'm pretty sure\nI left it right here."
   },
   {
    "id": "event_ev000800:06C4",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "うんうん　ちゃんとおふだには\n学校へ{h }って{h }かいてあるわね",
-   "en": ""
+   "en": "Yep, yep, the charm says\n\"the School\" just like it should."
   },
   {
    "id": "event_ev000800:0700",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "それじゃあ　わたしも学校へ\nいかなくっちゃね！",
-   "en": ""
+   "en": "Okay then, I've gotta\nhead to the School too!"
   },
   {
    "id": "event_ev000800:0730",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "さてと　おふだを{h }さがすか‥‥\n‥‥‥‥なかなか見つからないな",
-   "en": ""
+   "en": "Now then, to look for the charm...\n...It's hard to find."
   },
   {
    "id": "event_ev000800:0770",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "‥‥‥‥あった{h }あった　おふだに\nつぎの{h }いきさきが{h }かいてあるぞ",
-   "en": ""
+   "en": "...There it is. The charm says\nwhere to go next."
   },
   {
    "id": "event_ev000800:07B4",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "『つぎは{h }学校にいってね☆』か‥‥",
-   "en": ""
+   "en": "\"Next, go to the School ☆,\" huh..."
   },
   {
    "id": "event_ev000800:07D8",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "ほんとうに{h }これで{h }きもだめしの\nれんしゅうになるのか？",
-   "en": ""
+   "en": "Is this really practice\nfor a test of courage?"
   },
   {
    "id": "event_ev000800:0812",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "こんどは{h }学校かぁ〜",
-   "en": ""
+   "en": "The School next, huh..."
   },
   {
    "id": "event_ev000800:0828",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "つぎは{h }学校に{h }いくだなんて‥‥\nこれ{h }れんしゅうに{h }なってるの？",
-   "en": ""
+   "en": "Going to the School next...\nIs this even practice?"
   },
   {
    "id": "event_ev000800:086C",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "ひるまの{h }学校なら\nこわくないもーん",
-   "en": ""
+   "en": "The school in the daytime\nisn't scary at all!"
   },
   {
    "id": "event_ev000800:0892",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "学校なら‥‥へーきだもん",
-   "en": ""
+   "en": "The school... I'll be fine there!"
   },
   {
    "id": "event_ev000800:08AC",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "つぎは　学校ね‥‥",
-   "en": ""
+   "en": "Next is the school..."
   },
   {
    "id": "event_ev000800:08C0",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "みんな　学校へいくってこと\nわかってるのかしら？",
-   "en": ""
+   "en": "I wonder if everyone knows\nwe're going to the school?"
   },
   {
    "id": "event_ev000800:08F2",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "ひるまの{h }学校を\nこわがる人は{h }いないよね",
-   "en": ""
+   "en": "Nobody's scared of the\nschool in the daytime, right?"
   },
   {
    "id": "event_ev000800:091E",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "学校かぁ‥‥\nひるまじゃ{h }ドキドキしないなぁ",
-   "en": ""
+   "en": "The school, huh...\nIt's no thrill in the daytime."
   },
   {
    "id": "event_ev000800:094C",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "こんどは{h }学校へ\nいけばいいのか‥‥",
-   "en": ""
+   "en": "So this time I just need\nto go to the school..."
   },
   {
    "id": "event_ev000800:0972",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "学校か‥‥",
-   "en": ""
+   "en": "School, huh..."
   },
   {
    "id": "event_ev000800:097E",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "ひるまの{h }学校じゃあ‥‥\nなんてことはないよなぁ",
-   "en": ""
+   "en": "The school in the daytime...\nthat's nothing, really."
   },
   {
    "id": "event_ev000800:09B0",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "学校へ{h }いくのかぁ‥‥",
-   "en": ""
+   "en": "Going to the school, huh..."
   },
   {
    "id": "event_ev000800:09C8",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "ついたぁ〜",
-   "en": ""
+   "en": "Made iiit!"
   },
   {
    "id": "event_ev000800:09D4",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "‥‥でも　まだ{h }波音もリナも\nきてないみたい‥‥",
-   "en": ""
+   "en": "...But it looks like Hanon\nand Rina aren't here yet..."
   },
   {
    "id": "event_ev000800:0A06",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "ヒュウ〜〜〜ルルルゥ〜‥‥",
-   "en": ""
+   "en": "Whoooo... loo-loo-looo..."
   },
   {
    "id": "event_ev000800:0A22",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "なっ　なんなの\nいまの{h }ぶきみな{h }こえは‥‥",
-   "en": ""
+   "en": "Wh-what was that?\nThat creepy voice just now..."
   },
   {
    "id": "event_ev000800:0A50",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "た　たしか　あっちから{h }こえが‥‥",
-   "en": ""
+   "en": "I-I'm pretty sure the voice\ncame from over there..."
   },
   {
    "id": "event_ev000800:0A74",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "ヒュウ〜ルルルゥ〜〜‥‥\nこんなかんじで{h }いいわよね〜",
-   "en": ""
+   "en": "Whoooo... loo-loo-looo...\nLike this should be good, right~?"
   },
   {
    "id": "event_ev000800:0AAC",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "きっと{h }このうたごえなら\nガイトさまも{h }よろこぶはず〜",
-   "en": ""
+   "en": "I'm sure Lord Gaito will love\nthis singing voice~"
   },
   {
    "id": "event_ev000800:0AE4",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "なーんだあ　水妖かぁ",
-   "en": ""
+   "en": "Oh, it's just a water demon."
   },
   {
    "id": "event_ev000800:0AFA",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "ゆうれいじゃ{h }ないのなら‥‥",
-   "en": ""
+   "en": "As long as it's not a ghost..."
   },
   {
    "id": "event_ev000800:0B18",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "‥‥ううん　ダメダメ！",
-   "en": ""
+   "en": "...No, no! That's no good!"
   },
   {
    "id": "event_ev000800:0B30",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "あんな{h }ぶきみな{h }うたごえを\nこのままには{h }しておけないもん！",
-   "en": ""
+   "en": "I can't just leave a creepy\nsinging voice like that alone!"
   },
   {
    "id": "event_ev000800:0B70",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "ついたぁ！",
-   "en": ""
+   "en": "Made it!"
   },
   {
    "id": "event_ev000800:0B7C",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "‥‥まだ{h }だれも{h }いないようだし\nきっと　わたしが{h }１ちゃくねっ！",
-   "en": ""
+   "en": "...Looks like nobody's here yet,\nso I'm sure I'm first!"
   },
   {
    "id": "event_ev000800:0BC0",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "ヒュウ〜〜〜ルルルゥ〜‥‥",
-   "en": ""
+   "en": "Whoooo... loo-loo-looo..."
   },
   {
    "id": "event_ev000800:0BDC",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "なっ　なんなの\nいまの{h }ぶきみな{h }こえは‥‥",
-   "en": ""
+   "en": "Wh-what was that?\nThat creepy voice just now..."
   },
   {
    "id": "event_ev000800:0C0A",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "た　たしか　こっちから{h }こえが‥‥",
-   "en": ""
+   "en": "I-I'm pretty sure the voice\ncame from over here..."
   },
   {
    "id": "event_ev000800:0C2E",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "ヒュウ〜ルルルゥ〜〜‥‥\nこんなかんじで{h }いいわよね〜",
-   "en": ""
+   "en": "Whoooo... loo-loo-looo...\nLike this should be good, right~?"
   },
   {
    "id": "event_ev000800:0C66",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "きっと{h }このうたごえなら\nガイトさまも{h }よろこぶはず〜",
-   "en": ""
+   "en": "I'm sure Lord Gaito will love\nthis singing voice~"
   },
   {
    "id": "event_ev000800:0C9E",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "あれ〜？　なぁーんだぁ\n水妖じゃないの　だけど‥‥",
-   "en": ""
+   "en": "Huh? Oh, it's just\na water demon, but..."
   },
   {
    "id": "event_ev000800:0CD2",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "うたのれんしゅうを\nしたいんだったら‥‥",
-   "en": ""
+   "en": "If you want to\npractice singing..."
   },
   {
    "id": "event_ev000800:0CFC",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "もうすこし{h }ごきんじょめいわくを\nかんがえてやってほしいのよねっ！",
-   "en": ""
+   "en": "I wish you'd think a little more\nabout bothering the neighbors!"
   },
   {
    "id": "event_ev000800:0D40",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "ついた‥‥　なんだ\nまだ{h }だれもいないじゃないか‥‥",
-   "en": ""
+   "en": "Here... What,\nnobody's here yet..."
   },
   {
    "id": "event_ev000800:0D76",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "ヒュウ〜〜〜ルルルゥ〜‥‥",
-   "en": ""
+   "en": "Whoooo... loo-loo-looo..."
   },
   {
    "id": "event_ev000800:0D92",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "ん？　なんだろう\nいまの{h }ぶきみな{h }こえは‥‥",
-   "en": ""
+   "en": "Hm? What was that\ncreepy voice just now..."
   },
   {
    "id": "event_ev000800:0DC2",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "‥‥‥‥‥‥\n‥‥ちょっと　見てくるか",
-   "en": ""
+   "en": "......\n...Guess I'll go take a look."
   },
   {
    "id": "event_ev000800:0DEA",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "たしか　こっちから{h }こえが‥‥",
-   "en": ""
+   "en": "I think the voice came\nfrom over here..."
   },
   {
    "id": "event_ev000800:0E0A",
@@ -659,7 +659,7 @@
     81
    ],
    "jp": "ヒュウ〜ルルルゥ〜〜‥‥\nこんなかんじで{h }いいわよね〜",
-   "en": ""
+   "en": "Whoooo... loo-loo-looo...\nLike this should be good, right~?"
   },
   {
    "id": "event_ev000800:0E42",
@@ -667,7 +667,7 @@
     82
    ],
    "jp": "きっと{h }このうたごえなら\nガイトさまも{h }よろこぶはず〜",
-   "en": ""
+   "en": "I'm sure Lord Gaito will love\nthis singing voice~"
   },
   {
    "id": "event_ev000800:0E7A",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "なんだ‥‥　水妖か‥‥",
-   "en": ""
+   "en": "What... Just a water demon..."
   },
   {
    "id": "event_ev000800:0E92",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "‥‥いやいや　それはそれで\nなんとかしなきゃな‥‥",
-   "en": ""
+   "en": "...No, no, even so,\nI'd better do something about it..."
   },
   {
    "id": "event_ev000800:0EC6",
@@ -691,7 +691,7 @@
     85
    ],
    "jp": "あんな{h }うたごえを\nそのままには{h }しておけない！",
-   "en": ""
+   "en": "I can't leave a singing\nvoice like that as it is!"
   },
   {
    "id": "event_ev000800:0EF8",
@@ -699,7 +699,7 @@
     86
    ],
    "jp": "おーい　るちあーっ！\nこっちだ　こっちー！",
-   "en": ""
+   "en": "Hey, Lucia!\nOver here, over here!"
   },
   {
    "id": "event_ev000800:0F24",
@@ -707,7 +707,7 @@
     87
    ],
    "jp": "あっ　海斗‥‥",
-   "en": ""
+   "en": "Oh, Kaito..."
   },
   {
    "id": "event_ev000800:0F34",
@@ -715,7 +715,7 @@
     88
    ],
    "jp": "ふぅん‥‥",
-   "en": ""
+   "en": "Hmm..."
   },
   {
    "id": "event_ev000800:0F40",
@@ -723,7 +723,7 @@
     89
    ],
    "jp": "なによぉ　人のこと\nじろじろ見てぇ？",
-   "en": ""
+   "en": "What? Why are you\nstaring at me like that?"
   },
   {
    "id": "event_ev000800:0F66",
@@ -731,7 +731,7 @@
     90
    ],
    "jp": "いやぁ　きもだめしだなんて\nくだらないと{h }おもってきたけど‥‥",
-   "en": ""
+   "en": "Well, I thought a test of\ncourage was dumb, but..."
   },
   {
    "id": "event_ev000800:0FA6",
@@ -739,7 +739,7 @@
     91
    ],
    "jp": "るちあの{h }ゆかたすがたが\n見られただけでも",
-   "en": ""
+   "en": "just getting to see\nyou in a yukata, Lucia,"
   },
   {
    "id": "event_ev000800:0FD2",
@@ -747,7 +747,7 @@
     92
    ],
    "jp": "きたかいが{h }あったなぁって",
-   "en": ""
+   "en": "made it worth coming."
   },
   {
    "id": "event_ev000800:0FEE",
@@ -763,7 +763,7 @@
     94
    ],
    "jp": "ん？　どうしたんだよ？\nかおが{h }赤くなってるぜ",
-   "en": ""
+   "en": "Hm? What's wrong?\nYour face is turning red."
   },
   {
    "id": "event_ev000800:102C",
@@ -771,7 +771,7 @@
     95
    ],
    "jp": "ンもぉ　海斗のいじわるぅ〜！\n（でも　ほめてくれて{h }ありがと）",
-   "en": ""
+   "en": "Hmph, Kaito, you meanie!\n(But thanks for the compliment.)"
   },
   {
    "id": "event_ev000800:106C",
@@ -779,7 +779,7 @@
     96
    ],
    "jp": "さて‥‥波音さんは\nどこにいるのかな？",
-   "en": ""
+   "en": "Now then... where\ncould Hanon be?"
   },
   {
    "id": "event_ev000800:1094",
@@ -787,7 +787,7 @@
     97
    ],
    "jp": "こんばんはー　海月せんせーい！\nいま{h }そちらへいきますねー！",
-   "en": ""
+   "en": "Good evening, Mr. Mitsukiii!\nI'm coming over there now!"
   },
   {
    "id": "event_ev000800:10D2",
@@ -795,7 +795,7 @@
     98
    ],
    "jp": "こんばんは　波音さん‥‥\nおや　ゆかたですか",
-   "en": ""
+   "en": "Good evening, Hanon...\nOh, a yukata?"
   },
   {
    "id": "event_ev000800:1100",
@@ -803,7 +803,7 @@
     99
    ],
    "jp": "はい！　きもだめしには\nやっぱり{h }ゆかただとおもったんです",
-   "en": ""
+   "en": "Yes! For a test of courage,\nI thought a yukata was a must!"
   },
   {
    "id": "event_ev000800:113C",
@@ -811,7 +811,7 @@
     100
    ],
    "jp": "ふんいきに{h }あっていて\nとてもいいとおもいますよ",
-   "en": ""
+   "en": "It suits the mood.\nI think it looks very nice."
   },
   {
    "id": "event_ev000800:116E",
@@ -819,7 +819,7 @@
     101
    ],
    "jp": "（うふふ　太郎ちゃんに\nほめられちゃった）",
-   "en": ""
+   "en": "(Hehe, Taro\ncomplimented me!)"
   },
   {
    "id": "event_ev000800:119A",
@@ -827,7 +827,7 @@
     102
    ],
    "jp": "（おれいに{h }いっぱい{h }こわがって\nたーっぷり{h }あまえちゃおーっと）",
-   "en": ""
+   "en": "(To thank him, I'll get super scared\nand cling to him all I want!)"
   },
   {
    "id": "event_ev000800:11DE",
@@ -835,7 +835,7 @@
     103
    ],
    "jp": "リナさん{h }リナさん\nこっちです{h }こっち〜！",
-   "en": ""
+   "en": "Rina, Rina!\nOver here, over here!"
   },
   {
    "id": "event_ev000800:120A",
@@ -843,7 +843,7 @@
     104
    ],
    "jp": "やぁ　ヒッポ{h }どうしたんだ？\nきもだめしに{h }さんかしたいのか？",
-   "en": ""
+   "en": "Hey, Hippo, what's up? Want to\njoin the test of courage?"
   },
   {
    "id": "event_ev000800:124A",
@@ -851,7 +851,7 @@
     105
    ],
    "jp": "ちがいますよぉ〜‥‥あ　リナさん\nそのゆかた{h }すてきですね",
-   "en": ""
+   "en": "Not at all... Oh, Rina,\nthat yukata looks lovely on you."
   },
   {
    "id": "event_ev000800:1286",
@@ -859,7 +859,7 @@
     106
    ],
    "jp": "うん　ありがと",
-   "en": ""
+   "en": "Yeah, thanks."
   },
   {
    "id": "event_ev000800:1296",
@@ -867,7 +867,7 @@
     107
    ],
    "jp": "‥‥それで　るちあたちは\nどこにいるんだ？",
-   "en": ""
+   "en": "...So where are\nLucia and the others?"
   },
   {
    "id": "event_ev000800:12C2",
@@ -875,7 +875,7 @@
     108
    ],
    "jp": "じつは‥‥るちあさんも\n波音さんも{h }きません",
-   "en": ""
+   "en": "Actually... neither Lucia\nnor Hanon is coming."
   },
   {
    "id": "event_ev000800:12F0",
@@ -883,7 +883,7 @@
     109
    ],
    "jp": "えっ　ほんとうかヒッポ！？\nきもだめしは　やらないのか？",
-   "en": ""
+   "en": "Huh? Really, Hippo?!\nSo no test of courage?"
   },
   {
    "id": "event_ev000800:132A",
@@ -891,7 +891,7 @@
     110
    ],
    "jp": "なんというか‥‥お２人とも\nよるになったら{h }こわがっちゃって",
-   "en": ""
+   "en": "How to put it... once night\ncame, they both got scared."
   },
   {
    "id": "event_ev000800:1368",
@@ -899,7 +899,7 @@
     111
    ],
    "jp": "まったく‥‥\nしかたのない{h }２人だなぁ",
-   "en": ""
+   "en": "Honestly...\nthose two are hopeless."
   },
   {
    "id": "event_ev000800:1390",
@@ -907,7 +907,7 @@
     112
    ],
    "jp": "{h }　　　　エピソード　９　　　　　\n　{h }『きもだめしのよる』　おわり　",
-   "en": ""
+   "en": "       Episode 9\n\"Test of Courage Night\" - The End"
   }
  ]
 }

@@ -9,7 +9,7 @@
     67
    ],
    "jp": "さぁ　これで{h }おきゃくさまを\nおむかえする{h }じゅんびは{h }できたわね",
-   "en": ""
+   "en": "There! Now we're all ready\nto welcome our guests."
   },
   {
    "id": "event_ev001600:0044",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "でも{h }なんだか\nまどのあたりが{h }さびしくない？",
-   "en": ""
+   "en": "But doesn't it look kind of\nbare around the windows?"
   },
   {
    "id": "event_ev001600:0074",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "そうねぇ‥‥\nもの足りないかんじが{h }するわね",
-   "en": ""
+   "en": "Hmm, you're right...\nIt feels like something's missing."
   },
   {
    "id": "event_ev001600:00A2",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "花でも{h }かざれば{h }いいんじゃないか？",
-   "en": ""
+   "en": "Why not decorate with flowers?"
   },
   {
    "id": "event_ev001600:00C8",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "じゃあ　わるいんだけど　おつかいを\nたのまれてくれないかしら？",
-   "en": ""
+   "en": "Then, sorry to ask, but could\nyou run an errand for me?"
   },
   {
    "id": "event_ev001600:0108",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "ここにかざる{h }お花を{h }かってきて！\nじぶんたちの{h }すきなお花でいいから",
-   "en": ""
+   "en": "Go buy some flowers to put here!\nAny flowers you like are fine."
   },
   {
    "id": "event_ev001600:0150",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "お花やさんへ{h }いってみよー",
-   "en": ""
+   "en": "Let's try the flower shop!"
   },
   {
    "id": "event_ev001600:016C",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "なんの{h }お花が{h }いいかなぁ？\nんー　マーガレットが{h }いいかも",
-   "en": ""
+   "en": "What flowers would be nice?\nHmm... Maybe daisies!"
   },
   {
    "id": "event_ev001600:01AA",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "お花やさんに\nマーガレット{h }かいにいこう☆",
-   "en": ""
+   "en": "Let's go to the flower shop\nand buy daisies! ☆"
   },
   {
    "id": "event_ev001600:01D6",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "お花やさんに{h }いっそげー☆",
-   "en": ""
+   "en": "Off to the flower shop! ☆"
   },
   {
    "id": "event_ev001600:01F2",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "かおりのいい{h }お花がいいな\nハーブショップに{h }いこうっと",
-   "en": ""
+   "en": "I want flowers that smell nice.\nI'll go to the herb shop."
   },
   {
    "id": "event_ev001600:022C",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "ハーブショップに\nカモミールをかいに{h }いこう",
-   "en": ""
+   "en": "Let's go to the herb shop\nto buy chamomile."
   },
   {
    "id": "event_ev001600:025A",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "いいかおりの{h }お花をかいたいな",
-   "en": ""
+   "en": "I want to buy nice-smelling flowers."
   },
   {
    "id": "event_ev001600:027A",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "ハーブショップに{h }いそがなきゃ",
-   "en": ""
+   "en": "I'd better hurry to the herb shop."
   },
   {
    "id": "event_ev001600:029A",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "花をつんでしまうのは{h }かわいそうだ\n‥‥ハチに{h }うえられた花にしよう",
-   "en": ""
+   "en": "It's a shame to cut flowers...\nI'll get flowers in a pot."
   },
   {
    "id": "event_ev001600:02E0",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "ホームセンターで\nハチに{h }うえられた花を{h }かおう",
-   "en": ""
+   "en": "I'll buy potted flowers\nat the home center."
   },
   {
    "id": "event_ev001600:0312",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "ハチに{h }うえられた花を{h }かうなら\nやっぱり{h }ホームセンターかな",
-   "en": ""
+   "en": "If I'm buying potted flowers,\nthe home center is the place."
   },
   {
    "id": "event_ev001600:0352",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "よし　ホームセンターへ{h }いこう",
-   "en": ""
+   "en": "Okay, to the home center."
   },
   {
    "id": "event_ev001600:0372",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "お花やさんに{h }とうちゃーく！\nマーガレットを{h }くださーい",
-   "en": ""
+   "en": "Here at the flower shop!\nSome daisies, pleeease!"
   },
   {
    "id": "event_ev001600:03AC",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "さぁ　パールピアリに\nもどろっかな！",
-   "en": ""
+   "en": "Okay, time to head back\nto Pearl Piari!"
   },
   {
    "id": "event_ev001600:03D2",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "ハーブショップに{h }ついたわ\nカモミールを{h }くださいな",
-   "en": ""
+   "en": "Here's the herb shop.\nSome chamomile, please!"
   },
   {
    "id": "event_ev001600:0408",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "よーし　パールピアリに\nもってかえらなきゃね！",
-   "en": ""
+   "en": "Okay! Time to take these\nback to Pearl Piari!"
   },
   {
    "id": "event_ev001600:0438",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "ホームセンターに{h }ついた\nこのハチに{h }うえられた花を{h }もらおう",
-   "en": ""
+   "en": "Here's the home center.\nI'll take these potted flowers."
   },
   {
    "id": "event_ev001600:0478",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "さてと　いそいで\nパールピアリにもどろうか",
-   "en": ""
+   "en": "Well then, let's hurry\nback to Pearl Piari."
   },
   {
    "id": "event_ev001600:04A4",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "お花を{h }もって\nパールピアリに{h }かえろう",
-   "en": ""
+   "en": "Let's take the flowers\nback to Pearl Piari."
   },
   {
    "id": "event_ev001600:04CE",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "おきゃくさまが　いらっしゃるまえに\nパールピアリへ{h }もどらないと",
-   "en": ""
+   "en": "I have to get back to Pearl Piari\nbefore the guests arrive."
   },
   {
    "id": "event_ev001600:0510",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "いそいで{h }パールピアリにもどろう",
-   "en": ""
+   "en": "Let's hurry back to Pearl Piari."
   },
   {
    "id": "event_ev001600:0532",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "さあ　このマーガレットを\nもってかえらなきゃ",
-   "en": ""
+   "en": "Okay, I need to take these\ndaisies home."
   },
   {
    "id": "event_ev001600:0560",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "パールピアリに\nカモミールを{h }とどけましょ",
-   "en": ""
+   "en": "Let's deliver the chamomile\nto Pearl Piari."
   },
   {
    "id": "event_ev001600:058C",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "いいにおい☆\n早くパールピアリへ　もどりましょう",
-   "en": ""
+   "en": "Smells so nice! ☆\nLet's hurry back to Pearl Piari."
   },
   {
    "id": "event_ev001600:05BE",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "パールピアリに{h }もどらないとね",
-   "en": ""
+   "en": "I need to get back to Pearl Piari."
   },
   {
    "id": "event_ev001600:05DE",
@@ -257,7 +257,7 @@
     31
    ],
    "jp": "んん〜　いいにおい\nカモミールにして{h }よかった☆",
-   "en": ""
+   "en": "Mmm, smells so nice.\nI'm glad I picked chamomile! ☆"
   },
   {
    "id": "event_ev001600:0610",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "かいものも{h }すんだことだし\nパールピアリへ{h }もどろう‥‥",
-   "en": ""
+   "en": "Now that the shopping's done,\nlet's head back to Pearl Piari..."
   },
   {
    "id": "event_ev001600:064A",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "早くパールピアリに{h }もどって\n花に水を{h }あげないとな",
-   "en": ""
+   "en": "I'd better get back to Pearl Piari\nand give the flowers some water."
   },
   {
    "id": "event_ev001600:0680",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "にこらさんが{h }まっている‥‥\n早くパールピアリへ{h }もどろう",
-   "en": ""
+   "en": "Nikora's waiting...\nLet's hurry back to Pearl Piari."
   },
   {
    "id": "event_ev001600:06BC",
@@ -289,7 +289,7 @@
     35
    ],
    "jp": "すこし{h }がんばってくれ\nもうすぐ{h }水をあげるよ",
-   "en": ""
+   "en": "Hang in there a little longer.\nI'll give you water soon."
   },
   {
    "id": "event_ev001600:06EC",
@@ -297,7 +297,7 @@
     36
    ],
    "jp": "パールピアリに{h }とうちゃーく\nさぁ　お花を{h }花ビンに入れないと！",
-   "en": ""
+   "en": "Arriving at Pearl Piari!\nNow to put the flowers in a vase!"
   },
   {
    "id": "event_ev001600:072E",
@@ -305,7 +305,7 @@
     37
    ],
    "jp": "たのしい{h }きぶんで\nレッツ　ゴー！",
-   "en": ""
+   "en": "In a happy mood...\nLet's go!"
   },
   {
    "id": "event_ev001600:0752",
@@ -313,7 +313,7 @@
     38
    ],
    "jp": "パールピアリに{h }かえってきたよ\nすぐに{h }花ビンに入れてあげないとね",
-   "en": ""
+   "en": "We're back at Pearl Piari!\nI'd better put them in a vase right away."
   },
   {
    "id": "event_ev001600:0796",
@@ -321,7 +321,7 @@
     39
    ],
    "jp": "たのしい{h }きぶんで\nフラワーアレンジメント！",
-   "en": ""
+   "en": "In a happy mood...\nflower arranging!"
   },
   {
    "id": "event_ev001600:07C4",
@@ -329,7 +329,7 @@
     40
    ],
    "jp": "パールピアリに{h }もどってきたぞ\n水をあげて{h }かわいくしないとな",
-   "en": ""
+   "en": "Back at Pearl Piari.\nI'll water them and make them look cute."
   },
   {
    "id": "event_ev001600:0804",
@@ -337,7 +337,7 @@
     41
    ],
    "jp": "さぁて　きあいを入れてやるぞー！",
-   "en": ""
+   "en": "All right, time to get fired up!"
   },
   {
    "id": "event_ev001600:0826",
@@ -345,7 +345,7 @@
     42
    ],
    "jp": "おねえちゃーん　これでいーい？",
-   "en": ""
+   "en": "Sis! Is this okaaay?"
   },
   {
    "id": "event_ev001600:0846",
@@ -353,7 +353,7 @@
     43
    ],
    "jp": "あら　ステキじゃない\nるちあも{h }いがいと{h }やるものね",
-   "en": ""
+   "en": "Oh, that's lovely!\nYou're better at this than I thought, Lucia."
   },
   {
    "id": "event_ev001600:087C",
@@ -361,7 +361,7 @@
     44
    ],
    "jp": "えへへ‥‥\nここに{h }おいたらいいんだよね？",
-   "en": ""
+   "en": "Hehe...\nI just put it here, right?"
   },
   {
    "id": "event_ev001600:08A8",
@@ -369,7 +369,7 @@
     45
    ],
    "jp": "‥‥わわっとっ　つまづいたぁ！",
-   "en": ""
+   "en": "...Whoa, whoa! I tripped!"
   },
   {
    "id": "event_ev001600:08C8",
@@ -377,7 +377,7 @@
     46
    ],
    "jp": "るちあ〜！！　気をつけてーっ！",
-   "en": ""
+   "en": "Luciaaa!! Be careful!"
   },
   {
    "id": "event_ev001600:08E8",
@@ -385,7 +385,7 @@
     47
    ],
    "jp": "ふぅ　あっぶなかったぁ‥‥\nぎりぎり{h }おとさなかったよ",
-   "en": ""
+   "en": "Phew, that was close...\nI just barely didn't drop it!"
   },
   {
    "id": "event_ev001600:0920",
@@ -393,7 +393,7 @@
     48
    ],
    "jp": "あなた{h }プリンセスなんだから\nもうすこし{h }おしとやかにね",
-   "en": ""
+   "en": "You're a princess, you know.\nTry to be a bit more graceful."
   },
   {
    "id": "event_ev001600:095A",
@@ -401,7 +401,7 @@
     49
    ],
    "jp": "ふぁーい",
-   "en": ""
+   "en": "Okaaay..."
   },
   {
    "id": "event_ev001600:0964",
@@ -409,7 +409,7 @@
     50
    ],
    "jp": "さてと‥‥\nお花は{h }ここでいいのよね？",
-   "en": ""
+   "en": "Now then...\nThe flowers go here, right?"
   },
   {
    "id": "event_ev001600:098C",
@@ -417,7 +417,7 @@
     51
    ],
    "jp": "んん☆　かわいい〜\nそれに　とっても{h }いいにおい〜",
-   "en": ""
+   "en": "Mmm ☆ So cute!\nAnd they smell really nice!"
   },
   {
    "id": "event_ev001600:09C0",
@@ -425,7 +425,7 @@
     52
    ],
    "jp": "ねー　波音　ここにある{h }お花の\nのこりって{h }もういらないの？",
-   "en": ""
+   "en": "Hey, Hanon, the leftover flowers\nhere... You don't need them?"
   },
   {
    "id": "event_ev001600:09FE",
@@ -433,7 +433,7 @@
     53
    ],
    "jp": "ああん　すてちゃダメよ\nわたし　つかう{h }つもりなんだから",
-   "en": ""
+   "en": "Oh no, don't throw them away!\nI'm planning to use them."
   },
   {
    "id": "event_ev001600:0A38",
@@ -441,7 +441,7 @@
     54
    ],
    "jp": "ええー？\nこんなの{h }どうするのー？",
-   "en": ""
+   "en": "Whaaat?\nWhat'll you do with those?"
   },
   {
    "id": "event_ev001600:0A5C",
@@ -449,7 +449,7 @@
     55
    ],
    "jp": "わかった！\nハーブだから　ポプリにするんだろ？",
-   "en": ""
+   "en": "I've got it!\nThey're herbs, so potpourri, right?"
   },
   {
    "id": "event_ev001600:0A8C",
@@ -457,7 +457,7 @@
     56
    ],
    "jp": "あったりぃ〜！\n太郎ちゃんに　プレゼントするの☆",
-   "en": ""
+   "en": "Bingooo!\nIt's a present for my Taro ☆"
   },
   {
    "id": "event_ev001600:0ABE",
@@ -465,7 +465,7 @@
     57
    ],
    "jp": "うふふっ　よろこんでくれるかなぁ？",
-   "en": ""
+   "en": "Hehe, I wonder if he'll like it?"
   },
   {
    "id": "event_ev001600:0AE2",
@@ -473,7 +473,7 @@
     58
    ],
    "jp": "さてと‥‥\nここに{h }おけばいいんだよな",
-   "en": ""
+   "en": "Now then...\nI just put it here, I guess."
   },
   {
    "id": "event_ev001600:0B0A",
@@ -481,7 +481,7 @@
     59
    ],
    "jp": "あれぇ？　リナが{h }かってきたのって\nハチに{h }うえられた{h }お花なの？",
-   "en": ""
+   "en": "Huh? Rina, the flowers you bought\nare planted in a pot?"
   },
   {
    "id": "event_ev001600:0B4E",
@@ -489,7 +489,7 @@
     60
    ],
    "jp": "ええー？\nそれって　ちょっとおかしくない？",
-   "en": ""
+   "en": "Whaaat?\nIsn't that kind of weird?"
   },
   {
    "id": "event_ev001600:0B7A",
@@ -497,7 +497,7 @@
     61
    ],
    "jp": "そんなことないさ\nこんなに{h }きれいに{h }さいているんだ",
-   "en": ""
+   "en": "Not at all.\nLook how pretty they're blooming."
   },
   {
    "id": "event_ev001600:0BB0",
@@ -505,7 +505,7 @@
     62
    ],
    "jp": "きちんと{h }せわをすれば\nずっと{h }たのしめるんだぞ",
-   "en": ""
+   "en": "If you take good care of them,\nyou can enjoy them for a long time."
   },
   {
    "id": "event_ev001600:0BE2",
@@ -513,7 +513,7 @@
     63
    ],
    "jp": "そういえば{h }そうだよねー",
-   "en": ""
+   "en": "Now that you mention it, that's true!"
   },
   {
    "id": "event_ev001600:0BFC",
@@ -521,7 +521,7 @@
     64
    ],
    "jp": "ちゃんと{h }わすれずに\n水やりを　しないといけないわね",
-   "en": ""
+   "en": "We'll have to remember\nto water them properly."
   },
   {
    "id": "event_ev001600:0C32",
@@ -529,7 +529,7 @@
     65
    ],
    "jp": "ふふふ‥‥\n２人とも{h }よろしくたのむよ",
-   "en": ""
+   "en": "Heh heh...\nI'm counting on you both."
   },
   {
    "id": "event_ev001600:0C5A",
@@ -537,7 +537,7 @@
     66
    ],
    "jp": "{h }　　　　エピソード　１[4007]　　　　\n　　『はなのいろどり』　おわり　",
-   "en": ""
+   "en": "Episode 1[4007]\n\"Colors of Flowers\" - The End"
   }
  ]
 }

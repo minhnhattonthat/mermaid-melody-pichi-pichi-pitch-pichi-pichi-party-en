@@ -8,7 +8,7 @@
     0
    ],
    "jp": "あなたたち{h }いま{h }じかんあるかしら？\nちょっと{h }アルバイトを{h }してみない？",
-   "en": ""
+   "en": "Do you girls have some time now?\nHow about a little part-time job?"
   },
   {
    "id": "event_ev001200:004C",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "アルバイトというと？",
-   "en": ""
+   "en": "A part-time job?"
   },
   {
    "id": "event_ev001200:0062",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "おきゃくさまからの\nおねがいなんだけど‥‥",
-   "en": ""
+   "en": "It's a request from\none of our guests..."
   },
   {
    "id": "event_ev001200:008E",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "ひょっとして　ワンちゃんを\nいっぱい{h }つれてきてる人？",
-   "en": ""
+   "en": "Do you mean the person who\nbrought all those doggies?"
   },
   {
    "id": "event_ev001200:00C6",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "あの{h }ゆうめいケーキやさんの\nしゃちょうふじん{h }でしょ！",
-   "en": ""
+   "en": "The wife of the president of\nthat famous cake shop, right?"
   },
   {
    "id": "event_ev001200:0100",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "そうよ　犬たちに{h }さんぽを\nさせてくれたら‥‥",
-   "en": ""
+   "en": "That's right. If you take\nher dogs for a walk..."
   },
   {
    "id": "event_ev001200:0130",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "しんさくケーキを\nししょくさせてくれるって",
-   "en": ""
+   "en": "she'll let you taste her\nshop's new cake!"
   },
   {
    "id": "event_ev001200:015C",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "やる！　みんなも{h }やるでしょ？",
-   "en": ""
+   "en": "I'll do it! You'll all do it too, right?"
   },
   {
    "id": "event_ev001200:017C",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "きょうの{h }おやつは\nしんさくケーキで{h }きまり☆",
-   "en": ""
+   "en": "Today's snack is decided:\nthe new cake! ☆"
   },
   {
    "id": "event_ev001200:01AC",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ひろいところが{h }いいよね\nだったら{h }かいがん！",
-   "en": ""
+   "en": "Somewhere roomy would be good.\nThen it's the seaside!"
   },
   {
    "id": "event_ev001200:01DC",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "サーフィンかいじょうへ\nおさんぽしよっと☆",
-   "en": ""
+   "en": "I'll take a walk\nto Surfing Beach! ☆"
   },
   {
    "id": "event_ev001200:0208",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "いっしょに\nサーフィンかいじょうに{h }いこうね",
-   "en": ""
+   "en": "Let's go to Surfing Beach\ntogether, okay?"
   },
   {
    "id": "event_ev001200:0236",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "ワンちゃんと{h }いっしょに\nサーフィンかいじょうへ{h }いこう！",
-   "en": ""
+   "en": "Let's go to Surfing Beach\nwith the doggies!"
   },
   {
    "id": "event_ev001200:0272",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "ふんすいひろばなら\nちょうどいい{h }きょりね",
-   "en": ""
+   "en": "Fountain Plaza is just\nthe right distance."
   },
   {
    "id": "event_ev001200:029E",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "ふんすいひろば{h }になら\nワンちゃんの{h }おともだちが{h }いるかも",
-   "en": ""
+   "en": "At Fountain Plaza, the doggies\nmight find some friends."
   },
   {
    "id": "event_ev001200:02DC",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "さあ　ふんすいひろばまで\nおさんぽよ",
-   "en": ""
+   "en": "Okay, let's walk\nto Fountain Plaza!"
   },
   {
    "id": "event_ev001200:0302",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "ふふ　ワンちゃんも{h }たのしそう",
-   "en": ""
+   "en": "Hehe, the doggies look like\nthey're having fun."
   },
   {
    "id": "event_ev001200:0322",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "かいひんこうえんなら\nおもいっきり{h }あそべるな",
-   "en": ""
+   "en": "At Seaside Park, they can\nplay as much as they want."
   },
   {
    "id": "event_ev001200:0352",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "かいひんこうえんまで\nさんぽに{h }いこう",
-   "en": ""
+   "en": "Let's go for a walk\nto Seaside Park."
   },
   {
    "id": "event_ev001200:037A",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "かいひんこうえんなら\nきっと{h }きもちいいぞ",
-   "en": ""
+   "en": "Seaside Park is sure\nto feel great."
   },
   {
    "id": "event_ev001200:03A6",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "かいひんこうえんまで\nきょうそうするかい？",
-   "en": ""
+   "en": "Want to race me\nto Seaside Park?"
   },
   {
    "id": "event_ev001200:03D2",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "サーフィンかいじょうに\nとうちゃーく！",
-   "en": ""
+   "en": "We've arrived at\nSurfing Beach!"
   },
   {
    "id": "event_ev001200:03FA",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "えへへ　いいところでしょ？",
-   "en": ""
+   "en": "Hehe, nice place, isn't it?"
   },
   {
    "id": "event_ev001200:0416",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "いっぱい{h }おさんぽしてから\nパールピアリまで{h }かえろうね",
-   "en": ""
+   "en": "Let's take a nice long walk,\nthen head back to Pearl Piari."
   },
   {
    "id": "event_ev001200:0450",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "ふんすいひろばに{h }とうちゃくしたわ",
-   "en": ""
+   "en": "We've reached Fountain Plaza."
   },
   {
    "id": "event_ev001200:0474",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "ほら　おさんぽ中の\nおともだちが{h }いるわよ☆",
-   "en": ""
+   "en": "Look, there are friends\nout for a walk too! ☆"
   },
   {
    "id": "event_ev001200:04A2",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "パールピアリにもどるまで\nつかれないようにね！",
-   "en": ""
+   "en": "Don't get tired before we're\nback at Pearl Piari!"
   },
   {
    "id": "event_ev001200:04D2",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "ほら　ここが{h }かいひんこうえんだよ",
-   "en": ""
+   "en": "Here, this is Seaside Park."
   },
   {
    "id": "event_ev001200:04F6",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "そうか　気に入ったか　よかった",
-   "en": ""
+   "en": "Oh, you like it? Good."
   },
   {
    "id": "event_ev001200:0516",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "いっぱい{h }たのしんでから\nパールピアリに{h }かえろうな",
-   "en": ""
+   "en": "Let's have lots of fun,\nthen go back to Pearl Piari."
   },
   {
    "id": "event_ev001200:054C",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "パールピアリに{h }かえったら\nしんさくケーキが{h }まってるんだよね",
-   "en": ""
+   "en": "When we get back to Pearl Piari,\nthe new cake will be waiting!"
   },
   {
    "id": "event_ev001200:058C",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "つかれないうちに{h }かえろうね",
-   "en": ""
+   "en": "Let's go back before you get tired."
   },
   {
    "id": "event_ev001200:05AA",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "きょうは{h }いっぱい{h }おさんぽしたね\nさぁ　パールピアリに{h }かえろう",
-   "en": ""
+   "en": "We took a really long walk today.\nNow, let's go back to Pearl Piari."
   },
   {
    "id": "event_ev001200:05EE",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "おさんぽ　たのしかった？",
-   "en": ""
+   "en": "Did you have fun on your walk?"
   },
   {
    "id": "event_ev001200:0608",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "つかれたみたいね\nパールピアリに{h }もどろうね",
-   "en": ""
+   "en": "You look tired.\nLet's go back to Pearl Piari."
   },
   {
    "id": "event_ev001200:0636",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "パールピアリに{h }もどったら\nしんさくケーキ☆　うふふ",
-   "en": ""
+   "en": "When we're back at Pearl Piari,\nit's new cake time! ☆ Hehe!"
   },
   {
    "id": "event_ev001200:066C",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "はしゃいじゃって　たのしそう",
-   "en": ""
+   "en": "They're so excited.\nThey look like they're having fun."
   },
   {
    "id": "event_ev001200:068A",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "パールピアリまで\nきょうそうしよっか？",
-   "en": ""
+   "en": "Want to race\nto Pearl Piari?"
   },
   {
    "id": "event_ev001200:06B2",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "すこし{h }つかれたみたいだな\nパールピアリに{h }もどろう",
-   "en": ""
+   "en": "Looks like you're a bit tired.\nLet's go back to Pearl Piari."
   },
   {
    "id": "event_ev001200:06E8",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "きょうは　たのしかったか？",
-   "en": ""
+   "en": "Did you have fun today?"
   },
   {
    "id": "event_ev001200:0704",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "パールピアリへ{h }もどろう‥‥",
-   "en": ""
+   "en": "Let's head back to Pearl Piari..."
   },
   {
    "id": "event_ev001200:0722",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "パールピアリまで\nきょうそうするかい？",
-   "en": ""
+   "en": "Want to race me\nto Pearl Piari?"
   },
   {
    "id": "event_ev001200:074A",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "ただいまー\nおねえちゃん　おやつのケーキは？",
-   "en": ""
+   "en": "I'm home!\nNikora, where's our cake snack?"
   },
   {
    "id": "event_ev001200:0778",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "ごめん！　じつは{h }おれいのケーキが\nひとつしか{h }なかったの！",
-   "en": ""
+   "en": "Sorry! Actually, there was only\none cake as a thank-you!"
   },
   {
    "id": "event_ev001200:07B6",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "だから　いまからテストをして",
-   "en": ""
+   "en": "So we'll have a test right now,"
   },
   {
    "id": "event_ev001200:07D4",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "いちばん犬が\nなついている人に{h }ケーキをあげるわ",
-   "en": ""
+   "en": "and whoever the dogs like best\ngets the cake."
   },
   {
    "id": "event_ev001200:0806",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "えーっ！！　しかたないなぁ",
-   "en": ""
+   "en": "Whaaat?! Oh well, I guess..."
   },
   {
    "id": "event_ev001200:0822",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "ふう　ただいまー",
-   "en": ""
+   "en": "Phew, I'm home!"
   },
   {
    "id": "event_ev001200:0834",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "ごめん！　じつは{h }おれいのケーキが\nひとつしか{h }なかったの！",
-   "en": ""
+   "en": "Sorry! Actually, there was only\none cake as a thank-you!"
   },
   {
    "id": "event_ev001200:0872",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "だから　いまからテストをして",
-   "en": ""
+   "en": "So we'll have a test right now,"
   },
   {
    "id": "event_ev001200:0890",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "いちばん犬が\nなついている人に{h }ケーキをあげるわ",
-   "en": ""
+   "en": "and whoever the dogs like best\ngets the cake."
   },
   {
    "id": "event_ev001200:08C2",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "ええー！？　まあ　いいけどねー",
-   "en": ""
+   "en": "Whaaat?! Well, I don't mind..."
   },
   {
    "id": "event_ev001200:08E2",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "いまもどりました",
-   "en": ""
+   "en": "I'm back."
   },
   {
    "id": "event_ev001200:08F4",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "ごめん！　じつは{h }おれいのケーキが\nひとつしか{h }なかったの！",
-   "en": ""
+   "en": "Sorry! Actually, there was only\none cake as a thank-you!"
   },
   {
    "id": "event_ev001200:0932",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "だから　いまからテストをして",
-   "en": ""
+   "en": "So we'll have a test right now,"
   },
   {
    "id": "event_ev001200:0950",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "いちばん犬が\nなついている人に{h }ケーキをあげるわ",
-   "en": ""
+   "en": "and whoever the dogs like best\ngets the cake."
   },
   {
    "id": "event_ev001200:0982",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "ケーキは　べつにいいけど\n犬なら　だれより{h }なついているぞ",
-   "en": ""
+   "en": "I don't really care about the cake,\nbut no dog likes anyone more than me."
   },
   {
    "id": "event_ev001200:09BE",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "ごほうびのケーキは１つだったけど\n大きなケーキが　まるごとひとつ",
-   "en": ""
+   "en": "The prize was just one cake,\nbut it was one whole big cake!"
   },
   {
    "id": "event_ev001200:0A00",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "コレなら{h }みんなで\nいっしょに{h }たべられるよね",
-   "en": ""
+   "en": "This way, we can\nall eat it together!"
   },
   {
    "id": "event_ev001200:0A30",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "え？　いいの　るちあ？",
-   "en": ""
+   "en": "Huh? Are you sure, Lucia?"
   },
   {
    "id": "event_ev001200:0A48",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "ぜんぶ{h }るちあが\nたべていいんだぞ",
-   "en": ""
+   "en": "You can eat\nall of it, Lucia."
   },
   {
    "id": "event_ev001200:0A6C",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "ううん　どーせ　１人じゃ\nこんなに{h }たべきれないしね",
-   "en": ""
+   "en": "No, no. I could never\neat this much by myself anyway."
   },
   {
    "id": "event_ev001200:0AA2",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "じゃあ　おことばに\nあまえちゃおっと☆",
-   "en": ""
+   "en": "Then I'll gladly\ntake you up on it! ☆"
   },
   {
    "id": "event_ev001200:0ACA",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "ありがとう　るちあ",
-   "en": ""
+   "en": "Thanks, Lucia."
   },
   {
    "id": "event_ev001200:0ADE",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "うっわぁ　１つは１つでも",
-   "en": ""
+   "en": "Wowww, one cake, sure, but..."
   },
   {
    "id": "event_ev001200:0AF8",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "大きなケーキが\nまるごと{h }ひとつだったんだ",
-   "en": ""
+   "en": "it was one whole\nbig cake!"
   },
   {
    "id": "event_ev001200:0B24",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "こんなの　１人じゃ\nとても{h }たべきれないよ！",
-   "en": ""
+   "en": "There's no way I can\neat this all by myself!"
   },
   {
    "id": "event_ev001200:0B52",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "だから　みんなで{h }たべよ！",
-   "en": ""
+   "en": "So let's all eat it!"
   },
   {
    "id": "event_ev001200:0B6E",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "え？　でも{h }そのケーキは\n波音の{h }ものなんだよ",
-   "en": ""
+   "en": "Huh? But that cake\nis yours, Hanon."
   },
   {
    "id": "event_ev001200:0B9E",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "そうだ　しょうぶは{h }しょうぶ\nぜんぶ{h }波音の{h }ものなんだからな",
-   "en": ""
+   "en": "That's right. A win is a win.\nIt all belongs to you, Hanon."
   },
   {
    "id": "event_ev001200:0BDE",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "こんなに{h }たべたら\nぜったいに{h }ふとっちゃう！",
-   "en": ""
+   "en": "If I eat this much,\nI'll definitely get fat!"
   },
   {
    "id": "event_ev001200:0C0E",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "だから　２人にも{h }おすそわけ☆",
-   "en": ""
+   "en": "So I'm sharing with you two! ☆"
   },
   {
    "id": "event_ev001200:0C2E",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "波音　ありがとう！",
-   "en": ""
+   "en": "Thank you, Hanon!"
   },
   {
    "id": "event_ev001200:0C42",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "すまないな　波音\nありがたくいただくよ",
-   "en": ""
+   "en": "Sorry about this, Hanon.\nI'll gladly have some."
   },
   {
    "id": "event_ev001200:0C6A",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "たしかに　ひとつはひとつだが‥‥\n大きなケーキが{h }まるごとじゃないか",
-   "en": ""
+   "en": "Sure, one cake is one cake...\nbut it's a whole big cake."
   },
   {
    "id": "event_ev001200:0CB0",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "とてもじゃないけど　たべきれない\nみんなもどうだ？",
-   "en": ""
+   "en": "There's no way I can eat it all.\nWant some, everyone?"
   },
   {
    "id": "event_ev001200:0CE4",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "えっ！　ほんとうにっ！？",
-   "en": ""
+   "en": "Huh! Seriously?!"
   },
   {
    "id": "event_ev001200:0CFE",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "だめよ　るちあ\nそれはリナのぶんなんだからね",
-   "en": ""
+   "en": "No, Lucia!\nThat's Rina's share."
   },
   {
    "id": "event_ev001200:0D2C",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "たべる{h }けんりは\nリナに{h }あるんだから",
-   "en": ""
+   "en": "Rina's the one who\nhas the right to eat it."
   },
   {
    "id": "event_ev001200:0D54",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "だったら　みんなに{h }わけるのも\nわたしの{h }けんりじゃないのか？",
-   "en": ""
+   "en": "Then isn't sharing it with everyone\nmy right too?"
   },
   {
    "id": "event_ev001200:0D94",
@@ -648,7 +648,7 @@
     80
    ],
    "jp": "そうだよねー☆",
-   "en": ""
+   "en": "That's right! ☆"
   },
   {
    "id": "event_ev001200:0DA4",
@@ -656,7 +656,7 @@
     81
    ],
    "jp": "うーん‥‥そうね\nそれなら{h }オッケーかな",
-   "en": ""
+   "en": "Hmm... I guess so.\nThen it's okay."
   },
   {
    "id": "event_ev001200:0DCE",
@@ -664,7 +664,7 @@
     82
    ],
    "jp": "ありがとね　リナ☆",
-   "en": ""
+   "en": "Thanks, Rina! ☆"
   },
   {
    "id": "event_ev001200:0DE2",
@@ -672,7 +672,7 @@
     83
    ],
    "jp": "{h }　　　　エピソード　１３　　　　\n　　{h }『犬のおさんぽ』　おわり　　",
-   "en": ""
+   "en": "Episode 13\n\"Walking the Dogs\" - The End"
   }
  ]
 }

@@ -11,7 +11,7 @@
     15
    ],
    "jp": "急いで学校にもどらなくっちゃ！",
-   "en": ""
+   "en": "I've gotta hurry back to school!"
   },
   {
    "id": "event_ev000103:0020",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "早く学校へもどらないと\n海＊が帰っちゃう〜",
-   "en": ""
+   "en": "If I don't hurry back to school,\nKaito will go home!"
   },
   {
    "id": "event_ev000103:004C",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "いそげ！　いそげ！\n学校へいそげ！",
-   "en": ""
+   "en": "Hurry! Hurry!\nHurry to School!"
   },
   {
    "id": "event_ev000103:0070",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "海＊〜！　学校で待っててね〜！",
-   "en": ""
+   "en": "Kaitooo! Wait for me at School!"
   },
   {
    "id": "event_ev000103:0090",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "いそがないと　太＊ちゃんが\n学校から帰っちゃう〜！",
-   "en": ""
+   "en": "If I don't hurry, my Taro\nwill go home from School!"
   },
   {
    "id": "event_ev000103:00C4",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "太＊ちゃ〜ん　学校で待っててね〜！",
-   "en": ""
+   "en": "Taroooo, wait for me at School!"
   },
   {
    "id": "event_ev000103:00E8",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "早く学校へもどらないと〜！",
-   "en": ""
+   "en": "I've gotta hurry back to school!"
   },
   {
    "id": "event_ev000103:0104",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "太＊ちゃ〜ん！　あたしのこと\n学校で待っててね〜！！",
-   "en": ""
+   "en": "Taroooo! Wait for me\nat School!!"
   },
   {
    "id": "event_ev000103:013A",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "少しは急がないとな‥‥\nすぶぬれで帰られても気分が悪い‥‥",
-   "en": ""
+   "en": "I should hurry a bit...\nI'd feel bad if he went home soaked..."
   },
   {
    "id": "event_ev000103:0176",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "まだ学校に\nいてくれればいいんだが‥‥",
-   "en": ""
+   "en": "I hope he's still\nat School..."
   },
   {
    "id": "event_ev000103:019E",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "るちあたち\nうまくいっていればいいんだが",
-   "en": ""
+   "en": "I hope things are going\nwell for Lucia and Hanon."
   },
   {
    "id": "event_ev000103:01C8",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "まさかこの雨の中\nぬれて帰ろうなんて思わないよな‥‥",
-   "en": ""
+   "en": "Surely he won't try to walk home\nin this rain and get soaked..."
   },
   {
    "id": "event_ev000103:01FE",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "さて　学校へ急ぐか‥‥",
-   "en": ""
+   "en": "Well, I'd better hurry to School..."
   }
  ]
 }

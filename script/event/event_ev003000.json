@@ -170,7 +170,7 @@
     20
    ],
    "jp": "水妖たちを{h }なんとかしなきゃ！",
-   "en": ""
+   "en": "I have to do something about them!"
   },
   {
    "id": "event_ev003000:03C0",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "水妖たちを　いますぐに\nとめなくっちゃ！",
-   "en": ""
+   "en": "I have to stop\nthe water demons right now!"
   },
   {
    "id": "event_ev003000:0416",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "水妖たちを{h }やっつけなきゃね！",
-   "en": ""
+   "en": "We've got to beat the water demons!"
   },
   {
    "id": "event_ev003000:0464",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "水妖たちを{h }いそいで{h }とめなきゃ！",
-   "en": ""
+   "en": "We have to hurry and stop them!"
   },
   {
    "id": "event_ev003000:04AC",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "水妖たちを{h }たおさなくてはな‥‥",
-   "en": ""
+   "en": "I must defeat the water demons..."
   },
   {
    "id": "event_ev003000:04F0",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "水妖たちめ‥‥とめてみせるっ！",
-   "en": ""
+   "en": "Water demons... I'll stop you!"
   },
   {
    "id": "event_ev003000:0532",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "見つけたわよ　水妖！",
-   "en": ""
+   "en": "Found you, water demons!"
   },
   {
    "id": "event_ev003000:0636",
@@ -330,7 +330,7 @@
     40
    ],
    "jp": "いくわよ！",
-   "en": ""
+   "en": "Here we go!"
   },
   {
    "id": "event_ev003000:06BC",
@@ -410,7 +410,7 @@
     50
    ],
    "jp": "いくわよ！",
-   "en": ""
+   "en": "Here we go!"
   },
   {
    "id": "event_ev003000:08A2",
@@ -490,7 +490,7 @@
     60
    ],
    "jp": "見つけたぞ　水妖！",
-   "en": ""
+   "en": "Found you, water demon!"
   },
   {
    "id": "event_ev003000:0A70",
@@ -522,7 +522,7 @@
     64
    ],
    "jp": "見つけたぞ　水妖！",
-   "en": ""
+   "en": "Found you, water demon!"
   },
   {
    "id": "event_ev003000:0B1A",
@@ -546,7 +546,7 @@
     67
    ],
    "jp": "いくぞ！",
-   "en": ""
+   "en": "Let's go!"
   },
   {
    "id": "event_ev003000:0B7C",
@@ -706,7 +706,7 @@
     87
    ],
    "jp": "見つけたわよ　水妖！",
-   "en": ""
+   "en": "Found you, water demons!"
   },
   {
    "id": "event_ev003000:0F26",

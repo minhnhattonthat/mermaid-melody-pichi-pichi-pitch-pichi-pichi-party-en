@@ -8,7 +8,7 @@
     0
    ],
    "jp": "ねえねえ　しってる？",
-   "en": ""
+   "en": "Hey, hey, did you know?"
   },
   {
    "id": "event_ev000300:0016",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "チューリップの花が\nひらくところを見ると‥‥",
-   "en": ""
+   "en": "If you watch a tulip\nbloom..."
   },
   {
    "id": "event_ev000300:0044",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "すきな人に{h }おもいがとどく\nおまじないがあるんだって",
-   "en": ""
+   "en": "there's a charm that makes your\nfeelings reach the one you love!"
   },
   {
    "id": "event_ev000300:007A",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "えーっ　ホント！？",
-   "en": ""
+   "en": "Whaaat? Really?!"
   },
   {
    "id": "event_ev000300:008E",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "おんがくしつの{h }うらに{h }さいてる\nチューリップって‥‥",
-   "en": ""
+   "en": "The tulips growing behind\nthe music room..."
   },
   {
    "id": "event_ev000300:00C6",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "もうすぐ{h }さきそうだったよね！",
-   "en": ""
+   "en": "looked like they'd bloom soon!"
   },
   {
    "id": "event_ev000300:00E6",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "でも　あのチューリップ‥‥\nなんだか{h }げんきがなかったぞ",
-   "en": ""
+   "en": "But those tulips...\nthey looked kind of weak."
   },
   {
    "id": "event_ev000300:0120",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "う〜ん　じゃあ{h }わたしたちで\nげんきにしてあげれば{h }いいんだよ！",
-   "en": ""
+   "en": "Hmm, then we just need to\nmake them healthy again!"
   },
   {
    "id": "event_ev000300:0162",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "お花やさんに{h }いって\nいい土を{h }もってくれば‥‥",
-   "en": ""
+   "en": "If I go to the flower shop\nand bring back some good soil..."
   },
   {
    "id": "event_ev000300:0194",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "えいようのある土って\nお花やさんに{h }いけばあるよね",
-   "en": ""
+   "en": "The flower shop should have\nsoil that's full of nutrients!"
   },
   {
    "id": "event_ev000300:01C8",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "えいようのある土をもってくれば‥‥\nはやく{h }お花やさんに{h }いかなくちゃ",
-   "en": ""
+   "en": "If I bring back rich soil...\nI've gotta go to the flower shop!"
   },
   {
    "id": "event_ev000300:0210",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "お花を{h }げんきにするには\nお花やさんで{h }土をかおう！",
-   "en": ""
+   "en": "To perk the flowers up,\nlet's buy soil at the flower shop!"
   },
   {
    "id": "event_ev000300:0246",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "いい{h }おんがくを{h }きかせれば‥‥\nＣＤショップへ{h }いこう",
-   "en": ""
+   "en": "If they hear some good music...\nLet's go to the CD shop!"
   },
   {
    "id": "event_ev000300:0280",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "ＣＤショップに{h }げんきの出る\nＣＤが{h }あったはず‥‥",
-   "en": ""
+   "en": "The CD shop should have a CD\nthat'll cheer them up..."
   },
   {
    "id": "event_ev000300:02B6",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "よし！　ＣＤショップで\nげんきの出るＣＤをゲットよ！",
-   "en": ""
+   "en": "Okay! I'll get a cheer-up CD\nat the CD shop!"
   },
   {
    "id": "event_ev000300:02EC",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "げんきの出るＣＤがあれば‥‥",
-   "en": ""
+   "en": "If I had a CD that cheers them up..."
   },
   {
    "id": "event_ev000300:030A",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "ほんやで{h }チューリップのことを\nしらべてみるか",
-   "en": ""
+   "en": "Maybe I'll look up tulips\nat the bookstore."
   },
   {
    "id": "event_ev000300:033A",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "花を{h }げんきにさせる{h }ほうほうか‥‥\n本やで{h }しらべてみるか",
-   "en": ""
+   "en": "How to make flowers healthy...\nI'll look it up at the bookstore."
   },
   {
    "id": "event_ev000300:0378",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "本で{h }しらべるのがいいよな",
-   "en": ""
+   "en": "Looking it up in a book is best."
   },
   {
    "id": "event_ev000300:0394",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "たしか　本やに{h }チューリップの\nそだてかたの本が{h }あったはず",
-   "en": ""
+   "en": "I think the bookstore had a book\non how to grow tulips."
   },
   {
    "id": "event_ev000300:03D2",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "うわ〜　キレイな花がいっぱい！\nそれに{h }いいニオイ〜",
-   "en": ""
+   "en": "Wow, so many pretty flowers!\nAnd they smell so niiice!"
   },
   {
    "id": "event_ev000300:0408",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "‥‥って\nそんなことしてる{h }ばあいじゃないや",
-   "en": ""
+   "en": "...Wait,\nthis is no time for that!"
   },
   {
    "id": "event_ev000300:0436",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "チューリップの花が\nひらくところを見て{h }わたしも‥‥",
-   "en": ""
+   "en": "Watching the tulip bloom,\nthen I can..."
   },
   {
    "id": "event_ev000300:046C",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "よし　早く{h }学校に\nもどらなくちゃっ！",
-   "en": ""
+   "en": "Okay, I'd better hurry\nback to school!"
   },
   {
    "id": "event_ev000300:0494",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "う〜んと　どれがいいかなぁ？\n‥‥これもいいし‥‥あっ　これも！",
-   "en": ""
+   "en": "Hmm, which one should I get?\n...This one's good... Oh, this too!"
   },
   {
    "id": "event_ev000300:04D6",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "‥‥きめた！　このオランダの人が\nうたってるＣＤにしよ！",
-   "en": ""
+   "en": "...Decided! I'll get this CD\nby a Dutch singer!"
   },
   {
    "id": "event_ev000300:0510",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "これで花が{h }さいてくれれば\nわたしも太郎ちゃんと‥‥",
-   "en": ""
+   "en": "If this makes the flower bloom,\nthen Taro and I..."
   },
   {
    "id": "event_ev000300:0546",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "う〜〜〜〜〜ん\n‥‥はやく{h }学校にもどろ",
-   "en": ""
+   "en": "Hmmmmmmm...\n...Better get back to school."
   },
   {
    "id": "event_ev000300:0570",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "‥‥なるほど\n日あたりと水ぶんか‥‥",
-   "en": ""
+   "en": "...I see.\nSunlight and water..."
   },
   {
    "id": "event_ev000300:0596",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥\n‥‥‥‥‥よし　だいたいおぼえた",
-   "en": ""
+   "en": "....................\n......Okay, I've got the gist."
   },
   {
    "id": "event_ev000300:05DA",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "これで花も{h }げんきになるだろう\n花が{h }ひらけば{h }おまじないもできる",
-   "en": ""
+   "en": "This should perk the flower up.\nOnce it blooms, we can do the charm."
   },
   {
    "id": "event_ev000300:061E",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "学校へ{h }もどろう",
-   "en": ""
+   "en": "Back to school."
   },
   {
    "id": "event_ev000300:0630",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "学校に{h }もどって\nおまじないしなくちゃ",
-   "en": ""
+   "en": "I have to go back to school\nand do the charm!"
   },
   {
    "id": "event_ev000300:0658",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "はやく{h }学校に{h }もどって\nチューリップを{h }げんきにしなきゃ",
-   "en": ""
+   "en": "I have to hurry back to school\nand make the tulips healthy!"
   },
   {
    "id": "event_ev000300:0694",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "おんがくしつのチューリップ\nまだ{h }だいじょうぶかな‥‥？",
-   "en": ""
+   "en": "I wonder if the music room's\ntulips are still okay...?"
   },
   {
    "id": "event_ev000300:06CE",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "学校で　チューリップの\nおまじない‥‥わたしは海斗と‥‥",
-   "en": ""
+   "en": "The tulip charm at school...\nMe and Kaito..."
   },
   {
    "id": "event_ev000300:0708",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "はやく{h }学校にもどって\nおまじない{h }しなくちゃね",
-   "en": ""
+   "en": "Gotta hurry back to school\nand do the charm!"
   },
   {
    "id": "event_ev000300:073A",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "チューリップをさかせて\n太郎ちゃんと{h }なかよくなるんだから",
-   "en": ""
+   "en": "I'll make the tulips bloom\nand get closer to Taro!"
   },
   {
    "id": "event_ev000300:0776",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "はやく　学校へ　もどらないと\nおんがくしつの{h }チューリップが‥‥",
-   "en": ""
+   "en": "If I don't hurry back to school,\nthe music room's tulips will..."
   },
   {
    "id": "event_ev000300:07B8",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "このＣＤを{h }きかせれば\nチューリップも{h }げんきになるよね",
-   "en": ""
+   "en": "If they hear this CD, the tulips\nwill perk right up!"
   },
   {
    "id": "event_ev000300:07F2",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "はやく{h }学校に\nもどらないとな‥‥",
-   "en": ""
+   "en": "I'd better hurry\nback to school..."
   },
   {
    "id": "event_ev000300:0816",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "おんがくしつの花\nまだ{h }だいじょうぶかな‥‥",
-   "en": ""
+   "en": "I wonder if the music room's\nflowers are still okay..."
   },
   {
    "id": "event_ev000300:0844",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "学校か‥‥",
-   "en": ""
+   "en": "School, huh..."
   },
   {
    "id": "event_ev000300:0850",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "はやく{h }学校に　もどらないと\n花が{h }かれてしまうかも‥‥",
-   "en": ""
+   "en": "If I don't hurry back to school,\nthe flowers might wither..."
   },
   {
    "id": "event_ev000300:088A",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "おんがくしつ　おんがくしつ‥‥\nよかった〜　まだ{h }お花{h }さいてない！",
-   "en": ""
+   "en": "Music room, music room...\nPhew! They haven't bloomed yet!"
   },
   {
    "id": "event_ev000300:08D0",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "この{h }えいようが{h }たっくさんの土と\n水をいっぱいあげて‥‥",
-   "en": ""
+   "en": "I'll give them this super-rich soil\nand lots of water..."
   },
   {
    "id": "event_ev000300:090C",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "あー！　あさ見たときよりも\nげんきがなくなってる！",
-   "en": ""
+   "en": "Ah! They look weaker than\nwhen I saw them this morning!"
   },
   {
    "id": "event_ev000300:0940",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "いまにも{h }かれそう‥‥\nどうして‥‥？",
-   "en": ""
+   "en": "They're about to wither...\nWhy...?"
   },
   {
    "id": "event_ev000300:0968",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "てんさいおんがくか{h }ユーリの\nリサイタル〜",
-   "en": ""
+   "en": "Genius musician Yuri's\nrecital~"
   },
   {
    "id": "event_ev000300:0994",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "むこうから{h }きこえてくる\nこの{h }ふきょうわおんは{h }‥‥水妖！",
-   "en": ""
+   "en": "That off-key noise coming from\nover there is... a water demon!"
   },
   {
    "id": "event_ev000300:09D2",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "このおんがくで\nげんきがなくなったんだ！",
-   "en": ""
+   "en": "This music is what\nmade them so weak!"
   },
   {
    "id": "event_ev000300:09FC",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "もう{h }ゆるさないんだからぁ！",
-   "en": ""
+   "en": "I won't forgive you anymore!"
   },
   {
    "id": "event_ev000300:0A1A",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "そのおんがくを{h }やめなさい！\nチューリップがかれちゃう！",
-   "en": ""
+   "en": "Stop that music!\nThe tulips will wither!"
   },
   {
    "id": "event_ev000300:0A54",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "キャハハハハハハハ",
-   "en": ""
+   "en": "Kyahahahahahaha!"
   },
   {
    "id": "event_ev000300:0A68",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "その{h }きたないチューリップに\nあなた　なにしてんの？",
-   "en": ""
+   "en": "What are you doing\nto that ugly tulip?"
   },
   {
    "id": "event_ev000300:0A9E",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "ひょっとして\nこいがかなうおまじない？",
-   "en": ""
+   "en": "Don't tell me...\na love charm?"
   },
   {
    "id": "event_ev000300:0AC6",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "そんなの{h }めいしんに\nきまってますわ！",
-   "en": ""
+   "en": "That's just a silly\nsuperstition!"
   },
   {
    "id": "event_ev000300:0AEE",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "おとめのねがい！\nじゃまするなんてゆるせない！",
-   "en": ""
+   "en": "A maiden's wish!\nI won't let you get in the way!"
   },
   {
    "id": "event_ev000300:0B1E",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "よかった！　まだ花は{h }さいてない！\nこの{h }おんがくを{h }きかせて‥‥",
-   "en": ""
+   "en": "Phew! They haven't bloomed yet!\nI'll let them hear this music..."
   },
   {
    "id": "event_ev000300:0B62",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "さあ〜　チューリップさん\nげんきを出してよ〜！",
-   "en": ""
+   "en": "Come on, Miss Tulip,\ncheer up!"
   },
   {
    "id": "event_ev000300:0B92",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "わたしと太郎ちゃんの\nうんめいが{h }かかってるんだからね！",
-   "en": ""
+   "en": "Taro's and my fate\nis riding on you!"
   },
   {
    "id": "event_ev000300:0BCC",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "‥‥？　あさ見たときよりも\nげんきがなくなってる！",
-   "en": ""
+   "en": "...? They look weaker than\nwhen I saw them this morning!"
   },
   {
    "id": "event_ev000300:0C00",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "いまにも{h }かれそう‥‥\nどうして‥‥？",
-   "en": ""
+   "en": "They're about to wither...\nWhy...?"
   },
   {
    "id": "event_ev000300:0C28",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "てんさいおんがくか{h }ユーリの\nリサイタル〜",
-   "en": ""
+   "en": "Genius musician Yuri's\nrecital~"
   },
   {
    "id": "event_ev000300:0C54",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "むこうから{h }きこえてくる\nこの{h }ふきょうわおんは{h }‥‥水妖！",
-   "en": ""
+   "en": "That off-key noise coming from\nover there is... a water demon!"
   },
   {
    "id": "event_ev000300:0C92",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "このおんがくで\nげんきがなくなったのね！",
-   "en": ""
+   "en": "This music is what\nmade them so weak!"
   },
   {
    "id": "event_ev000300:0CBC",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "とめなきゃ！",
-   "en": ""
+   "en": "I have to stop it!"
   },
   {
    "id": "event_ev000300:0CCA",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "そのおんがくを{h }やめなさいよ！",
-   "en": ""
+   "en": "Hey, stop that music!"
   },
   {
    "id": "event_ev000300:0CEA",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "チューリップが\nかれちゃうじゃない！",
-   "en": ""
+   "en": "The tulips are\ngoing to wither!"
   },
   {
    "id": "event_ev000300:0D10",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "キャハハハハハハハ",
-   "en": ""
+   "en": "Kyahahahahahaha!"
   },
   {
    "id": "event_ev000300:0D24",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "その{h }きたないチューリップに\nあなた　なにしてんの？",
-   "en": ""
+   "en": "What are you doing\nto that ugly tulip?"
   },
   {
    "id": "event_ev000300:0D5A",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "ひょっとして\nこいがかなうおまじない？",
-   "en": ""
+   "en": "Don't tell me...\na love charm?"
   },
   {
    "id": "event_ev000300:0D82",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "そんなの{h }めいしんに\nきまってますわ！",
-   "en": ""
+   "en": "That's just a silly\nsuperstition!"
   },
   {
    "id": "event_ev000300:0DAA",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "おとめのねがい！\nじゃまするなんてゆるせないわ！",
-   "en": ""
+   "en": "A maiden's wish!\nI won't let you get in the way!"
   },
   {
    "id": "event_ev000300:0DDC",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "まだ{h }かれてないみたいだ\nよかった‥‥",
-   "en": ""
+   "en": "Looks like they haven't\nwithered yet. Good..."
   },
   {
    "id": "event_ev000300:0E04",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "ええっと　水をたくさんあげて\n日あたりは‥‥こっちかな",
-   "en": ""
+   "en": "Let's see, lots of water,\nand sunlight... this way, I guess."
   },
   {
    "id": "event_ev000300:0E3C",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "‥‥おや？　あさ見たときよりも\nげんきが{h }なくなってるようだが",
-   "en": ""
+   "en": "...Hm? They seem weaker than\nwhen I saw them this morning."
   },
   {
    "id": "event_ev000300:0E7C",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "‥‥なぜだ‥‥？",
-   "en": ""
+   "en": "...Why...?"
   },
   {
    "id": "event_ev000300:0E8E",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "てんさいおんがくか{h }ユーリの\nリサイタル〜",
-   "en": ""
+   "en": "Genius musician Yuri's\nrecital~"
   },
   {
    "id": "event_ev000300:0EBA",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "むこうから{h }きこえてくる\nふきょうわおんは{h }‥‥水妖！",
-   "en": ""
+   "en": "That off-key noise coming from\nover there is... a water demon!"
   },
   {
    "id": "event_ev000300:0EF2",
@@ -648,7 +648,7 @@
     80
    ],
    "jp": "このおんがくで\nげんきがなくなったのか！",
-   "en": ""
+   "en": "So this music is what\nmade them weak!"
   },
   {
    "id": "event_ev000300:0F1C",
@@ -656,7 +656,7 @@
     81
    ],
    "jp": "この{h }おんがくを\nやめさせなければ！",
-   "en": ""
+   "en": "I have to make\nthat music stop!"
   },
   {
    "id": "event_ev000300:0F42",
@@ -664,7 +664,7 @@
     82
    ],
    "jp": "そのおんがくを{h }いますぐやめろ！\nチューリップがかれてしまう！",
-   "en": ""
+   "en": "Stop that music right now!\nThe tulips will wither!"
   },
   {
    "id": "event_ev000300:0F82",
@@ -672,7 +672,7 @@
     83
    ],
    "jp": "キャハハハハハハハ",
-   "en": ""
+   "en": "Kyahahahahahaha!"
   },
   {
    "id": "event_ev000300:0F96",
@@ -680,7 +680,7 @@
     84
    ],
    "jp": "その{h }きたないチューリップに\nあなた　なにしてんの？",
-   "en": ""
+   "en": "What are you doing\nto that ugly tulip?"
   },
   {
    "id": "event_ev000300:0FCC",
@@ -688,7 +688,7 @@
     85
    ],
    "jp": "ひょっとして\nこいがかなうおまじない？",
-   "en": ""
+   "en": "Don't tell me...\na love charm?"
   },
   {
    "id": "event_ev000300:0FF4",
@@ -696,7 +696,7 @@
     86
    ],
    "jp": "そんなの{h }めいしんに\nきまってますわ！",
-   "en": ""
+   "en": "That's just a silly\nsuperstition!"
   },
   {
    "id": "event_ev000300:101C",
@@ -704,7 +704,7 @@
     87
    ],
    "jp": "そのことば　ききずてならないな！",
-   "en": ""
+   "en": "I can't let that remark slide!"
   },
   {
    "id": "event_ev000300:103E",
@@ -712,7 +712,7 @@
     88
    ],
    "jp": "しんじるきもちが\nたいせつなんだ！",
-   "en": ""
+   "en": "What matters is\nbelieving!"
   },
   {
    "id": "event_ev000300:1062",
@@ -720,7 +720,7 @@
     89
    ],
    "jp": "あ‥‥花がひらく‥‥",
-   "en": ""
+   "en": "Ah... the flower's opening..."
   },
   {
    "id": "event_ev000300:1078",
@@ -728,7 +728,7 @@
     90
    ],
    "jp": "‥‥海斗ともっと\nなかよくなれますように",
-   "en": ""
+   "en": "...I hope Kaito and I\ncan get even closer."
   },
   {
    "id": "event_ev000300:10A2",
@@ -736,7 +736,7 @@
     91
    ],
    "jp": "ん？　るちあか？\nなにやってんだ？",
-   "en": ""
+   "en": "Hm? Lucia?\nWhat're you doing?"
   },
   {
    "id": "event_ev000300:10C6",
@@ -744,7 +744,7 @@
     92
    ],
    "jp": "キャッ　キャーーーッ！！\n海斗！？　どうしてー！？",
-   "en": ""
+   "en": "Eek! Kyaaaaah!!\nKaito?! What are you doing here?!"
   },
   {
    "id": "event_ev000300:10FA",
@@ -752,7 +752,7 @@
     93
    ],
    "jp": "どうしてもなにも\nここ{h }学校だろ‥‥",
-   "en": ""
+   "en": "What do you mean?\nThis is school..."
   },
   {
    "id": "event_ev000300:1120",
@@ -760,7 +760,7 @@
     94
    ],
    "jp": "お？　そのチューリップ\nもうすぐ{h }さきそうだな",
-   "en": ""
+   "en": "Oh? Looks like that tulip's\nabout to bloom."
   },
   {
    "id": "event_ev000300:1150",
@@ -768,7 +768,7 @@
     95
    ],
    "jp": "え？　え？　わ　わたし\nおまじないなんてしてないよ！",
-   "en": ""
+   "en": "Wh-what? I-I'm not\ndoing any charm!"
   },
   {
    "id": "event_ev000300:1186",
@@ -776,7 +776,7 @@
     96
    ],
    "jp": "おまじない？　なんのことだ？",
-   "en": ""
+   "en": "Charm? What are you talking about?"
   },
   {
    "id": "event_ev000300:11A4",
@@ -784,7 +784,7 @@
     97
    ],
    "jp": "それよりおまえも\n花を{h }そだてたりすんだな",
-   "en": ""
+   "en": "Anyway, so you grow\nflowers too, huh?"
   },
   {
    "id": "event_ev000300:11D0",
@@ -792,7 +792,7 @@
     98
    ],
    "jp": "ちょっと{h }いがいだけど\nそういうのもいいよな！",
-   "en": ""
+   "en": "That's a bit of a surprise,\nbut it's nice!"
   },
   {
    "id": "event_ev000300:1200",
@@ -800,7 +800,7 @@
     99
    ],
    "jp": "え？　あ　うん\nチューリップ　キレイだよね",
-   "en": ""
+   "en": "Huh? Oh, yeah.\nThe tulips are pretty, aren't they?"
   },
   {
    "id": "event_ev000300:122C",
@@ -808,7 +808,7 @@
     100
    ],
    "jp": "そうだな　すくなくとも\nおまえよりはな",
-   "en": ""
+   "en": "Yeah. Prettier than you,\nat least."
   },
   {
    "id": "event_ev000300:1254",
@@ -816,7 +816,7 @@
     101
    ],
    "jp": "ンもぉ〜　海斗のいじわるぅ〜〜！",
-   "en": ""
+   "en": "Hmph! Kaito, you meaniiie!"
   },
   {
    "id": "event_ev000300:1276",
@@ -824,7 +824,7 @@
     102
    ],
    "jp": "よしよし　花が{h }ひらいてきた",
-   "en": ""
+   "en": "Good, good. The flower's opening up."
   },
   {
    "id": "event_ev000300:1294",
@@ -832,7 +832,7 @@
     103
    ],
    "jp": "これで太郎ちゃんとの\nこいが{h }かなうのね‥‥",
-   "en": ""
+   "en": "Now my love with Taro\nwill come true..."
   },
   {
    "id": "event_ev000300:12C2",
@@ -840,7 +840,7 @@
     104
    ],
    "jp": "なにが　かなうんですか？",
-   "en": ""
+   "en": "What will come true?"
   },
   {
    "id": "event_ev000300:12DC",
@@ -848,7 +848,7 @@
     105
    ],
    "jp": "きゃっ　太郎ちゃ‥‥じゃなくて\n海月先生‥‥",
-   "en": ""
+   "en": "Eek! Taro... I mean,\nMr. Mitsuki..."
   },
   {
    "id": "event_ev000300:130A",
@@ -856,7 +856,7 @@
     106
    ],
    "jp": "キレイなチューリップが\nさいてますね",
-   "en": ""
+   "en": "What lovely tulips\nare blooming here."
   },
   {
    "id": "event_ev000300:1330",
@@ -864,7 +864,7 @@
     107
    ],
    "jp": "なんだか{h }げんきが{h }なかったんで\nわたしたちが水とかあげて‥‥",
-   "en": ""
+   "en": "They looked kind of droopy,\nso we gave them water and stuff..."
   },
   {
    "id": "event_ev000300:1370",
@@ -872,7 +872,7 @@
     108
    ],
    "jp": "それでやっと{h }花がさいたんです！",
-   "en": ""
+   "en": "And they finally bloomed!"
   },
   {
    "id": "event_ev000300:1392",
@@ -880,7 +880,7 @@
     109
    ],
    "jp": "それは{h }すてきなことですね",
-   "en": ""
+   "en": "That's a wonderful thing."
   },
   {
    "id": "event_ev000300:13AE",
@@ -888,7 +888,7 @@
     110
    ],
    "jp": "花や木に{h }やさしくできる人は\nこころの{h }やさしい人です",
-   "en": ""
+   "en": "People who are kind to flowers\nand trees have kind hearts."
   },
   {
    "id": "event_ev000300:13E6",
@@ -896,7 +896,7 @@
     111
    ],
    "jp": "これからも{h }つづけてください",
-   "en": ""
+   "en": "Please keep it up."
   },
   {
    "id": "event_ev000300:1404",
@@ -904,7 +904,7 @@
     112
    ],
    "jp": "（きゃーっ！　ほめられちゃったー！\nしんみつど{h }アップよー！）",
-   "en": ""
+   "en": "(Kyaaa! He praised me!\nWe're getting closer!)"
   },
   {
    "id": "event_ev000300:1444",
@@ -912,7 +912,7 @@
     113
    ],
    "jp": "‥‥‥‥よかった\nさいてくれた‥‥",
-   "en": ""
+   "en": "......Good.\nIt bloomed..."
   },
   {
    "id": "event_ev000300:1468",
@@ -920,7 +920,7 @@
     114
    ],
    "jp": "お？　洞院じゃないか\nなにやってんだ？　こんなところで",
-   "en": ""
+   "en": "Oh? Isn't that Toin?\nWhat are you doing out here?"
   },
   {
    "id": "event_ev000300:14A0",
@@ -928,7 +928,7 @@
     115
    ],
    "jp": "いや　チューリップの花をな‥‥",
-   "en": ""
+   "en": "Nothing, it's just the tulips..."
   },
   {
    "id": "event_ev000300:14C0",
@@ -936,7 +936,7 @@
     116
    ],
    "jp": "チューリップ？　ああ　わかった\n女子が{h }さわいでるアレだろ？",
-   "en": ""
+   "en": "Tulips? Oh, I get it.\nThat thing the girls are going on about?"
   },
   {
    "id": "event_ev000300:14FE",
@@ -944,7 +944,7 @@
     117
    ],
    "jp": "花が{h }ひらくのを見ると\nこいがかなう{h }だっけ？",
-   "en": ""
+   "en": "If you see the flower open,\nyour love comes true, right?"
   },
   {
    "id": "event_ev000300:152E",
@@ -952,7 +952,7 @@
     118
    ],
    "jp": "ち　ちがうぞ！　わたしは{h }ただ\n花が{h }かれそうだから‥‥",
-   "en": ""
+   "en": "Th-that's not it! I just thought\nthe flower looked like it was dying..."
   },
   {
    "id": "event_ev000300:1568",
@@ -960,7 +960,7 @@
     119
    ],
    "jp": "で　あいては{h }だれなんだよ？",
-   "en": ""
+   "en": "So who's the lucky guy?"
   },
   {
    "id": "event_ev000300:1586",
@@ -968,7 +968,7 @@
     120
    ],
    "jp": "おまえ　人のはなしを\nきいてないだろ！",
-   "en": ""
+   "en": "You're not listening\nto a word I say!"
   },
   {
    "id": "event_ev000300:15AE",
@@ -976,7 +976,7 @@
     121
    ],
    "jp": "で？　だれなんだよ？",
-   "en": ""
+   "en": "So? Who is it?"
   },
   {
    "id": "event_ev000300:15C4",
@@ -984,7 +984,7 @@
     122
    ],
    "jp": "だ　だからぁー‥‥‥‥",
-   "en": ""
+   "en": "L-like I said......"
   },
   {
    "id": "event_ev000300:15DC",
@@ -992,7 +992,7 @@
     123
    ],
    "jp": "{h }　　　　エピソード　４　　　　　\n　　『はなのおまじない』　おわり　",
-   "en": ""
+   "en": "       Episode 4\n\"Flower Charm\" - The End"
   }
  ]
 }

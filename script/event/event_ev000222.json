@@ -11,7 +11,7 @@
     7
    ],
    "jp": "少しは急がないとな‥‥\nすぶぬれで帰られても気分が悪い‥‥",
-   "en": ""
+   "en": "I should hurry a bit...\nI'd feel bad if he went home soaked..."
   },
   {
    "id": "event_ev000222:003C",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "まだ学校に\nいてくれればいいんだが‥‥",
-   "en": ""
+   "en": "I hope he's still\nat School..."
   },
   {
    "id": "event_ev000222:0064",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "るちあたち\nうまくいっていればいいんだが",
-   "en": ""
+   "en": "I hope things are going\nwell for Lucia and Hanon."
   },
   {
    "id": "event_ev000222:008E",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "まさかこの雨の中\nぬれて帰ろうなんて思わないよな‥‥",
-   "en": ""
+   "en": "Surely he won't try to walk home\nin this rain and get soaked..."
   },
   {
    "id": "event_ev000222:00C4",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "さて　学校へ急ぐか‥‥",
-   "en": ""
+   "en": "Well, I'd better hurry to School..."
   }
  ]
 }

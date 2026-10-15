@@ -9,7 +9,7 @@
     87
    ],
    "jp": "‥‥だいぶ{h }天気が{h }わるいな\nいまにも{h }雨が{h }ふってきそうだ",
-   "en": ""
+   "en": "...The weather's pretty bad.\nIt looks like it'll rain any second."
   },
   {
    "id": "event_ev000200:003E",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "そういえば{h }海斗がカサ\nもってきてないって{h }いってた‥‥",
-   "en": ""
+   "en": "Come to think of it, Kaito said\nhe didn't bring an umbrella..."
   },
   {
    "id": "event_ev000200:0078",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "太郎ちゃんは{h }どうだろう？",
-   "en": ""
+   "en": "What about my Taro?"
   },
   {
    "id": "event_ev000200:0094",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "ちゃんと\nカサもってきてるのかなぁ？",
-   "en": ""
+   "en": "I wonder if he\nbrought an umbrella..."
   },
   {
    "id": "event_ev000200:00BA",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "そんなにしんぱいなら‥‥",
-   "en": ""
+   "en": "If you're that worried..."
   },
   {
    "id": "event_ev000200:00D4",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "カサをとどけに\n学校へ{h }もどろうか？",
-   "en": ""
+   "en": "Why don't we go back to School\nto bring them umbrellas?"
   },
   {
    "id": "event_ev000200:00FA",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "うん{h }そうね‥‥それいいかも！",
-   "en": ""
+   "en": "Yeah, okay... That might be good!"
   },
   {
    "id": "event_ev000200:011A",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "カサを１本だけもってきて\nあいあいガサを‥‥",
-   "en": ""
+   "en": "I'll bring just one umbrella\nand we can share it..."
   },
   {
    "id": "event_ev000200:0148",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "それじゃあまず\nカサをとりに{h }うちにかえろう！",
-   "en": ""
+   "en": "Okay, first let's go home\nto get umbrellas!"
   },
   {
    "id": "event_ev000200:0178",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "いそいでパールピアリへ\nいかなくっちゃ！",
-   "en": ""
+   "en": "I've gotta hurry\nto the Pearl Piari!"
   },
   {
    "id": "event_ev000200:01A2",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "早くパールピアリへ\nいかなくっちゃ！",
-   "en": ""
+   "en": "I've gotta hurry\nto the Pearl Piari!"
   },
   {
    "id": "event_ev000200:01C8",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "海斗と{h }あいあいガサ\nできるといいな‥‥{i21C}",
-   "en": ""
+   "en": "I hope I get to share\nan umbrella with Kaito...{i21C}"
   },
   {
    "id": "event_ev000200:01F4",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "パールピアリへ{h }いそがなくっちゃ！",
-   "en": ""
+   "en": "I've gotta hurry to the Pearl Piari!"
   },
   {
    "id": "event_ev000200:0218",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "早くカサをとりにかえって\n太郎ちゃんと‥‥うふふ",
-   "en": ""
+   "en": "I'll hurry home for an umbrella\nand then my Taro and I... Hehehe"
   },
   {
    "id": "event_ev000200:024A",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "早くカサを{h }パールピアリから‥‥",
-   "en": ""
+   "en": "Quick, get an umbrella from the Pearl Piari..."
   },
   {
    "id": "event_ev000200:026C",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "るちあたち　しんぱいだな",
-   "en": ""
+   "en": "I'm worried about Lucia and Hanon."
   },
   {
    "id": "event_ev000200:0286",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "ねんのため\nわたしも{h }もっていってやるか",
-   "en": ""
+   "en": "Just in case,\nI'll bring one along too."
   },
   {
    "id": "event_ev000200:02B0",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "雨にぬれたらたいへんだ\nたしょうは{h }いそぐか‥‥",
-   "en": ""
+   "en": "It'd be bad to get caught in the rain.\nI'd better hurry a little..."
   },
   {
    "id": "event_ev000200:02E2",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "いえによびのカサ{h }あったよな",
-   "en": ""
+   "en": "There's a spare umbrella at home, right?"
   },
   {
    "id": "event_ev000200:0300",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "カサ{h }見つけたよ！",
-   "en": ""
+   "en": "I found an umbrella!"
   },
   {
    "id": "event_ev000200:0314",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "それじゃあ{h }いそいで\n学校に{h }もどらなくっちゃ！",
-   "en": ""
+   "en": "Okay, now I'd better hurry\nback to school!"
   },
   {
    "id": "event_ev000200:0346",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "カサ　みーつけた！",
-   "en": ""
+   "en": "Found an umbrella!"
   },
   {
    "id": "event_ev000200:035A",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "よーし！\n学校へもどるわよー！",
-   "en": ""
+   "en": "All right!\nBack to school I go!"
   },
   {
    "id": "event_ev000200:037A",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "カサと‥‥\nあった！　これだ！",
-   "en": ""
+   "en": "An umbrella and...\nThere it is! This one!"
   },
   {
    "id": "event_ev000200:039A",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "るちあたちのことだから\nうまくいかなくて",
-   "en": ""
+   "en": "Knowing Lucia and Hanon,\nthings won't go right,"
   },
   {
    "id": "event_ev000200:03C4",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "カサだけ{h }手わたして\nじぶんたちが{h }雨にぬれて",
-   "en": ""
+   "en": "If we just hand over the umbrella\nand then get caught in the rain"
   },
   {
    "id": "event_ev000200:03F4",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "マーメイドにでもなったら\nたいへんだからな",
-   "en": ""
+   "en": "and turn into mermaids,\nthat'd be a disaster."
   },
   {
    "id": "event_ev000200:0420",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "いそいで\n学校へもどろう‥‥",
-   "en": ""
+   "en": "Let's hurry\nback to school..."
   },
   {
    "id": "event_ev000200:043E",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "早く学校へもどらないと\n海斗がかえっちゃう〜",
-   "en": ""
+   "en": "If I don't get back to school soon,\nKaito will go home!"
   },
   {
    "id": "event_ev000200:046C",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "海斗〜！　学校で\nまっててね〜！",
-   "en": ""
+   "en": "Kaitooo! Wait for me\nat school!"
   },
   {
    "id": "event_ev000200:048E",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "いそいで{h }学校に\nもどらなくっちゃ！",
-   "en": ""
+   "en": "I have to hurry\nback to school!"
   },
   {
    "id": "event_ev000200:04B4",
@@ -257,7 +257,7 @@
     31
    ],
    "jp": "いそがないと{h }太郎ちゃんが\n学校から{h }かえっちゃう〜！",
-   "en": ""
+   "en": "If I don't hurry, Taro will\nleave school and go home!"
   },
   {
    "id": "event_ev000200:04EC",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "太郎ちゃ〜ん\n学校で{h }まっててね〜！",
-   "en": ""
+   "en": "Taroooo!\nWait for me at school!"
   },
   {
    "id": "event_ev000200:0512",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "早く{h }学校へ{h }もどらないと〜！",
-   "en": ""
+   "en": "I've gotta get back to school, quick!"
   },
   {
    "id": "event_ev000200:0532",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "すこしは{h }いそがないとな‥‥",
-   "en": ""
+   "en": "I should hurry a little..."
   },
   {
    "id": "event_ev000200:0550",
@@ -289,7 +289,7 @@
     35
    ],
    "jp": "るちあたち\nうまくいっていればいいんだが",
-   "en": ""
+   "en": "I hope things are going\nwell for Lucia and Hanon."
   },
   {
    "id": "event_ev000200:057A",
@@ -297,7 +297,7 @@
     36
    ],
    "jp": "さて　学校へ{h }いそぐか‥‥",
-   "en": ""
+   "en": "Well, I'd better hurry to school..."
   },
   {
    "id": "event_ev000200:0596",
@@ -305,7 +305,7 @@
     37
    ],
    "jp": "キャハハ　雨よふりなさい！\nもっと　も〜っとふりなさーい！",
-   "en": ""
+   "en": "Kyahaha! Rain, fall!\nFall more and moooore!"
   },
   {
    "id": "event_ev000200:05D2",
@@ -313,7 +313,7 @@
     38
    ],
    "jp": "そして{h }マーメイドプリンセスたちを\nおびきよせるのよ！",
-   "en": ""
+   "en": "And lure the\nMermaid Princesses here!"
   },
   {
    "id": "event_ev000200:060A",
@@ -321,7 +321,7 @@
     39
    ],
    "jp": "あー！　あんなところに水妖が！",
-   "en": ""
+   "en": "Ah! There's a water demon over there!"
   },
   {
    "id": "event_ev000200:062A",
@@ -329,7 +329,7 @@
     40
    ],
    "jp": "きゅうに{h }お天気が\nおかしくなったとおもったら‥‥",
-   "en": ""
+   "en": "I thought the weather\nwent weird all of a sudden..."
   },
   {
    "id": "event_ev000200:065E",
@@ -337,7 +337,7 @@
     41
    ],
    "jp": "水妖のしわざだったのね！",
-   "en": ""
+   "en": "So it was the water demon's doing!"
   },
   {
    "id": "event_ev000200:0678",
@@ -345,7 +345,7 @@
     42
    ],
    "jp": "よーし！",
-   "en": ""
+   "en": "All right!"
   },
   {
    "id": "event_ev000200:0682",
@@ -353,7 +353,7 @@
     43
    ],
    "jp": "あー！　あんなところに水妖が！",
-   "en": ""
+   "en": "Ah! There's a water demon over there!"
   },
   {
    "id": "event_ev000200:06A2",
@@ -361,7 +361,7 @@
     44
    ],
    "jp": "きゅうに{h }天気がわるくなったのは\n水妖のしわざだったのね！",
-   "en": ""
+   "en": "So the sudden bad weather was\nthe water demon's doing!"
   },
   {
    "id": "event_ev000200:06DE",
@@ -369,7 +369,7 @@
     45
    ],
    "jp": "いくわよ！",
-   "en": ""
+   "en": "Here we go!"
   },
   {
    "id": "event_ev000200:06EA",
@@ -377,7 +377,7 @@
     46
    ],
    "jp": "あんなところに水妖が！",
-   "en": ""
+   "en": "There's a water demon over there!"
   },
   {
    "id": "event_ev000200:0702",
@@ -385,7 +385,7 @@
     47
    ],
    "jp": "あいつのせいだったんだな！\n天気が{h }おかしくなったのは！",
-   "en": ""
+   "en": "So it was that thing's fault\nthe weather went strange!"
   },
   {
    "id": "event_ev000200:073C",
@@ -393,7 +393,7 @@
     48
    ],
    "jp": "みんな！　いくよ！",
-   "en": ""
+   "en": "Everyone! Let's go!"
   },
   {
    "id": "event_ev000200:0750",
@@ -401,7 +401,7 @@
     49
    ],
    "jp": "水妖をやっつけたのはいいけど‥‥\n雨{h }やまないなぁ‥‥",
-   "en": ""
+   "en": "We beat the water demon, but...\nthe rain won't stop..."
   },
   {
    "id": "event_ev000200:0788",
@@ -409,7 +409,7 @@
     50
    ],
    "jp": "よう　るちあ\nまだ学校にいたのか",
-   "en": ""
+   "en": "Hey, Lucia.\nYou're still at School?"
   },
   {
    "id": "event_ev000200:07AA",
@@ -417,7 +417,7 @@
     51
    ],
    "jp": "雨がやまねぇなぁ‥‥",
-   "en": ""
+   "en": "This rain just won't quit..."
   },
   {
    "id": "event_ev000200:07C0",
@@ -425,7 +425,7 @@
     52
    ],
    "jp": "わたし{h }カサもってるんだけど‥‥\nえっと{h }そのぉ‥‥",
-   "en": ""
+   "en": "I've got an umbrella, but...\num, well..."
   },
   {
    "id": "event_ev000200:07F6",
@@ -433,7 +433,7 @@
     53
    ],
    "jp": "（はずかしくって{h }あいあいガサ\nしようって{h }いえない〜！）",
-   "en": ""
+   "en": "(I'm too embarrassed to ask\nhim to share my umbrella!)"
   },
   {
    "id": "event_ev000200:0832",
@@ -441,7 +441,7 @@
     54
    ],
    "jp": "わりぃ　るちあ\nおまえのカサに入れてくれないか？",
-   "en": ""
+   "en": "Sorry, Lucia.\nCan I share your umbrella?"
   },
   {
    "id": "event_ev000200:0864",
@@ -449,7 +449,7 @@
     55
    ],
    "jp": "う　うん‥‥‥‥いいよ！",
-   "en": ""
+   "en": "S-sure... ...Okay!"
   },
   {
    "id": "event_ev000200:087E",
@@ -457,7 +457,7 @@
     56
    ],
    "jp": "（や　やったぁ！）",
-   "en": ""
+   "en": "(Y-yaaay!)"
   },
   {
    "id": "event_ev000200:0892",
@@ -465,7 +465,7 @@
     57
    ],
    "jp": "（海斗と　あいあいガサだ〜！\nカサ{h }もってきてよかった！）",
-   "en": ""
+   "en": "(Sharing an umbrella with Kaito!\nI'm so glad I brought one!)"
   },
   {
    "id": "event_ev000200:08CE",
@@ -473,7 +473,7 @@
     58
    ],
    "jp": "水妖をやっつけたのに\n雨{h }やまないな‥‥",
-   "en": ""
+   "en": "We beat the water demon,\nbut the rain won't stop..."
   },
   {
    "id": "event_ev000200:08F8",
@@ -481,7 +481,7 @@
     59
    ],
    "jp": "だけど　あいあいガサするのには\nちょうどいいのかな‥‥なぁんてね",
-   "en": ""
+   "en": "But maybe it's just right for sharing\nan umbrella... Just kidding!"
   },
   {
    "id": "event_ev000200:093A",
@@ -489,7 +489,7 @@
     60
    ],
    "jp": "おや？　波音さん\nてっきり　もうかえったとばかり‥‥",
-   "en": ""
+   "en": "Oh? Hanon?\nI was sure you'd gone home..."
   },
   {
    "id": "event_ev000200:0970",
@@ -497,7 +497,7 @@
     61
    ],
    "jp": "あはは　ちょっときょうしつに\nわすれものを‥‥",
-   "en": ""
+   "en": "Ahaha, I just forgot\nsomething in class..."
   },
   {
    "id": "event_ev000200:09A0",
@@ -505,7 +505,7 @@
     62
    ],
    "jp": "先生はまだ\nかえらないんですかぁ？",
-   "en": ""
+   "en": "Aren't you going\nhome yet, sir?"
   },
   {
    "id": "event_ev000200:09C4",
@@ -513,7 +513,7 @@
     63
    ],
    "jp": "そのつもりだったんですが\nカサを{h }もってきてなくて‥‥",
-   "en": ""
+   "en": "I meant to go home, but\nI didn't bring an umbrella..."
   },
   {
    "id": "event_ev000200:09FC",
@@ -521,7 +521,7 @@
     64
    ],
    "jp": "あのっ！　もしよかったら",
-   "en": ""
+   "en": "Um! If it's okay with you..."
   },
   {
    "id": "event_ev000200:0A16",
@@ -529,7 +529,7 @@
     65
    ],
    "jp": "わたしのカサでいっしょに\nかえりませんか？",
-   "en": ""
+   "en": "would you like to walk home\nwith me under my umbrella?"
   },
   {
    "id": "event_ev000200:0A42",
@@ -537,7 +537,7 @@
     66
    ],
    "jp": "え！？　いいんですか？\nすいません　ありがとう",
-   "en": ""
+   "en": "Huh?! Are you sure?\nSorry about this. Thank you."
   },
   {
    "id": "event_ev000200:0A72",
@@ -545,7 +545,7 @@
     67
    ],
    "jp": "（キャー！　やったーっ！！）",
-   "en": ""
+   "en": "(Eeek! Yaaay!!)"
   },
   {
    "id": "event_ev000200:0A90",
@@ -553,7 +553,7 @@
     68
    ],
    "jp": "（太郎ちゃんといっしょにかえれて\nうれしー！！）",
-   "en": ""
+   "en": "(I get to go home with Taro!\nI'm so happyyy!!)"
   },
   {
    "id": "event_ev000200:0AC2",
@@ -561,7 +561,7 @@
     69
    ],
    "jp": "水妖を{h }やっつけたのに\n雨が{h }やまない‥‥",
-   "en": ""
+   "en": "We beat the water demon,\nbut the rain won't stop..."
   },
   {
    "id": "event_ev000200:0AEE",
@@ -577,7 +577,7 @@
     71
    ],
    "jp": "さぁて　わたしは{h }そろそろ\n‥‥ん？",
-   "en": ""
+   "en": "Well, I guess I should get\ngoing... Hm?"
   },
   {
    "id": "event_ev000200:0B22",
@@ -585,7 +585,7 @@
     72
    ],
    "jp": "リナぁ‥‥まってぇ〜！",
-   "en": ""
+   "en": "Rinaaa... Waaait!"
   },
   {
    "id": "event_ev000200:0B3A",
@@ -593,7 +593,7 @@
     73
    ],
    "jp": "あー{h }よかった\nリナが{h }まだ{h }いてくれて",
-   "en": ""
+   "en": "Phew, I'm so glad\nyou're still here, Rina."
   },
   {
    "id": "event_ev000200:0B64",
@@ -601,7 +601,7 @@
     74
    ],
    "jp": "どうしたんだ　２人とも？",
-   "en": ""
+   "en": "What's wrong with you two?"
   },
   {
    "id": "event_ev000200:0B7E",
@@ -609,7 +609,7 @@
     75
    ],
    "jp": "いっしょに　あいあいガサを\nしようと{h }おもったんだけど‥‥",
-   "en": ""
+   "en": "I wanted to share an\numbrella with him, but..."
   },
   {
    "id": "event_ev000200:0BBA",
@@ -617,7 +617,7 @@
     76
    ],
    "jp": "はずかしくなっちゃって　カサだけ\nわたして{h }かえってきちゃった",
-   "en": ""
+   "en": "I got too shy, just handed\nover the umbrella and came back."
   },
   {
    "id": "event_ev000200:0BFA",
@@ -625,7 +625,7 @@
     77
    ],
    "jp": "せっかく　わざわざ{h }カサを\nとりに{h }かえったのにねー",
-   "en": ""
+   "en": "Even after we went all the\nway home to get umbrellas!"
   },
   {
    "id": "event_ev000200:0C30",
@@ -633,7 +633,7 @@
     78
    ],
    "jp": "なんだ　２人とも{h }カサを\nわたしただけで{h }かえってきたのか",
-   "en": ""
+   "en": "What, you both just handed over\nthe umbrellas and came back?"
   },
   {
    "id": "event_ev000200:0C6C",
@@ -641,7 +641,7 @@
     79
    ],
    "jp": "えへへ‥‥",
-   "en": ""
+   "en": "Ehehe..."
   },
   {
    "id": "event_ev000200:0C78",
@@ -649,7 +649,7 @@
     80
    ],
    "jp": "それじゃあ　３人{h }なかよく\nいっしょに{h }かえろうか",
-   "en": ""
+   "en": "Then why don't the three of us\nwalk home together?"
   },
   {
    "id": "event_ev000200:0CAC",
@@ -657,7 +657,7 @@
     81
    ],
    "jp": "うん！",
-   "en": ""
+   "en": "Yeah!"
   },
   {
    "id": "event_ev000200:0CB4",
@@ -665,7 +665,7 @@
     82
    ],
    "jp": "それもいいかもね！",
-   "en": ""
+   "en": "That might be nice!"
   },
   {
    "id": "event_ev000200:0CC8",
@@ -673,7 +673,7 @@
     83
    ],
    "jp": "あーあ　リナが{h }太郎ちゃんだったら\nよかったのになぁ‥‥なぁんてね",
-   "en": ""
+   "en": "Aww, if only Rina were Taro...\nJust kidding!"
   },
   {
    "id": "event_ev000200:0D0C",
@@ -681,7 +681,7 @@
     84
    ],
    "jp": "でも{h }こうやって{h }３人で{h }いっしょに\nかえるのも{h }わるくは{h }ないよね",
-   "en": ""
+   "en": "But walking home together,\nthe three of us, isn't bad either!"
   },
   {
    "id": "event_ev000200:0D52",
@@ -689,7 +689,7 @@
     85
    ],
    "jp": "ふふふ　そうだな‥‥",
-   "en": ""
+   "en": "Heh heh, I guess so..."
   },
   {
    "id": "event_ev000200:0D68",
@@ -697,7 +697,7 @@
     86
    ],
    "jp": "{h }　　　　エピソード　３　　　　　\n　　　『やさしいあめ』　おわり　",
-   "en": ""
+   "en": "          Episode 3\n\"A Gentle Rain\" - The End"
   }
  ]
 }

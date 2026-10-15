@@ -8,7 +8,7 @@
     0
    ],
    "jp": "たいへんよ！　海斗くんのたいせつな\nサーフボードが{h }とられたんだって！",
-   "en": ""
+   "en": "It's terrible! Kaito's precious\nsurfboard was stolen!"
   },
   {
    "id": "event_ev001700:0048",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "えーーっ！　海斗にとっては\nたからものも{h }どうぜんの{h }ものなのに",
-   "en": ""
+   "en": "Whaaat?! To Kaito,\nthat's practically a treasure!"
   },
   {
    "id": "event_ev001700:008A",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "サーフボードを{h }ぬすんだのは\nいったい{h }どんなヤツなんだ？",
-   "en": ""
+   "en": "Who on earth would steal\nhis surfboard?"
   },
   {
    "id": "event_ev001700:00C6",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "海斗くんが{h }いうには\nへんな{h }かっこうをした{h }女の人だって",
-   "en": ""
+   "en": "Kaito says it was a woman\nin a weird outfit."
   },
   {
    "id": "event_ev001700:0102",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "へんな{h }かっこうをした{h }女の人‥‥\nくっ　水妖のしわざか！",
-   "en": ""
+   "en": "A woman in a weird outfit...\nUgh, it's the water demons' doing!"
   },
   {
    "id": "event_ev001700:013E",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ぜったいに　ゆるさないんだからぁ！",
-   "en": ""
+   "en": "I'm never gonna forgive them!"
   },
   {
    "id": "event_ev001700:0162",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "さっそく{h }はんにんを{h }\n見つけなきゃ！",
-   "en": ""
+   "en": "We have to find the culprit\nright away!"
   },
   {
    "id": "event_ev001700:018A",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "サーフボードを{h }ぬすむだなんて\nゆるさないんだからぁ！",
-   "en": ""
+   "en": "Stealing a surfboard...\nI'm never gonna forgive that!"
   },
   {
    "id": "event_ev001700:01C2",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "水妖！　いったい{h }どこにいるの！",
-   "en": ""
+   "en": "Water demon! Where are you?!"
   },
   {
    "id": "event_ev001700:01E4",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "サーフボードを{h }ぬすんだ{h }水妖！\nかくれてないで{h }出てらっしゃい！！",
-   "en": ""
+   "en": "Water demon who stole the surfboard!\nStop hiding and come out!!"
   },
   {
    "id": "event_ev001700:022A",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "サーフボードは{h }海斗にとって\nたいせつな{h }たからものなんだから",
-   "en": ""
+   "en": "That surfboard is Kaito's\nprecious treasure!"
   },
   {
    "id": "event_ev001700:026A",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "海斗くんのサーフボード‥‥\nぜったいに{h }とりかえさなきゃ！",
-   "en": ""
+   "en": "Kaito's surfboard...\nWe have to get it back!"
   },
   {
    "id": "event_ev001700:02A6",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "水妖ったら　見つけたら\nぜったいに{h }ゆるさない！",
-   "en": ""
+   "en": "Those water demons... When I find them,\nI'll never forgive them!"
   },
   {
    "id": "event_ev001700:02D8",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "水妖！　どこにかくれてるの！",
-   "en": ""
+   "en": "Water demons! Where are you hiding?!"
   },
   {
    "id": "event_ev001700:02F6",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "海斗くんって　サーフボードを\nとっても{h }たいせつに{h }してるのに‥‥",
-   "en": ""
+   "en": "Kaito treasures that surfboard\nso much..."
   },
   {
    "id": "event_ev001700:033A",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "海斗のサーフボード‥‥\nアイツにとっては{h }たからものなのに",
-   "en": ""
+   "en": "Kaito's surfboard...\nTo him, it's a treasure."
   },
   {
    "id": "event_ev001700:0376",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "水妖め‥‥見つけたら\nただではおかないぞ！",
-   "en": ""
+   "en": "Water demons... When I find you,\nyou won't get off easy!"
   },
   {
    "id": "event_ev001700:03A2",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "どこにいるんだ　水妖！\n‥‥出てこいっ！",
-   "en": ""
+   "en": "Where are you, water demon?!\n...Come out!"
   },
   {
    "id": "event_ev001700:03CC",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "海斗‥‥{h }サーフボード\nちゃんと{h }とりかえしてやるからな！",
-   "en": ""
+   "en": "Kaito... I'll get your surfboard\nback for you, I promise!"
   },
   {
    "id": "event_ev001700:0408",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "見つけたわよ　水妖！\nサーフボードを{h }かえしなさい！",
-   "en": ""
+   "en": "Found you, water demon!\nGive back the surfboard!"
   },
   {
    "id": "event_ev001700:043E",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "え〜？　エリルは{h }そんなもの\nしらないし　きょうみ{h }ないも〜ん！",
-   "en": ""
+   "en": "Huuuh? Eriru doesn't know\nabout that, and doesn't care!"
   },
   {
    "id": "event_ev001700:0480",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "そんなウソついたって\nダメなんだからね！",
-   "en": ""
+   "en": "Lying like that\nwon't work on me!"
   },
   {
    "id": "event_ev001700:04AA",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "しらないものは　しらないのよ〜！",
-   "en": ""
+   "en": "I don't know what I don't knooow!"
   },
   {
    "id": "event_ev001700:04CC",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "あっ！　まてーっ！",
-   "en": ""
+   "en": "Ah! Waaait!"
   },
   {
    "id": "event_ev001700:04E0",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "にげられちゃった　でも‥‥\nほんとうに{h }しらなかったみたい",
-   "en": ""
+   "en": "She got away. But...\nit seems she really didn't know."
   },
   {
    "id": "event_ev001700:051C",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "このまま　あきらめるわけには\nいかないわ",
-   "en": ""
+   "en": "I can't just\ngive up like this."
   },
   {
    "id": "event_ev001700:0546",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "べつの{h }水妖を{h }見つけださなきゃ！",
-   "en": ""
+   "en": "I have to find another water demon!"
   },
   {
    "id": "event_ev001700:056A",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "やっと　見つけたんだから！",
-   "en": ""
+   "en": "I finally found you!"
   },
   {
    "id": "event_ev001700:0586",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "水妖！\nサーフボードを{h }かえしなさい！",
-   "en": ""
+   "en": "Water demon!\nGive back the surfboard!"
   },
   {
    "id": "event_ev001700:05AE",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "キャハハ　なに{h }いってんの\nユーリは{h }そんなの{h }しらなーい！",
-   "en": ""
+   "en": "Kyahaha, what are you saying?\nYuri doesn't know about that!"
   },
   {
    "id": "event_ev001700:05EC",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "しらないですって！\nウソ{h }つかないでよ！",
-   "en": ""
+   "en": "You don't know?!\nDon't lie to me!"
   },
   {
    "id": "event_ev001700:0616",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "サーフボードなんてぇ\nしらないったら　しらないんだもーん",
-   "en": ""
+   "en": "A surfboard?\nI don't know, I just don't knooow!"
   },
   {
    "id": "event_ev001700:0650",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "あーっ！　にげるなぁ！",
-   "en": ""
+   "en": "Hey! Don't run away!"
   },
   {
    "id": "event_ev001700:0668",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "んもー！　にげられちゃった‥‥\nでも{h }ほんとうに{h }しらなかったのかも",
-   "en": ""
+   "en": "Ugh! She got away...\nBut maybe she really didn't know."
   },
   {
    "id": "event_ev001700:06AE",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "このまま　あきらめちゃうわけには\nいかないもんね",
-   "en": ""
+   "en": "I can't just\ngive up like this!"
   },
   {
    "id": "event_ev001700:06E0",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "べつの{h }水妖を{h }\n見つけて{h }みせるんだから！",
-   "en": ""
+   "en": "I'll find another\nwater demon, just watch!"
   },
   {
    "id": "event_ev001700:070E",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "見つけたぞ　水妖！",
-   "en": ""
+   "en": "Found you, water demon!"
   },
   {
    "id": "event_ev001700:0722",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "ぬすんだサーフボード\nかえしてもらうぞ！",
-   "en": ""
+   "en": "You'll give back the surfboard\nyou stole!"
   },
   {
    "id": "event_ev001700:074C",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "なにをいっているの？\nそんなもの{h }しりませんわ！",
-   "en": ""
+   "en": "What are you talking about?\nI know nothing of the sort!"
   },
   {
    "id": "event_ev001700:077E",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "ウソをつくな！\nこのわたしは{h }だまされないぞ！",
-   "en": ""
+   "en": "Don't lie!\nYou won't fool me!"
   },
   {
    "id": "event_ev001700:07AE",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "サーフボードなんて{h }まったく\nきょうみ{h }ありませんわ！",
-   "en": ""
+   "en": "I have no interest at all\nin surfboards!"
   },
   {
    "id": "event_ev001700:07E6",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "まて！　にげるなっ！",
-   "en": ""
+   "en": "Wait! Don't run!"
   },
   {
    "id": "event_ev001700:07FC",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "‥‥ひょっとすると\nほんとうに　しらないのかもな‥‥",
-   "en": ""
+   "en": "...Maybe she\nreally doesn't know..."
   },
   {
    "id": "event_ev001700:0832",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "このまま　あきらめるわけには\nいかないな",
-   "en": ""
+   "en": "I can't just\ngive up like this."
   },
   {
    "id": "event_ev001700:085C",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "べつの{h }水妖が　サーフボードを\nぬすんだに　ちがいない！",
-   "en": ""
+   "en": "Another water demon must have\nstolen the surfboard!"
   },
   {
    "id": "event_ev001700:0896",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "サーフボードを{h }ぬすむなんて\nゆるさないんだからぁ！",
-   "en": ""
+   "en": "Stealing a surfboard...\nI'm never gonna forgive that!"
   },
   {
    "id": "event_ev001700:08CC",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "水妖！　ぜったいに\nにがさないわよ！",
-   "en": ""
+   "en": "Water demon! I'm not\nletting you get away!"
   },
   {
    "id": "event_ev001700:08F2",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "サーフボードを{h }ぬすんだ水妖！\nにげてないで　出てらっしゃい！！",
-   "en": ""
+   "en": "Water demon who stole the surfboard!\nStop running and come out!!"
   },
   {
    "id": "event_ev001700:0934",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "サーフボードは{h }海斗にとって\nたいせつな{h }たからものなんだから",
-   "en": ""
+   "en": "That surfboard is Kaito's\nprecious treasure!"
   },
   {
    "id": "event_ev001700:0974",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "海斗くんの{h }サーフボード‥‥\nぜったいに　とりかえさなきゃ！",
-   "en": ""
+   "en": "Kaito's surfboard...\nWe have to get it back!"
   },
   {
    "id": "event_ev001700:09B2",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "水妖ったら　見つけたら\nぜったいに{h }ゆるさない！",
-   "en": ""
+   "en": "Those water demons... When I find them,\nI'll never forgive them!"
   },
   {
    "id": "event_ev001700:09E4",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "にがさないわよ！　水妖！",
-   "en": ""
+   "en": "You won't get away, water demon!"
   },
   {
    "id": "event_ev001700:09FE",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "海斗くんって　サーフボードを\nとっても{h }たいせつに{h }してるのに",
-   "en": ""
+   "en": "Kaito treasures that surfboard\nso much."
   },
   {
    "id": "event_ev001700:0A3E",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "海斗の{h }サーフボード‥‥\nアイツにとっては{h }たからものなのに",
-   "en": ""
+   "en": "Kaito's surfboard...\nTo him, it's a treasure."
   },
   {
    "id": "event_ev001700:0A7C",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "水妖め‥‥つかまえたら\nただでは{h }おかないぞ！",
-   "en": ""
+   "en": "Water demon... once I catch you,\nyou won't get off easy!"
   },
   {
    "id": "event_ev001700:0AAC",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "にげるな　水妖！\n‥‥しょうぶしろ！",
-   "en": ""
+   "en": "Don't run, water demon!\n...Fight me!"
   },
   {
    "id": "event_ev001700:0AD2",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "海斗‥‥おまえの{h }サーフボード\nぜったいに{h }とりかえしてやるからな",
-   "en": ""
+   "en": "Kaito... I'll get your surfboard\nback for you, no matter what."
   },
   {
    "id": "event_ev001700:0B16",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "フフフ‥‥おろかなマーメイドどもめ",
-   "en": ""
+   "en": "Hehehe... Foolish mermaids."
   },
   {
    "id": "event_ev001700:0B3A",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "こんな{h }いたきれに\nひっしになるとは‥‥",
-   "en": ""
+   "en": "Getting so desperate\nover a piece of wood..."
   },
   {
    "id": "event_ev001700:0B64",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "むこうに　いるのは{h }水妖！\nやっと　おいつめた！",
-   "en": ""
+   "en": "Over there, it's a water demon!\nI've finally got you cornered!"
   },
   {
    "id": "event_ev001700:0B96",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "あの　サーフボード\nぜったい{h }とりかえすんだからね！",
-   "en": ""
+   "en": "I'm getting that surfboard\nback, no matter what!"
   },
   {
    "id": "event_ev001700:0BCC",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "フフフ‥‥おろかなマーメイドどもめ",
-   "en": ""
+   "en": "Hehehe... Foolish mermaids."
   },
   {
    "id": "event_ev001700:0BF0",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "こんな{h }いたきれに\nひっしになるとは‥‥",
-   "en": ""
+   "en": "Getting so desperate\nover a piece of wood..."
   },
   {
    "id": "event_ev001700:0C1A",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "むこうに　いるのは{h }水妖！\nもう　ゆるさない！",
-   "en": ""
+   "en": "Over there, it's a water demon!\nI won't forgive you anymore!"
   },
   {
    "id": "event_ev001700:0C4A",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "サーフボード　ぜったい\nとりかえすんだから！",
-   "en": ""
+   "en": "I'm getting that surfboard\nback, no matter what!"
   },
   {
    "id": "event_ev001700:0C78",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "フフフ‥‥おろかなマーメイドどもめ",
-   "en": ""
+   "en": "Hehehe... Foolish mermaids."
   },
   {
    "id": "event_ev001700:0C9C",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "こんな{h }いたきれに\nひっしになるとは‥‥",
-   "en": ""
+   "en": "Getting so desperate\nover a piece of wood..."
   },
   {
    "id": "event_ev001700:0CC6",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "むこうに　いるのは{h }水妖！\nよし！　おいつめたぞ！",
-   "en": ""
+   "en": "Over there, it's a water demon!\nAll right! I've got you cornered!"
   },
   {
    "id": "event_ev001700:0CFA",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "やはり　サーフボードをぬすんだのは\n水妖だったのか！",
-   "en": ""
+   "en": "So it really was a water demon\nwho stole the surfboard!"
   },
   {
    "id": "event_ev001700:0D30",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "このサーフボード‥‥",
-   "en": ""
+   "en": "This surfboard..."
   },
   {
    "id": "event_ev001700:0D46",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "オレにとっては\nたいせつな{h }たからものなんだ‥‥",
-   "en": ""
+   "en": "To me, it's\na precious treasure..."
   },
   {
    "id": "event_ev001700:0D78",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "サーフボードが{h }もどってきて\nほんとうに　よかったね",
-   "en": ""
+   "en": "I'm so glad your surfboard\ncame back!"
   },
   {
    "id": "event_ev001700:0DAE",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "なあ　るちあ‥‥\nちょっと目を{h }とじてくれないか？",
-   "en": ""
+   "en": "Hey, Lucia...\nCould you close your eyes for a sec?"
   },
   {
    "id": "event_ev001700:0DE2",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "うん　いいけど‥‥\n（海斗ったら　なんだろう？）",
-   "en": ""
+   "en": "Sure, okay...\n(What's Kaito up to?)"
   },
   {
    "id": "event_ev001700:0E14",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "（チュッ）",
-   "en": ""
+   "en": "(Smooch)"
   },
   {
    "id": "event_ev001700:0E20",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "‥‥えっ　ウソ！\n（おでこにキスされちゃった！）",
-   "en": ""
+   "en": "...Huh? No way!\n(He kissed my forehead!)"
   },
   {
    "id": "event_ev001700:0E52",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "ありがとな　るちあ！",
-   "en": ""
+   "en": "Thanks, Lucia!"
   },
   {
    "id": "event_ev001700:0E68",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "オレ　おまえには\nほんとうに{h }かんしゃしてるから！",
-   "en": ""
+   "en": "I'm really grateful\nto you!"
   },
   {
    "id": "event_ev001700:0E9C",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "‥‥‥‥‥‥‥‥\nアハ　アハハ‥‥",
-   "en": ""
+   "en": "........\nAha, ahaha..."
   },
   {
    "id": "event_ev001700:0EC0",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "（わたしの{h }かお　きっと{h }まっかに\nなっちゃってるよぉ〜！）",
-   "en": ""
+   "en": "(My face must be\nbright red right now!)"
   },
   {
    "id": "event_ev001700:0EFE",
@@ -648,7 +648,7 @@
     80
    ],
    "jp": "この{h }サーフボード‥‥",
-   "en": ""
+   "en": "This surfboard..."
   },
   {
    "id": "event_ev001700:0F16",
@@ -656,7 +656,7 @@
     81
    ],
    "jp": "オレにとっては\nたいせつな{h }たからものなんだ‥‥",
-   "en": ""
+   "en": "To me, it's\na precious treasure..."
   },
   {
    "id": "event_ev001700:0F48",
@@ -664,7 +664,7 @@
     82
    ],
    "jp": "かんしゃしてよねー　見つけ出すの\nたいへんだったんだからね",
-   "en": ""
+   "en": "You'd better be grateful! Finding it\nwas a lot of work, you know."
   },
   {
    "id": "event_ev001700:0F84",
@@ -672,7 +672,7 @@
     83
    ],
    "jp": "ああ　かんしゃしてる\n宝生には　かんしゃしてるって！",
-   "en": ""
+   "en": "Yeah, I'm grateful.\nI'm grateful to you, Hosho!"
   },
   {
    "id": "event_ev001700:0FBA",
@@ -680,7 +680,7 @@
     84
    ],
    "jp": "ウフフ‥‥じゃあ　こんかいのことは\nわたしへのかしが{h }ひとつってことで",
-   "en": ""
+   "en": "Hehe... Then this time\nyou owe me one!"
   },
   {
    "id": "event_ev001700:1002",
@@ -688,7 +688,7 @@
     85
    ],
    "jp": "まっ　とにかく‥‥ありがとな！",
-   "en": ""
+   "en": "Well, anyway... thanks!"
   },
   {
    "id": "event_ev001700:1022",
@@ -696,7 +696,7 @@
     86
    ],
    "jp": "（ウフフ‥‥）",
-   "en": ""
+   "en": "(Hehe...)"
   },
   {
    "id": "event_ev001700:1032",
@@ -704,7 +704,7 @@
     87
    ],
    "jp": "この{h }サーフボード‥‥",
-   "en": ""
+   "en": "This surfboard..."
   },
   {
    "id": "event_ev001700:104A",
@@ -712,7 +712,7 @@
     88
    ],
    "jp": "オレにとっては\nたいせつな{h }たからものなんだ‥‥",
-   "en": ""
+   "en": "To me, it's\na precious treasure..."
   },
   {
    "id": "event_ev001700:107C",
@@ -720,7 +720,7 @@
     89
    ],
    "jp": "洞院‥‥見つけてくれて　ありがとう\nほんとうに{h }かんしゃしてるぜ",
-   "en": ""
+   "en": "Toin... thanks for finding it.\nI'm really grateful."
   },
   {
    "id": "event_ev001700:10BE",
@@ -728,7 +728,7 @@
     90
    ],
    "jp": "気にするな‥‥かんしゃされたくて\nしたことじゃないし",
-   "en": ""
+   "en": "Don't mention it... I didn't do it\nto get thanked."
   },
   {
    "id": "event_ev001700:10F4",
@@ -736,7 +736,7 @@
     91
    ],
    "jp": "いや　それじゃあ{h }オレの\n気がすまない",
-   "en": ""
+   "en": "No, I wouldn't\nfeel right otherwise."
   },
   {
    "id": "event_ev001700:111C",
@@ -744,7 +744,7 @@
     92
    ],
    "jp": "だから　気にするな‥‥",
-   "en": ""
+   "en": "I said, don't mention it..."
   },
   {
    "id": "event_ev001700:1134",
@@ -752,7 +752,7 @@
     93
    ],
    "jp": "‥‥洞院　おまえって\nほんとうに{h }いいヤツだな",
-   "en": ""
+   "en": "...Toin, you're\na really good person."
   },
   {
    "id": "event_ev001700:1164",
@@ -760,7 +760,7 @@
     94
    ],
    "jp": "‥‥‥‥‥‥‥‥\n（いいヤツ‥‥か‥‥）",
-   "en": ""
+   "en": "........\n(A good person... huh...)"
   },
   {
    "id": "event_ev001700:118E",
@@ -768,7 +768,7 @@
     95
    ],
    "jp": "{h }　　　　エピソード　１[4008]　　　　\n『ぬすまれた{h }たからもの』{h }おわり",
-   "en": ""
+   "en": "Episode 1[4008]\n\"The Stolen Treasure\" - The End"
   }
  ]
 }

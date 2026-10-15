@@ -8,7 +8,7 @@
     0
    ],
    "jp": "あれ？　海月先生",
-   "en": ""
+   "en": "Huh? Mr. Mitsuki?"
   },
   {
    "id": "event_ev000600:0012",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "きょうは{h }もう\nかえっちゃうんですか？",
-   "en": ""
+   "en": "Are you going home\nalready today?"
   },
   {
    "id": "event_ev000600:003A",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "さんびかの{h }ばんそうを\nたのまれているんです‥‥",
-   "en": ""
+   "en": "I've been asked to accompany\na hymn on the piano..."
   },
   {
    "id": "event_ev000600:006C",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "けれど‥‥はぁ‥‥",
-   "en": ""
+   "en": "But... sigh..."
   },
   {
    "id": "event_ev000600:0080",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "あの　先生‥‥\nなにか{h }しんぱいごとでも？",
-   "en": ""
+   "en": "Um, Mr. Mitsuki...\nIs something worrying you?"
   },
   {
    "id": "event_ev000600:00AC",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "はい‥‥さんびかをうたう\nシスターたちが‥‥",
-   "en": ""
+   "en": "Yes... The sisters who will\nsing the hymn..."
   },
   {
    "id": "event_ev000600:00DA",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "のどを{h }いためたそうで\nしんぱいなんですよね",
-   "en": ""
+   "en": "have hurt their throats,\nso I'm worried."
   },
   {
    "id": "event_ev000600:0108",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "さんびかかぁ‥‥\nねえねえみんなで　ききにいかない？",
-   "en": ""
+   "en": "A hymn, huh...\nHey, let's all go listen!"
   },
   {
    "id": "event_ev000600:013E",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "うん　太郎ちゃんのことも\nしんぱいだしね☆",
-   "en": ""
+   "en": "Yeah, I'm worried\nabout Taro, too! ☆"
   },
   {
    "id": "event_ev000600:016A",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "それじゃ　きょうかいまで\nきょうそうよ！",
-   "en": ""
+   "en": "Okay then, let's race\nto the Church!"
   },
   {
    "id": "event_ev000600:0194",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "きょうかいまで{h }きょうそうよ！",
-   "en": ""
+   "en": "Let's race to the Church!"
   },
   {
    "id": "event_ev000600:01B4",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "きょうかいに\nさんびかを{h }ききにいこう！",
-   "en": ""
+   "en": "Let's go to the Church\nto hear the hymn!"
   },
   {
    "id": "event_ev000600:01DE",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "きょうかいで　さんびかかぁ\nうーん　たのしみぃー☆",
-   "en": ""
+   "en": "A hymn at the Church...\nOoh, I can't waaait! ☆"
   },
   {
    "id": "event_ev000600:0212",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "さんびかをちゃんときくのって\nはじめてかも☆",
-   "en": ""
+   "en": "This might be my first time really\nlistening to a hymn! ☆"
   },
   {
    "id": "event_ev000600:0240",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "きょうかいまで{h }いそごうっと",
-   "en": ""
+   "en": "I'd better hurry to the Church."
   },
   {
    "id": "event_ev000600:025E",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "太郎ちゃん\nきょうかいで{h }まっててね",
-   "en": ""
+   "en": "Taro,\nwait for me at the Church!"
   },
   {
    "id": "event_ev000600:0284",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "きょうかいで{h }さんびかかぁ\nちょっと{h }たのしみよね",
-   "en": ""
+   "en": "A hymn at the Church...\nI'm kind of looking forward to it."
   },
   {
    "id": "event_ev000600:02B8",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "太郎ちゃんの　すてきなところ\n見られるといいな☆",
-   "en": ""
+   "en": "I hope I get to see\nTaro's wonderful side! ☆"
   },
   {
    "id": "event_ev000600:02EA",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "きょうかいまでの\nきょうそうか‥‥",
-   "en": ""
+   "en": "A race\nto the Church, huh..."
   },
   {
    "id": "event_ev000600:030E",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "きょうかいで{h }さんびか‥‥\nたのしみになってきたな",
-   "en": ""
+   "en": "A hymn at the Church...\nI'm starting to look forward to it."
   },
   {
    "id": "event_ev000600:0342",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "きょうかいは‥‥\nこっちであっているよな",
-   "en": ""
+   "en": "The Church is...\nthis way, right?"
   },
   {
    "id": "event_ev000600:036C",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "さんびかか‥‥たのしみだな",
-   "en": ""
+   "en": "A hymn, huh... Should be fun."
   },
   {
    "id": "event_ev000600:0388",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "とうちゃーく！",
-   "en": ""
+   "en": "We're heeere!"
   },
   {
    "id": "event_ev000600:0398",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "って　なに{h }この空気！\nカサカサになってる！",
-   "en": ""
+   "en": "Wait, what's with this air?!\nIt's all dried out!"
   },
   {
    "id": "event_ev000600:03C6",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "てんさいおんがくか{h }エリルの\nコンサート〜",
-   "en": ""
+   "en": "A concert by Eriru,\nthe musical geniuuus~"
   },
   {
    "id": "event_ev000600:03F2",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "むこうで{h }あばれてるのは{h }水妖！？",
-   "en": ""
+   "en": "Is that a water demon\nrunning wild over there?!"
   },
   {
    "id": "event_ev000600:0416",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "シスターの{h }のどを\nカラカラにしたのも　さては‥‥",
-   "en": ""
+   "en": "Then the one who dried out\nthe sisters' throats must be..."
   },
   {
    "id": "event_ev000600:044A",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "もー　じゃまばっかり！\nピンクパールボイス！",
-   "en": ""
+   "en": "Geez, always in the way!\nPink Pearl Voice!"
   },
   {
    "id": "event_ev000600:0478",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "うふふ〜　おもったとおーり",
-   "en": ""
+   "en": "Hehehe~ Just as I thoooought."
   },
   {
    "id": "event_ev000600:0494",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "マーメイドプリンセスが\nつれちゃったわ〜",
-   "en": ""
+   "en": "I've lured in\nthe Mermaid Princesses~"
   },
   {
    "id": "event_ev000600:04BE",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "あなたのしわざだったのね！\nわるいことは{h }やめなさいよ！",
-   "en": ""
+   "en": "So it was your doing!\nStop doing bad things!"
   },
   {
    "id": "event_ev000600:04F8",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "いや〜ん\nもとにもどしてほしかったら",
-   "en": ""
+   "en": "Oh nooo~ If you want\nthings back to normal..."
   },
   {
    "id": "event_ev000600:051E",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "わたしを\nつかまえてごらんなさ〜い！",
-   "en": ""
+   "en": "then come and\ncatch me if you caaan~!"
   },
   {
    "id": "event_ev000600:0544",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "ああっ！　にげたぁ！\nンもぉ〜！　おいかけないと！",
-   "en": ""
+   "en": "Ah! She ran away!\nUgh! I have to chase her!"
   },
   {
    "id": "event_ev000600:0578",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "やっとついた！",
-   "en": ""
+   "en": "Finally made it!"
   },
   {
    "id": "event_ev000600:0588",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "‥‥ケホケホッ！",
-   "en": ""
+   "en": "...*cough cough*!"
   },
   {
    "id": "event_ev000600:059A",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "なんなの{h }ここ\nすっごく{h }空気{h }わる〜い！",
-   "en": ""
+   "en": "What is this place?\nThe air is sooo bad!"
   },
   {
    "id": "event_ev000600:05C6",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "てんさいおんがくか{h }エリルの\nコンサート〜",
-   "en": ""
+   "en": "A concert by Eriru,\nthe musical geniuuus~"
   },
   {
    "id": "event_ev000600:05F2",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "むこうで{h }あばれてるのは{h }水妖！？\nさてはあいつのしわざね！",
-   "en": ""
+   "en": "Is that a water demon\nrunning wild?! It's her doing!"
   },
   {
    "id": "event_ev000600:0630",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "みずいろパールボイス！",
-   "en": ""
+   "en": "Aqua Pearl Voice!"
   },
   {
    "id": "event_ev000600:0648",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "うふふ〜　おもったとおーり",
-   "en": ""
+   "en": "Hehehe~ Just as I thoooought."
   },
   {
    "id": "event_ev000600:0664",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "マーメイドプリンセスが\nつれちゃったわ〜",
-   "en": ""
+   "en": "I've lured in\nthe Mermaid Princesses~"
   },
   {
    "id": "event_ev000600:068E",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "シスターののどを　からすだなんて\nさっさといたずらはやめなさい！",
-   "en": ""
+   "en": "Drying out the sisters' throats?\nStop your pranks right now!"
   },
   {
    "id": "event_ev000600:06D0",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "いや〜ん\nもとにもどしてほしかったら",
-   "en": ""
+   "en": "Oh nooo~ If you want\nthings back to normal..."
   },
   {
    "id": "event_ev000600:06F6",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "わたしを\nつかまえてごらんなさ〜い！",
-   "en": ""
+   "en": "then come and\ncatch me if you caaan~!"
   },
   {
    "id": "event_ev000600:071C",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "あっ！　どこに{h }いくのっ！\nもう！　おいかけないと！！",
-   "en": ""
+   "en": "Ah! Where are you going?!\nUgh! I have to chase her!!"
   },
   {
    "id": "event_ev000600:0754",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "きょうかいには{h }ついたが‥‥",
-   "en": ""
+   "en": "I made it to the Church, but..."
   },
   {
    "id": "event_ev000600:0772",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "しかし　なんて空気だ\nのどがカラカラになる",
-   "en": ""
+   "en": "What's with this air?\nIt's making my throat dry."
   },
   {
    "id": "event_ev000600:079E",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "てんさいおんがくか{h }エリルの\nコンサート〜",
-   "en": ""
+   "en": "A concert by Eriru,\nthe musical geniuuus~"
   },
   {
    "id": "event_ev000600:07CA",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "むこうで{h }あばれてるのは{h }水妖！？\nあいつのしわざか！",
-   "en": ""
+   "en": "Is that a water demon\nrunning wild?! So it was her!"
   },
   {
    "id": "event_ev000600:0802",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "グリーンパールボイス！",
-   "en": ""
+   "en": "Green Pearl Voice!"
   },
   {
    "id": "event_ev000600:081A",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "うふふ〜　おもったとおーり",
-   "en": ""
+   "en": "Hehehe~ Just as I thoooought."
   },
   {
    "id": "event_ev000600:0836",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "マーメイドプリンセスが\nつれちゃったわ〜",
-   "en": ""
+   "en": "I've lured in\nthe Mermaid Princesses~"
   },
   {
    "id": "event_ev000600:0860",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "わるふざけはやめるんだ！",
-   "en": ""
+   "en": "Stop this nasty prank!"
   },
   {
    "id": "event_ev000600:087A",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "いや〜ん\nもとにもどしてほしかったら",
-   "en": ""
+   "en": "Oh nooo~ If you want\nthings back to normal..."
   },
   {
    "id": "event_ev000600:08A0",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "わたしを\nつかまえてごらんなさ〜い！",
-   "en": ""
+   "en": "then come and\ncatch me if you caaan~!"
   },
   {
    "id": "event_ev000600:08C6",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "くっ　どこへいった！\n‥‥にげられたか　おいかけないと！",
-   "en": ""
+   "en": "Tch, where did she go?!\n...She got away. I must chase her!"
   },
   {
    "id": "event_ev000600:0900",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "水妖が{h }にげたのは‥‥\nサーフィンかいじょうね",
-   "en": ""
+   "en": "The water demon ran off...\nto the Surfing Beach."
   },
   {
    "id": "event_ev000600:0930",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "あの水妖‥‥",
-   "en": ""
+   "en": "That water demon..."
   },
   {
    "id": "event_ev000600:093E",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "サーフィンかいじょうに\nいるみたいね",
-   "en": ""
+   "en": "She seems to be\nat the Surfing Beach."
   },
   {
    "id": "event_ev000600:0964",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "水妖は{h }サーフィンかいじょうね！\nいそがなきゃ",
-   "en": ""
+   "en": "The water demon's at the Surfing\nBeach! I have to hurry!"
   },
   {
    "id": "event_ev000600:0994",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "このままじゃ　さんびかが\nきけなくなっちゃう！",
-   "en": ""
+   "en": "At this rate, we won't get\nto hear the hymn!"
   },
   {
    "id": "event_ev000600:09C4",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "水妖は‥‥\nサーフィンかいじょうみたいね",
-   "en": ""
+   "en": "The water demon is...\nat the Surfing Beach, it seems."
   },
   {
    "id": "event_ev000600:09EE",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "水妖が{h }むかったのは\nサーフィンかいじょうね！",
-   "en": ""
+   "en": "The water demon headed\nfor the Surfing Beach!"
   },
   {
    "id": "event_ev000600:0A1E",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "水妖ってば{h }サーフィンかいじょうに\nにげたわね",
-   "en": ""
+   "en": "That water demon ran off\nto the Surfing Beach."
   },
   {
    "id": "event_ev000600:0A4E",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "太郎ちゃんの{h }じゃまをするだなんて\nぜったい{h }{h }ゆるさないんだから！",
-   "en": ""
+   "en": "Getting in Taro's way?\nI'll never forgive her!"
   },
   {
    "id": "event_ev000600:0A94",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "水妖は　\nサーフィンかいじょうだな‥‥",
-   "en": ""
+   "en": "The water demon is\nat the Surfing Beach..."
   },
   {
    "id": "event_ev000600:0ABC",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "水妖が{h }にげたのは\nサーフィンかいじょうのほうだな‥‥",
-   "en": ""
+   "en": "The water demon ran off\ntoward the Surfing Beach..."
   },
   {
    "id": "event_ev000600:0AF4",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "まったく　水妖ときたら‥‥",
-   "en": ""
+   "en": "Honestly, that water demon..."
   },
   {
    "id": "event_ev000600:0B10",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "サーフィンかいじょうまで{h }\nにげたようだな",
-   "en": ""
+   "en": "It seems she ran off\nto the Surfing Beach."
   },
   {
    "id": "event_ev000600:0B3C",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "さんびかをじゃまするなんて\n‥‥みんなが{h }かなしむじゃないか",
-   "en": ""
+   "en": "Ruining the hymn...\nEveryone will be so sad."
   },
   {
    "id": "event_ev000600:0B7A",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "見つけたー　水妖！\nいくわよぉ！",
-   "en": ""
+   "en": "Found you, water demon!\nHere I come!"
   },
   {
    "id": "event_ev000600:0B9C",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "おいつめたわよ　水妖！\nいくわよぉ！",
-   "en": ""
+   "en": "I've got you cornered, water\ndemon! Here I come!"
   },
   {
    "id": "event_ev000600:0BC2",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "おびき出されたことも\nわからないの〜？",
-   "en": ""
+   "en": "Don't you even realize\nyou've been lured out~?"
   },
   {
    "id": "event_ev000600:0BEA",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "ふふん！\nおバカな{h }マーメイドだわ！",
-   "en": ""
+   "en": "Hmph!\nWhat a silly mermaid!"
   },
   {
    "id": "event_ev000600:0C10",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "なんですって！\nいくわよ　みんな！",
-   "en": ""
+   "en": "What did you say?!\nLet's go, everyone!"
   },
   {
    "id": "event_ev000600:0C34",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "水妖　やっとおいついたわよ\nもう{h }ゆるさないんだから！",
-   "en": ""
+   "en": "Water demon, I finally caught up!\nI won't forgive you!"
   },
   {
    "id": "event_ev000600:0C6C",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "水妖　やっとおいついたわよ\nもう{h }ゆるさないんだから！",
-   "en": ""
+   "en": "Water demon, I finally caught up!\nI won't forgive you!"
   },
   {
    "id": "event_ev000600:0CA4",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "おびき出されたことも\nわからないの〜？",
-   "en": ""
+   "en": "Don't you even realize\nyou've been lured out~?"
   },
   {
    "id": "event_ev000600:0CCC",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "ふふん！\nおバカな{h }マーメイドだわ！",
-   "en": ""
+   "en": "Hmph!\nWhat a silly mermaid!"
   },
   {
    "id": "event_ev000600:0CF2",
@@ -648,7 +648,7 @@
     80
    ],
    "jp": "どっちがおバカか{h }おしえてあげるわ",
-   "en": ""
+   "en": "I'll show you who's the silly one!"
   },
   {
    "id": "event_ev000600:0D16",
@@ -656,7 +656,7 @@
     81
    ],
    "jp": "見つけたぞ　水妖！",
-   "en": ""
+   "en": "Found you, water demon!"
   },
   {
    "id": "event_ev000600:0D2A",
@@ -664,7 +664,7 @@
     82
    ],
    "jp": "水妖　とうとう{h }おいつめたぞ！\nもう　かくごはきまったか！？",
-   "en": ""
+   "en": "Water demon, I've cornered you\nat last! Are you ready?!"
   },
   {
    "id": "event_ev000600:0D68",
@@ -672,7 +672,7 @@
     83
    ],
    "jp": "おびき出されたことも\nわからないの〜？",
-   "en": ""
+   "en": "Don't you even realize\nyou've been lured out~?"
   },
   {
    "id": "event_ev000600:0D90",
@@ -680,7 +680,7 @@
     84
    ],
    "jp": "ふふん！\nおバカな{h }マーメイドだわ！",
-   "en": ""
+   "en": "Hmph!\nWhat a silly mermaid!"
   },
   {
    "id": "event_ev000600:0DB6",
@@ -688,7 +688,7 @@
     85
    ],
    "jp": "‥‥もう　ゆるさない！",
-   "en": ""
+   "en": "...I won't forgive you!"
   },
   {
    "id": "event_ev000600:0DCE",
@@ -696,7 +696,7 @@
     86
    ],
    "jp": "はぁはぁ　やっともどってこれたよ",
-   "en": ""
+   "en": "*pant pant* I finally made it back."
   },
   {
    "id": "event_ev000600:0DF0",
@@ -704,7 +704,7 @@
     87
    ],
    "jp": "‥‥うん　空気も{h }ちゃんときれい",
-   "en": ""
+   "en": "...Yep, the air's nice and clean too."
   },
   {
    "id": "event_ev000600:0E12",
@@ -712,7 +712,7 @@
     88
    ],
    "jp": "るちあじゃないか",
-   "en": ""
+   "en": "Isn't that Lucia?"
   },
   {
    "id": "event_ev000600:0E24",
@@ -720,7 +720,7 @@
     89
    ],
    "jp": "こんなところで　\nなにしてんだ？",
-   "en": ""
+   "en": "What are you doing\nin a place like this?"
   },
   {
    "id": "event_ev000600:0E46",
@@ -728,7 +728,7 @@
     90
    ],
    "jp": "海斗！？\n海斗こそどうしたの？",
-   "en": ""
+   "en": "Kaito?!\nWhat about you, Kaito?"
   },
   {
    "id": "event_ev000600:0E66",
@@ -736,7 +736,7 @@
     91
    ],
    "jp": "（すっごいぐうぜん！\nうれしいー☆）",
-   "en": ""
+   "en": "(What an amazing coincidence!\nI'm so happy! ☆)"
   },
   {
    "id": "event_ev000600:0E8C",
@@ -744,7 +744,7 @@
     92
    ],
    "jp": "とおりかかっただけだけど‥‥ん？",
-   "en": ""
+   "en": "I was just passing by... Hm?"
   },
   {
    "id": "event_ev000600:0EAE",
@@ -752,7 +752,7 @@
     93
    ],
    "jp": "きょうかいで{h }\nなにかやってんの？",
-   "en": ""
+   "en": "Is something going on\nat the Church?"
   },
   {
    "id": "event_ev000600:0ED2",
@@ -760,7 +760,7 @@
     94
    ],
    "jp": "あ　海月先生が　ばんそうをする\nさんびかのコンサートが{h }あるんだよ",
-   "en": ""
+   "en": "Oh, there's a hymn concert,\nwith Mr. Mitsuki on piano!"
   },
   {
    "id": "event_ev000600:0F16",
@@ -768,7 +768,7 @@
     95
    ],
    "jp": "へぇ　さんびかかぁ‥‥",
-   "en": ""
+   "en": "Huh, a hymn..."
   },
   {
    "id": "event_ev000600:0F2E",
@@ -776,7 +776,7 @@
     96
    ],
    "jp": "なあ{h }るちあ　\nいっしょに{h }きかないか？",
-   "en": ""
+   "en": "Hey, Lucia,\nwant to listen together?"
   },
   {
    "id": "event_ev000600:0F58",
@@ -784,7 +784,7 @@
     97
    ],
    "jp": "う　うん！　もちろんだよ！！",
-   "en": ""
+   "en": "S-sure! Of course!!"
   },
   {
    "id": "event_ev000600:0F76",
@@ -792,7 +792,7 @@
     98
    ],
    "jp": "（やったぁ！　デートだぁ☆）",
-   "en": ""
+   "en": "(Yaaay! It's a date! ☆)"
   },
   {
    "id": "event_ev000600:0F94",
@@ -800,7 +800,7 @@
     99
    ],
    "jp": "空気も{h }きれいになったし\nコンサートも{h }せいこうしたみたい",
-   "en": ""
+   "en": "The air is clean again, and the\nconcert seems to be a success."
   },
   {
    "id": "event_ev000600:0FD0",
@@ -808,7 +808,7 @@
     100
    ],
    "jp": "さんびかって{h }いいおんがく〜\n‥‥太郎ちゃんも{h }ステキだったなぁ",
-   "en": ""
+   "en": "Hymns are such nice music~\n...And Taro was wonderful, too."
   },
   {
    "id": "event_ev000600:1012",
@@ -816,7 +816,7 @@
     101
    ],
    "jp": "おや　波音さん\nききに{h }きてくれたんですか？",
-   "en": ""
+   "en": "Oh, Hanon.\nDid you come to listen?"
   },
   {
    "id": "event_ev000600:1040",
@@ -824,7 +824,7 @@
     102
    ],
    "jp": "きゃ！",
-   "en": ""
+   "en": "Eek!"
   },
   {
    "id": "event_ev000600:1048",
@@ -832,7 +832,7 @@
     103
    ],
    "jp": "もちろんです！\nとってもステキでした！",
-   "en": ""
+   "en": "Of course I did!\nIt was really wonderful!"
   },
   {
    "id": "event_ev000600:1070",
@@ -840,7 +840,7 @@
     104
    ],
    "jp": "ぼくは　すこし\nつかれてしまいました‥‥",
-   "en": ""
+   "en": "I'm a little\ntired out..."
   },
   {
    "id": "event_ev000600:109A",
@@ -848,7 +848,7 @@
     105
    ],
    "jp": "どうです？　いっしょに\nおちゃでも{h }のみますか？",
-   "en": ""
+   "en": "How about it? Would you like\nto have some tea with me?"
   },
   {
    "id": "event_ev000600:10CC",
@@ -856,7 +856,7 @@
     106
    ],
    "jp": "はい☆　ごいっしょします",
-   "en": ""
+   "en": "Yes! ☆ I'd love to."
   },
   {
    "id": "event_ev000600:10E6",
@@ -864,7 +864,7 @@
     107
    ],
    "jp": "（やったね☆）",
-   "en": ""
+   "en": "(Yes! ☆)"
   },
   {
    "id": "event_ev000600:10F6",
@@ -872,7 +872,7 @@
     108
    ],
    "jp": "よし　空気も{h }きれいになったし\nコンサートも{h }ひらかれた‥‥",
-   "en": ""
+   "en": "Good. The air is clean again,\nand the concert went on..."
   },
   {
    "id": "event_ev000600:1134",
@@ -880,7 +880,7 @@
     109
    ],
    "jp": "それにしても{h }さんびかというのは\nおもったより　いいおんがくだな‥‥",
-   "en": ""
+   "en": "Still, hymns are nicer music\nthan I thought..."
   },
   {
    "id": "event_ev000600:117A",
@@ -888,7 +888,7 @@
     110
    ],
    "jp": "おっ　洞院じゃないか\nなんでこんなところにいるんだよ",
-   "en": ""
+   "en": "Oh, isn't that Toin?\nWhat are you doing here?"
   },
   {
    "id": "event_ev000600:11B0",
@@ -896,7 +896,7 @@
     111
    ],
    "jp": "さんびかを{h }ききにきたんだが\n海斗もそうなのか",
-   "en": ""
+   "en": "I came to hear the hymn.\nYou too, Kaito?"
   },
   {
    "id": "event_ev000600:11E0",
@@ -904,7 +904,7 @@
     112
    ],
    "jp": "いや　\nとおりかかっただけだが",
-   "en": ""
+   "en": "Nah,\nI was just passing by."
   },
   {
    "id": "event_ev000600:1200",
@@ -912,7 +912,7 @@
     113
    ],
    "jp": "ちょっと{h }きいていくか‥‥\nいこうぜ！",
-   "en": ""
+   "en": "Guess I'll listen a bit...\nCome on!"
   },
   {
    "id": "event_ev000600:1228",
@@ -920,7 +920,7 @@
     114
    ],
    "jp": "いくって　どこへ？",
-   "en": ""
+   "en": "Come on where?"
   },
   {
    "id": "event_ev000600:123C",
@@ -928,7 +928,7 @@
     115
    ],
    "jp": "ここじゃあ　\nきこえにくいだろう",
-   "en": ""
+   "en": "It's hard to hear\nfrom back here, right?"
   },
   {
    "id": "event_ev000600:125E",
@@ -936,7 +936,7 @@
     116
    ],
    "jp": "まん中に{h }まだ{h }せきが\nあるみたいだぜ",
-   "en": ""
+   "en": "Looks like there are still\nsome seats in the middle."
   },
   {
    "id": "event_ev000600:1286",
@@ -944,7 +944,7 @@
     117
    ],
    "jp": "おい　コラ！　まったく‥‥",
-   "en": ""
+   "en": "Hey, wait! Honestly..."
   },
   {
    "id": "event_ev000600:12A2",
@@ -952,7 +952,7 @@
     118
    ],
    "jp": "わたしは{h }ここで{h }\nかまわないんだがなぁ‥‥",
-   "en": ""
+   "en": "I was perfectly fine\nright here..."
   },
   {
    "id": "event_ev000600:12D0",
@@ -960,7 +960,7 @@
     119
    ],
    "jp": "{h }　　　　エピソード　７　　　　　\n　『はじまらないさんびか』{h }おわり{h }",
-   "en": ""
+   "en": "       Episode 7\n\"The Hymn That Wouldn't Start\" - The End"
   }
  ]
 }

@@ -11,7 +11,7 @@
     87
    ],
    "jp": "きょうは　３人そろって\nパジャマパーティー！",
-   "en": ""
+   "en": "Today, all three of us\nare having a pajama party!"
   },
   {
    "id": "event_ev001400:002E",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "こんやは{h }みんなで\nよふかし{h }するんだよねー",
-   "en": ""
+   "en": "Tonight we're all\nstaying up late, right?"
   },
   {
    "id": "event_ev001400:005C",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "あのね　こんや７じから\nクイズばんぐみが{h }見たいんだけど",
-   "en": ""
+   "en": "Um, at 7 tonight there's a\nquiz show I want to watch..."
   },
   {
    "id": "event_ev001400:0096",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "‥‥見ていい？",
-   "en": ""
+   "en": "...Can I watch it?"
   },
   {
    "id": "event_ev001400:00A6",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "そのじかんは{h }ダメよー\nうたばんぐみを{h }見るんだからぁ！",
-   "en": ""
+   "en": "No way, not at that time!\nI'm watching a music show!"
   },
   {
    "id": "event_ev001400:00E0",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "えっ‥‥わたしは",
-   "en": ""
+   "en": "Huh... I..."
   },
   {
    "id": "event_ev001400:00F2",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "ドキュメンタリーが\n見たいんだけど‥‥",
-   "en": ""
+   "en": "I want to watch\na documentary..."
   },
   {
    "id": "event_ev001400:011A",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "だいしぜんのおうこく‥‥",
-   "en": ""
+   "en": "\"Kingdom of Wild Nature\"..."
   },
   {
    "id": "event_ev001400:0134",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "それじゃあさぁ‥‥",
-   "en": ""
+   "en": "Well then..."
   },
   {
    "id": "event_ev001400:0148",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "おいしい{h }夕ごはんを{h }つくった人の\n見たい{h }ばんぐみを{h }見るのはどう？",
-   "en": ""
+   "en": "How about whoever makes the best\ndinner picks the show we watch?"
   },
   {
    "id": "event_ev001400:0190",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "よーし　まけないわよ！",
-   "en": ""
+   "en": "All right, I won't lose!"
   },
   {
    "id": "event_ev001400:01A8",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "フフフ　しょうぶだな‥‥",
-   "en": ""
+   "en": "Heh heh. It's a contest, then..."
   },
   {
    "id": "event_ev001400:01C2",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "わたしは　おにくりょうりを\nつくろーっと！",
-   "en": ""
+   "en": "I'm gonna make\na meat dish!"
   },
   {
    "id": "event_ev001400:01EE",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "おにくやさん　おにくやさん‥‥",
-   "en": ""
+   "en": "The butcher, the butcher..."
   },
   {
    "id": "event_ev001400:020E",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "２人には{h }まけないんだからー！",
-   "en": ""
+   "en": "I won't lose to you two!"
   },
   {
    "id": "event_ev001400:022E",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "どんな{h }おにくりょうりを\nつくろうかなぁ？",
-   "en": ""
+   "en": "What kind of meat dish\nshould I make?"
   },
   {
    "id": "event_ev001400:025A",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "わたしだって　サラダなら\nじしんあるんだから！",
-   "en": ""
+   "en": "Well, when it comes to salads,\nI'm pretty confident!"
   },
   {
    "id": "event_ev001400:028A",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "やおやさん　やおやさん‥‥",
-   "en": ""
+   "en": "The grocer, the grocer..."
   },
   {
    "id": "event_ev001400:02A6",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "ぜったい　まけないんだから！",
-   "en": ""
+   "en": "I won't lose, no way!"
   },
   {
    "id": "event_ev001400:02C4",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "どんなサラダなら\n２人に{h }かてるんだろう？",
-   "en": ""
+   "en": "What kind of salad would\nbeat those two?"
   },
   {
    "id": "event_ev001400:02F0",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "わたしは　さかなりょうりに{h }しよう",
-   "en": ""
+   "en": "I'll make a fish dish."
   },
   {
    "id": "event_ev001400:0314",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "さかなやさんに{h }いかなくちゃな‥‥",
-   "en": ""
+   "en": "I'd better go to the fish shop..."
   },
   {
    "id": "event_ev001400:0338",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "さかなりょうり　がんばろう‥‥",
-   "en": ""
+   "en": "A fish dish... I'll do my best..."
   },
   {
    "id": "event_ev001400:0358",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "にざかなか　やきざかなか‥‥\nうーん　おみせで{h }かんがえるか‥‥",
-   "en": ""
+   "en": "Simmered fish, or grilled fish...\nHmm, I'll decide at the shop..."
   },
   {
    "id": "event_ev001400:039A",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "すいませーん\nこの{h }ぎゅうひきにくを{h }くださーい！",
-   "en": ""
+   "en": "Excuse me!\nSome of this ground beef, please!"
   },
   {
    "id": "event_ev001400:03CE",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "‥‥さぁ　いそいで{h }もどって\nおりょうり{h }しなくっちゃ！",
-   "en": ""
+   "en": "...Now I have to hurry back\nand start cooking!"
   },
   {
    "id": "event_ev001400:0408",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "さてと　そうね‥‥コレとコレを‥‥\nあと　コレも　かっちゃおう！",
-   "en": ""
+   "en": "Let's see... this and this...\nAnd I'll buy this too!"
   },
   {
    "id": "event_ev001400:044A",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "さっ　いそいでもどらなくっちゃね！\n２人とも　みてらっしゃーい！",
-   "en": ""
+   "en": "Now, I have to hurry back!\nJust you watch, you two!"
   },
   {
    "id": "event_ev001400:048C",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "すいません　このサンマを‥‥\nあと　その{h }きりみも‥‥",
-   "en": ""
+   "en": "Excuse me, this saury...\nand those fillets too..."
   },
   {
    "id": "event_ev001400:04C4",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "さて　いそいで{h }りょうりしないと\nゆうしょくに{h }まにあわない‥‥",
-   "en": ""
+   "en": "Now I have to hurry and cook,\nor dinner won't be ready in time..."
   },
   {
    "id": "event_ev001400:0506",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "たしか　ジャガイモは\nパールピアリに{h }あったから‥‥",
-   "en": ""
+   "en": "I'm pretty sure there are\npotatoes at Pearl Piari..."
   },
   {
    "id": "event_ev001400:053C",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "さぁ！　いそいで{h }パールピアリに\nもどらなくっちゃ！",
-   "en": ""
+   "en": "Okay! I have to hurry\nback to Pearl Piari!"
   },
   {
    "id": "event_ev001400:0572",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "こんやは　おいしいコロッケ\nつくっちゃうんだからね！",
-   "en": ""
+   "en": "Tonight I'm gonna make\nsome yummy croquettes!"
   },
   {
    "id": "event_ev001400:05A8",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "リナにも　波音にも\nまけないんだからぁ",
-   "en": ""
+   "en": "I won't lose to Rina\nor Hanon!"
   },
   {
    "id": "event_ev001400:05D0",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "おりょうりは{h }にがてだけど‥‥\nサラダなら{h }じしん{h }あるもーん",
-   "en": ""
+   "en": "I'm not great at cooking, but...\nsalads, I'm confident about!"
   },
   {
    "id": "event_ev001400:0610",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "いそいで{h }パールピアリに\nもどらなくっちゃ！",
-   "en": ""
+   "en": "I have to hurry back\nto Pearl Piari!"
   },
   {
    "id": "event_ev001400:063E",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "ちゃんと{h }パールピアリに\nドレッシングが{h }あったはず‥‥",
-   "en": ""
+   "en": "There should be dressing\nat Pearl Piari..."
   },
   {
    "id": "event_ev001400:0678",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "きっと２人は{h }ゆだんしてるはず\n‥‥まけないんだからぁ！",
-   "en": ""
+   "en": "I bet those two are off guard...\nI won't lose!"
   },
   {
    "id": "event_ev001400:06B2",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "サンマは{h }やいて‥‥あの{h }きりみは\nおさしみとして{h }出そう‥‥",
-   "en": ""
+   "en": "I'll grill the saury... and serve\nthe fillets as sashimi..."
   },
   {
    "id": "event_ev001400:06F2",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "やくのに{h }すこし{h }じかんが{h }かかる\n‥‥パールピアリに{h }いそごう",
-   "en": ""
+   "en": "Grilling takes a little time...\nI'll hurry to Pearl Piari."
   },
   {
    "id": "event_ev001400:0734",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "パールピアリは{h }ホテルだ\nさしみぼうちょうは　あるよな‥‥",
-   "en": ""
+   "en": "Pearl Piari is a hotel.\nIt must have a sashimi knife..."
   },
   {
    "id": "event_ev001400:0770",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "りょうりとはいえ　しょうぶだ‥‥\nまけるわけには{h }いかないな",
-   "en": ""
+   "en": "It may be cooking, but it's a contest...\nI can't afford to lose."
   },
   {
    "id": "event_ev001400:07AE",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "ウフフ　いっちばぁーん！",
-   "en": ""
+   "en": "Hehe, I'm number one!"
   },
   {
    "id": "event_ev001400:07C8",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "さぁて　おいしいコロッケ\nつくっちゃうんだからぁ！",
-   "en": ""
+   "en": "Now, I'm gonna make\nsome yummy croquettes!"
   },
   {
    "id": "event_ev001400:07FC",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "まだ　だれも{h }かえっては\nきてないみたいね‥‥",
-   "en": ""
+   "en": "Looks like nobody's\nback yet..."
   },
   {
    "id": "event_ev001400:082C",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "よーし　おいしいサラダを\nつくっちゃうんだから！",
-   "en": ""
+   "en": "All right, I'm gonna make\na yummy salad!"
   },
   {
    "id": "event_ev001400:085E",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "かえってきているのは‥‥\nまだ　わたしだけみたいだな",
-   "en": ""
+   "en": "Looks like I'm the only one\nwho's back so far..."
   },
   {
    "id": "event_ev001400:0894",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "よし　さっそくりょうりの\nじゅんびに{h }とりかかろうか‥‥",
-   "en": ""
+   "en": "Okay, let's get started\non the cooking right away..."
   },
   {
    "id": "event_ev001400:08CE",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "‥‥くやしかったけど\nるちあのコロッケ　おいしかったなぁ",
-   "en": ""
+   "en": "...It's annoying, but\nLucia's croquettes were yummy."
   },
   {
    "id": "event_ev001400:0908",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "また{h }こんど　つくってね",
-   "en": ""
+   "en": "Make them again sometime."
   },
   {
    "id": "event_ev001400:0934",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "るちあったら　せっかくほめてるのに\nなんとか{h }いいなさいよー！",
-   "en": ""
+   "en": "Lucia, I'm praising you here,\nso say something!"
   },
   {
    "id": "event_ev001400:0986",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "‥‥ん　なにかいった　波音？",
-   "en": ""
+   "en": "...Hm? Did you say something, Hanon?"
   },
   {
    "id": "event_ev001400:09A4",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "クイズに{h }むちゅうで\nぜんぜん　気づかなかったよ",
-   "en": ""
+   "en": "I was so into the quiz,\nI didn't notice at all."
   },
   {
    "id": "event_ev001400:09D6",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "それでも　リナには\nかなわないけどねー",
-   "en": ""
+   "en": "Even so, she's still\nno match for Rina!"
   },
   {
    "id": "event_ev001400:09FE",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "こんどこそ　あてるもんね",
-   "en": ""
+   "en": "This time I'll get it right!"
   },
   {
    "id": "event_ev001400:0A18",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "‥‥あっ　もんだい\nききそこなっちゃった",
-   "en": ""
+   "en": "...Oh no, I missed\nthe question..."
   },
   {
    "id": "event_ev001400:0A42",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "‥‥はい　およそ７０％",
-   "en": ""
+   "en": "...Yes. About 70%."
   },
   {
    "id": "event_ev001400:0A5A",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "あ　また{h }リナ{h }せいかいだ\nすごい{h }すごい",
-   "en": ""
+   "en": "Ah, Rina got it right again!\nAmazing, amazing!"
   },
   {
    "id": "event_ev001400:0A86",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "よーし！　つぎは\nわたしが　こたえるわよー",
-   "en": ""
+   "en": "All right! I'm answering\nthe next one!"
   },
   {
    "id": "event_ev001400:0AB2",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "波音のサラダ　おいしかったよ",
-   "en": ""
+   "en": "Your salad was yummy, Hanon."
   },
   {
    "id": "event_ev001400:0AD0",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "うん　とっても{h }おいしかった\nまたこんど　たべたいなぁ",
-   "en": ""
+   "en": "Yeah, it was really yummy.\nI want to eat it again sometime."
   },
   {
    "id": "event_ev001400:0B08",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "キャー！　カッコイイなぁ",
-   "en": ""
+   "en": "Kyaaa! He's so cool!"
   },
   {
    "id": "event_ev001400:0B22",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "‥‥せっかく　ほめてあげてるのに\nＴＶに{h }むちゅうで　きいてないし",
-   "en": ""
+   "en": "...I'm praising her, and she's\ntoo into the TV to listen."
   },
   {
    "id": "event_ev001400:0B66",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "ま　しかたないさ\nこれだけ{h }おねつを{h }あげてればね",
-   "en": ""
+   "en": "Well, can't be helped.\nShe's totally starstruck."
   },
   {
    "id": "event_ev001400:0B9A",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "ねえねえ　このバンドのボーカルって\nかっこいいと{h }おもわなーい？",
-   "en": ""
+   "en": "Hey, hey, don't you think this band's\nsinger is super cool?"
   },
   {
    "id": "event_ev001400:0BDC",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "そっかなぁ？\nふつうじゃないかなぁ？",
-   "en": ""
+   "en": "Is he?\nIsn't he just normal?"
   },
   {
    "id": "event_ev001400:0C02",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "‥‥きょうみない",
-   "en": ""
+   "en": "...Not interested."
   },
   {
    "id": "event_ev001400:0C14",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "ああん　もう！\n２人とも{h }わかってないなぁ！",
-   "en": ""
+   "en": "Ugh, come on!\nYou two just don't get it!"
   },
   {
    "id": "event_ev001400:0C42",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "でも‥‥太郎ちゃんのほうが\n１００ばいは{h }す・て・き☆",
-   "en": ""
+   "en": "But... my Taro is 100 times\nmore won-der-ful! ☆"
   },
   {
    "id": "event_ev001400:0C7A",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "‥‥‥‥はい{h }はい",
-   "en": ""
+   "en": "........Yeah, yeah."
   },
   {
    "id": "event_ev001400:0C8E",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "リナの{h }おさかなりょうり\nおいしかったねぇー",
-   "en": ""
+   "en": "Rina's fish dishes\nwere yummy, huh?"
   },
   {
    "id": "event_ev001400:0CBC",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "やきざかなも　おさしみも\nカンペキだったわよ",
-   "en": ""
+   "en": "The grilled fish and the sashimi\nwere both perfect!"
   },
   {
    "id": "event_ev001400:0CFC",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "リナったら　テレビに{h }むちゅうだね",
-   "en": ""
+   "en": "Rina's glued to the TV."
   },
   {
    "id": "event_ev001400:0D32",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "すっかり{h }かんどうしちゃって\nことばもないって{h }かんじ",
-   "en": ""
+   "en": "She's so moved,\nshe's at a loss for words."
   },
   {
    "id": "event_ev001400:0D6A",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "でも　このドキュメンタリー\nけっこう　おもしろいかも？",
-   "en": ""
+   "en": "But this documentary\nmight be kind of fun?"
   },
   {
    "id": "event_ev001400:0DA2",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "うんうん！　しぜんって{h }すごい！",
-   "en": ""
+   "en": "Yeah, yeah! Nature is amazing!"
   },
   {
    "id": "event_ev001400:0DC4",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "‥‥‥‥‥‥‥‥\n‥‥ん？　なにか{h }いったか？",
-   "en": ""
+   "en": "................\n...Hm? Did you say something?"
   },
   {
    "id": "event_ev001400:0E2A",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "{h }　　　　エピソード　１５　　　　\n　『パジャマパーティー』　おわり　",
-   "en": ""
+   "en": "Episode 15\n\"Pajama Party\" - The End"
   }
  ]
 }

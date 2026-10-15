@@ -8,7 +8,7 @@
     0
    ],
    "jp": "パールピアリへ急がなくっちゃ！",
-   "en": ""
+   "en": "I've gotta hurry to the Pearl Piari!"
   },
   {
    "id": "event_ev000211:0020",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "早くカサを取りに帰って\n太＊ちゃんと‥‥ムフフ",
-   "en": ""
+   "en": "I'll hurry and get an umbrella,\nthen Taro and I... Hehehe"
   },
   {
    "id": "event_ev000211:0050",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "急いでパールピアリからカサを！",
-   "en": ""
+   "en": "Hurry, get umbrellas from Pearl Piari!"
   },
   {
    "id": "event_ev000211:0070",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "早くカサをパールピアリから‥‥",
-   "en": ""
+   "en": "Quick, an umbrella from the Pearl Piari..."
   }
  ]
 }

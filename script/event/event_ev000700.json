@@ -8,7 +8,7 @@
     0
    ],
    "jp": "ガイトさま‥‥",
-   "en": ""
+   "en": "Lord Gaito..."
   },
   {
    "id": "event_ev000700:0010",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "プライベートルームに\n入ったきり{h }出てこられないわ",
-   "en": ""
+   "en": "He went into his private room\nand hasn't come out since."
   },
   {
    "id": "event_ev000700:0044",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "どうされたのかしら？",
-   "en": ""
+   "en": "I wonder what's wrong?"
   },
   {
    "id": "event_ev000700:005A",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "どうやら{h }ガイトさまは\n力を{h }たくわえるため",
-   "en": ""
+   "en": "It seems Lord Gaito is\nstoring up his power"
   },
   {
    "id": "event_ev000700:0088",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ねむりに{h }つかれたようだ",
-   "en": ""
+   "en": "have fallen asleep."
   },
   {
    "id": "event_ev000700:00A2",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ガイトさまが{h }ねむっているあいだに\nマーメイドたちを{h }つかまえれば",
-   "en": ""
+   "en": "If we catch the mermaids\nwhile Lord Gaito is asleep..."
   },
   {
    "id": "event_ev000700:00E6",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "エリルたち{h }おおてがらよね〜",
-   "en": ""
+   "en": "...it'll be a big win for Eriru and us!"
   },
   {
    "id": "event_ev000700:0104",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "だったらユーリが\nマーメイドプリンセスを",
-   "en": ""
+   "en": "In that case, I, Yuri,\nwill catch the Mermaid Princesses..."
   },
   {
    "id": "event_ev000700:012E",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "つかまえて{h }みせますわ！",
-   "en": ""
+   "en": "...just you watch!"
   },
   {
    "id": "event_ev000700:0148",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "こんやは{h }花火たいかい{h }だよね！",
-   "en": ""
+   "en": "Tonight's the fireworks festival!"
   },
   {
    "id": "event_ev000700:016A",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "そろそろ{h }海斗と{h }海月先生との\nまちあわせの{h }よみせへ{h }いこうよ",
-   "en": ""
+   "en": "Let's head to the food stalls where\nwe're meeting Kaito and Mr. Mitsuki!"
   },
   {
    "id": "event_ev000700:01AC",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "でも{h }どうせなら\nもうちょっと{h }オシャレしたいよね",
-   "en": ""
+   "en": "But while we're at it,\nI wanna dress up a little more."
   },
   {
    "id": "event_ev000700:01E0",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "だったら　アクセサリーを{h }かいに\n先に{h }ショッピングモールへ{h }いこうか",
-   "en": ""
+   "en": "Then why don't we go to the Shopping\nMall first to buy some accessories?"
   },
   {
    "id": "event_ev000700:0228",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "うん　それいいね！\nいこう！　いこう！",
-   "en": ""
+   "en": "Yeah, great idea!\nLet's go! Let's go!"
   },
   {
    "id": "event_ev000700:0250",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "ショッピングモールになら\nアクセサリー{h }うってるよね",
-   "en": ""
+   "en": "They sell accessories\nat the Shopping Mall, right?"
   },
   {
    "id": "event_ev000700:0286",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "アクセサリー　なにが{h }いいかなぁ",
-   "en": ""
+   "en": "Hmm, what accessory should I get?"
   },
   {
    "id": "event_ev000700:02A8",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "早く{h }ショッピングモールへ\nいかなくっちゃ！",
-   "en": ""
+   "en": "I've gotta hurry\nto the Shopping Mall!"
   },
   {
    "id": "event_ev000700:02D6",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "このふくには\nなにが{h }にあうのかなぁ？",
-   "en": ""
+   "en": "What would go well\nwith this outfit?"
   },
   {
    "id": "event_ev000700:02FE",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "ショッピングモールで\nアクセサリーを{h }かわなきゃね",
-   "en": ""
+   "en": "I've gotta buy an accessory\nat the Shopping Mall!"
   },
   {
    "id": "event_ev000700:0332",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "アクセサリー　なにに{h }しよっかな",
-   "en": ""
+   "en": "Hmm, which accessory should I pick?"
   },
   {
    "id": "event_ev000700:0354",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "早く{h }アクセサリーを{h }かわないと\n太郎ちゃんを{h }またせちゃう",
-   "en": ""
+   "en": "If I don't buy an accessory soon,\nI'll keep my Taro waiting!"
   },
   {
    "id": "event_ev000700:0392",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "このふくに{h }にあうアクセサリー‥‥\nうーん　なにが{h }いいかなぁ？",
-   "en": ""
+   "en": "An accessory that suits this outfit...\nHmm, what would be good?"
   },
   {
    "id": "event_ev000700:03D4",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "ショッピングモールで\nアクセサリーを{h }かわなきゃな‥‥",
-   "en": ""
+   "en": "I need to buy an accessory\nat the Shopping Mall..."
   },
   {
    "id": "event_ev000700:040C",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "ショッピングモールへ{h }いかないと\nまちあわせに{h }おくれてしまう‥‥",
-   "en": ""
+   "en": "If I don't get to the Shopping Mall,\nI'll be late to meet everyone..."
   },
   {
    "id": "event_ev000700:0450",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "アクセサリー‥‥なににしようか",
-   "en": ""
+   "en": "An accessory... What should I get?"
   },
   {
    "id": "event_ev000700:0470",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "アクセサリーか‥‥\nこのふくには　なにがにあうだろうか",
-   "en": ""
+   "en": "An accessory, huh...\nWhat would suit this outfit?"
   },
   {
    "id": "event_ev000700:04A8",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "すみませーん　かわいい\nアクセサリーを{h }くださーい",
-   "en": ""
+   "en": "Excuse meee! Some cute\naccessories, pleeease!"
   },
   {
    "id": "event_ev000700:04DC",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "それじゃあ　まちあわせ{h }ばしょの\nよみせに{h }いそがなくっちゃね！",
-   "en": ""
+   "en": "Okay! Now I've gotta hurry to the\nfood stalls where we're meeting!"
   },
   {
    "id": "event_ev000700:051E",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "すみませーん　このふくに{h }はえる\nアクセサリーを{h }くださーい",
-   "en": ""
+   "en": "Excuse meee! An accessory that'll\nmake this outfit shine, pleeease!"
   },
   {
    "id": "event_ev000700:055C",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "さぁて{h }太郎ちゃんと{h }まちあわせの\nよみせに{h }いそがないとね！",
-   "en": ""
+   "en": "Now I've gotta hurry to the food\nstalls where I'm meeting my Taro!"
   },
   {
    "id": "event_ev000700:059C",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "すみません　きれいな\nアクセサリーを{h }ください",
-   "en": ""
+   "en": "Excuse me. Some pretty\naccessories, please."
   },
   {
    "id": "event_ev000700:05CC",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "さて‥‥みんなと{h }まちあわせている\nよみせに{h }いそぐか",
-   "en": ""
+   "en": "Now then... I'd better hurry to the\nfood stalls where everyone's waiting."
   },
   {
    "id": "event_ev000700:0604",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "まちあわせの{h }ばしょは‥‥\nよみせ{h }だったよね",
-   "en": ""
+   "en": "The meeting place was...\nthe food stalls, right?"
   },
   {
    "id": "event_ev000700:0634",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "いそがないと　みんな{h }\nをまたせちゃう",
-   "en": ""
+   "en": "If I don't hurry,\nI'll keep everyone waiting!"
   },
   {
    "id": "event_ev000700:065C",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "早く{h }よみせへ{h }いそがなくっちゃ",
-   "en": ""
+   "en": "I've gotta hurry to the food stalls!"
   },
   {
    "id": "event_ev000700:067E",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "みんなとの{h }まちあわせに\nおくれないように{h }しなくっちゃね！",
-   "en": ""
+   "en": "I can't be late\nto meet everyone!"
   },
   {
    "id": "event_ev000700:06BC",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "太郎ちゃんたちとの{h }まちあわせは\nよみせが{h }ならんでるとこだったよね",
-   "en": ""
+   "en": "We're meeting Taro and the others\nwhere the food stalls are, right?"
   },
   {
    "id": "event_ev000700:0702",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "いそがないと　太郎ちゃんを\nまたせることになっちゃう！",
-   "en": ""
+   "en": "If I don't hurry,\nI'll keep my Taro waiting!"
   },
   {
    "id": "event_ev000700:073A",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "いそいで{h }よみせへ\nいかなくっちゃ！",
-   "en": ""
+   "en": "I've gotta hurry\nto the food stalls!"
   },
   {
    "id": "event_ev000700:0760",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "太郎ちゃんとの{h }まちあわせに\nおくれないように{h }しなくっちゃ！",
-   "en": ""
+   "en": "I can't be late\nto meet my Taro!"
   },
   {
    "id": "event_ev000700:07A0",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "いそがないと\nみんなを{h }またせてしまうな",
-   "en": ""
+   "en": "If I don't hurry,\nI'll keep everyone waiting."
   },
   {
    "id": "event_ev000700:07CA",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "みんなとの{h }まちあわせは‥‥\nよみせが{h }出てるところだったな",
-   "en": ""
+   "en": "We're meeting everyone...\nwhere the food stalls are set up."
   },
   {
    "id": "event_ev000700:0808",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "いそいで{h }よみせへ{h }いかないとな",
-   "en": ""
+   "en": "I'd better hurry to the food stalls."
   },
   {
    "id": "event_ev000700:082A",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "このままじゃ　みんなとの\nまちあわせに{h }おくれてしまう‥‥",
-   "en": ""
+   "en": "At this rate, I'll be late\nto meet everyone..."
   },
   {
    "id": "event_ev000700:0866",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "ついたぁー！　えーっと‥‥\nみんなは{h }どこに‥‥",
-   "en": ""
+   "en": "Made it! Um...\nwhere is everyone..."
   },
   {
    "id": "event_ev000700:0898",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "出ていらっしゃい！\nマーメイドプリンセス！",
-   "en": ""
+   "en": "Come on out!\nMermaid Princesses!"
   },
   {
    "id": "event_ev000700:08C4",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "‥‥って　たいへん！\nむこうで　水妖が{h }あばれてる！",
-   "en": ""
+   "en": "...Oh no!\nWater demons are going wild over there!"
   },
   {
    "id": "event_ev000700:08FA",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "なんとかしなきゃ！",
-   "en": ""
+   "en": "I've gotta do something!"
   },
   {
    "id": "event_ev000700:090E",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "やっと　ついたぁ！\nみんなは{h }どこにいるのかなぁ‥‥",
-   "en": ""
+   "en": "Finally made it!\nI wonder where everyone is..."
   },
   {
    "id": "event_ev000700:0944",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "出ていらっしゃい！\nマーメイドプリンセス！",
-   "en": ""
+   "en": "Come on out!\nMermaid Princesses!"
   },
   {
    "id": "event_ev000700:0970",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "‥‥って　たいへん！\nむこうで　水妖が{h }あばれてる！",
-   "en": ""
+   "en": "...Oh no!\nWater demons are going wild over there!"
   },
   {
    "id": "event_ev000700:09A6",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "なんとかしなきゃ！",
-   "en": ""
+   "en": "I've gotta do something!"
   },
   {
    "id": "event_ev000700:09BA",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "ふぅ‥‥やっとついた‥‥\nみんなはどこに‥‥",
-   "en": ""
+   "en": "Phew... Finally here...\nWhere is everyone..."
   },
   {
    "id": "event_ev000700:09E8",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "出ていらっしゃい！\nマーメイドプリンセス！",
-   "en": ""
+   "en": "Come on out!\nMermaid Princesses!"
   },
   {
    "id": "event_ev000700:0A14",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "‥‥って　たいへんだ！\n水妖が{h }むこうで{h }あばれてる！！",
-   "en": ""
+   "en": "...Oh no!\nWater demons are going wild over there!!"
   },
   {
    "id": "event_ev000700:0A4E",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "なんとかしなければ！",
-   "en": ""
+   "en": "I have to do something!"
   },
   {
    "id": "event_ev000700:0A64",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "（ヒュルルルルル‥‥ドドォーン！\nドーン！{h }バチバチバチ‥‥）",
-   "en": ""
+   "en": "(Wheeeee... BOOOOM!\nBOOM! Crackle crackle crackle...)"
   },
   {
    "id": "event_ev000700:0AA4",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "うわぁ〜　すごいすごい！\n花火って{h }きれいだねー",
-   "en": ""
+   "en": "Wow, amazing, amazing!\nFireworks are so pretty!"
   },
   {
    "id": "event_ev000700:0AD6",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "もう　こうふんして　のどがカラカラ\nジュースかっておいて　よかったぁ",
-   "en": ""
+   "en": "I'm so excited my throat's all dry.\nGood thing I bought some juice!"
   },
   {
    "id": "event_ev000700:0B1C",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "（ゴク　ゴク‥‥）",
-   "en": ""
+   "en": "(Gulp, gulp...)"
   },
   {
    "id": "event_ev000700:0B30",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "オレも{h }のどが{h }カラカラなんだよね\nそのジュース　ちょっとくれない？",
-   "en": ""
+   "en": "My throat's all dry too.\nCan I have some of that juice?"
   },
   {
    "id": "event_ev000700:0B76",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "うん{h }いいよ！",
-   "en": ""
+   "en": "Sure, go ahead!"
   },
   {
    "id": "event_ev000700:0B86",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "サンキュー！\n（ゴク　ゴク‥‥）",
-   "en": ""
+   "en": "Thanks!\n(Gulp, gulp...)"
   },
   {
    "id": "event_ev000700:0BA8",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "‥‥あっ！\n（これって　かんせつキス！？）",
-   "en": ""
+   "en": "...Ah!\n(Wait, is this an indirect kiss?!)"
   },
   {
    "id": "event_ev000700:0BD4",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "ふぅーーっ　うまかったぁ！\nありがとな　るちあ",
-   "en": ""
+   "en": "Phew! That was great!\nThanks, Lucia."
   },
   {
    "id": "event_ev000700:0C04",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "ん？　るちあ　どうしたんだ？\nなんだか{h }かおが{h }赤いぜ？",
-   "en": ""
+   "en": "Hm? Lucia, what's wrong?\nYour face is kinda red."
   },
   {
    "id": "event_ev000700:0C3E",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "（あーん{h }へんに{h }いしきしちゃったら\n海斗のかおが{h }見られないよぉ〜）",
-   "en": ""
+   "en": "(Waaah, now that I'm thinking about it,\nI can't even look at Kaito's face!)"
   },
   {
    "id": "event_ev000700:0C94",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "（ヒュルルルル‥‥ドドォーン！！\nバチバチバチバチバチ‥‥‥‥）",
-   "en": ""
+   "en": "(Wheeeee... BOOOOM!!\nCrackle crackle crackle crackle...)"
   },
   {
    "id": "event_ev000700:0CD6",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "うわぁ‥‥すごーい‥‥",
-   "en": ""
+   "en": "Wow... Amazing..."
   },
   {
    "id": "event_ev000700:0CEE",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "ほんと{h }花火って{h }きれいですよね",
-   "en": ""
+   "en": "Fireworks really are beautiful."
   },
   {
    "id": "event_ev000700:0D10",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "でも　うち上げるときの{h }おとは\n大きすぎて{h }ちょっと{h }にがてです‥‥",
-   "en": ""
+   "en": "But the sound when they go up\nis a little too loud for me..."
   },
   {
    "id": "event_ev000700:0D56",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "（ヒュルルルルル‥‥ドドォーン！\nドーン！{h }バチバチバチ‥‥）",
-   "en": ""
+   "en": "(Wheeeee... BOOOOM!\nBOOM! Crackle crackle crackle...)"
   },
   {
    "id": "event_ev000700:0D96",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "キャッ！",
-   "en": ""
+   "en": "Eek!"
   },
   {
    "id": "event_ev000700:0DA0",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "だいじょうぶですか　波音さん？",
-   "en": ""
+   "en": "Are you all right, Hanon?"
   },
   {
    "id": "event_ev000700:0DC0",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "は　はい‥‥だいじょうぶです\nおとに{h }びっくりしちゃって‥‥",
-   "en": ""
+   "en": "Y-yes... I'm all right.\nThe sound just startled me..."
   },
   {
    "id": "event_ev000700:0DFE",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "きもちが{h }おちつくまで　もうすこし\nこのままで{h }いていいですか？",
-   "en": ""
+   "en": "Can I stay like this a little\nlonger, until I calm down?"
   },
   {
    "id": "event_ev000700:0E40",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "はい　いいですよ",
-   "en": ""
+   "en": "Yes, that's fine."
   },
   {
    "id": "event_ev000700:0E52",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "すみません　海月先生‥‥",
-   "en": ""
+   "en": "I'm sorry, Mr. Mitsuki..."
   },
   {
    "id": "event_ev000700:0E6C",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "（おもわず{h }だきついちゃったけど\nエヘへ　ラッキー☆）",
-   "en": ""
+   "en": "(I hugged him without thinking,\nbut hehe, lucky me! ☆)"
   },
   {
    "id": "event_ev000700:0EA4",
@@ -648,7 +648,7 @@
     80
    ],
    "jp": "（ヒュルルルル‥‥ドドォーン！！\nバチバチバチバチバチ‥‥‥‥）",
-   "en": ""
+   "en": "(Wheeeee... BOOOOM!!\nCrackle crackle crackle crackle...)"
   },
   {
    "id": "event_ev000700:0EE6",
@@ -656,7 +656,7 @@
     81
    ],
    "jp": "花火は{h }きれいなんだけど‥‥\nみんなと{h }はぐれてしまった‥‥",
-   "en": ""
+   "en": "The fireworks are pretty, but...\nI got separated from everyone..."
   },
   {
    "id": "event_ev000700:0F24",
@@ -664,7 +664,7 @@
     82
    ],
    "jp": "ふぅ　やっと見つけたぜ　洞院\nったく　なにやってんだよ",
-   "en": ""
+   "en": "Phew, finally found you, Toin.\nJeez, what are you doing?"
   },
   {
    "id": "event_ev000700:0F5C",
@@ -672,7 +672,7 @@
     83
    ],
    "jp": "海斗！\nさがしにきてくれたのか‥‥",
-   "en": ""
+   "en": "Kaito!\nYou came looking for me..."
   },
   {
    "id": "event_ev000700:0F80",
@@ -680,7 +680,7 @@
     84
    ],
    "jp": "‥‥わざわざすまなかったな",
-   "en": ""
+   "en": "...Sorry for the trouble."
   },
   {
    "id": "event_ev000700:0F9C",
@@ -688,7 +688,7 @@
     85
    ],
    "jp": "みんなして{h }さがしてたんだよ\nとにかく見つかってよかったぜ",
-   "en": ""
+   "en": "We were all looking for you.\nAnyway, glad we found you."
   },
   {
    "id": "event_ev000700:0FD8",
@@ -696,7 +696,7 @@
     86
    ],
    "jp": "それじゃあ　みんなのところへ‥‥\n‥‥‥‥‥‥‥‥",
-   "en": ""
+   "en": "Okay, let's get back to everyone...\n........"
   },
   {
    "id": "event_ev000700:100C",
@@ -704,7 +704,7 @@
     87
    ],
    "jp": "ん？　どうした？",
-   "en": ""
+   "en": "Hm? What's wrong?"
   },
   {
    "id": "event_ev000700:101E",
@@ -712,7 +712,7 @@
     88
    ],
    "jp": "いや　るちあたちが{h }どこにいるのか\nわかんなくなっちまった‥‥",
-   "en": ""
+   "en": "Uh, I don't know where\nLucia and the others are anymore..."
   },
   {
    "id": "event_ev000700:105E",
@@ -720,7 +720,7 @@
     89
    ],
    "jp": "まったく　おまえというやつは‥‥",
-   "en": ""
+   "en": "Honestly, you are just..."
   },
   {
    "id": "event_ev000700:1080",
@@ -728,7 +728,7 @@
     90
    ],
    "jp": "だいじょうぶだ　しんぱいするな",
-   "en": ""
+   "en": "It's fine, don't worry."
   },
   {
    "id": "event_ev000700:10A0",
@@ -736,7 +736,7 @@
     91
    ],
    "jp": "こんなこともあろうかと　るちあから\nおちあうばしょの{h }ちずを‥‥",
-   "en": ""
+   "en": "Just in case this happened, I got a\nmap of the meeting place from Lucia..."
   },
   {
    "id": "event_ev000700:10E2",
@@ -752,7 +752,7 @@
     93
    ],
    "jp": "どうしたんだ？\nその{h }ちず　ちょっと{h }見せてみろ",
-   "en": ""
+   "en": "What's wrong?\nLet me see that map."
   },
   {
    "id": "event_ev000700:1126",
@@ -760,7 +760,7 @@
     94
    ],
    "jp": "‥‥‥‥‥‥\nなんだ　この{h }ちずは！？",
-   "en": ""
+   "en": "......\nWhat is this map?!"
   },
   {
    "id": "event_ev000700:114E",
@@ -768,7 +768,7 @@
     95
    ],
    "jp": "どこへ{h }いけばいいのか\nさっぱり{h }わからないじゃないか",
-   "en": ""
+   "en": "There's no way to tell\nwhere we're supposed to go!"
   },
   {
    "id": "event_ev000700:1186",
@@ -776,7 +776,7 @@
     96
    ],
    "jp": "‥‥だろ？　ったく　るちあのやつ\nこんな{h }ちずで{h }どうしろって‥‥",
-   "en": ""
+   "en": "...Right? Jeez, Lucia...\nWhat am I supposed to do with this map..."
   },
   {
    "id": "event_ev000700:11CA",
@@ -784,7 +784,7 @@
     97
    ],
    "jp": "もんくを{h }いっても{h }しかたがない",
-   "en": ""
+   "en": "No use complaining."
   },
   {
    "id": "event_ev000700:11EC",
@@ -792,7 +792,7 @@
     98
    ],
    "jp": "まちあわせ{h }ばしょが{h }どこなのか\n２人で{h }このちずを{h }ぶんせきしよう",
-   "en": ""
+   "en": "Let's figure out this map together\nand find where the meeting place is."
   },
   {
    "id": "event_ev000700:1232",
@@ -800,7 +800,7 @@
     99
    ],
    "jp": "{h }　　　　エピソード　８　　　　　\n　　　『なつのはな』　おわり　　",
-   "en": ""
+   "en": "          Episode 8\n\"Summer Flowers\" - The End"
   }
  ]
 }

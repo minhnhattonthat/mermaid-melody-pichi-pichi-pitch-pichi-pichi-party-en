@@ -8,7 +8,7 @@
     0
    ],
    "jp": "きょうの{h }ちょうりじっしゅう\nおかしづくりらしいよ",
-   "en": ""
+   "en": "Today's cooking class\nis apparently making sweets."
   },
   {
    "id": "event_ev001000:0034",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "すきなもの{h }つくっていいんだって！",
-   "en": ""
+   "en": "They said we can make whatever we like!"
   },
   {
    "id": "event_ev001000:0058",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "じゃあ{h }できたての{h }おかしを\n‥‥さし入れとか{h }できるかな？",
-   "en": ""
+   "en": "Then maybe I could bring someone\n...some fresh-baked sweets?"
   },
   {
    "id": "event_ev001000:0096",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "もっちろん！\nわたしは　太郎ちゃんに{h }あげるわよ",
-   "en": ""
+   "en": "Of course!\nI'm giving mine to Taro!"
   },
   {
    "id": "event_ev001000:00C8",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "つくるのは\nこうちゃのカップケーキ！",
-   "en": ""
+   "en": "I'm making\ntea cupcakes!"
   },
   {
    "id": "event_ev001000:00EE",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "わたし　ぜったい\nチョコチップクッキー{h }つくる！",
-   "en": ""
+   "en": "I'm totally making\nchocolate chip cookies!"
   },
   {
    "id": "event_ev001000:0120",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "わたしは　チーズケーキを\nつくりたいな‥‥",
-   "en": ""
+   "en": "I'd like to make\na cheesecake..."
   },
   {
    "id": "event_ev001000:014C",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "あーあ　みんなバラバラだぁ〜",
-   "en": ""
+   "en": "Aww, we all want different things!"
   },
   {
    "id": "event_ev001000:016A",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "こうなったら{h }早いものがち！",
-   "en": ""
+   "en": "Then it's first come, first served!"
   },
   {
    "id": "event_ev001000:0188",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ざいりょうが{h }そろったぶんから\nつくるわよ！",
-   "en": ""
+   "en": "Whoever gets their ingredients first\ngets to cook!"
   },
   {
    "id": "event_ev001000:01B6",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "チョコチップは\nおかしやさんに{h }うってるよね",
-   "en": ""
+   "en": "They sell chocolate chips\nat the candy store, right?"
   },
   {
    "id": "event_ev001000:01E4",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "いそいで{h }おかしやさんに\nいかないと‥‥",
-   "en": ""
+   "en": "I've gotta hurry\nto the candy store..."
   },
   {
    "id": "event_ev001000:020E",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "ぜったいに　チョコチップクッキーを\nつくるんだもん！",
-   "en": ""
+   "en": "I'm totally making\nchocolate chip cookies!"
   },
   {
    "id": "event_ev001000:0244",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "みんなより{h }早く\nおかしやさんで{h }おかいものよ！",
-   "en": ""
+   "en": "I'll beat everyone\nto the candy store!"
   },
   {
    "id": "event_ev001000:0276",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "ハーブショップで\nこうちゃを{h }かわなきゃ",
-   "en": ""
+   "en": "I need to buy tea\nat the herb shop."
   },
   {
    "id": "event_ev001000:02A0",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "ハーブショップの{h }こうちゃって\nとっても{h }おいしいのよねー",
-   "en": ""
+   "en": "The tea from the herb shop\nis sooo good!"
   },
   {
    "id": "event_ev001000:02DC",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "ぜったい　\nこうちゃの{h }カップケーキ！",
-   "en": ""
+   "en": "It's gotta be\ntea cupcakes!"
   },
   {
    "id": "event_ev001000:0304",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "とぉ〜っても　おいしいんだから",
-   "en": ""
+   "en": "They're sooo delicious!"
   },
   {
    "id": "event_ev001000:0324",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "てづくりケーキで　太郎ちゃんに\nよろこんでもらうんだぁ☆",
-   "en": ""
+   "en": "Taro will love my\nhomemade cakes! ☆"
   },
   {
    "id": "event_ev001000:035E",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "チーズケーキの{h }ざいりょう‥‥\nたしか{h }スーパーに{h }うっていたはずだ",
-   "en": ""
+   "en": "Cheesecake ingredients...\nThe supermarket should have them."
   },
   {
    "id": "event_ev001000:03A4",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "いつもの{h }スーパーに\nクリームチーズを{h }かいに{h }いこう",
-   "en": ""
+   "en": "I'll go to the usual supermarket\nand buy cream cheese."
   },
   {
    "id": "event_ev001000:03DC",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "チーズケーキが\nいちばんおいしいはずだ",
-   "en": ""
+   "en": "Cheesecake should be\nthe most delicious."
   },
   {
    "id": "event_ev001000:0404",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "スーパーで{h }ざいりょうが\nうりきれてなければいいけど‥‥",
-   "en": ""
+   "en": "I hope the supermarket hasn't\nsold out of what I need..."
   },
   {
    "id": "event_ev001000:043E",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "チョコチップを‥‥",
-   "en": ""
+   "en": "Chocolate chips..."
   },
   {
    "id": "event_ev001000:0452",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "えーっと{h }このくらいで{h }足りるよね☆",
-   "en": ""
+   "en": "Umm, this much should be enough! ☆"
   },
   {
    "id": "event_ev001000:0478",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "早く学校へ{h }もどって\nチョコチップ{h }クッキー{h }つーくろ！",
-   "en": ""
+   "en": "Back to school quick,\nto make chocolate chip cookies!"
   },
   {
    "id": "event_ev001000:04B2",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "いちばん{h }おいしい{h }こうちゃを\nくださいな　とっておきのをね☆",
-   "en": ""
+   "en": "Your most delicious tea,\nplease! Your very best! ☆"
   },
   {
    "id": "event_ev001000:04F2",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "さぁ　さいしょに{h }学校へ{h }もどって\nカップケーキを{h }つくるわよ！",
-   "en": ""
+   "en": "Now, I'll get back to school first\nand make my cupcakes!"
   },
   {
    "id": "event_ev001000:0534",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "よし　クリームチーズだ\nこれで{h }チーズケーキが{h }つくれるぞ",
-   "en": ""
+   "en": "All right, cream cheese.\nNow I can make a cheesecake."
   },
   {
    "id": "event_ev001000:0570",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "いそいで{h }学校にもどろう‥‥",
-   "en": ""
+   "en": "I'd better hurry back to school..."
   },
   {
    "id": "event_ev001000:058E",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "早く学校へ{h }もーどろっと\nこのチョコチップで{h }クッキーよ！",
-   "en": ""
+   "en": "Back to school quick!\nCookies with these chocolate chips!"
   },
   {
    "id": "event_ev001000:05CA",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "みんなより早く\n学校に{h }もどるわよ！",
-   "en": ""
+   "en": "I'll get back to school\nbefore everyone else!"
   },
   {
    "id": "event_ev001000:05F0",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "わたしが{h }さいしょに\n学校へ{h }もどるんだから！",
-   "en": ""
+   "en": "I'm gonna be the first one\nback at school!"
   },
   {
    "id": "event_ev001000:0620",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "海斗に　チョコチップクッキー\nさしいれするんだ☆",
-   "en": ""
+   "en": "I'm bringing Kaito\nsome chocolate chip cookies! ☆"
   },
   {
    "id": "event_ev001000:0652",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "さあ　この{h }こうちゃを{h }もって\n学校に{h }もどろっと",
-   "en": ""
+   "en": "Now, let's take this tea\nback to school!"
   },
   {
    "id": "event_ev001000:0686",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "さいしょに{h }学校へ{h }もどって\nカップケーキを{h }つくるわよ",
-   "en": ""
+   "en": "I'll get back to school first\nand make my cupcakes!"
   },
   {
    "id": "event_ev001000:06C0",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "わたしが{h }さいしょに\n学校へ{h }もどるわよ",
-   "en": ""
+   "en": "I'm gonna be the first one\nback at school!"
   },
   {
    "id": "event_ev001000:06EA",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "太郎ちゃん\nきっと{h }よろこんで{h }くれるわぁ",
-   "en": ""
+   "en": "I just know\nTaro will love them!"
   },
   {
    "id": "event_ev001000:0716",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "さあ　早く{h }学校に\nもどらないと‥‥",
-   "en": ""
+   "en": "Now, I'd better hurry\nback to school..."
   },
   {
    "id": "event_ev001000:073C",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "いそいで{h }学校にもどろう‥‥\nチーズケーキを{h }つくるんだ",
-   "en": ""
+   "en": "I'll hurry back to school...\nand make my cheesecake."
   },
   {
    "id": "event_ev001000:0776",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "かいものもすんだし\n学校へ{h }もどろう‥‥",
-   "en": ""
+   "en": "Shopping's done,\nso back to school..."
   },
   {
    "id": "event_ev001000:07A0",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "早く{h }学校へ{h }もどって\nちょうりじっしゅうの{h }つづきを‥‥",
-   "en": ""
+   "en": "Hurry back to school\nand finish cooking class..."
   },
   {
    "id": "event_ev001000:07DC",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "さあ　クッキーを{h }つくるわよー！",
-   "en": ""
+   "en": "Now, let's make cookies!"
   },
   {
    "id": "event_ev001000:07FE",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "たのしい{h }きぶんで\nレッツ　クッキング！",
-   "en": ""
+   "en": "In a happy mood...\nLet's cook!"
   },
   {
    "id": "event_ev001000:0828",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "さあ\nカップケーキを{h }つくるわよ！",
-   "en": ""
+   "en": "Now,\nlet's make cupcakes!"
   },
   {
    "id": "event_ev001000:084C",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "あいじょうを{h }いっぱい{h }こめて\nつくるんだから！",
-   "en": ""
+   "en": "I'll make them\nwith lots of love!"
   },
   {
    "id": "event_ev001000:087E",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "おや？　わたしが{h }いちばんか‥‥",
-   "en": ""
+   "en": "Huh? I'm the first one..."
   },
   {
    "id": "event_ev001000:08A0",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "りょうりのきめては{h }たのしく{h }\nりょうりする{h }きもちなんだ！",
-   "en": ""
+   "en": "The secret to cooking is\nhaving fun while you do it!"
   },
   {
    "id": "event_ev001000:08DE",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "ウフフ　このクッキー\nまだ　ほっかほかだよ",
-   "en": ""
+   "en": "Hehe, these cookies\nare still warm!"
   },
   {
    "id": "event_ev001000:090A",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "海斗　よろこんでくれるかな？",
-   "en": ""
+   "en": "I wonder if Kaito will like them?"
   },
   {
    "id": "event_ev001000:0928",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "んん？　なんだか\nいいにおいが{h }するなぁ",
-   "en": ""
+   "en": "Hmm? Something\nsmells good."
   },
   {
    "id": "event_ev001000:0952",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "かーいと☆　ちょうりじっしゅうで\nクッキー{h }つくったんだよ",
-   "en": ""
+   "en": "Kaaaito! ☆ I made cookies\nin cooking class!"
   },
   {
    "id": "event_ev001000:098E",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "ウソだろ？{h }おまえ　りょうりなんか\nできたのか？",
-   "en": ""
+   "en": "No way! You can actually\ncook?"
   },
   {
    "id": "event_ev001000:09C0",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "ああっ！\n海斗ったら　ひっどーい！",
-   "en": ""
+   "en": "Hey!\nKaito, that's so mean!"
   },
   {
    "id": "event_ev001000:09E4",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "そんな　いじわる{h }いうなら\nクッキー{h }あげないんだからぁ！",
-   "en": ""
+   "en": "If you're gonna be a meanie,\nyou don't get any cookies!"
   },
   {
    "id": "event_ev001000:0A20",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "ははは　じょうだんだよ\nありがたく　もらってやるぜ",
-   "en": ""
+   "en": "Haha, I'm kidding.\nI'll gratefully take them."
   },
   {
    "id": "event_ev001000:0A54",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "しょうがないなぁ　だったらあげるよ\n（うわぁ　どきどきしちゃう☆）",
-   "en": ""
+   "en": "Oh, fine, here you go then.\n(Eek, my heart's pounding! ☆)"
   },
   {
    "id": "event_ev001000:0A98",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "へぇ　いいにおいだな",
-   "en": ""
+   "en": "Hey, they smell good."
   },
   {
    "id": "event_ev001000:0AAE",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "（パクッ{h)}",
-   "en": ""
+   "en": "(Munch)"
   },
   {
    "id": "event_ev001000:0ABA",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "‥‥{h }おっ　うまいじゃん！",
-   "en": ""
+   "en": "...Oh, these are good!"
   },
   {
    "id": "event_ev001000:0AD6",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "見なおしたぜ{h }るちあ！",
-   "en": ""
+   "en": "I'm impressed, Lucia!"
   },
   {
    "id": "event_ev001000:0AEE",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "えへへ　がんばって\nつくったんだもーん",
-   "en": ""
+   "en": "Hehe, I worked\nreally hard on them!"
   },
   {
    "id": "event_ev001000:0B16",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "んん〜　いいにおい\nびっくりするほど{h }おいしそう！",
-   "en": ""
+   "en": "Mmm, smells so good!\nThey look amazingly tasty!"
   },
   {
    "id": "event_ev001000:0B4A",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "‥‥きゃああ！",
-   "en": ""
+   "en": "...Eeeek!"
   },
   {
    "id": "event_ev001000:0B5A",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "ドン！",
-   "en": ""
+   "en": "BUMP!"
   },
   {
    "id": "event_ev001000:0B62",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "うわっ！　波音さん　ごめんなさい\nよそ見をしていて‥‥",
-   "en": ""
+   "en": "Whoa! I'm sorry, Hanon!\nI wasn't looking where I was going..."
   },
   {
    "id": "event_ev001000:0B9A",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "きゃ　海月先生☆\nわたしなら　ぜんぜん{h }へいきでーす",
-   "en": ""
+   "en": "Oh, Mr. Mitsuki! ☆\nI'm totally fine!"
   },
   {
    "id": "event_ev001000:0BD0",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "それより{h }先生\nこれ{h }ちょうりじっしゅうで‥‥",
-   "en": ""
+   "en": "More importantly, here,\nI made these in cooking class..."
   },
   {
    "id": "event_ev001000:0C00",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "‥‥いやーん！？　バラバラ〜！",
-   "en": ""
+   "en": "...Nooo!? They're all smashed!"
   },
   {
    "id": "event_ev001000:0C20",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "ひょっとして‥‥",
-   "en": ""
+   "en": "Could it be..."
   },
   {
    "id": "event_ev001000:0C32",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "さしいれに{h }\nもってきてくれたんですか？",
-   "en": ""
+   "en": "You brought these\nfor me?"
   },
   {
    "id": "event_ev001000:0C5C",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "とても{h }おいしそうな\nカップケーキですね",
-   "en": ""
+   "en": "What delicious-looking\ncupcakes."
   },
   {
    "id": "event_ev001000:0C86",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "ちょっ{h }ちょっと{h }まっててください！",
-   "en": ""
+   "en": "W-wait just a moment!"
   },
   {
    "id": "event_ev001000:0CAC",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "いま{h }キレイなのを\nもってきますからぁ！",
-   "en": ""
+   "en": "I'll go get you\nsome nice ones!"
   },
   {
    "id": "event_ev001000:0CD6",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "だいじょうぶですよ　波音さん\nそれ　いただきますね",
-   "en": ""
+   "en": "It's all right, Hanon.\nI'll have these."
   },
   {
    "id": "event_ev001000:0D0A",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "もぐもぐ‥‥\nうん　とっても{h }おいしいですよ",
-   "en": ""
+   "en": "*munch munch*...\nYes, they're very tasty."
   },
   {
    "id": "event_ev001000:0D38",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "アハ　よかったぁ\nまた{h }先生のために{h }つくってきますね",
-   "en": ""
+   "en": "Yay, I'm so glad!\nI'll make you more sometime!"
   },
   {
    "id": "event_ev001000:0D70",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "（こんど　リナに\nおりょうり{h }ならわなくっちゃ〜）",
-   "en": ""
+   "en": "(Next time I've gotta get\nRina to teach me cooking!)"
   },
   {
    "id": "event_ev001000:0DA4",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "さて　チーズケーキの{h }できあがりだ\nそれじゃ　みんなで{h }たべようか",
-   "en": ""
+   "en": "Now, the cheesecake is done.\nShall we all eat?"
   },
   {
    "id": "event_ev001000:0DE8",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "うわぁ　おいしいっ！\nほんとうに{h }おいしいよっ！",
-   "en": ""
+   "en": "Wow, yummy!\nIt's really yummy!"
   },
   {
    "id": "event_ev001000:0E1A",
@@ -648,7 +648,7 @@
     80
    ],
    "jp": "リナって{h }りょうりが{h }うまいなぁ‥‥\nわたし　ちょっと{h }うらやましいかも",
-   "en": ""
+   "en": "Rina, you're such a good cook...\nI might be a little jealous."
   },
   {
    "id": "event_ev001000:0E64",
@@ -656,7 +656,7 @@
     81
    ],
    "jp": "あれ？　ねえねえ\nそっちのケーキは{h }どうするの？",
-   "en": ""
+   "en": "Huh? Hey, hey,\nwhat about that other cake?"
   },
   {
    "id": "event_ev001000:0E96",
@@ -664,7 +664,7 @@
     82
    ],
    "jp": "それも{h }２人のぶんだよ",
-   "en": ""
+   "en": "That's two more servings."
   },
   {
    "id": "event_ev001000:0EAE",
@@ -672,7 +672,7 @@
     83
    ],
    "jp": "海斗と海月先生に\nさし入れに{h }いくんだろ？",
-   "en": ""
+   "en": "You're taking some to Kaito\nand Mr. Mitsuki, right?"
   },
   {
    "id": "event_ev001000:0EDA",
@@ -680,7 +680,7 @@
     84
    ],
    "jp": "うん！",
-   "en": ""
+   "en": "Yeah!"
   },
   {
    "id": "event_ev001000:0EE2",
@@ -688,7 +688,7 @@
     85
    ],
    "jp": "リナったら{h }気がきく〜！\nもう{h }だいすき！！",
-   "en": ""
+   "en": "Rina, you're so thoughtful!\nI love you!!"
   },
   {
    "id": "event_ev001000:0F10",
@@ -696,7 +696,7 @@
     86
    ],
    "jp": "ふふっ‥‥がんばれよ",
-   "en": ""
+   "en": "Heh... Good luck."
   },
   {
    "id": "event_ev001000:0F26",
@@ -704,7 +704,7 @@
     87
    ],
    "jp": "{h }　　　　エピソード　１１　　　　\n　『おかしのプレゼント』　おわり　",
-   "en": ""
+   "en": "        Episode 11\n\"A Present of Sweets\" - The End"
   }
  ]
 }
