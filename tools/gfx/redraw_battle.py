@@ -17,6 +17,7 @@ from PIL import Image, ImageDraw, ImageFont
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.dirname(HERE)); sys.path.insert(0, HERE)
 import redraw  # noqa: E402
+import pixfont  # noqa: E402
 
 NARROW = "ARIALNB.TTF"   # Arial Narrow Bold: the kana labels are tight, a narrow face keeps full words
 
@@ -242,7 +243,25 @@ def def_bar_name():
     save(a, im, p)
 
 
+def def_bar_icon():
+    """ミス burst (contest miss marker, 6th icon, OBJ bank 15): big at (160, 0), small at (160, 32) -> MISS."""
+    p = "/battle/battle_def_bar_icon.dcg"
+    a, im = load(p)
+    for (y0, y1), cx, m in (((11, 21), 175, pixfont.render("MISS")),
+                            ((45, 56), 173, pixfont.render_tiny("MISS"))):
+        m = pixfont.trim_rows(m)
+        sub = a[y0:y1, 162:188]
+        L = np.isin(sub, [7, 9, 6, 5])
+        grad = nearest({y0 + k: v for k, v in row_modes(sub, L).items()})
+        ys = np.nonzero(L.any(1))[0]
+        sub[L] = 1
+        top = y0 + ys.min() + (ys.max() - ys.min() + 1 - m.shape[0]) // 2
+        put(a, cx - m.shape[1] // 2, top, m, grad)
+    save(a, im, p)
+
+
 if __name__ == "__main__":
+    def_bar_icon()
     bg_off()
     bg_def()
     call_bar()

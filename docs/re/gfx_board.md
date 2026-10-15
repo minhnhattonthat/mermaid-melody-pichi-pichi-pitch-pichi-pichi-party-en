@@ -3,7 +3,9 @@
 Generator: `python -X utf8 tools/gfx/redraw_board.py [part ..]` (parts: board, board_map, map_goal, roulet_ev,
 status_icons, titlebars, modetitle, map_mokuteki, mokuteki, destination, yesno, roulet_obj, map_rank, status_obj,
 roulet_obj_drum). Test ROM: `build/gfx_board.gba`. Route: `tools/debug/mode.lua --var MODE=0x0829AD48 --mash 50`
-from cold boot (episode 1 runs to the goal at ~24000 frames). Shots: work/qa/gfx_board/en3/.
+from cold boot. Shots: work/qa/gfx_board/en3/ (0-24600), goal/ (to 34000), goal2/ (state goal/s030000.mss + 12000);
+Japanese reference run: work/qa/gfx_board/orig/ (PPU dumps every 150 frames; the original reaches the episode goal at
+~23850, the English run had not reached it by ~42000).
 
 Findings
 - OBJ VRAM uses 2D mapping (DISPCNT 0x1F00): most OBJ sheets are 32 tiles wide (export --tw 32); titlebar 21,
@@ -27,15 +29,14 @@ Findings
 | /system/common/map_rank.dcg | やったね!1位, いいかんじ!2位, がんばれ!3位 | status window rank | Yay! 1st, Nice! 2nd, Go for it! 3rd |
 | /system/common/status_obj.dcg | やったね! 1 位 | status window | Yay! 1st |
 | /system/common/roulet_obj_drum.dcg | ハプニング! banner, カードゲット! sign | Mishap list, card pickup | Mishap!, Got a Card! |
-| /system/common/map_goal.dcg | とうちゃく!, ヒロインポイント ゲット!, ゴール!, 1 2 3 ちゃく, ゴールまで __ マス, ゴールした人だけボーナス, ペアボーナス, デートボーナス | arrival, points award, episode goal | Arrived!, Heroine Points / Up!, Goal!, 1st 2nd 3rd + Place, To Goal / left, BONUS FOR FINISHERS, Pair Bonus, Date Bonus |
+| /system/common/map_goal.dcg | とうちゃく!, ヒロインポイント ゲット!, ゴール!, 1 2 3 ちゃく, ゴールまで __ マス, ゴールした人だけボーナス, ペアボーナス, デートボーナス | arrival, points award, episode goal | Arrived!, Heroine Points / Up! verified; Goal!, 1st 2nd 3rd + Place, To Goal / left, BONUS FOR FINISHERS, Pair Bonus, Date Bonus drawn, episode goal not reached |
 | /system/common/status_obj_icon.dcg, status_obj_goukei.dcg, status_obj_pts.dcg | stat names, ヒロインポイント ごうけい badge, ランダムポイント | stats screens (not reached on this route) | English, not seen on screen |
-| /system/event/roulet_ev.dcg, roulet_ev0.dcg, roulet_ev1.dcg | せいこう! しっぱい…… and stat strips | roulette challenge events | Success!, Failed..., NIMBLE STEPS, UNBEATABLE HEART, SINGING POWER |
+| /system/event/roulet_ev.dcg, roulet_ev0.dcg, roulet_ev1.dcg | せいこう! しっぱい……, stat strips, ごうけい strip (two stacked 32x8 sprites) | roulette challenge events | NIMBLE STEPS / UNBEATABLE HEART / TOTAL verified on screen; Success!, Failed..., SINGING POWER not reached |
 | /map/map.imb | 19 place-name pills on the board | board scroll | English caps (pills widened where needed) |
-| /map/map_l.imb | caption ぴちぴちピッチボードマップ | View Map | Pichi Pichi Pitch Board Map |
+| /map/map_l.imb | caption ぴちぴちピッチボードマップ | View Map | Pichi Pichi Pitch Board Map (Tahoma Bold 8; View Map not reached by the mash route) |
 | card_level, mnote, map_frame, map_pageicon, cursor_anim, win_bg_hukidasi, evicon, map_l_ficon/ticon, effect*.dcg, roulet_obj_eventstar, roulet_suuji_big | icons, digits, frames ("Lv" already Latin) | | no Japanese, untouched |
 
 Notes
 - No abbreviations. Wording choices: もくてきち -> "Go to" (banner tag) / "Here!" (board pin: "Destination" does
   not fit 26 px); マス after the count -> "left" (16 px slot); ハプニング -> "Mishap" (as blk_info); すてる -> "Toss".
-- Leftovers: roulet_ev.dcg rows 24-31 hold cut fragments of a second stat strip (まけないこころ); not seen on screen,
-  left as is. ちゅうおうひろば label -> "Central Plaza" (the board pill ちゅうおうこうえん is "Central Park").
+- ちゅうおうひろば label -> "Central Plaza" (the board pill ちゅうおうこうえん is "Central Park").
