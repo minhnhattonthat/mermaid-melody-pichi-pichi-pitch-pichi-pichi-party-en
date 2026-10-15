@@ -28,6 +28,18 @@ def has_header(data):
     return 12 + w * h * 32 == len(data)
 
 
+def header_len(data):
+    """Bytes before the tile data: 12 for headered .dcg; for .bst (bust-up/panel files: {u32 3, (off,size) x3},
+    last section = 12-byte sub-header + 4bpp tiles) the last section's offset + 12; else 0."""
+    if has_header(data):
+        return 12
+    if len(data) > 0x40 and struct.unpack_from("<I", data, 0)[0] == 3:
+        (o1, s1), (o2, s2), (o3, s3) = [struct.unpack_from("<II", data, 4 + 8 * k) for k in range(3)]
+        if o1 == 0x1C and o2 == o1 + s1 and o3 == o2 + s2 and o3 + s3 == len(data) and (s3 - 12) % 32 == 0:
+            return o3 + 12
+    return 0
+
+
 def tiles_to_pixels(data, bpp, tw):
     tb = 32 if bpp == 4 else 64
     n = len(data) // tb
@@ -74,6 +86,9 @@ def decode(rom, path):
     if has_header(data):
         w, h = struct.unpack_from("<HH", data, 8)
         return tiles_to_pixels(data[12:], 4, w), 4, {"hdr": data[:12]}
+    hl = header_len(data)
+    if hl:
+        return tiles_to_pixels(data[hl:], 4, 16), 4, {"hdr": data[:hl]}
     return tiles_to_pixels(data, 4, 16), 4, {"hdr": b""}
 
 

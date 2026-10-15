@@ -44,7 +44,7 @@ def file_bytes(rom, path, png):
     o, s = fs.get(rom, path)
     data = bytes(rom[o:o + s])
     lay = layout_of(path)
-    hdr = data[:12] if gfx.has_header(data) else b""
+    hdr = data[:gfx.header_len(data)]
     bpp = lay.get("bpp", 4)
     im = Image.open(png)
     if im.mode != "P":

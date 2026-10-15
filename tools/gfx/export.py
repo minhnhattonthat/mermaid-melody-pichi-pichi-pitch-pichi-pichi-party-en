@@ -28,7 +28,7 @@ def main():
     tw = len(px[0]) // 8
     if "--tw" in a:
         tw = int(a[a.index("--tw") + 1])
-        body = data[12:] if gfx.has_header(data) else data
+        body = data[gfx.header_len(data):]
         px = gfx.tiles_to_pixels(body, bpp, tw)
     bank = int(a[a.index("--bank") + 1]) if "--bank" in a else 0
     if "--pal" in a:
