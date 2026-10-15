@@ -25,6 +25,8 @@ def glyph(ch):
     im = Image.new("L", (24, 24), 0)
     d = ImageDraw.Draw(im)
     d.fontmode = "1"
+    if ch != "'":                   # full-width forms are kana-sized; the full-width apostrophe is a stray tick
+        ch = chr(ord(ch) + 0xFEE0)
     d.text((4, 2), ch, font=FONT, fill=255)
     m = np.array(im) > 127
     ys, xs = np.nonzero(m)
