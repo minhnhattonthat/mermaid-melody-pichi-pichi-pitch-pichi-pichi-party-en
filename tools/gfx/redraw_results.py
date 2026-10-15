@@ -41,7 +41,7 @@ def tmask(text, font, size, thresh=128):
     m = (np.array(im) >= thresh).astype(np.uint8)
     cols = np.nonzero(m.any(0))[0]
     m = m[:, cols.min():cols.max() + 1] if len(cols) else m[:, :0]
-    h = Image.new("L", (40, asc + desc + 2), 0)
+    h = Image.new("L", (T1,asc + desc + 2), 0)
     ImageDraw.Draw(h).text((1, 1), "H", font=f, fill=255)
     rows = np.nonzero((np.array(h) >= thresh).any(1))[0]
     return m, rows.min(), rows.max()
@@ -266,7 +266,7 @@ def total_tag(a):
     star[10:26, 0:11] = True
     star[10:26, 41:52] = True
     inner = np.zeros(s.shape, bool)
-    inner[13:41, 3:47] = True
+    inner[13:41, 3:48] = True
     s[inner & ~star] = 8
     for i, t in enumerate(("Heroine", "Points")):
         small = pixfont.render_tiny(t)
@@ -299,6 +299,8 @@ def result_obj():
 # ------------------------------------------------------------------ staff roll (4bpp, 240x1600)
 SR_FONT, SR_SIZE = "tahoma.ttf", 11
 A, B = 8, 128          # role column, name column
+SL, SM = 10, 128       # song credits: lyrics, music
+T1, T2 = 36, 144      # special thanks: two name columns
 
 # (role, [names]) groups; '' role = continuation line. Tuples (x, text) place text freely on the line.
 STAFF = [
@@ -327,21 +329,21 @@ STAFF = [
      ("", ["Hiroaki Takahashi"])],
     [("Debugging", ["RMC"]), ("", ["Dreams"])],
     [("Insert Songs", [])],
-    [("", [(16, '"Rainbow Notes"')]), ("", [(16, "Lyrics: Yukiko Mitsui"), (130, "Music: Seiji Katsu")])],
-    [("", [(16, '"Legend of Mermaid"')]), ("", [(16, "Lyrics: Yukiko Mitsui"), (130, "Music: Koji Hayashi")])],
-    [("", [(16, '"Beyond Our Dreams"')]), ("", [(16, "Lyrics: Yukiko Mitsui"), (130, "Music: Hiroyuki Ishida")])],
-    [("", [(16, '"KIZUNA"')]), ("", [(16, "Lyrics: Tetsuya Fukuda"), (130, "Music: Seiji Katsu")])],
-    [("", [(16, '"Paradise of the Sun ~Promised Land~"')]),
-     ("", [(16, "Lyrics: Yukiko Mitsui"), (130, "Music: Tetsuya Ouchi")])],
+    [("", [(SL,'"Rainbow Notes"')]), ("", [(SL,"Lyrics: Yukiko Mitsui"), (SM,"Music: Seiji Katsu")])],
+    [("", [(SL,'"Legend of Mermaid"')]), ("", [(SL,"Lyrics: Yukiko Mitsui"), (SM,"Music: Koji Hayashi")])],
+    [("", [(SL,'"Beyond Our Dreams"')]), ("", [(SL,"Lyrics: Yukiko Mitsui"), (SM,"Music: Hiroyuki Ishida")])],
+    [("", [(SL,'"KIZUNA"')]), ("", [(SL,"Lyrics: Tetsuya Fukuda"), (SM,"Music: Seiji Katsu")])],
+    [("", [(SL,'"Paradise of the Sun ~Promised Land~"')]),
+     ("", [(SL,"Lyrics: Yukiko Mitsui"), (SM,"Music: Tetsuya Ouchi")])],
     [("Special Thanks", [])],
-    [("", [(40, "Kodansha")]), ("", [(40, "Kiyosumi Kawamoto"), (138, "Yuri Osawa")]),
-     ("", [(40, "Takeyuki Shirato")])],
-    [("", [(40, "Pony Canyon")])],
-    [("", [(40, "We've")]), ("", [(40, "Hideyuki Kachi"), (138, "Rin Matsukuma")])],
-    [("", [(40, "Konami")]), ("", [(40, "Masato Sakai"), (138, "Ayako Minagawa")]),
-     ("", [(40, "Yuko Tamada"), (138, "Kanako Nakahara")])],
-    [("", [(40, "Atelier Double")]), ("", [(40, "Tetsuo Tsuboi"), (138, "Aoi Momotani")]),
-     ("", [(40, "Jun Kanda"), (138, "Masaaki Okubo")]), ("", [(40, "Atsutoshi Kojima"), (138, "Ayako Sorimachi")])],
+    [("", [(T1,"Kodansha")]), ("", [(T1,"Kiyosumi Kawamoto"), (T2,"Yuri Osawa")]),
+     ("", [(T1,"Takeyuki Shirato")])],
+    [("", [(T1,"Pony Canyon")])],
+    [("", [(T1,"We've")]), ("", [(T1,"Hideyuki Kachi"), (T2,"Rin Matsukuma")])],
+    [("", [(T1,"Konami")]), ("", [(T1,"Masato Sakai"), (T2,"Ayako Minagawa")]),
+     ("", [(T1,"Yuko Tamada"), (T2,"Kanako Nakahara")])],
+    [("", [(T1,"Atelier Double")]), ("", [(T1,"Tetsuo Tsuboi"), (T2,"Aoi Momotani")]),
+     ("", [(T1,"Jun Kanda"), (T2,"Masaaki Okubo")]), ("", [(T1,"Atsutoshi Kojima"), (T2,"Ayako Sorimachi")])],
     [("Product Coordinator", ["Noriaki Okamura"])],
     [("Producer", ["Takashi Shimomichi"])],
 ]
@@ -371,25 +373,23 @@ def staff_roll():
     a, pal, im = load(p)
     ink = np.isin(a, [3, 4])
     near = np.zeros_like(ink)
-    for dy in range(0, 3):
-        for dx in range(-1, 3):
+    for dy in range(-2, 4):                                # white shadow / AA pixels around the old letters
+        for dx in range(-3, 4):
             near |= np.roll(np.roll(ink, dy, 0), dx, 1)
     erase = ink | (near & np.isin(a, [11, 14, 15]))
     inpaint_rows(a, pal, erase, [5, 6, 7, 8, 9, 10, 12, 13, 14, 15])
     for y, items in staff_lines():
+        end = 0
         for x, t in items:
             m, top, base = tmask(t, SR_FONT, SR_SIZE)
             if x == "c":
                 x = 120 - m.shape[1] // 2
             elif x == -1:
                 x = 232 - m.shape[1]
-            assert x + m.shape[1] <= 238, (t, x, m.shape[1])
+            assert x >= end + 4 and x + m.shape[1] <= 238, (t, x, m.shape[1])   # no overlap, no overflow
+            end = x + m.shape[1]
             put(a, x + 1, y - top + 1, m, 15)               # white drop shadow (+1, +1)
             put(a, x, y - top, m, 3)
-    # role column must not run into the name column
-    for y, items in staff_lines():
-        if len(items) > 1 and items[0][0] == A and items[1][0] == B:
-            assert A + tmask(items[0][1], SR_FONT, SR_SIZE)[0].shape[1] < B - 2, items[0][1]
     save(a, im, p)
 
 

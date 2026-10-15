@@ -233,7 +233,223 @@ def title_menu():
     save(path, a, pal)
 
 
-GROUPS = {"title_obj": title_obj, "title_serect": title_serect, "title_menu": title_menu}
+def aa_text(text, font, size):
+    """Anti-aliased coverage (0..1 float array), row 0 = cap top."""
+    f = ImageFont.truetype(FONTS + font, size)
+    top = f.getbbox("H")[1]
+    bot = f.getbbox("gjpqy,")[3]
+    x0, _, x1, _ = f.getbbox(text)
+    im = Image.new("L", (x1 - x0 + 2, bot - top + 1), 0)
+    ImageDraw.Draw(im).text((1 - x0, -top), text, font=f, fill=255)
+    return np.array(im) / 255.0
+
+
+def k_logo():
+    """Copyright line 1 (OBJ 240x8 at rows 1-8, ramp: 15 paper .. 1 ink). The (C) glyph (x 3-15) moves 3 px left
+    to make room for the English (Arial Narrow 9, anti-aliased onto the ramp)."""
+    path = "/mode/k_logo/logo.dcg"
+    a, pal = load(path)
+    cg = a[0:11, 3:16].copy()
+    a[0:11, 0:240] = 15
+    a[0:11, 0:13] = cg
+    c = aa_text("Kodansha, We've, TV Aichi / Pichi Pichi Pitch Production Committee", "ARIALN.TTF", 9)[:10]
+    assert 13 + c.shape[1] <= 241, c.shape
+    idx = np.rint(15 - c * 14).astype(np.uint8)
+    h, w = idx.shape
+    reg = a[1:1 + h, 13:13 + w]
+    np.copyto(reg, np.minimum(reg, idx[:, :240 - 13]))
+    save(path, a, pal)
+
+
+def press_start():
+    """/mode/title/title_logo01.dcg rows 0-15: "PUSH START" prompt; fill a/9/8/7, rings 2|1 then 1, shadow b."""
+    path = "/mode/title/title_logo01.dcg"
+    a, pal = load(path)
+    a[0:16, 0:160] = 0
+    m, cap = ttf("Press START!", "tahomabd.ttf", 15)
+    fill = lambda row: 0xa if row <= 6 else 0x9 if row <= 8 else 0x8 if row <= 10 else 0x7
+    inner = lambda row: 0x2 if row <= 8 else 0x1
+    styled(a, 77 - m.shape[1] // 2, 12 - cap, m, fill, [(1, inner), (1, 0x1)], shadow=(-1, 2, 0xb, {0}))
+    save(path, a, pal)
+
+
+def nearest(pal, rgb, allowed=None):
+    p = np.array(pal[:768], dtype=int).reshape(-1, 3)
+    d = ((p - np.array(rgb)) ** 2).sum(1)
+    if allowed is not None:
+        mask = np.full(len(p), True)
+        mask[list(allowed)] = False
+        d[mask] = 1 << 30
+    return int(d.argmin())
+
+
+def name_entry():
+    """/mode/title/name.imb (8bpp BG 240x160): header "カートリッジになまえをつけてね" (white letters in a dark
+    teal block, rows 13-27) and the help bar words (1-px white font, rows 150-157). The kana grid stays."""
+    path = "/mode/title/name.imb"
+    a, pal = load(path)
+    p = np.array(pal[:768], dtype=int).reshape(-1, 3)
+    used = set(np.unique(a).tolist())
+    white = 223
+    # header: outline colour per row from the old block, then paint over by vertical interpolation of the sky
+    ring = {}
+    for y in range(13, 28):
+        v = [int(x) for x in a[y, 40:200] if x not in (221, 222, 223)]
+        ring[y] = max(set(v), key=v.count)
+    y0, y1, x0, x1 = 12, 28, 26, 212
+    for x in range(x0, x1):
+        top, bot = p[a[y0, x]], p[a[y1, x]]
+        for y in range(y0 + 1, y1):
+            t = (y - y0) / (y1 - y0)
+            a[y, x] = nearest(pal, top * (1 - t) + bot * t, used)
+    m, cap = ttf("Name your cartridge!", "tahomabd.ttf", 15)
+    top = 25 - cap
+    ink = lambda row: ring[min(max(row, 13), 27)]
+    styled(a, 120 - m.shape[1] // 2, top, m, white, [(1, ink)], shadow=(1, 1, ink))
+    # help bar: words after "SELECT:", "A:", "B:"
+    for (wx0, wx1), word in [((106, 133), "Title"), ((155, 182), "OK"), ((206, 234), "Back")]:
+        a[148:159, wx0:wx1] = a[148:159, wx1:wx1 + 1]   # the bar is a vertical gradient: repeat the clean column
+        mm, _ = pix(word)
+        put(a, wx0 + 1, 150, mm, white)
+    save(path, a, pal)
+
+
+# ------------------------------------------------------------------ title logo (/mode/title/title_logo.acg)
+# 8bpp OBJ, 2D mapping: the file is 128 px wide (16 tiles of 64 bytes per 1 KB VRAM row) followed by a 0x460-byte
+# IS-ACG03 trailer (LINK/CMNT/MODE/SIZE/VER records), kept as pixels in the last rows. Palette title_logo.dcl
+# (OBJ 0-239; 224-239 are overwritten by title_logo01's bank, so the logo only uses 0-223).
+ACG = "/mode/title/title_logo.acg"
+# (sheet x, y, w, h) -> canvas x, y, back to front. At rest the Party block (OAM 0-3, 256x64) is at screen (0, 48)
+# and the Pitch block (OAM 4-8 at (32, 16), OAM 9-11 at (32.., 8) behind them) gives a 176x40 canvas at (32, 8).
+PARTY = [(0, 0, 64, 64, 0, 0), (64, 0, 64, 64, 64, 0), (0, 64, 64, 64, 128, 0), (64, 64, 64, 64, 192, 0)]
+PITCH = [(48, 160, 32, 16, 32, 0), (80, 160, 32, 16, 64, 0), (112, 160, 16, 8, 96, 0),
+         (0, 128, 64, 32, 0, 8), (64, 128, 32, 32, 64, 8), (96, 128, 32, 32, 96, 8), (0, 160, 32, 32, 128, 8),
+         (32, 160, 16, 32, 160, 8)]
+
+
+def orig_acg():
+    rom = open(os.path.join(apply.ROOT, "work", "orig.gba"), "rb").read()
+    o, s = fs.get(rom, ACG)
+    data = rom[o:o + s] + bytes(-s % 1024)
+    px = gfx.tiles_to_pixels(data, 8, 16)
+    pal = gfx.palette(rom, "/mode/title/title_logo.dcl") + [(0, 0, 0)] * 16
+    im = Image.new("P", (128, len(px)))
+    im.putpalette([c for rgb in pal for c in rgb])
+    im.putdata([v for row in px for v in row])
+    im.save(os.path.join(apply.ORIGD, apply.name_of(ACG)))
+    apply.save_layout(ACG, {"tw": 16, "bpp": 8})
+
+
+def gather(a, rects, w, h):
+    c = np.zeros((h, w), np.uint8)
+    ok = np.zeros((h, w), bool)
+    for x, y, rw, rh, cx, cy in rects:   # later sprites have priority where they are not transparent
+        src = a[y:y + rh, x:x + rw]
+        dst = c[cy:cy + rh, cx:cx + rw]
+        dst[src != 0] = src[src != 0]
+        ok[cy:cy + rh, cx:cx + rw] = True
+    return c, ok
+
+
+def scatter(a, c, rects):
+    for x, y, rw, rh, cx, cy in rects:
+        a[y:y + rh, x:x + rw] = c[cy:cy + rh, cx:cx + rw]
+
+
+def logo():
+    if not os.path.exists(os.path.join(apply.ORIGD, apply.name_of(ACG))):
+        orig_acg()
+    a, pal = load(ACG)
+    P = np.array(pal[:768], dtype=int).reshape(-1, 3)
+    used = set(int(v) for v in np.unique(a[:192])) - {0}
+    used = {v for v in used if v < 224}
+    col = lambda rgb: nearest(pal, rgb, used)
+    party, pok = gather(a, PARTY, 256, 64)
+    pitch, tok = gather(a, PITCH, 176, 40)
+    logo_party(party, P, col)
+    logo_pitch(pitch, tok, P, col)
+    scatter(a, party, PARTY)
+    scatter(a, pitch, PITCH)
+    save(ACG, a, pal)
+
+
+def logo_party(c, P, col):
+    """ぴちぴちパーティー on the ribbon -> "Pichi Pichi Party". The kana sit in one merged pink outline (3 px pink,
+    1 px light blue, 1 px lavender). That outline blob becomes a pink plate (its outer 2 px kept) and the English
+    letters (Bauhaus 93, yellow gradient, 1 px pink ring) are drawn inside it."""
+    rgb = P[c]
+    yellow = (rgb[..., 0] >= 232) & (rgb[..., 1] >= 176) & (rgb[..., 2] <= 200) & (c != 0)
+    lab, n = ndimage.label(yellow)
+    core = np.zeros_like(yellow)
+    for i in range(1, n + 1):
+        ys, xs = np.nonzero(lab == i)
+        if len(ys) >= 30 and ys.min() >= 8:
+            core |= lab == i
+    blob = ndimage.binary_dilation(core, iterations=3, structure=np.ones((3, 3))) & (c != 0)
+    plate = col((232, 56, 144))
+    c[blob] = plate
+    ys, xs = np.nonzero(blob)
+    bx0, bx1, by0, by1 = xs.min(), xs.max(), ys.min(), ys.max()
+    text = "Pichi Pichi Party"
+    size = 34
+    while True:
+        m, cap = ttf(text, "BAUHS93.TTF", size)
+        if m.shape[1] <= bx1 - bx0 - 6 and m.shape[0] <= by1 - by0 - 4:
+            break
+        size -= 1
+    x = (bx0 + bx1 + 1 - m.shape[1]) // 2
+    y = (by0 + by1 + 1 - m.shape[0]) // 2
+    grad = [(248, 248, 200), (248, 248, 160), (248, 240, 120), (248, 240, 64), (248, 232, 24), (248, 216, 32),
+            (248, 192, 48)]
+    gi = [col(g) for g in grad]
+    h = m.shape[0]
+    fill = lambda row: gi[min(len(gi) - 1, max(0, (row - y) * len(gi) // h))]
+    styled(c, x, y, m, fill, [(1, col((240, 88, 160)))])
+
+
+def logo_pitch(c, ok, P, col):
+    """Pitch block: マーメイドメロディー (rainbow kana) / Pichi Pichi Pitch (small) / ぴちぴちピッチ (big pink) on a
+    white cloud with a cyan rim. The cloud keeps its rim; inside: "Mermaid Melody" (rainbow letters) and
+    "Pichi Pichi Pitch" (big pink, Bauhaus 93)."""
+    cloud = ndimage.binary_fill_holes(c != 0) & ok
+    inner = ndimage.binary_erosion(cloud, iterations=2, structure=np.ones((3, 3)))
+    white = col((248, 248, 248))
+    c[inner] = white
+    ys, xs = np.nonzero(inner)
+    # big line in the lower part
+    text = "Pichi Pichi Pitch"
+    size = 30
+    while True:
+        m, cap = ttf(text, "BAUHS93.TTF", size)
+        if m.shape[1] <= 168 and m.shape[0] <= 20:
+            break
+        size -= 1
+    x = (c.shape[1] - m.shape[1]) // 2
+    y = 38 - 2 - m.shape[0]
+    pinks = [col((240, 112, 176)), col((240, 72, 152)), col((232, 32, 136)), col((216, 16, 120))]
+    h = m.shape[0]
+    fill = lambda row: pinks[min(3, max(0, (row - y) * 4 // h))]
+    styled(c, x, y, m, fill, [(1, col((176, 16, 104)))])
+    # rainbow small line on top
+    mm, _ = pix("Mermaid Melody", bold=True)
+    rainbow = [col(v) for v in [(232, 32, 32), (248, 144, 56), (232, 184, 0), (120, 192, 48), (0, 168, 240),
+                                (144, 88, 200), (232, 32, 136)]]
+    x0 = (c.shape[1] - mm.shape[1]) // 2
+    k = 0
+    cols = np.nonzero(mm.any(0))[0]
+    start = 0
+    for i in range(1, mm.shape[1] + 1):
+        if i == mm.shape[1] or not mm[:, i].any():
+            if i > start and mm[:, start:i].any():
+                seg = np.zeros_like(mm)
+                seg[:, start:i] = mm[:, start:i]
+                put(c, x0, 2, seg, rainbow[k % len(rainbow)])
+                k += 1
+            start = i + 1
+
+
+GROUPS = {"title_obj": title_obj, "title_serect": title_serect, "title_menu": title_menu, "k_logo": k_logo,
+          "press_start": press_start, "name_entry": name_entry, "logo": logo}
 
 if __name__ == "__main__":
     for g in (sys.argv[1:] or GROUPS):
