@@ -8,7 +8,7 @@
     0
    ],
    "jp": "‥‥だいぶん{h }てんきが{h }わるいな\nいまにも{h }あめが{h }ふってきそうだ",
-   "en": ""
+   "en": "...The weather's gotten pretty bad.\nLooks like it could rain any minute."
   },
   {
    "id": "event_ev990200:0044",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "そういえば{h }カイトがカサ\nもってきてないって{h }いってた‥‥",
-   "en": ""
+   "en": "Come to think of it, Kaito said\nhe didn't bring an umbrella..."
   },
   {
    "id": "event_ev990200:0080",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "太＊ちゃんは{h }どうだろう？",
-   "en": ""
+   "en": "I wonder if Taro has one?"
   },
   {
    "id": "event_ev990200:009C",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "カサをとどけに\nがっこうへ{h }もどろうか？",
-   "en": ""
+   "en": "Should we go back to school\nto bring him an umbrella?"
   },
   {
    "id": "event_ev990200:0106",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "いそいでパールピアリへ\nいかなくっちゃ！",
-   "en": "I've gotta hurry\nto the Pearl Piari!"
+   "en": "I've gotta hurry\nto Pearl Piari!"
   },
   {
    "id": "event_ev990200:01AE",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "パールピアリへ{h }いそがなくっちゃ！",
-   "en": "I've gotta hurry to the Pearl Piari!"
+   "en": "I've gotta hurry to Pearl Piari!"
   },
   {
    "id": "event_ev990200:0236",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "はやくカサを{h }パールピアリから‥‥",
-   "en": "Quick, an umbrella from the Pearl Piari..."
+   "en": "Quick, an umbrella from Pearl Piari..."
   },
   {
    "id": "event_ev990200:028E",

@@ -8,7 +8,7 @@
     0
    ],
    "jp": "ここにとまる？",
-   "en": ""
+   "en": "Stop here?"
   },
   {
    "id": "system_textbin_info_msg:0010",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "なにかいいことが{h }おきるマスだよ\nここにとまる？",
-   "en": ""
+   "en": "Something good happens on this space.\nStop here?"
   },
   {
    "id": "system_textbin_info_msg:0042",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "なにかわるいことが{h }おきるマスだよ\nここにとまる？",
-   "en": ""
+   "en": "Something bad happens on this space.\nStop here?"
   },
   {
    "id": "system_textbin_info_msg:0076",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "なにかカードが{h }もらえるマスだよ\nここにとまる？",
-   "en": ""
+   "en": "You get a card on this space.\nStop here?"
   },
   {
    "id": "system_textbin_info_msg:00A8",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "かいものが{h }できるマスだよ\nここにとまる？",
-   "en": ""
+   "en": "You can shop on this space.\nStop here?"
   },
   {
    "id": "system_textbin_info_msg:00D4",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "いろんなことが{h }おきるマスだよ\nここにとまる？",
-   "en": ""
+   "en": "All sorts of things happen here.\nStop here?"
   },
   {
    "id": "system_textbin_info_msg:0104",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "むこうに{h }だれかいるよ\nここにとまる？",
-   "en": ""
+   "en": "Someone's over there.\nStop here?"
   },
   {
    "id": "system_textbin_info_msg:012C",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "もくてきちに{h }ついたよ\nここにとまる？",
-   "en": ""
+   "en": "You reached your destination.\nStop here?"
   },
   {
    "id": "system_textbin_info_msg:0154",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ゴールに{h }ついたよ\nここにとまる？",
-   "en": ""
+   "en": "You reached the goal.\nStop here?"
   },
   {
    "id": "system_textbin_info_msg:0178",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ここから{h }さきへすすめないよ\nここにとまる？",
-   "en": ""
+   "en": "You can't go any farther from here.\nStop here?"
   },
   {
    "id": "system_textbin_info_msg:01A6",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "ここから{h }いっぽもすすめないよ",
-   "en": ""
+   "en": "You can't move a single step from here."
   },
   {
    "id": "system_textbin_info_msg:01C6",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "いまとまると{h }いいことがおきるよ\nここにとまる？",
-   "en": ""
+   "en": "Stop now and something good happens.\nStop here?"
   },
   {
    "id": "system_textbin_info_msg:01F8",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "いまとまると{h }わるいことがおきるよ\nここにとまる？",
-   "en": ""
+   "en": "Stop now and something bad happens.\nStop here?"
   },
   {
    "id": "system_textbin_info_msg:022C",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "いまとまると{h }カードがもらえるよ\nここにとまる？",
-   "en": ""
+   "en": "Stop now and you get a card.\nStop here?"
   }
  ]
 }

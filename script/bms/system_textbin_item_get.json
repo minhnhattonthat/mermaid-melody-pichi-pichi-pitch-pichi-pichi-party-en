@@ -8,7 +8,7 @@
     0
    ],
    "jp": "そうびできるアイテムを手に入れたよ",
-   "en": ""
+   "en": "You got an item you can wear!"
   },
   {
    "id": "system_textbin_item_get:0024",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "アイテムを２つ手に入れたよ",
-   "en": ""
+   "en": "You got two items!"
   },
   {
    "id": "system_textbin_item_get:0040",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "すっきりシャツ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Simple Shirt!"
   },
   {
    "id": "system_textbin_item_get:0060",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "２ＷＡＹシャツ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got 2-Way Shirt!"
   },
   {
    "id": "system_textbin_item_get:0080",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "リボンシャツ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Ribbon Shirt!"
   },
   {
    "id": "system_textbin_item_get:009E",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ネクタイシャツ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Necktie Shirt!"
   },
   {
    "id": "system_textbin_item_get:00BE",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "キャラＴ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Character Tee!"
   },
   {
    "id": "system_textbin_item_get:00D8",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "ゆったりＴ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Loose Tee!"
   },
   {
    "id": "system_textbin_item_get:00F4",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ロゴＴ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Logo Tee!"
   },
   {
    "id": "system_textbin_item_get:010C",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ハイネックＴ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got High-Neck Tee!"
   },
   {
    "id": "system_textbin_item_get:012A",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "チビＴ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Cropped Tee!"
   },
   {
    "id": "system_textbin_item_get:0142",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "かさねトップス{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Layered Top!"
   },
   {
    "id": "system_textbin_item_get:0162",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "チビトップス{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Cropped Top!"
   },
   {
    "id": "system_textbin_item_get:0180",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "リボントップス{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Ribbon Top!"
   },
   {
    "id": "system_textbin_item_get:01A0",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "ハイネック{h }を手に入れたよ",
-   "en": ""
+   "en": "You got High Neck!"
   },
   {
    "id": "system_textbin_item_get:01BC",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "タンクトップ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Tank Top!"
   },
   {
    "id": "system_textbin_item_get:01DA",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "水玉キャミ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Polka-Dot Cami!"
   },
   {
    "id": "system_textbin_item_get:01F6",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "ハートキャミ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Heart Cami!"
   },
   {
    "id": "system_textbin_item_get:0214",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "レースキャミ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Lace Cami!"
   },
   {
    "id": "system_textbin_item_get:0232",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "おしゃれキャミ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Stylish Cami!"
   },
   {
    "id": "system_textbin_item_get:0252",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "フリルカットソー{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Frilly Knit Top!"
   },
   {
    "id": "system_textbin_item_get:0274",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "Ｖカットソー{h }を手に入れたよ",
-   "en": ""
+   "en": "You got V-Neck Top!"
   },
   {
    "id": "system_textbin_item_get:0292",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "大人カットソー{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Grown-Up Top!"
   },
   {
    "id": "system_textbin_item_get:02B2",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "ジャケット{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Jacket!"
   },
   {
    "id": "system_textbin_item_get:02CE",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "ラグシャツ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Raglan Shirt!"
   },
   {
    "id": "system_textbin_item_get:02EA",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "パーカー{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Hoodie!"
   },
   {
    "id": "system_textbin_item_get:0304",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "カーディガン{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Cardigan!"
   },
   {
    "id": "system_textbin_item_get:0322",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "だんしせいふく{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Boys' Uniform!"
   },
   {
    "id": "system_textbin_item_get:0342",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "じょしせいふく{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Girls' Uniform!"
   },
   {
    "id": "system_textbin_item_get:0362",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "フリルスカート{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Frilly Skirt!"
   },
   {
    "id": "system_textbin_item_get:0382",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "チェックスカート{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Plaid Skirt!"
   },
   {
    "id": "system_textbin_item_get:03A4",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "ボックスプリーツ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Box-Pleat Skirt!"
   },
   {
    "id": "system_textbin_item_get:03C6",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "フレアスカート{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Flared Skirt!"
   },
   {
    "id": "system_textbin_item_get:03E6",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "ミニスカート{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Miniskirt!"
   },
   {
    "id": "system_textbin_item_get:0404",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "スリットミニ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Slit Mini!"
   },
   {
    "id": "system_textbin_item_get:0422",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "ポケットミニ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Pocket Mini!"
   },
   {
    "id": "system_textbin_item_get:0440",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "フリルミニ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Frilly Mini!"
   },
   {
    "id": "system_textbin_item_get:045C",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "レースミニ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Lace Mini!"
   },
   {
    "id": "system_textbin_item_get:0478",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "ふわふわミニ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Fluffy Mini!"
   },
   {
    "id": "system_textbin_item_get:0496",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "プリーツロング{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Pleated Long!"
   },
   {
    "id": "system_textbin_item_get:04B6",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "ロングスカート{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Long Skirt!"
   },
   {
    "id": "system_textbin_item_get:04D6",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "スリットロング{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Slit Long!"
   },
   {
    "id": "system_textbin_item_get:04F6",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "フリルロング{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Frilly Long!"
   },
   {
    "id": "system_textbin_item_get:0514",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "ベルトロング{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Belted Long!"
   },
   {
    "id": "system_textbin_item_get:0532",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "カーゴパンツ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Cargo Pants!"
   },
   {
    "id": "system_textbin_item_get:0550",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "ジーンズ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Jeans!"
   },
   {
    "id": "system_textbin_item_get:056A",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "ハーフパンツ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Knee Shorts!"
   },
   {
    "id": "system_textbin_item_get:0588",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "ホットパンツ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Hot Pants!"
   },
   {
    "id": "system_textbin_item_get:05A6",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "デニムタンパン{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Denim Shorts!"
   },
   {
    "id": "system_textbin_item_get:05C6",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "フリルタンパン{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Frilly Shorts!"
   },
   {
    "id": "system_textbin_item_get:05E6",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "だんしせいふく{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Boys' Uniform!"
   },
   {
    "id": "system_textbin_item_get:0606",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "じょしせいふく{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Girls' Uniform!"
   },
   {
    "id": "system_textbin_item_get:0626",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "ドレス{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Dress!"
   },
   {
    "id": "system_textbin_item_get:063E",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "チャイナドレス{h }を手に入れたよ",
-   "en": ""
+   "en": "You got China Dress!"
   },
   {
    "id": "system_textbin_item_get:065E",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "キラキラワンピ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Sparkly Dress!"
   },
   {
    "id": "system_textbin_item_get:067E",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "すっきりワンピ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Simple Dress!"
   },
   {
    "id": "system_textbin_item_get:069E",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "ほしのかざり{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Star Ornament!"
   },
   {
    "id": "system_textbin_item_get:06BC",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "花かざり{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Flower Ornament!"
   },
   {
    "id": "system_textbin_item_get:06D6",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "スポーツバッグ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Sports Bag!"
   },
   {
    "id": "system_textbin_item_get:06F6",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "花がらバッグ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Floral Bag!"
   },
   {
    "id": "system_textbin_item_get:0714",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "ハートペンダント{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Heart Pendant!"
   },
   {
    "id": "system_textbin_item_get:0736",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "ほしのペンダント{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Star Pendant!"
   },
   {
    "id": "system_textbin_item_get:0758",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "貝のペンダント{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Shell Pendant!"
   },
   {
    "id": "system_textbin_item_get:0778",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "ほしのうでわ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Star Bracelet!"
   },
   {
    "id": "system_textbin_item_get:0796",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "ハートのうでわ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Heart Bracelet!"
   },
   {
    "id": "system_textbin_item_get:07B6",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "うでどけい{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Wristwatch!"
   },
   {
    "id": "system_textbin_item_get:07D2",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "きらきらミュール{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Sparkly Mules!"
   },
   {
    "id": "system_textbin_item_get:07F4",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "ハイヒール{h }を手に入れたよ",
-   "en": ""
+   "en": "You got High Heels!"
   },
   {
    "id": "system_textbin_item_get:0810",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "ビーチサンダル{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Flip-Flops!"
   },
   {
    "id": "system_textbin_item_get:0830",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "スニーカー{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Sneakers!"
   },
   {
    "id": "system_textbin_item_get:084C",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "ロングブーツ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Long Boots!"
   },
   {
    "id": "system_textbin_item_get:086A",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "　　　　　　　　{h }を手に入れたよ",
-   "en": ""
+   "en": "You got        !"
   },
   {
    "id": "system_textbin_item_get:088C",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "　　　　　　　　{h }を手に入れたよ",
-   "en": ""
+   "en": "You got        !"
   },
   {
    "id": "system_textbin_item_get:08AE",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "　　　　　　　　{h }を手に入れたよ",
-   "en": ""
+   "en": "You got        !"
   }
  ]
 }

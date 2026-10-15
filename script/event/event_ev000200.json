@@ -81,7 +81,7 @@
     9
    ],
    "jp": "いそいでパールピアリへ\nいかなくっちゃ！",
-   "en": "I've gotta hurry\nto the Pearl Piari!"
+   "en": "I've gotta hurry\nto Pearl Piari!"
   },
   {
    "id": "event_ev000200:01A2",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "早くパールピアリへ\nいかなくっちゃ！",
-   "en": "I've gotta hurry\nto the Pearl Piari!"
+   "en": "I've gotta hurry\nto Pearl Piari!"
   },
   {
    "id": "event_ev000200:01C8",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "パールピアリへ{h }いそがなくっちゃ！",
-   "en": "I've gotta hurry to the Pearl Piari!"
+   "en": "I've gotta hurry to Pearl Piari!"
   },
   {
    "id": "event_ev000200:0218",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "早くカサを{h }パールピアリから‥‥",
-   "en": "Quick, get an umbrella from the Pearl Piari..."
+   "en": "Quick, get an umbrella from Pearl Piari..."
   },
   {
    "id": "event_ev000200:026C",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "カサだけ{h }手わたして\nじぶんたちが{h }雨にぬれて",
-   "en": "If we just hand over the umbrella\nand then get caught in the rain"
+   "en": "If they just hand over the umbrella\nand then get caught in the rain"
   },
   {
    "id": "event_ev000200:03F4",
@@ -697,7 +697,7 @@
     86
    ],
    "jp": "{h }　　　　エピソード　３　　　　　\n　　　『やさしいあめ』　おわり　",
-   "en": "          Episode 3\n\"A Gentle Rain\" - The End"
+   "en": "          Episode 3\n\"Gentle Rain\" - The End"
   }
  ]
 }

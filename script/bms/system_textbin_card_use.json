@@ -8,7 +8,7 @@
     0
    ],
    "jp": "しんじゅのこえ＋１{h }をつかったよ",
-   "en": ""
+   "en": "You used Pearl Voice +1!"
   },
   {
    "id": "system_textbin_card_use:0022",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "しんじゅのこえ−１{h }をつかったよ",
-   "en": ""
+   "en": "You used Pearl Voice -1!"
   },
   {
    "id": "system_textbin_card_use:0044",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "うみのおいかぜ{h }をつかったよ",
-   "en": ""
+   "en": "You used Sea Tailwind!"
   },
   {
    "id": "system_textbin_card_use:0062",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "うみのむかいかぜ{h }をつかったよ",
-   "en": ""
+   "en": "You used Sea Headwind!"
   },
   {
    "id": "system_textbin_card_use:0082",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "しろいはやなみ＋３{h }をつかったよ",
-   "en": ""
+   "en": "You used White Wave +3!"
   },
   {
    "id": "system_textbin_card_use:00A4",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "くろいさかなみ−３{h }をつかったよ",
-   "en": ""
+   "en": "You used Black Wave -3!"
   },
   {
    "id": "system_textbin_card_use:00C6",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "くろいさかなみ−２{h }をつかったよ",
-   "en": ""
+   "en": "You used Black Wave -2!"
   },
   {
    "id": "system_textbin_card_use:00E8",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "くろいさかなみ−１{h }をつかったよ",
-   "en": ""
+   "en": "You used Black Wave -1!"
   },
   {
    "id": "system_textbin_card_use:010A",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ヒッポのうたごえ{h }をつかったよ",
-   "en": ""
+   "en": "You used Hippo's Song!"
   },
   {
    "id": "system_textbin_card_use:012A",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "クラちゃんのおもい{h }をつかったよ",
-   "en": ""
+   "en": "You used Kura's Wish!"
   },
   {
    "id": "system_textbin_card_use:014C",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "タキのよげん{h }をつかったよ",
-   "en": ""
+   "en": "You used Taki's Prophecy!"
   },
   {
    "id": "system_textbin_card_use:0168",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "さいこうのおいかぜ{h }をつかったよ",
-   "en": ""
+   "en": "You used Best Tailwind!"
   },
   {
    "id": "system_textbin_card_use:018A",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "にこらのおつかい{h }をつかったよ",
-   "en": ""
+   "en": "You used Nikora's Errand!"
   },
   {
    "id": "system_textbin_card_use:01AA",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "あともどりのみち{h }をつかったよ",
-   "en": ""
+   "en": "You used Road Back!"
   },
   {
    "id": "system_textbin_card_use:01CA",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "うんめいのきろ{h }をつかったよ",
-   "en": ""
+   "en": "You used Fateful Fork!"
   },
   {
    "id": "system_textbin_card_use:01E8",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "マーメイドのこえ{h }をつかったよ",
-   "en": ""
+   "en": "You used Mermaid Voice!"
   },
   {
    "id": "system_textbin_card_use:0208",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "マーメイドのゆうき{h }をつかったよ",
-   "en": ""
+   "en": "You used Mermaid Courage!"
   },
   {
    "id": "system_textbin_card_use:022A",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "マーメイドのダンス{h }をつかったよ",
-   "en": ""
+   "en": "You used Mermaid Dance!"
   },
   {
    "id": "system_textbin_card_use:024C",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "水妖のメロディ{h }をつかったよ",
-   "en": ""
+   "en": "You used Water Demon Melody!"
   },
   {
    "id": "system_textbin_card_use:026A",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "水妖のあい{h }をつかったよ",
-   "en": ""
+   "en": "You used Water Demon Love!"
   },
   {
    "id": "system_textbin_card_use:0284",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "水妖のステップ{h }をつかったよ",
-   "en": ""
+   "en": "You used Water Demon Step!"
   },
   {
    "id": "system_textbin_card_use:02A2",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "プリンセスのねがい{h }をつかったよ",
-   "en": ""
+   "en": "You used Princess's Wish!"
   },
   {
    "id": "system_textbin_card_use:02C4",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "アイテムがいっぱいでもてなかったよ",
-   "en": ""
+   "en": "Your items are full, so you couldn't take it!"
   },
   {
    "id": "system_textbin_card_use:02E8",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "カードがいっぱいでもてなかったよ",
-   "en": ""
+   "en": "Your cards are full, so you couldn't take it!"
   },
   {
    "id": "system_textbin_card_use:030A",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "かいもののビーズ{h }をつかったよ",
-   "en": ""
+   "en": "You used Shopping Bead!"
   },
   {
    "id": "system_textbin_card_use:032A",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "れんぞくこうどう{h }しっぱい！",
-   "en": ""
+   "en": "Extra turn failed!"
   },
   {
    "id": "system_textbin_card_use:0348",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "まもりのビーズ{h }のこうかで\nカードこうかを{h }よせつけない！",
-   "en": ""
+   "en": "Thanks to Guard Bead,\nthe card's effect was kept away!"
   },
   {
    "id": "system_textbin_card_use:0384",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "アイテムをもっていないから\nなにもこわせなかったよ",
-   "en": ""
+   "en": "They have no items,\nso nothing could be broken!"
   },
   {
    "id": "system_textbin_card_use:03B8",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "カードをぜんぶこわしたよ",
-   "en": ""
+   "en": "All the cards were broken!"
   },
   {
    "id": "system_textbin_card_use:03D2",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "カードをもっていないから\nなにもうばえなかったよ",
-   "en": ""
+   "en": "They have no cards,\nso nothing could be stolen!"
   },
   {
    "id": "system_textbin_card_use:0404",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "ヒロインポイントをうばって\n２人でわけたよ",
-   "en": ""
+   "en": "Stole Heroine Points\nand split them between you two!"
   },
   {
    "id": "system_textbin_card_use:0430",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "おやすみこうか{h }しっぱい！",
-   "en": ""
+   "en": "Rest effect failed!"
   },
   {
    "id": "system_textbin_card_use:044C",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "おやすみこうか{h }しっぱい！\nヒロインポイントがへっちゃった！",
-   "en": ""
+   "en": "Rest effect failed!\nYour Heroine Points went down!"
   },
   {
    "id": "system_textbin_card_use:048A",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "あしかせのビーズ{h }をつかったよ",
-   "en": ""
+   "en": "You used Shackle Bead!"
   },
   {
    "id": "system_textbin_card_use:04AA",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "ふういんのビーズ{h }をつかったよ",
-   "en": ""
+   "en": "You used Seal Bead!"
   },
   {
    "id": "system_textbin_card_use:04CA",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "かいようのたつまき{h }のこうかで\nどこかにとばしたよ",
-   "en": ""
+   "en": "Ocean Tornado sent them\nflying somewhere!"
   },
   {
    "id": "system_textbin_card_use:04FE",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "すべてのこうかをなくしたよ",
-   "en": ""
+   "en": "All effects were canceled!"
   },
   {
    "id": "system_textbin_card_use:051A",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "すべてのカードを入れかえたよ",
-   "en": ""
+   "en": "All the cards were swapped!"
   },
   {
    "id": "system_textbin_card_use:0538",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "のろいのビーズ{h }をつかったよ",
-   "en": ""
+   "en": "You used Curse Bead!"
   },
   {
    "id": "system_textbin_card_use:0556",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "ふこうのてがみ{h }をつかったよ",
-   "en": ""
+   "en": "You used Unlucky Letter!"
   },
   {
    "id": "system_textbin_card_use:0574",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "こううんのほし{i223}１{h }をつかったよ",
-   "en": ""
+   "en": "You used Lucky Star {i223}1!"
   },
   {
    "id": "system_textbin_card_use:0596",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "こううんのほし{i223}２{h }をつかったよ",
-   "en": ""
+   "en": "You used Lucky Star {i223}2!"
   },
   {
    "id": "system_textbin_card_use:05B8",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "こううんのほし{i223}３{h }をつかったよ",
-   "en": ""
+   "en": "You used Lucky Star {i223}3!"
   },
   {
    "id": "system_textbin_card_use:05DA",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "こううんのほし{i223}４{h }をつかったよ",
-   "en": ""
+   "en": "You used Lucky Star {i223}4!"
   },
   {
    "id": "system_textbin_card_use:05FC",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "ふこうのほし{i223}１{h }をつかったよ",
-   "en": ""
+   "en": "You used Unlucky Star {i223}1!"
   },
   {
    "id": "system_textbin_card_use:061C",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "ふこうのほし{i223}２{h }をつかったよ",
-   "en": ""
+   "en": "You used Unlucky Star {i223}2!"
   },
   {
    "id": "system_textbin_card_use:063C",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "ふこうのほし{i223}３{h }をつかったよ",
-   "en": ""
+   "en": "You used Unlucky Star {i223}3!"
   },
   {
    "id": "system_textbin_card_use:065C",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "ふこうのほし{i223}４{h }をつかったよ",
-   "en": ""
+   "en": "You used Unlucky Star {i223}4!"
   },
   {
    "id": "system_textbin_card_use:067C",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "マスにおかれていたものをけしたよ",
-   "en": ""
+   "en": "What was placed on the space is gone!"
   },
   {
    "id": "system_textbin_card_use:069E",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "ふゆうのビーズ{h }をつかったよ",
-   "en": ""
+   "en": "You used Float Bead!"
   },
   {
    "id": "system_textbin_card_use:06BC",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "とおせんぼのかべ{h }をつかったよ",
-   "en": ""
+   "en": "You used Blocking Wall!"
   }
  ]
 }

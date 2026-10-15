@@ -5,7 +5,7 @@ import os, subprocess, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PY = [sys.executable, "-X", "utf8"]
-STEPS = [["tools/build.py", "check"], ["tools/gfx/apply.py"]] if os.path.exists(os.path.join(ROOT, "tools", "build.py")) else \
+STEPS = [["tools/build.py", "check"], ["tools/gfx/apply.py"], ["tools/batches.py", "lint"]] if os.path.exists(os.path.join(ROOT, "tools", "build.py")) else \
     [["tools/fs.py", "rom/Mermaid Melody - Pichi Pichi Pitch - Pichi Pichi Party (Japan).gba", "--grep", "/font/"]]
 
 fail = 0

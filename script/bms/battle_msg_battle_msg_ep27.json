@@ -8,7 +8,7 @@
     0
    ],
    "jp": "そらがくもってたら{h }天の川の二人が\nあえなくなっちゃうじゃない！",
-   "en": ""
+   "en": "If the sky's cloudy, the two lovers\nin the Milky Way can't meet!"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0042",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "わたしと太郎ちゃんはぜったい\nラブラブになるんだから！",
-   "en": ""
+   "en": "Taro and I are totally gonna\nbecome a lovey-dovey couple!"
   },
   {
    "id": "battle_msg_battle_msg_ep27:007A",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "みんなが{h }たのしみにしていることを\nじゃまして{h }そんなにたのしいのか！",
-   "en": ""
+   "en": "Is it that fun to ruin something\neveryone's looking forward to?!"
   },
   {
    "id": "battle_msg_battle_msg_ep27:00C2",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:00CA",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:00D2",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:00DA",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "ダミー！",
-   "en": ""
+   "en": "Dummy!"
   },
   {
    "id": "battle_msg_battle_msg_ep27:00E4",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:00EC",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:00F4",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:00FC",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "‥‥くっ　\n『ヒロインポイント{h }ゲット！』",
-   "en": ""
+   "en": "...Ugh!\n\"Heroine Points up!\""
   },
   {
    "id": "battle_msg_battle_msg_ep27:0128",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "‥‥まだですわっ！\n『ヒロインポイント{h }ゲット！』",
-   "en": ""
+   "en": "...Not yet!\n\"Heroine Points up!\""
   },
   {
    "id": "battle_msg_battle_msg_ep27:015C",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "くっ　ここまでか‥‥　ガイトさま\nもうしわけありません‥‥",
-   "en": ""
+   "en": "Ugh, so this is it... Lord Gaito,\nI'm so sorry..."
   },
   {
    "id": "battle_msg_battle_msg_ep27:0198",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "マーメイドプリンセスめ！\nおぼえてなさい！",
-   "en": ""
+   "en": "Mermaid Princesses!\nYou'll pay for this!"
   },
   {
    "id": "battle_msg_battle_msg_ep27:01C4",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:01CC",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:01D4",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:01DC",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:01E4",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:01EC",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:01F4",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:01FC",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0204",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:020C",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0214",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:021C",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0224",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:022C",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0234",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:023C",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0244",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "こんどは{h }こちらのばんですわね！",
-   "en": ""
+   "en": "Now it's my turn!"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0266",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:026E",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0276",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:027E",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0286",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:028E",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0296",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:029E",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:02A6",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:02AE",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "きゃ！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep27:02D6",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "きゃあ！　いったーい！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Kyaa! That huuurts!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep27:030E",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "やったあ！",
-   "en": ""
+   "en": "Yaaay!"
   },
   {
    "id": "battle_msg_battle_msg_ep27:031A",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "きゃ！　やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek! I messed up...\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep27:0354",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "きゃ！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep27:037C",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "きゃああ！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Kyaaah!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep27:03A8",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "そんなこうげきなんて{h }きかないわ！",
-   "en": ""
+   "en": "Attacks like that won't work on me!"
   },
   {
    "id": "battle_msg_battle_msg_ep27:03CC",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "いや〜ん　やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oh nooo, I messed up...\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep27:0408",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "くっ！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Ugh!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep27:0430",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "くっ！　水妖め！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Ugh! Water demons!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep27:0462",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "ふっ　どうだ！",
-   "en": ""
+   "en": "Hmph, how's that!"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0472",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "しまった！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oh no!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep27:049E",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04A6",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04AE",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04B6",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04BE",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04C6",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04CE",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04D6",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04DE",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04E6",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04EE",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04F6",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:04FE",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0506",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:050E",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0516",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:051E",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0526",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:052E",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0536",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:053E",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0546",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:054E",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:0556",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep27:055E",

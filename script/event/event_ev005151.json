@@ -25,7 +25,7 @@
     2
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
+   "en": "Add {i20E}Nimble Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005151:0094",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Unbeatable Heart -1{i210}\""
   },
   {
    "id": "event_ev005151:0232",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
+   "en": "Add {i20E}Nimble Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005151:02C6",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Unbeatable Heart -1{i210}\""
   },
   {
    "id": "event_ev005151:044E",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
+   "en": "Add {i20E}Nimble Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005151:04D8",
@@ -313,7 +313,7 @@
     38
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Unbeatable Heart -1{i210}\""
   }
  ]
 }

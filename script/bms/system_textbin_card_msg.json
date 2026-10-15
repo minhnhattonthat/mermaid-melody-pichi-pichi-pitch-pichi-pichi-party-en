@@ -8,7 +8,7 @@
     0
    ],
    "jp": "オンプのかずを＋１するよ\n（さいこう５つまでふやせるよ）",
-   "en": ""
+   "en": "Adds 1 to your Notes!\n(Up to 5 at most)"
   },
   {
    "id": "system_textbin_card_msg:003A",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "オンプのかずを−１するよ\n（さいてい１つまでへらせるよ）",
-   "en": ""
+   "en": "Takes 1 from your Notes!\n(Down to 1 at least)"
   },
   {
    "id": "system_textbin_card_msg:0074",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "つぎにすすめるかずを\nさいてい６いじょうにするよ",
-   "en": ""
+   "en": "Your next move will be\nat least 6 spaces!"
   },
   {
    "id": "system_textbin_card_msg:00A6",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "つぎにすすめるかずを\nさいこう３までにするよ",
-   "en": ""
+   "en": "Your next move will be\nat most 3 spaces!"
   },
   {
    "id": "system_textbin_card_msg:00D4",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ルーレットのごうけいを＋３するよ",
-   "en": ""
+   "en": "Adds 3 to the roulette total!"
   },
   {
    "id": "system_textbin_card_msg:00F6",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ルーレットのごうけいを−３するよ",
-   "en": ""
+   "en": "Takes 3 from the roulette total!"
   },
   {
    "id": "system_textbin_card_msg:0118",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "ルーレットのごうけいを−２するよ",
-   "en": ""
+   "en": "Takes 2 from the roulette total!"
   },
   {
    "id": "system_textbin_card_msg:013A",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "ルーレットのごうけいを−１するよ",
-   "en": ""
+   "en": "Takes 1 from the roulette total!"
   },
   {
    "id": "system_textbin_card_msg:015C",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "みんな{h }つぎのいどうが１マスになるよ\nこのカードのこうかはふせげないよ",
-   "en": ""
+   "en": "Everyone's next move becomes 1 space!\nThis card's effect can't be blocked!"
   },
   {
    "id": "system_textbin_card_msg:01A4",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ルーレットのかいてんスピードが\nおそくなるよ",
-   "en": ""
+   "en": "Makes the roulette\nspin slower!"
   },
   {
    "id": "system_textbin_card_msg:01D2",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "オンプがはねても\nかずがかわらないよ",
-   "en": ""
+   "en": "Even if a Note bounces,\nthe number won't change!"
   },
   {
    "id": "system_textbin_card_msg:01F8",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "いちばん大きなかずがでるよ",
-   "en": ""
+   "en": "You'll get the biggest number!"
   },
   {
    "id": "system_textbin_card_msg:0214",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "いつでも\nとまれるようになるよ",
-   "en": ""
+   "en": "You'll be able to\nstop anywhere you like!"
   },
   {
    "id": "system_textbin_card_msg:0234",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "あるくほうこうが\nぎゃくになっちゃうよ",
-   "en": ""
+   "en": "Your walking direction\ngets reversed!"
   },
   {
    "id": "system_textbin_card_msg:025C",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "じゆうにほうこうをかえられるよ",
-   "en": ""
+   "en": "You can change direction freely!"
   },
   {
    "id": "system_textbin_card_msg:027C",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "うたうちからを＋２するよ",
-   "en": ""
+   "en": "Raises Singing Power by 2!"
   },
   {
    "id": "system_textbin_card_msg:0296",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "まけないこころを＋２するよ",
-   "en": ""
+   "en": "Raises Unbeatable Heart by 2!"
   },
   {
    "id": "system_textbin_card_msg:02B2",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "けいかいなステップを＋２するよ",
-   "en": ""
+   "en": "Raises Nimble Steps by 2!"
   },
   {
    "id": "system_textbin_card_msg:02D2",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "うたうちからを{h-}２するよ",
-   "en": ""
+   "en": "Lowers Singing Power by 2!"
   },
   {
    "id": "system_textbin_card_msg:02EC",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "まけないこころを{h-}２するよ",
-   "en": ""
+   "en": "Lowers Unbeatable Heart by 2!"
   },
   {
    "id": "system_textbin_card_msg:0308",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "けいかいなステップを{h-}２するよ",
-   "en": ""
+   "en": "Lowers Nimble Steps by 2!"
   },
   {
    "id": "system_textbin_card_msg:0328",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "しばらく{h }パワーＵＰして{h }\nつよくなるよ",
-   "en": ""
+   "en": "Powers you up for a while\nand makes you stronger!"
   },
   {
    "id": "system_textbin_card_msg:0352",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "なにかアイテムがもらえるよ",
-   "en": ""
+   "en": "You'll get some item!"
   },
   {
    "id": "system_textbin_card_msg:036E",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "なにかカードを２まいもらえるよ",
-   "en": ""
+   "en": "You'll get 2 random cards!"
   },
   {
    "id": "system_textbin_card_msg:038E",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "たくさん{h }かいものができるよ",
-   "en": ""
+   "en": "You can do lots of shopping!"
   },
   {
    "id": "system_textbin_card_msg:03AC",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "１／２で{h }２ターンつづけて\nこうどうできるよ",
-   "en": ""
+   "en": "1/2 chance to act\n2 turns in a row!"
   },
   {
    "id": "system_textbin_card_msg:03DA",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "３ターンのあいだ\nカードのこうかをよせつけないよ",
-   "en": ""
+   "en": "Keeps card effects away\nfor 3 turns!"
   },
   {
    "id": "system_textbin_card_msg:040C",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "ランダムに\nアイテムをこわすことができるよ",
-   "en": ""
+   "en": "Breaks one of someone's\nitems at random!"
   },
   {
    "id": "system_textbin_card_msg:0438",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "もっているカードが３まい\nいじょうならすべてこわすよ",
-   "en": ""
+   "en": "If they have 3 or more cards,\nbreaks them all!"
   },
   {
    "id": "system_textbin_card_msg:046E",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "ランダムにカードを\n１まいうばうことができるよ",
-   "en": ""
+   "en": "Steals 1 random card\nfrom someone!"
   },
   {
    "id": "system_textbin_card_msg:049E",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "ヒロインポイントの３０％を\nうばって{h }２人でわけるよ",
-   "en": ""
+   "en": "Steals 30% of someone's Heroine\nPoints and splits them between you two!"
   },
   {
    "id": "system_textbin_card_msg:04D4",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "１／２で１ターンお休みにするよ",
-   "en": ""
+   "en": "1/2 chance to make someone rest 1 turn!"
   },
   {
    "id": "system_textbin_card_msg:04F4",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "１／４で３ターンお休みにできる\n３／４でじぶんの{i211}が−３００に",
-   "en": ""
+   "en": "1/4 chance: they rest 3 turns.\n3/4 chance: your {i211} goes -300."
   },
   {
    "id": "system_textbin_card_msg:0534",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "３ターンのあいだ\nいどうが２マスになるよ",
-   "en": ""
+   "en": "For 3 turns,\nmoves become 2 spaces!"
   },
   {
    "id": "system_textbin_card_msg:055E",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "３ターンのあいだ\nカードとアイテムがつかえなくなるよ",
-   "en": ""
+   "en": "For 3 turns,\ncards and items can't be used!"
   },
   {
    "id": "system_textbin_card_msg:0594",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "ランダムにどこかにとばされるよ",
-   "en": ""
+   "en": "Sends someone flying somewhere at random!"
   },
   {
    "id": "system_textbin_card_msg:05B4",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "いまかかっているすべてのこうかを\nなくしてしまうよ",
-   "en": ""
+   "en": "Cancels every effect\nthat's active right now!"
   },
   {
    "id": "system_textbin_card_msg:05E8",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "もっているカードをすべてすてて\nおなじかずだけもらうよ",
-   "en": ""
+   "en": "Throws away all your cards\nand gives you the same number!"
   },
   {
    "id": "system_textbin_card_msg:0620",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "あるいたかず×５だけ\nヒロインポイントマイナス",
-   "en": ""
+   "en": "Lose Heroine Points equal to\nthe spaces walked ×5!"
   },
   {
    "id": "system_textbin_card_msg:0650",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "もっているとふこうになる\n２ターンごに{h }どこかにいくよ",
-   "en": ""
+   "en": "Brings bad luck while you hold it.\nAfter 2 turns, it goes elsewhere!"
   },
   {
    "id": "system_textbin_card_msg:0688",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "すこし{h }こううんなできごとを\nマスにおけるよ",
-   "en": ""
+   "en": "Places a slightly lucky event\non a space!"
   },
   {
    "id": "system_textbin_card_msg:06B6",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "こううんなできごとを\nマスにおけるよ",
-   "en": ""
+   "en": "Places a lucky event\non a space!"
   },
   {
    "id": "system_textbin_card_msg:06DC",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "わりと{h }こううんなできごとを\nマスにおけるよ",
-   "en": ""
+   "en": "Places a pretty lucky event\non a space!"
   },
   {
    "id": "system_textbin_card_msg:070A",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "とても{h }こううんなできごとを\nマスにおけるよ",
-   "en": ""
+   "en": "Places a very lucky event\non a space!"
   },
   {
    "id": "system_textbin_card_msg:0738",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "すこし{h }ふこうなできごとを\nマスにおけるよ",
-   "en": ""
+   "en": "Places a slightly unlucky event\non a space!"
   },
   {
    "id": "system_textbin_card_msg:0764",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "ふこうなできごとを\nマスにおけるよ",
-   "en": ""
+   "en": "Places an unlucky event\non a space!"
   },
   {
    "id": "system_textbin_card_msg:0788",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "わりと{h }ふこうなできごとを\nマスにおけるよ",
-   "en": ""
+   "en": "Places a pretty unlucky event\non a space!"
   },
   {
    "id": "system_textbin_card_msg:07B4",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "とても{h }ふこうなできごとを\nマスにおけるよ",
-   "en": ""
+   "en": "Places a very unlucky event\non a space!"
   },
   {
    "id": "system_textbin_card_msg:07E0",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "おかれたほしやいわを\nけすことができるよ",
-   "en": ""
+   "en": "Removes stars or rocks\nplaced on spaces!"
   },
   {
    "id": "system_textbin_card_msg:080A",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "マスのこうかを\nうけずにいどうができるよ",
-   "en": ""
+   "en": "Lets you move without\nbeing affected by spaces!"
   },
   {
    "id": "system_textbin_card_msg:0834",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "じぶんのばしょに\nつうこうどめをつくれるよ",
-   "en": ""
+   "en": "Puts up a roadblock\nwhere you're standing!"
   }
  ]
 }

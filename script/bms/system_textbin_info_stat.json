@@ -8,7 +8,7 @@
     0
    ],
    "jp": "ふしぎなこうかで\nここに{h }とばされてきたよ！",
-   "en": ""
+   "en": "A mysterious effect\nsent you flying here!"
   },
   {
    "id": "system_textbin_info_stat:002E",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "ふしぎなこうかで\nオンプが{h }０コに{h }なってるよ！",
-   "en": ""
+   "en": "A mysterious effect\nmade your Notes 0!"
   },
   {
    "id": "system_textbin_info_stat:0060",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "ふしぎなこうかで\nいどうが{h }　　０マス{h }されるよ！",
-   "en": ""
+   "en": "A mysterious effect\nmakes your move 0 spaces!"
   },
   {
    "id": "system_textbin_info_stat:0094",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "ふしぎなこうかで{h }いどうが\n６マス{h }よりおおきくなるよ！",
-   "en": ""
+   "en": "A mysterious effect makes your\nmove more than 6 spaces!"
   },
   {
    "id": "system_textbin_info_stat:00CE",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ふしぎなこうかで{h }いどうが\n３マス{h }よりちいさくなるよ！",
-   "en": ""
+   "en": "A mysterious effect makes your\nmove less than 3 spaces!"
   },
   {
    "id": "system_textbin_info_stat:0108",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ふしぎなこうかで\nいどうが{h }２マスになるよ！",
-   "en": ""
+   "en": "A mysterious effect\nmakes your move 2 spaces!"
   },
   {
    "id": "system_textbin_info_stat:0136",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "ふしぎなこうかで\nいどうが{h }１マスになるよ！",
-   "en": ""
+   "en": "A mysterious effect\nmakes your move 1 space!"
   },
   {
    "id": "system_textbin_info_stat:0164",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "ふしぎなこうかで\nルーレットが{h }おそくなるよ！",
-   "en": ""
+   "en": "A mysterious effect\nmakes the roulette slower!"
   },
   {
    "id": "system_textbin_info_stat:0194",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ふしぎなこうかで\nオンプがはねても{h }かわらないよ！",
-   "en": ""
+   "en": "A mysterious effect: Notes\ndon't change even if they bounce!"
   },
   {
    "id": "system_textbin_info_stat:01C8",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ふしぎなこうかで\nさいこうのかずが{h }でるよ！",
-   "en": ""
+   "en": "A mysterious effect\ngives you the highest number!"
   },
   {
    "id": "system_textbin_info_stat:01F6",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "ふしぎなこうかで\nいつでもとまれるよ！",
-   "en": ""
+   "en": "A mysterious effect\nlets you stop anywhere!"
   },
   {
    "id": "system_textbin_info_stat:021E",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "ふしぎなこうかで\nぎゃくもどり{h }しちゃうよ！",
-   "en": ""
+   "en": "A mysterious effect\nmakes you go backward!"
   },
   {
    "id": "system_textbin_info_stat:024C",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "ふしぎなこうかで\nいろいろ{h }つよくなるよ！",
-   "en": ""
+   "en": "A mysterious effect\nmakes you stronger all around!"
   },
   {
    "id": "system_textbin_info_stat:0278",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "ふしぎなこうかで\nたくさん{h }かいものができるよ！",
-   "en": ""
+   "en": "A mysterious effect\nlets you shop a lot!"
   },
   {
    "id": "system_textbin_info_stat:02AA",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "ふしぎなこうかで\nたくさん{h }カードがもらえるよ！",
-   "en": ""
+   "en": "A mysterious effect\ngets you lots of cards!"
   },
   {
    "id": "system_textbin_info_stat:02DC",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "ふしぎなこうかで\nもういちど{h }じぶんのばんだよ！",
-   "en": ""
+   "en": "A mysterious effect\ngives you another turn!"
   },
   {
    "id": "system_textbin_info_stat:030E",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "おやすみ中だよ",
-   "en": ""
+   "en": "You're resting."
   },
   {
    "id": "system_textbin_info_stat:031E",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "ふしぎなこうかで\nすべてのカードがきかないよ！",
-   "en": ""
+   "en": "A mysterious effect\nblocks all cards!"
   },
   {
    "id": "system_textbin_info_stat:034E",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "ふしぎなこうかで\nカードと{h }きがえが{h }つかえない！",
-   "en": ""
+   "en": "A mysterious effect: you can't\nuse cards or change clothes!"
   },
   {
    "id": "system_textbin_info_stat:0382",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "ふしぎなこうかで\nあるくとヒロインポイント{h }が下がるよ！",
-   "en": ""
+   "en": "A mysterious effect: walking\nlowers your Heroine Points!"
   },
   {
    "id": "system_textbin_info_stat:03BC",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "ふしぎなこうかで\nあるくとヒロインポイント{h }が上がるよ！",
-   "en": ""
+   "en": "A mysterious effect: walking\nraises your Heroine Points!"
   },
   {
    "id": "system_textbin_info_stat:03F6",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "ふしぎなこうかで{h }とまったマスで\nなにもおこらない！",
-   "en": ""
+   "en": "A mysterious effect: nothing happens\non the space you stop on!"
   },
   {
    "id": "system_textbin_info_stat:042C",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "むらさきマスにとまっても\nいいできごとがおこるよ！",
-   "en": ""
+   "en": "Even if you stop on a Purple Space,\nsomething good happens!"
   },
   {
    "id": "system_textbin_info_stat:0460",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "青いマスにとまっても\nわるいできごとがおこるよ！",
-   "en": ""
+   "en": "Even if you stop on a Blue Space,\nsomething bad happens!"
   },
   {
    "id": "system_textbin_info_stat:0492",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "むらさきマスと青いマスでも\nカードがもらえるよ！",
-   "en": ""
+   "en": "You can get cards even on\nPurple Spaces and Blue Spaces!"
   },
   {
    "id": "system_textbin_info_stat:04C4",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "いどうが１になるこうかがきれたよ",
-   "en": ""
+   "en": "The move-1-space effect wore off."
   },
   {
    "id": "system_textbin_info_stat:04E6",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "ゆっくりになっていたルーレットが\nもとにもどったよ",
-   "en": ""
+   "en": "The slowed-down roulette\nis back to normal."
   },
   {
    "id": "system_textbin_info_stat:051A",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "つよくなるこうかがきれたよ",
-   "en": ""
+   "en": "The power-up effect wore off."
   },
   {
    "id": "system_textbin_info_stat:0536",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "ドラムルーレットのかいものワクが\nふつうにもどったよ",
-   "en": ""
+   "en": "The drum roulette's shopping slots\nare back to normal."
   },
   {
    "id": "system_textbin_info_stat:056C",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "ドラムルーレットのカードワクが\nふつうにもどったよ",
-   "en": ""
+   "en": "The drum roulette's card slots\nare back to normal."
   },
   {
    "id": "system_textbin_info_stat:05A0",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "カードのこうかを\nはじくこうかがきれた！",
-   "en": ""
+   "en": "The effect that blocks\ncard effects wore off!"
   },
   {
    "id": "system_textbin_info_stat:05CA",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "いどうが２になるこうかがきれたよ",
-   "en": ""
+   "en": "The move-2-spaces effect wore off."
   },
   {
    "id": "system_textbin_info_stat:05EC",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "カードときがえが\nつかえるようになったよ",
-   "en": ""
+   "en": "You can use cards and\nchange clothes again."
   },
   {
    "id": "system_textbin_info_stat:0616",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "あるいてもヒロインポイントが\n下がらなくなったよ",
-   "en": ""
+   "en": "Walking won't lower your\nHeroine Points anymore."
   },
   {
    "id": "system_textbin_info_stat:0648",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "あるいてもヒロインポイントが\n上がらなくなったよ",
-   "en": ""
+   "en": "Walking won't raise your\nHeroine Points anymore."
   },
   {
    "id": "system_textbin_info_stat:067A",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "とまったマスのえいきょうをうけない\nこうかがきれたよ",
-   "en": ""
+   "en": "The effect that ignores the space\nyou stop on wore off."
   },
   {
    "id": "system_textbin_info_stat:06B0",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "むらさきマスでもいいできごとがおきる\nこうかがきれたよ",
-   "en": ""
+   "en": "The effect that makes good things\nhappen on Purple Spaces wore off."
   },
   {
    "id": "system_textbin_info_stat:06E8",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "青いマスでもわるいできごとがおきる\nこうかがきれたよ",
-   "en": ""
+   "en": "The effect that makes bad things\nhappen on Blue Spaces wore off."
   },
   {
    "id": "system_textbin_info_stat:071E",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "むらさきマスと青いマスでも\nカードがもらえるこうかがきれたよ",
-   "en": ""
+   "en": "The effect that gives cards on Purple\nand Blue Spaces wore off."
   },
   {
    "id": "system_textbin_info_stat:075C",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "ふこうのてがみ{h }のこうかがきれた！",
-   "en": ""
+   "en": "Unlucky Letter's effect wore off!"
   }
  ]
 }

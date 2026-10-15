@@ -24,7 +24,7 @@
     2
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 9 or more!"
+   "en": "Add {i20D} Unbeatable Heart and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005155:00BE",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Unbeatable Heart -1{i210}\""
   },
   {
    "id": "event_ev005155:01BE",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 9 or more!"
+   "en": "Add {i20D} Unbeatable Heart and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005155:0286",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Unbeatable Heart -1{i210}\""
   },
   {
    "id": "event_ev005155:03CA",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい９いじょうを出そう",
-   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 9 or more!"
+   "en": "Add {i20D} Unbeatable Heart and the roulette\nto get a total of 9 or more!"
   },
   {
    "id": "event_ev005155:04A2",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20D}{h }まけない{h }こころ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Strong Heart -1{i210}\""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20D} Unbeatable Heart -1{i210}\""
   }
  ]
 }

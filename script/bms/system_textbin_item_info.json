@@ -8,7 +8,7 @@
     0
    ],
    "jp": "きがえられる{h }ようふくは\nもってないよ",
-   "en": ""
+   "en": "You don't have any clothes\nyou can change into."
   },
   {
    "id": "system_textbin_item_info:0028",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "これに{h }きがえる？{h }すてる？",
-   "en": ""
+   "en": "Change into this? Throw it away?"
   },
   {
    "id": "system_textbin_item_info:0046",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "アイテムがいっぱいでもてなかったよ",
-   "en": ""
+   "en": "Your items are full, so you couldn't take it!"
   },
   {
    "id": "system_textbin_item_info:006A",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "これを{h }ぬいじゃう？{h }すてる？",
-   "en": ""
+   "en": "Take this off? Throw it away?"
   }
  ]
 }

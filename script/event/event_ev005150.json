@@ -48,7 +48,7 @@
     5
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
+   "en": "Add {i20E}Nimble Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005150:012E",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Light Steps -1{i210}\""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   },
   {
    "id": "event_ev005150:02A0",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
+   "en": "Add {i20E}Nimble Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005150:03E6",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Light Steps -1{i210}\""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   },
   {
    "id": "event_ev005150:0552",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
+   "en": "Add {i20E}Nimble Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005150:0684",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "『{i211}{h }ヒロインポイント　−６０{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Light Steps -1{i210}\""
+   "en": "\"{i211} Heroine Points -60{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   }
  ]
 }

@@ -8,7 +8,7 @@
     0
    ],
    "jp": "ルーレットをまわして\nおでかけしよう！",
-   "en": ""
+   "en": "Spin the roulette\nand head out!"
   },
   {
    "id": "system_textbin_cmd_msg:0028",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "カードをつかって\nいろいろできるよ",
-   "en": ""
+   "en": "Use cards to do\nall sorts of things!"
   },
   {
    "id": "system_textbin_cmd_msg:004C",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "おしゃれしてみんなに\nさをつけちゃお",
-   "en": ""
+   "en": "Dress up and get\nahead of everyone!"
   },
   {
    "id": "system_textbin_cmd_msg:0072",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "みんなはどこにいるのかな？",
-   "en": ""
+   "en": "I wonder where everyone is?"
   },
   {
    "id": "system_textbin_cmd_msg:008E",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "わすれないように\nメモしとかなきゃ",
-   "en": ""
+   "en": "Better write it down\nso I don't forget!"
   }
  ]
 }

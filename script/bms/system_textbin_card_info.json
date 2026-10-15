@@ -8,7 +8,7 @@
     0
    ],
    "jp": "十字ボタンでキャラクターをえらんでね",
-   "en": ""
+   "en": "Choose a character with the +Control Pad!"
   },
   {
    "id": "system_textbin_card_info:0026",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "十字ボタンでマスをえらんでね",
-   "en": ""
+   "en": "Choose a space with the +Control Pad!"
   },
   {
    "id": "system_textbin_card_info:0044",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "カードがいっぱいでもてなかったよ",
-   "en": ""
+   "en": "Your cards are full, so you couldn't take it!"
   },
   {
    "id": "system_textbin_card_info:0066",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "カードは{h }１まいももってないよ",
-   "en": ""
+   "en": "You don't have a single card!"
   },
   {
    "id": "system_textbin_card_info:0086",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "カードをつかう？{h }すてる？",
-   "en": ""
+   "en": "Use the card? Throw it away?"
   },
   {
    "id": "system_textbin_card_info:00A2",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "を手に入れたよ",
-   "en": ""
+   "en": " - you got it!"
   },
   {
    "id": "system_textbin_card_info:00B2",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "がこわれたよ",
-   "en": ""
+   "en": " broke!"
   },
   {
    "id": "system_textbin_card_info:00C0",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "をうばって手に入れたよ",
-   "en": ""
+   "en": " - you snatched it!"
   },
   {
    "id": "system_textbin_card_info:00D8",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "をつかったよ",
-   "en": ""
+   "en": " was used!"
   },
   {
    "id": "system_textbin_card_info:00E6",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "１ターンお休みさせるよ",
-   "en": ""
+   "en": "Makes someone rest for 1 turn!"
   },
   {
    "id": "system_textbin_card_info:00FE",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "３ターンお休みさせるよ",
-   "en": ""
+   "en": "Makes someone rest for 3 turns!"
   },
   {
    "id": "system_textbin_card_info:0116",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "このカードは{h }つかうことも\nすてることもできないよ",
-   "en": ""
+   "en": "This card can't be used\nor thrown away!"
   },
   {
    "id": "system_textbin_card_info:014A",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "ふこうのてがみのこうかがきれて\nどこかにきえていったよ",
-   "en": ""
+   "en": "Unlucky Letter's effect wore off,\nand it vanished somewhere!"
   },
   {
    "id": "system_textbin_card_info:0182",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "ふこうのてがみのこうかがきれて\nだれかのところへいったよ",
-   "en": ""
+   "en": "Unlucky Letter's effect wore off,\nand it went to someone else!"
   },
   {
    "id": "system_textbin_card_info:01BC",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "３まいいじょうもってないから\nこわせなかったよ",
-   "en": ""
+   "en": "They don't have 3 or more cards,\nso none could be broken!"
   },
   {
    "id": "system_textbin_card_info:01EC",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "ふしぎなこうかが{h }カードのこうかを\nよせつけなかったよ",
-   "en": ""
+   "en": "A mysterious effect kept\nthe card's effect away!"
   },
   {
    "id": "system_textbin_card_info:0224",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "２ターンつづけてこうどう\nできるようになったよ",
-   "en": ""
+   "en": "You can now act\n2 turns in a row!"
   }
  ]
 }

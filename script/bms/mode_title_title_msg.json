@@ -8,7 +8,7 @@
     0
    ],
    "jp": "１だいをつかってコンピューターと\nたいせんできるモードよ",
-   "en": ""
+   "en": "A mode where you battle the\ncomputer on one Game Boy Advance!"
   },
   {
    "id": "mode_title_title_msg:003A",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "１だいをつかって\nみんなでたいせんできるモードよ",
-   "en": ""
+   "en": "A mode where everyone battles\non one Game Boy Advance!"
   },
   {
    "id": "mode_title_title_msg:006C",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "つうしんケーブルをつかって\nみんなでたいせんできるモードよ",
-   "en": ""
+   "en": "A mode where everyone battles\nusing a Game Link Cable!"
   },
   {
    "id": "mode_title_title_msg:00A8",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "ひとりで３２エピソードのクリアを\nとことんめざすモードよ",
-   "en": ""
+   "en": "A mode where you go all out\nto clear 32 episodes alone!"
   },
   {
    "id": "mode_title_title_msg:00E2",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "とことんピッチで入手したアイテムで\nきせかえができるモードよ",
-   "en": ""
+   "en": "A mode where you dress up with\nitems you got in All-Out Pitch!"
   },
   {
    "id": "mode_title_title_msg:0120",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "じぶんのヒロインを{h }せんたくしてね",
-   "en": ""
+   "en": "Choose your heroine!"
   },
   {
    "id": "mode_title_title_msg:0144",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "ゲームのじゅんばんをきめるね",
-   "en": ""
+   "en": "I'll decide the play order!"
   },
   {
    "id": "mode_title_title_msg:0162",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "あそぶながさをきめてね",
-   "en": ""
+   "en": "Choose how long to play!"
   },
   {
    "id": "mode_title_title_msg:017A",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "きょうはなん人であそぶの？",
-   "en": ""
+   "en": "How many people are playing today?"
   },
   {
    "id": "mode_title_title_msg:0196",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "つうしんをしらべてるよ{h }ＯＫなら\n１Ｐの人がＡボタンをおしてね",
-   "en": ""
+   "en": "Checking the link... If it's OK,\nPlayer 1, press the A Button!"
   },
   {
    "id": "mode_title_title_msg:01D6",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "はじめから？　つづきから？",
-   "en": ""
+   "en": "New game? Or continue?"
   },
   {
    "id": "mode_title_title_msg:01F2",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "ゲームのせっていをきめてね",
-   "en": ""
+   "en": "Choose the game settings!"
   },
   {
    "id": "mode_title_title_msg:020E",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "つづき",
-   "en": ""
+   "en": "Continue"
   },
   {
    "id": "mode_title_title_msg:0216",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "けす",
-   "en": ""
+   "en": "Delete"
   },
   {
    "id": "mode_title_title_msg:021C",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "クリア",
-   "en": ""
+   "en": "Clear"
   },
   {
    "id": "mode_title_title_msg:0224",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "きろくしたつづきから\nゲームをはじめるよ",
-   "en": ""
+   "en": "Start the game from\nwhere you saved!"
   },
   {
    "id": "mode_title_title_msg:024E",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "つづきからはじめたいばんごうを\nえらんでね",
-   "en": ""
+   "en": "Choose the save number\nyou want to continue from!"
   },
   {
    "id": "mode_title_title_msg:027A",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "これでいい？",
-   "en": ""
+   "en": "Is this okay?"
   },
   {
    "id": "mode_title_title_msg:0288",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "きろくをけすことができるよ",
-   "en": ""
+   "en": "You can delete a save here!"
   },
   {
    "id": "mode_title_title_msg:02A4",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "けしたいきろくをえらんでね",
-   "en": ""
+   "en": "Choose the save to delete!"
   },
   {
    "id": "mode_title_title_msg:02C0",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "これをほんとうにけしちゃっていい？",
-   "en": ""
+   "en": "Really delete this?"
   },
   {
    "id": "mode_title_title_msg:02E4",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "ゲームをかったときの\nじょうたいにもどすよ",
-   "en": ""
+   "en": "This resets the game to how\nit was when you bought it!"
   },
   {
    "id": "mode_title_title_msg:0310",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "ほんとうにクリアしちゃっていい？",
-   "en": ""
+   "en": "Really clear everything?"
   },
   {
    "id": "mode_title_title_msg:0332",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "このじゅんばんでいい？",
-   "en": ""
+   "en": "Is this order okay?"
   }
  ]
 }

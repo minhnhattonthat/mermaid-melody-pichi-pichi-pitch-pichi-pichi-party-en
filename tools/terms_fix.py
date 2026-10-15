@@ -17,6 +17,10 @@ FIXES = [
     (r"\bLight Steps\b", "Nimble Steps"),
     (r"\bTest of Courage Night\b", "Night of Courage"),
     (r"\bMermaid Legend Cave\b", "cave of the mermaid legend"),
+    (r"\"The Kitten's Wish\"", "\"A Kitten's Wish\""),
+    (r"\"A Gentle Rain\"", "\"Gentle Rain\""),
+    (r"Hymn That Wouldn't Start", "Hymn That Won't Start"),
+    (r"\b[Tt]he Pearl Piari\b", "Pearl Piari"),
 ]
 
 

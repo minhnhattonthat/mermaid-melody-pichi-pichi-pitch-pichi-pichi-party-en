@@ -48,7 +48,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20D}{h }まけない　こころ　＋１{i20F}』",
-   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20D} Strong Heart +1{i20F}\""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005522:00FC",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20D}{h }まけない　こころ　＋１{i20F}』",
-   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20D} Strong Heart +1{i20F}\""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   },
   {
    "id": "event_ev005522:01F0",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋２５{i20F}』\n『{i20D}{h }まけない　こころ　＋１{i20F}』",
-   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20D} Strong Heart +1{i20F}\""
+   "en": "\"{i211} Heroine Points +25{i20F}\"\n\"{i20D} Unbeatable Heart +1{i20F}\""
   }
  ]
 }

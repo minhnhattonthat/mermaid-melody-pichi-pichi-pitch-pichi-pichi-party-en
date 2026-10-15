@@ -50,7 +50,7 @@
     5
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Nimble Steps -2{i210}\""
   },
   {
    "id": "event_ev005108:0138",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4003][4000]より下\nカードを２まい{h }なくす』",
-   "en": "\"If {i20E}Light Steps is below [4003][4000],\nlose 2 cards.\""
+   "en": "\"If {i20E}Nimble Steps is below [4003][4000],\nlose 2 cards.\""
   },
   {
    "id": "event_ev005108:01D6",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Nimble Steps -2{i210}\""
   },
   {
    "id": "event_ev005108:021E",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Nimble Steps -2{i210}\""
   },
   {
    "id": "event_ev005108:0350",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4003][4000]より下\nカードを２まい{h }なくす』",
-   "en": "\"If {i20E}Light Steps is below [4003][4000],\nlose 2 cards.\""
+   "en": "\"If {i20E}Nimble Steps is below [4003][4000],\nlose 2 cards.\""
   },
   {
    "id": "event_ev005108:03EE",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Nimble Steps -2{i210}\""
   },
   {
    "id": "event_ev005108:0436",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Nimble Steps -2{i210}\""
   },
   {
    "id": "event_ev005108:056A",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4003][4000]より下\nカードを２まい{h }なくす』",
-   "en": "\"If {i20E}Light Steps is below [4003][4000],\nlose 2 cards.\""
+   "en": "\"If {i20E}Nimble Steps is below [4003][4000],\nlose 2 cards.\""
   },
   {
    "id": "event_ev005108:0608",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "『{i211}{h }ヒロインポイント　−２８{i210}』\n『{i20E}{h }けいかいなステップ　−２{i210}』",
-   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Light Steps -2{i210}\""
+   "en": "\"{i211} Heroine Points -28{i210}\"\n\"{i20E} Nimble Steps -2{i210}\""
   }
  ]
 }

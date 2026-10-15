@@ -8,7 +8,7 @@
     0
    ],
    "jp": "みる　",
-   "en": ""
+   "en": "View"
   },
   {
    "id": "system_textbin_syscmd:0008",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "きろく",
-   "en": ""
+   "en": "Save"
   },
   {
    "id": "system_textbin_syscmd:0010",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "カード",
-   "en": ""
+   "en": "Cards"
   },
   {
    "id": "system_textbin_syscmd:0018",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "キャラクターのじょうほうが見れるよ",
-   "en": ""
+   "en": "You can see character info!"
   },
   {
    "id": "system_textbin_syscmd:003C",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "十字ボタンの左右で\n見ているキャラクターをかえられるよ",
-   "en": ""
+   "en": "Press Left/Right on the +Control\nPad to switch characters!"
   },
   {
    "id": "system_textbin_syscmd:0074",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ボタンをおすと{h }もどれるよ",
-   "en": ""
+   "en": "Press the button to go back"
   },
   {
    "id": "system_textbin_syscmd:0090",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "いまのじょうたいを{h }きろくできるよ",
-   "en": ""
+   "en": "You can save your current progress!"
   },
   {
    "id": "system_textbin_syscmd:00B4",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "ばんごうをえらんでけってい",
-   "en": ""
+   "en": "Choose a number to confirm"
   },
   {
    "id": "system_textbin_syscmd:00D0",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ほんとうに{h }きろくしてもいい？",
-   "en": ""
+   "en": "Really save here?"
   },
   {
    "id": "system_textbin_syscmd:00F0",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "きろくできたよ",
-   "en": ""
+   "en": "Saved!"
   },
   {
    "id": "system_textbin_syscmd:0100",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "むずかしいモードでしかつかえないよ",
-   "en": ""
+   "en": "Only usable in Hard mode!"
   },
   {
    "id": "system_textbin_syscmd:0124",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "きいろマスの上でしかつかえないよ",
-   "en": ""
+   "en": "Only usable on a Yellow Space!"
   },
   {
    "id": "system_textbin_syscmd:0146",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "ほしいカードを{h }せっていしちゃおう",
-   "en": ""
+   "en": "Set the cards you want!"
   },
   {
    "id": "system_textbin_syscmd:016A",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "Ａボタンをおして{h }\nほしいカードのレベルを上げてね",
-   "en": ""
+   "en": "Press the A Button to raise\nthe level of the cards you want!"
   },
   {
    "id": "system_textbin_syscmd:019E",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "このモードはきろくできないよ",
-   "en": ""
+   "en": "This mode can't be saved!"
   },
   {
    "id": "system_textbin_syscmd:01BC",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "これいじょうポイントを\nせっていできないよ",
-   "en": ""
+   "en": "You can't set any\nmore points!"
   },
   {
    "id": "system_textbin_syscmd:01E8",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "　データがありません",
-   "en": ""
+   "en": " No data"
   },
   {
    "id": "system_textbin_syscmd:01FE",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "　データがこわれています",
-   "en": ""
+   "en": " The data is corrupted"
   }
  ]
 }

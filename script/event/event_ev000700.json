@@ -32,7 +32,7 @@
     3
    ],
    "jp": "どうやら{h }ガイトさまは\n力を{h }たくわえるため",
-   "en": "It seems Lord Gaito is\nstoring up his power"
+   "en": "It seems Lord Gaito, to store\nup his power,"
   },
   {
    "id": "event_ev000700:0088",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ねむりに{h }つかれたようだ",
-   "en": "have fallen asleep."
+   "en": "has fallen asleep."
   },
   {
    "id": "event_ev000700:00A2",

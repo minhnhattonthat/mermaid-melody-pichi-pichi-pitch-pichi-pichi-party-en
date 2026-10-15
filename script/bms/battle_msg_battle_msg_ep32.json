@@ -8,7 +8,7 @@
     0
    ],
    "jp": "じゅんばんが{h }さいしょのほうが\nたくさん{h }こうげきできるの",
-   "en": ""
+   "en": "The earlier your turn order,\nthe more attacks you get!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:003C",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "じゅんばんが{h }さいしょのほうが\nたくさん{h }こうげきできるの",
-   "en": ""
+   "en": "The earlier your turn order,\nthe more attacks you get!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0078",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "じゅんばんが{h }さいしょのほうが\nたくさん{h }こうげきできるぞ",
-   "en": ""
+   "en": "The earlier your turn order,\nthe more attacks you get."
   },
   {
    "id": "battle_msg_battle_msg_ep32:00B4",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "ルーレットのすうじが大きいと\nもらえるヒロインポイントもおおいの",
-   "en": ""
+   "en": "The bigger the roulette number,\nthe more Heroine Points you get!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:00F6",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ルーレットのすうじが大きいと\nもらえるヒロインポイントもおおいの",
-   "en": ""
+   "en": "The bigger the roulette number,\nthe more Heroine Points you get!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0138",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ルーレットのすうじが大きいと\nもらえるヒロインポイントもおおいぞ",
-   "en": ""
+   "en": "The bigger the roulette number,\nthe more Heroine Points you get."
   },
   {
    "id": "battle_msg_battle_msg_ep32:017A",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "はんげきをうけると\nヒロインポイントがへっちゃうの",
-   "en": ""
+   "en": "If you get counterattacked,\nyou lose Heroine Points!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:01AE",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "はんげきをうけると\nヒロインポイントがへっちゃうの",
-   "en": ""
+   "en": "If you get counterattacked,\nyou lose Heroine Points!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:01E2",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "はんげきをうけると\nヒロインポイントがへってしまうんだ",
-   "en": ""
+   "en": "If you get counterattacked,\nyou lose Heroine Points."
   },
   {
    "id": "battle_msg_battle_msg_ep32:021A",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0222",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "いいかんじ\n『ヒロインポイント{h }ゲット！』",
-   "en": ""
+   "en": "Feels good!\n\"Heroine Points up!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:024E",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "うまくできたみたい\n『ヒロインポイント{h }ゲット！』",
-   "en": ""
+   "en": "Looks like it went well!\n\"Heroine Points up!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0282",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "『やったあ！　ステップを\nうまくクリアできたよ』",
-   "en": ""
+   "en": "\"Yay! I cleared\nthe steps nicely!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:02B4",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "『つぎは{h }とちゅうのむずかしい\nところをがんばろう』",
-   "en": ""
+   "en": "\"Next, let's do our best\non the hard part in the middle!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:02EA",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "いいかんじ\n『ヒロインポイント{h }ゲット！』",
-   "en": ""
+   "en": "Feels good!\n\"Heroine Points up!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0316",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "うまくできたみたい\n『ヒロインポイント{h }ゲット！』",
-   "en": ""
+   "en": "Looks like it went well!\n\"Heroine Points up!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:034A",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "『とちゅうのむずかしいところを\nうまくできたよ』",
-   "en": ""
+   "en": "\"I did the hard part\nin the middle nicely!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:037C",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "『つぎは{h }さいごにポーズを\nキメよう』",
-   "en": ""
+   "en": "\"Next, let's finish\nwith a pose!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:03A4",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "いいかんじ\n『ヒロインポイント{h }ゲット！』",
-   "en": ""
+   "en": "Feels good!\n\"Heroine Points up!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:03D0",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "うまくできたみたい\n『ヒロインポイント{h }ゲット！』",
-   "en": ""
+   "en": "Looks like it went well!\n\"Heroine Points up!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0404",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "『やったあ　バッチリ！』",
-   "en": ""
+   "en": "\"Yay, perfect!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:041E",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "『うまくできたみたい！』",
-   "en": ""
+   "en": "\"Looks like it went well!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0438",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0440",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0448",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0450",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0458",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0460",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0468",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0470",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0478",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "『たいへん！\n足がもつれてしまいそう‥‥！』",
-   "en": ""
+   "en": "\"Oh no!\nMy feet are getting tangled...!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:04A6",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "『えーと\nつぎの{h }セリフ‥‥』",
-   "en": ""
+   "en": "\"Umm...\nmy next line...\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:04C6",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "『つぎの{h }ふりつけの\nタイミングって‥‥』",
-   "en": ""
+   "en": "\"When does the next\ndance move come in...\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:04F2",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:04FA",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0502",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:050A",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0512",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:051A",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0522",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "ダミー",
-   "en": ""
+   "en": "Dummy"
   },
   {
    "id": "battle_msg_battle_msg_ep32:052A",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "きゃ\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0550",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "しまった！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oh no!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:057C",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "やったあ！",
-   "en": ""
+   "en": "Yaaay!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0588",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "きゃ！　やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek! I messed up...\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:05C2",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "きゃ！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:05EA",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "I messed up...\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:061C",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "やったね☆",
-   "en": ""
+   "en": "We did it ☆"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0628",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "いや〜ん　やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oh nooo, I messed up...\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0664",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "くっ！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Ugh!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:068C",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "しまった\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oops!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:06B6",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "ふっ　どうだ！",
-   "en": ""
+   "en": "Hmph, how's that!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:06C6",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "しまった！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oh no!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:06F2",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "きゃ\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0718",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "しまった！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oh no!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0744",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "やったあ！",
-   "en": ""
+   "en": "Yaaay!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0750",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "きゃ！　やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek! I messed up...\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:078A",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "きゃ！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:07B2",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "I messed up...\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:07E4",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "やったね☆",
-   "en": ""
+   "en": "We did it ☆"
   },
   {
    "id": "battle_msg_battle_msg_ep32:07F0",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "いや〜ん　やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oh nooo, I messed up...\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:082C",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "くっ！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Ugh!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0854",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "しまった\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oops!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:087E",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "ふっ　どうだ！",
-   "en": ""
+   "en": "Hmph, how's that!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:088E",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "しまった！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oh no!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:08BA",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "きゃ\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:08E0",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "しまった！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oh no!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:090C",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "やったあ！",
-   "en": ""
+   "en": "Yaaay!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0918",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "きゃ！　やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek! I messed up...\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0952",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "きゃ！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Eek!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:097A",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "I messed up...\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:09AC",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "やったね☆",
-   "en": ""
+   "en": "We did it ☆"
   },
   {
    "id": "battle_msg_battle_msg_ep32:09B8",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "いや〜ん　やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oh nooo, I messed up...\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:09F4",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "くっ！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Ugh!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0A1C",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "しまった\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oops!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0A46",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "ふっ　どうだ！",
-   "en": ""
+   "en": "Hmph, how's that!"
   },
   {
    "id": "battle_msg_battle_msg_ep32:0A56",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "しまった！\n『ヒロインポイント{h }ダウン！』",
-   "en": ""
+   "en": "Oh no!\n\"Heroine Points down!\""
   },
   {
    "id": "battle_msg_battle_msg_ep32:0A82",

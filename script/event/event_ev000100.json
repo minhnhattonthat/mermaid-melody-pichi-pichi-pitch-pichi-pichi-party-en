@@ -73,7 +73,7 @@
     8
    ],
    "jp": "それじゃあ　どうぐをそろえたら\nふんすいひろばに{h }あつまろう！",
-   "en": "Once we've got our supplies,\nlet's meet at the Fountain Square!"
+   "en": "Once we've got our supplies,\nlet's meet at the Fountain Plaza!"
   },
   {
    "id": "event_ev000100:01F6",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "えのぐは‥‥\nパールピアリに{h }あったかな",
-   "en": "Paint...\nI think there's some at the Pearl Piari."
+   "en": "Paint...\nI think there's some at Pearl Piari."
   },
   {
    "id": "event_ev000100:0254",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "えのぐを{h }とりに\nパールピアリへ{h }いこう！",
-   "en": "Let's go to the Pearl Piari\nto get the paint!"
+   "en": "Let's go to Pearl Piari\nto get the paint!"
   },
   {
    "id": "event_ev000100:0280",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "さぁ　いそいでふんすいひろばに\nいかなくっちゃ！",
-   "en": "Now I've gotta hurry\nto the Fountain Square!"
+   "en": "Now I've gotta hurry\nto the Fountain Plaza!"
   },
   {
    "id": "event_ev000100:0460",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "いそいで{h }ふんすいひろばに\nいかなくっちゃ！",
-   "en": "I've gotta hurry\nto the Fountain Square!"
+   "en": "I've gotta hurry\nto the Fountain Plaza!"
   },
   {
    "id": "event_ev000100:04E6",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "さて　いそいで{h }\nふんすいひろばに{h }いくか",
-   "en": "Now, I'd better hurry\nto the Fountain Square."
+   "en": "Now, I'd better hurry\nto the Fountain Plaza."
   },
   {
    "id": "event_ev000100:0538",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "ふんすいひろばへ{h }\nいそがなくっちゃ！",
-   "en": "I've gotta hurry\nto the Fountain Square!"
+   "en": "I've gotta hurry\nto the Fountain Plaza!"
   },
   {
    "id": "event_ev000100:057E",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "ふんすいひろばに{h }いかなくっちゃ！",
-   "en": "I've gotta go to the Fountain Square!"
+   "en": "I've gotta go to the Fountain Plaza!"
   },
   {
    "id": "event_ev000100:05A2",
@@ -297,7 +297,7 @@
     36
    ],
    "jp": "ふんすいひろばへ\nいそがないとねっ！",
-   "en": "I'd better hurry\nto the Fountain Square!"
+   "en": "I'd better hurry\nto the Fountain Plaza!"
   },
   {
    "id": "event_ev000100:0610",
@@ -305,7 +305,7 @@
     37
    ],
    "jp": "早く{h }ふんすいひろばへ\nいかないとね！",
-   "en": "I've gotta get to\nthe Fountain Square, quick!"
+   "en": "I've gotta get to\nthe Fountain Plaza, quick!"
   },
   {
    "id": "event_ev000100:0638",
@@ -329,7 +329,7 @@
     40
    ],
    "jp": "ふんすいひろばへ\nいそがないとな‥‥",
-   "en": "I should hurry\nto the Fountain Square..."
+   "en": "I should hurry\nto the Fountain Plaza..."
   },
   {
    "id": "event_ev000100:06B2",
@@ -337,7 +337,7 @@
     41
    ],
    "jp": "早く{h }ふんすいひろばへ\nいかないと‥‥みんなが{h }まってる",
-   "en": "I need to get to the Fountain Square,\nquick... Everyone's waiting."
+   "en": "I need to get to the Fountain Plaza,\nquick... Everyone's waiting."
   },
   {
    "id": "event_ev000100:06EC",
@@ -761,7 +761,7 @@
     94
    ],
    "jp": "{h }　　　　エピソード　２　　　　　\n　　『こねこのねがい』　おわり　",
-   "en": "Episode 2\n\"The Kitten's Wish\" - The End"
+   "en": "Episode 2\n\"A Kitten's Wish\" - The End"
   }
  ]
 }

@@ -27,7 +27,7 @@
     2
    ],
    "jp": "いそいでパールピアリへ\nいかなくっちゃ！",
-   "en": "I've gotta hurry\nto the Pearl Piari!"
+   "en": "I've gotta hurry\nto Pearl Piari!"
   },
   {
    "id": "event_ev000010:0072",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "パールピアリへ{h }いそがなくっちゃ！",
-   "en": "I've gotta hurry to the Pearl Piari!"
+   "en": "I've gotta hurry to Pearl Piari!"
   },
   {
    "id": "event_ev000010:00FA",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "はやくカサを{h }パールピアリから‥‥",
-   "en": "Quick, an umbrella from the Pearl Piari..."
+   "en": "Quick, an umbrella from Pearl Piari..."
   },
   {
    "id": "event_ev000010:0152",

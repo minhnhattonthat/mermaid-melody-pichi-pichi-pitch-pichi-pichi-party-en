@@ -40,7 +40,7 @@
     4
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１５{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Light Steps -1{i210}\""
+   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   },
   {
    "id": "event_ev005105:00A0",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4004][4000]より下\nきがえアイテムを{h }ひとつなくす』",
-   "en": "\"If {i20E}Light Steps is below [4004][4000],\nlose one outfit item.\""
+   "en": "\"If {i20E}Nimble Steps is below [4004][4000],\nlose one outfit item.\""
   },
   {
    "id": "event_ev005105:0104",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１５{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Light Steps -1{i210}\""
+   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   },
   {
    "id": "event_ev005105:014C",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１５{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Light Steps -1{i210}\""
+   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   },
   {
    "id": "event_ev005105:01E6",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4004][4000]より下\nきがえアイテムを{h }ひとつなくす』",
-   "en": "\"If {i20E}Light Steps is below [4004][4000],\nlose one outfit item.\""
+   "en": "\"If {i20E}Nimble Steps is below [4004][4000],\nlose one outfit item.\""
   },
   {
    "id": "event_ev005105:024E",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１５{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Light Steps -1{i210}\""
+   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   },
   {
    "id": "event_ev005105:0296",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１５{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Light Steps -1{i210}\""
+   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   },
   {
    "id": "event_ev005105:0322",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4004][4000]より下\nきがえアイテムを{h }ひとつなくす』",
-   "en": "\"If {i20E}Light Steps is below [4004][4000],\nlose one outfit item.\""
+   "en": "\"If {i20E}Nimble Steps is below [4004][4000],\nlose one outfit item.\""
   },
   {
    "id": "event_ev005105:039C",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "『{i211}{h }ヒロインポイント　−１５{i210}』\n『{i20E}{h }けいかいなステップ　−１{i210}』",
-   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Light Steps -1{i210}\""
+   "en": "\"{i211} Heroine Points -15{i210}\"\n\"{i20E} Nimble Steps -1{i210}\""
   }
  ]
 }

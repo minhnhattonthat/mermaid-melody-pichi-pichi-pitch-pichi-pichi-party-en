@@ -8,7 +8,7 @@
     0
    ],
    "jp": "カードを手に入れたよ",
-   "en": ""
+   "en": "You got a card!"
   },
   {
    "id": "system_textbin_card_get:0016",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "カードを２つ手に入れたよ",
-   "en": ""
+   "en": "You got two cards!"
   },
   {
    "id": "system_textbin_card_get:0030",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "しんじゅのこえ＋１{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Pearl Voice +1!"
   },
   {
    "id": "system_textbin_card_get:0054",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "しんじゅのこえ−１{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Pearl Voice -1!"
   },
   {
    "id": "system_textbin_card_get:0078",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "うみのおいかぜ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Sea Tailwind!"
   },
   {
    "id": "system_textbin_card_get:0098",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "うみのむかいかぜ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Sea Headwind!"
   },
   {
    "id": "system_textbin_card_get:00BA",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "しろいはやなみ＋３{h }を手に入れたよ",
-   "en": ""
+   "en": "You got White Wave +3!"
   },
   {
    "id": "system_textbin_card_get:00DE",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "くろいさかなみ−３{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Black Wave -3!"
   },
   {
    "id": "system_textbin_card_get:0102",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "くろいさかなみ−２{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Black Wave -2!"
   },
   {
    "id": "system_textbin_card_get:0126",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "くろいさかなみ−１{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Black Wave -1!"
   },
   {
    "id": "system_textbin_card_get:014A",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "ヒッポのうたごえ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Hippo's Song!"
   },
   {
    "id": "system_textbin_card_get:016C",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "クラちゃんのおもい{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Kura's Wish!"
   },
   {
    "id": "system_textbin_card_get:0190",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "タキのよげん{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Taki's Prophecy!"
   },
   {
    "id": "system_textbin_card_get:01AE",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "さいこうのおいかぜ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Best Tailwind!"
   },
   {
    "id": "system_textbin_card_get:01D2",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "にこらのおつかい{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Nikora's Errand!"
   },
   {
    "id": "system_textbin_card_get:01F4",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "あともどりのみち{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Road Back!"
   },
   {
    "id": "system_textbin_card_get:0216",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "うんめいのきろ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Fateful Fork!"
   },
   {
    "id": "system_textbin_card_get:0236",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "マーメイドのこえ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Mermaid Voice!"
   },
   {
    "id": "system_textbin_card_get:0258",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "マーメイドのゆうき{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Mermaid Courage!"
   },
   {
    "id": "system_textbin_card_get:027C",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "マーメイドのダンス{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Mermaid Dance!"
   },
   {
    "id": "system_textbin_card_get:02A0",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "水妖のメロディ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Water Demon Melody!"
   },
   {
    "id": "system_textbin_card_get:02C0",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "水妖のあい{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Water Demon Love!"
   },
   {
    "id": "system_textbin_card_get:02DC",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "水妖のステップ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Water Demon Step!"
   },
   {
    "id": "system_textbin_card_get:02FC",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "プリンセスのねがい{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Princess's Wish!"
   },
   {
    "id": "system_textbin_card_get:0320",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "さんごのたからもの{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Coral Treasure!"
   },
   {
    "id": "system_textbin_card_get:0344",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "おおきいたからもの{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Big Treasure!"
   },
   {
    "id": "system_textbin_card_get:0368",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "かいもののビーズ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Shopping Bead!"
   },
   {
    "id": "system_textbin_card_get:038A",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "ばいそくのしんじゅ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Double-Speed Pearl!"
   },
   {
    "id": "system_textbin_card_get:03AE",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "まもりのビーズ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Guard Bead!"
   },
   {
    "id": "system_textbin_card_get:03CE",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "イズールのリュウ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Izuru's Dragon!"
   },
   {
    "id": "system_textbin_card_get:03F0",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "ガイトのいかり{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Gaito's Wrath!"
   },
   {
    "id": "system_textbin_card_get:0410",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "エリルのイジワル{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Eriru's Mischief!"
   },
   {
    "id": "system_textbin_card_get:0432",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "ユーリのたくらみ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Yuri's Scheme!"
   },
   {
    "id": "system_textbin_card_get:0454",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "マリアのわな{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Maria's Trap!"
   },
   {
    "id": "system_textbin_card_get:0472",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "きけんなかけ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Risky Bet!"
   },
   {
    "id": "system_textbin_card_get:0490",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "あしかせのビーズ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Shackle Bead!"
   },
   {
    "id": "system_textbin_card_get:04B2",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "ふういんのビーズ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Seal Bead!"
   },
   {
    "id": "system_textbin_card_get:04D4",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "かいようのたつまき{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Ocean Tornado!"
   },
   {
    "id": "system_textbin_card_get:04F8",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "なぎのうなばら{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Calm Seas!"
   },
   {
    "id": "system_textbin_card_get:0518",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "カードいれかえ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Card Swap!"
   },
   {
    "id": "system_textbin_card_get:0538",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "のろいのビーズ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Curse Bead!"
   },
   {
    "id": "system_textbin_card_get:0558",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "ふこうのてがみ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Unlucky Letter!"
   },
   {
    "id": "system_textbin_card_get:0578",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "こううんのほし{i223}１{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Lucky Star {i223}1!"
   },
   {
    "id": "system_textbin_card_get:059C",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "こううんのほし{i223}２{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Lucky Star {i223}2!"
   },
   {
    "id": "system_textbin_card_get:05C0",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "こううんのほし{i223}３{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Lucky Star {i223}3!"
   },
   {
    "id": "system_textbin_card_get:05E4",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "こううんのほし{i223}４{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Lucky Star {i223}4!"
   },
   {
    "id": "system_textbin_card_get:0608",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "ふこうのほし{i223}１{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Unlucky Star {i223}1!"
   },
   {
    "id": "system_textbin_card_get:062A",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "ふこうのほし{i223}２{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Unlucky Star {i223}2!"
   },
   {
    "id": "system_textbin_card_get:064C",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "ふこうのほし{i223}３{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Unlucky Star {i223}3!"
   },
   {
    "id": "system_textbin_card_get:066E",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "ふこうのほし{i223}４{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Unlucky Star {i223}4!"
   },
   {
    "id": "system_textbin_card_get:0690",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "おそうじのほうき{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Cleaning Broom!"
   },
   {
    "id": "system_textbin_card_get:06B2",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "ふゆうのビーズ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Float Bead!"
   },
   {
    "id": "system_textbin_card_get:06D2",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "とおせんぼのかべ{h }を手に入れたよ",
-   "en": ""
+   "en": "You got Blocking Wall!"
   },
   {
    "id": "system_textbin_card_get:06F4",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "もっていたカードがなくなって\nふこうのてがみ{h }を手に入れたよ",
-   "en": ""
+   "en": "Your cards vanished, and\nyou got Unlucky Letter!"
   }
  ]
 }

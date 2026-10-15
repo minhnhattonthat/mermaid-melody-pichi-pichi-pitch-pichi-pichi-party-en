@@ -35,7 +35,7 @@
     3
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい[4001][4002]いじょうを出そう",
-   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of [4001][4002] or more!"
+   "en": "Add {i20D} Unbeatable Heart and the roulette\nto get a total of [4001][4002] or more!"
   },
   {
    "id": "event_ev005161:00E0",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "『{i20D}{h }まけない　こころ　−２{i210}』\n『{i20E}けいかいなステップ　−８{i210}』",
-   "en": "\"{i20D} Strong Heart -2{i210}\"\n\"{i20E}Light Steps -8{i210}\""
+   "en": "\"{i20D} Unbeatable Heart -2{i210}\"\n\"{i20E}Nimble Steps -8{i210}\""
   },
   {
    "id": "event_ev005161:0250",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい[4001][4002]いじょうを出そう",
-   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of [4001][4002] or more!"
+   "en": "Add {i20D} Unbeatable Heart and the roulette\nto get a total of [4001][4002] or more!"
   },
   {
    "id": "event_ev005161:0322",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "『{i20D}{h }まけない　こころ　−２{i210}』\n『{i20E}けいかいなステップ　−８{i210}』",
-   "en": "\"{i20D} Strong Heart -2{i210}\"\n\"{i20E}Light Steps -8{i210}\""
+   "en": "\"{i20D} Unbeatable Heart -2{i210}\"\n\"{i20E}Nimble Steps -8{i210}\""
   },
   {
    "id": "event_ev005161:04B2",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "{i20D}{h }まけない{h }こころと{h }ルーレットを\n足して{h }ごうけい[4001][4002]いじょうを出そう",
-   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of [4001][4002] or more!"
+   "en": "Add {i20D} Unbeatable Heart and the roulette\nto get a total of [4001][4002] or more!"
   },
   {
    "id": "event_ev005161:05A0",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "『{i20D}{h }まけない　こころ　−２{i210}』\n『{i20E}けいかいなステップ　−８{i210}』",
-   "en": "\"{i20D} Strong Heart -2{i210}\"\n\"{i20E}Light Steps -8{i210}\""
+   "en": "\"{i20D} Unbeatable Heart -2{i210}\"\n\"{i20E}Nimble Steps -8{i210}\""
   }
  ]
 }

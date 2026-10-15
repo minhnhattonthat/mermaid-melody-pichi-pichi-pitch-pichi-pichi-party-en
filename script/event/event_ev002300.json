@@ -411,7 +411,7 @@
     50
    ],
    "jp": "おまえは‥‥",
-   "en": "You are..."
+   "en": "You're..."
   },
   {
    "id": "event_ev002300:0894",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "エリルのファンか{i21C}\nアンコールは{h }うけつけチュウウ{i21C}",
-   "en": "one of Eriru's fans{i21C}\nEncores accepted, smooch{i21C}"
+   "en": "Are you one of Eriru's fans?{i21C}\nEncores accepted, smooch{i21C}"
   },
   {
    "id": "event_ev002300:08CA",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "おまえは‥‥",
-   "en": "You are..."
+   "en": "You're..."
   },
   {
    "id": "event_ev002300:0A8A",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "エリルのファンか{i21C}\nアンコールは{h }うけつけチュウウ{i21C}",
-   "en": "one of Eriru's fans{i21C}\nEncores accepted, smooch{i21C}"
+   "en": "Are you one of Eriru's fans?{i21C}\nEncores accepted, smooch{i21C}"
   },
   {
    "id": "event_ev002300:0AC0",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "おまえは‥‥",
-   "en": "You are..."
+   "en": "You're..."
   },
   {
    "id": "event_ev002300:0C96",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "エリルのファンか{i21C}\nアンコールは{h }うけつけチュウウ{i21C}",
-   "en": "one of Eriru's fans{i21C}\nEncores accepted, smooch{i21C}"
+   "en": "Are you one of Eriru's fans?{i21C}\nEncores accepted, smooch{i21C}"
   },
   {
    "id": "event_ev002300:0CCC",

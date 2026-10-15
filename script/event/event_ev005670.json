@@ -8,7 +8,7 @@
     0
    ],
    "jp": "（海斗といっしょで{h }なんだか\nデートみたい　ドキドキしちゃう〜）",
-   "en": ""
+   "en": "(Being with Kaito feels like a date...\nMy heart's pounding!)"
   },
   {
    "id": "event_ev005670:0042",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "『オンプ＋１』されるよ！",
-   "en": ""
+   "en": "\"Notes +1\" takes effect!"
   },
   {
    "id": "event_ev005670:005C",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "（海斗くんといっしょにいるのも\nたのしいのよね）",
-   "en": ""
+   "en": "(Being with Kaito\nis fun too, you know.)"
   },
   {
    "id": "event_ev005670:008E",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "『オンプ＋１』されるよ！",
-   "en": ""
+   "en": "\"Notes +1\" takes effect!"
   },
   {
    "id": "event_ev005670:00A8",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "（たまには\n海斗といるのも{h }たのしいもんだな）",
-   "en": ""
+   "en": "(Once in a while, being\nwith Kaito is kind of fun.)"
   },
   {
    "id": "event_ev005670:00D8",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "『オンプ＋１』されるよ！",
-   "en": ""
+   "en": "\"Notes +1\" takes effect!"
   },
   {
    "id": "event_ev005670:00F2",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "（海月先生って{h }やさしくて\nいっしょにいると{h }あんしんするな）",
-   "en": ""
+   "en": "(Mr. Mitsuki is so kind...\nI feel safe when I'm with him.)"
   },
   {
    "id": "event_ev005670:0132",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『オンプ＋１』されるよ！",
-   "en": ""
+   "en": "\"Notes +1\" takes effect!"
   },
   {
    "id": "event_ev005670:014C",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "（太郎ちゃんとデートなんて\nいや〜ん☆　うれしい）",
-   "en": ""
+   "en": "(A date with Taro!\nEeek ☆ I'm so happy!)"
   },
   {
    "id": "event_ev005670:0180",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "『オンプ＋１』されるよ！",
-   "en": ""
+   "en": "\"Notes +1\" takes effect!"
   },
   {
    "id": "event_ev005670:019A",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "（海月先生といっしょにあるくなんて\nちょっと{h }きんちょうするな‥‥）",
-   "en": ""
+   "en": "(Walking with Mr. Mitsuki...\nmakes me a little nervous...)"
   },
   {
    "id": "event_ev005670:01E0",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "『オンプ＋１』されるよ！",
-   "en": ""
+   "en": "\"Notes +1\" takes effect!"
   },
   {
    "id": "event_ev005670:01FA",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "（あっちこっちはしりまわって\nヒッポおかしー）",
-   "en": ""
+   "en": "(Hippo's running all over the place.\nHe's so funny!)"
   },
   {
    "id": "event_ev005670:022A",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "このターン『むらさきのマス』が\n『青いマス』とおなじに",
-   "en": ""
+   "en": "This turn, \"Purple Spaces\"\nwork the same as \"Blue Spaces\""
   },
   {
    "id": "event_ev005670:0262",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "（あ　またコケた\nヒッポおもしろーい）",
-   "en": ""
+   "en": "(Oh, he tripped again!\nHippo's so funny!)"
   },
   {
    "id": "event_ev005670:028A",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "このターン『むらさきのマス』が\n『青いマス』とおなじに",
-   "en": ""
+   "en": "This turn, \"Purple Spaces\"\nwork the same as \"Blue Spaces\""
   },
   {
    "id": "event_ev005670:02C2",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "（ヒッポ{h }町をあるくの\nたのしそうだな）",
-   "en": ""
+   "en": "(Hippo looks like he's having\nfun walking around town.)"
   },
   {
    "id": "event_ev005670:02EC",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "このターン『むらさきのマス』が\n『青いマス』とおなじに",
-   "en": ""
+   "en": "This turn, \"Purple Spaces\"\nwork the same as \"Blue Spaces\""
   },
   {
    "id": "event_ev005670:0324",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "（わ〜い\nおかいもの　なにかねだっちゃお）",
-   "en": ""
+   "en": "(Yaaay!\nShopping! I'll ask for something!)"
   },
   {
    "id": "event_ev005670:0350",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "いま『かいものワク』が\n大きくなってるよ",
-   "en": ""
+   "en": "Your \"Shopping Slots\"\nare bigger right now"
   },
   {
    "id": "event_ev005670:037A",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "（おかいもの{h }うれしいな☆\nなに{h }かってもらっちゃおうかな）",
-   "en": ""
+   "en": "(Shopping, yay ☆\nWhat should I ask her to buy me?)"
   },
   {
    "id": "event_ev005670:03B8",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "いま『かいものワク』が\n大きくなってるよ",
-   "en": ""
+   "en": "Your \"Shopping Slots\"\nare bigger right now"
   },
   {
    "id": "event_ev005670:03E2",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "（なにか{h }かってくれるって\nなんだか{h }にこらさんにわるいな）",
-   "en": ""
+   "en": "(Her buying me something...\nI feel kind of bad for Nikora.)"
   },
   {
    "id": "event_ev005670:0420",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "いま『かいものワク』が\n大きくなってるよ",
-   "en": ""
+   "en": "Your \"Shopping Slots\"\nare bigger right now"
   },
   {
    "id": "event_ev005670:044A",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "（タキさんといっしょにいると\nふしぎなことが{h }よくおこるのよね）",
-   "en": ""
+   "en": "(When I'm with Taki,\nmysterious things often happen.)"
   },
   {
    "id": "event_ev005670:048C",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "いま『カードゲットワク』が\n大きくなってるよ",
-   "en": ""
+   "en": "Your \"Card Slots\"\nare bigger right now"
   },
   {
    "id": "event_ev005670:04BA",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "（タキさんといっしょにいると\nふしぎなことが{h }よくおこるのよね）",
-   "en": ""
+   "en": "(When I'm with Taki,\nmysterious things often happen.)"
   },
   {
    "id": "event_ev005670:04FC",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "いま『カードゲットワク』が\n大きくなってるよ",
-   "en": ""
+   "en": "Your \"Card Slots\"\nare bigger right now"
   },
   {
    "id": "event_ev005670:052A",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "（タキさんといっしょにいると\nふしぎなことがよくおこるんだよな）",
-   "en": ""
+   "en": "(When I'm with Taki,\nstrange things tend to happen.)"
   },
   {
    "id": "event_ev005670:056C",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "いま『カードゲットワク』が\n大きくなってるよ",
-   "en": ""
+   "en": "Your \"Card Slots\"\nare bigger right now"
   },
   {
    "id": "event_ev005670:059A",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "あ{h }クラちゃん！　どこいくの？\nまって〜",
-   "en": ""
+   "en": "Ah, Kura! Where are you going?\nWaaait!"
   },
   {
    "id": "event_ev005670:05C4",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "クラちゃんをおいかけて\n『どこかへ{h }いどう！』",
-   "en": ""
+   "en": "Chase after Kura and\n\"Move somewhere!\""
   },
   {
    "id": "event_ev005670:05F4",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "あ{h }クラちゃん！　どこいくの？\nまって",
-   "en": ""
+   "en": "Ah, Kura! Where are you going?\nWait!"
   },
   {
    "id": "event_ev005670:061C",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "クラちゃんをおいかけて\n『どこかへ{h }いどう！』",
-   "en": ""
+   "en": "Chase after Kura and\n\"Move somewhere!\""
   },
   {
    "id": "event_ev005670:064C",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "あ{h }クラちゃん！\nどこに‥‥　おいかけなきゃ！",
-   "en": ""
+   "en": "Ah, Kura!\nWhere is she... I have to chase her!"
   },
   {
    "id": "event_ev005670:067C",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "クラちゃんをおいかけて\n『どこかへ{h }いどう！』",
-   "en": ""
+   "en": "Chase after Kura and\n\"Move somewhere!\""
   }
  ]
 }

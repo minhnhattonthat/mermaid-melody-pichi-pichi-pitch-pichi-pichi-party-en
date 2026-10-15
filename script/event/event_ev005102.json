@@ -89,7 +89,7 @@
     10
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4005][4000]より下\nきがえアイテムを{h }ひとつなくす』",
-   "en": "\"If {i20E}Light Steps is below [4005][4000],\nlose one outfit item.\""
+   "en": "\"If {i20E}Nimble Steps is below [4005][4000],\nlose one outfit item.\""
   },
   {
    "id": "event_ev005102:01B0",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4005][4000]より下\nきがえアイテムを{h }ひとつなくす』",
-   "en": "\"If {i20E}Light Steps is below [4005][4000],\nlose one outfit item.\""
+   "en": "\"If {i20E}Nimble Steps is below [4005][4000],\nlose one outfit item.\""
   },
   {
    "id": "event_ev005102:0358",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "『{i20E}けいかいなステップが{h }[4005][4000]より下\nそうびアイテムを{h }ひとつなくす』",
-   "en": "\"If {i20E}Light Steps is below [4005][4000],\nlose one equipped item.\""
+   "en": "\"If {i20E}Nimble Steps is below [4005][4000],\nlose one equipped item.\""
   },
   {
    "id": "event_ev005102:0548",

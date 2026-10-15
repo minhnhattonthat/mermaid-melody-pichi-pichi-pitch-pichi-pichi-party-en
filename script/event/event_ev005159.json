@@ -43,7 +43,7 @@
     4
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
+   "en": "Add {i20E}Nimble Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005159:00D8",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい６いじょうを出そう",
-   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 6 or more!"
+   "en": "Add {i20D} Unbeatable Heart and the roulette\nto get a total of 6 or more!"
   },
   {
    "id": "event_ev005159:022A",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
+   "en": "Add {i20E}Nimble Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005159:052A",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい６いじょうを出そう",
-   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 6 or more!"
+   "en": "Add {i20D} Unbeatable Heart and the roulette\nto get a total of 6 or more!"
   },
   {
    "id": "event_ev005159:0688",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "{i20E}けいかいなステップとルーレットを\n足して{h }ごうけい８いじょうを出そう",
-   "en": "Add {i20E}Light Steps and the roulette\nto get a total of 8 or more!"
+   "en": "Add {i20E}Nimble Steps and the roulette\nto get a total of 8 or more!"
   },
   {
    "id": "event_ev005159:0986",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "{i20D}{h }まけないこころと{h }ルーレットを\n足して{h }ごうけい６いじょうを出そう",
-   "en": "Add {i20D} Strong Heart and the roulette\nto get a total of 6 or more!"
+   "en": "Add {i20D} Unbeatable Heart and the roulette\nto get a total of 6 or more!"
   },
   {
    "id": "event_ev005159:0AF2",

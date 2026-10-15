@@ -160,7 +160,7 @@
     19
    ],
    "jp": "『{i20D}{h }まけないこころ　＋１{i20F}』\n『{i20E}けいかいなステップ　＋１{i20F}』",
-   "en": "\"{i20D} Strong Heart +1{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005523:035E",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "『{i20D}{h }まけないこころ　＋１{i20F}』\n『{i20E}けいかいなステップ　＋１{i20F}』",
-   "en": "\"{i20D} Strong Heart +1{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005523:06C2",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "『{i20D}{h }まけないこころ　＋１{i20F}』\n『{i20E}けいかいなステップ　＋１{i20F}』",
-   "en": "\"{i20D} Strong Heart +1{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
+   "en": "\"{i20D} Unbeatable Heart +1{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   }
  ]
 }

@@ -229,8 +229,28 @@ def pairs(name, dst):
             f.write(f">> {p[0]} [{p[1]}, {p[2]}] | {p[4]}\n   EN: {out.get(p[0], '(missing)')}\n")
 
 
+def lint():
+    """Every translated unit: tokens, width and line budget, no Japanese left. Exit 1 on errors."""
+    errs = 0
+    for u in units():
+        en = u["en"]
+        if not en:
+            print(u["id"], "untranslated"); errs += 1; continue
+        ws = font_en.line_widths(en)
+        if len(ws) > u["lines"] or max(ws) > u["px"]:
+            print(u["id"], "width/lines", ws, "limit", u["px"], u["lines"]); errs += 1
+        if sorted(TOKS.findall(u["jp"])) != sorted(TOKS.findall(en)):
+            print(u["id"], "tokens differ"); errs += 1
+        if re.search(r"[぀-ヿ一-鿿]", en):
+            print(u["id"], "Japanese left"); errs += 1
+    print("text lint errors:", errs)
+    return 1 if errs else 0
+
+
 if __name__ == "__main__":
     a = sys.argv[1:]
+    if a and a[0] == "lint":
+        sys.exit(lint())
     if not a:
         sys.exit(__doc__)
     if a[0] == "split":

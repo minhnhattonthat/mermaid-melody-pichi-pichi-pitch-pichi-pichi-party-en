@@ -40,7 +40,7 @@
     4
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005202:0100",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   },
   {
    "id": "event_ev005202:0230",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『{i211}{h }ヒロインポイント　＋３０{i20F}』\n『{i20E}{h }けいかいなステップ　＋１{i20F}』",
-   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20E} Light Steps +1{i20F}\""
+   "en": "\"{i211} Heroine Points +30{i20F}\"\n\"{i20E} Nimble Steps +1{i20F}\""
   }
  ]
 }
