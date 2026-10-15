@@ -82,9 +82,16 @@ def nearest(d, default=0):
     return (lambda y: d[min(ks, key=lambda k: abs(k - y))]) if ks else (lambda y: default)
 
 
-def row_bg(sub, struct):
-    """Per-row background of a box: the most common index away from the text structure (0 if none)."""
-    m = row_modes(sub, ~disc(struct.astype(np.uint8), 1)[1:-1, 1:-1].astype(bool))
+def row_bg(sub, struct, r=1):
+    """Per-row background of a box (plates run horizontally): the most common index over the columns at least r+1 px
+    away from any text column (0 if none)."""
+    cols = struct.any(0)
+    near = np.zeros_like(cols)
+    for d in range(-r, r + 1):
+        near |= np.roll(cols, d)
+    sel = np.zeros(sub.shape, bool)
+    sel[:, ~near] = True
+    m = row_modes(sub, sel)
     return np.array([[m.get(y, 0)] * sub.shape[1] for y in range(sub.shape[0])])
 
 
@@ -118,11 +125,16 @@ def relabel(a, box, text, size, letters, struct=(), rings=((2, "bg"),), bg=None,
     ys = np.nonzero(L.any(1))[0]
     ftop = y0 + ys.min()
     grad = nearest(fill) if fill else nearest({y0 + k: v for k, v in row_modes(sub, L).items()})
-    b = row_bg(sub, S) if bg is None else bg
+    r = max([rr for rr, _ in rings] + [0])
+    if bg is None:
+        b = row_bg(sub, S, r + 1)
+    elif isinstance(bg, list):                       # one plate column, repeated across the box
+        b = np.repeat(np.array(bg)[:, None], x1 - x0, 1)
+    else:
+        b = bg
     sub[:] = b
     plate = nearest({y0 + y: int(b[y].max()) for y in range(b.shape[0]) if b[y].max()}, 0)
     m, cap = tmask(text, size)
-    r = max([rr for rr, _ in rings] + [0])
     w = m.shape[1]
     if align == "c":
         x = (x0 + x1) // 2 - w // 2
@@ -139,9 +151,12 @@ def relabel(a, box, text, size, letters, struct=(), rings=((2, "bg"),), bg=None,
 
 
 # ------------------------------------------------------------------ BG labels
-NAVY = dict(letters=[0xa, 9, 5, 8], rings=((2, "bg"),))      # battle_bg_off row 4 (bank 13): pink on navy
-TEAL = dict(letters=[0xf, 0xa, 9, 8], rings=((2, "bg"),))    # battle_bg_off rows 6/8 (bank 12): white on teal
-PINK = dict(letters=[8, 7, 6, 5], rings=((2, "bg"),))        # battle_bg_def row 4: pink on navy
+# plate columns (16 rows): letters stand above the plate top on a 2-px halo of the plate colour
+NAVY_COL = [0] * 5 + [1] * 10 + [0xf]
+TEAL_COL = [0] * 5 + [0xf] + [4] * 9 + [0xf]
+NAVY = dict(letters=[0xa, 9, 5, 8], bg=NAVY_COL)       # battle_bg_off row 4 (bank 13): pink on navy
+TEAL = dict(letters=[0xf, 0xa, 9, 8], bg=TEAL_COL, rings=((2, 4),))   # battle_bg_off rows 6/8 (bank 12): white on teal
+PINK = dict(letters=[8, 7, 6, 5], bg=NAVY_COL)         # battle_bg_def row 4: pink on navy
 
 
 def bg_off():
@@ -151,10 +166,11 @@ def bg_off():
     for c, t in ((1, "Attack Voice"), (11, "Guard Rhythm"), (21, "Dodge Step")):
         relabel(a, (c * 8, 32, c * 8 + 80, 48), t, 14, **NAVY)
     # row 6: "roulette" hints, 16 tiles each, the first 9 px are the bullet cap
-    relabel(a, (9, 48, 128, 64), "Guard with Roulette", 14, **TEAL)
-    relabel(a, (137, 48, 256, 64), "Attack with Roulette!", 14, **TEAL)
+    # (the round right cap starts at x 122 / 250 and stays)
+    relabel(a, (9, 48, 122, 64), "Guard with Roulette", 13, **TEAL)
+    relabel(a, (135, 48, 251, 64), "Attack with Roulette!", 13, **TEAL)
     # row 8: "[n]~[n] to dodge": the digit circles (cols 1-2, 5-6, replaced by digit tiles in game) and ~ stay
-    relabel(a, (56, 64, 128, 80), "to dodge", 14, align="l", pad=1, **TEAL)
+    relabel(a, (56, 64, 122, 80), "to dodge", 14, align="l", pad=1, **TEAL)
     # Points / Damage plates (cols 26-31): white-edged navy plate shaped around the letters over the pink bar
     bar = [0xf, 7, 7, 7, 6, 6, 6, 5, 5, 5, 0xf]
     for y0, t in ((0, "Points"), (16, "Damage")):
