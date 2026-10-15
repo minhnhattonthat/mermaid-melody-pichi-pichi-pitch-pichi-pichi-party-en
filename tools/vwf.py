@@ -87,11 +87,28 @@ cont:
     mov r0, r8
     ldrh r1, [r0, #0xC]
     mov r11, r1
+    ldrh r6, [r0, #6]
+    ldr r2, [r0, #0x34]
+    movs r4, #0
+    movs r3, #0
+hu_lp:
+    cmp r3, r6
+    bhs hu_end
+    lsls r1, r3, #1
+    ldrh r1, [r2, r1]
+    bl cost
+    adds r4, r4, r1
+    adds r3, #1
+    b hu_lp
+hu_end:
+    str r4, [sp, #28]
 loop:
     mov r0, r8
     ldrh r6, [r0, #6]
     ldrh r1, [r0, #4]
-    cmp r6, r1
+    lsls r1, r1, #1
+    ldr r4, [sp, #28]
+    cmp r4, r1
     blo lp_go
     b done
 lp_go:
@@ -105,6 +122,13 @@ lp_go:
 lp_ch:
     adds r6, #1
     strh r6, [r0, #6]
+    adds r1, r5, #0
+    bl cost
+    ldr r4, [sp, #28]
+    adds r4, r4, r1
+    str r4, [sp, #28]
+    mov r0, r8
+    ldr r3, lit_8000
     adds r3, #1
     cmp r5, r3
     bne notnl
@@ -239,8 +263,15 @@ advance:
     b loop
 done:
     mov r0, r8
-    ldrh r1, [r0, #4]
-    strh r1, [r0, #6]
+    ldrh r6, [r0, #6]
+    ldr r2, [r0, #0x34]
+    lsls r3, r6, #1
+    ldrh r3, [r2, r3]
+    ldr r2, lit_8000
+    cmp r3, r2
+    bne dn_dma
+    strh r6, [r0, #4]
+dn_dma:
     add r1, sp, #32
     movs r0, #1
     strb r0, [r1]
@@ -298,6 +329,16 @@ plot:
     str r1, [r3]
     pop {r4}
 plot_r:
+    bx lr
+
+cost:
+    lsrs r1, r1, #14
+    cmp r1, #1
+    beq cost1
+    movs r1, #2
+    bx lr
+cost1:
+    movs r1, #1
     bx lr
 
 tiles:

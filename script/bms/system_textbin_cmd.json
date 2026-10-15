@@ -8,7 +8,7 @@
     0
    ],
    "jp": "いどうする　　",
-   "en": ""
+   "en": "Move"
   },
   {
    "id": "system_textbin_cmd:0010",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "カードをつかう",
-   "en": ""
+   "en": "Use Card"
   },
   {
    "id": "system_textbin_cmd:0020",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "きがえる　　　",
-   "en": ""
+   "en": "Change Clothes"
   },
   {
    "id": "system_textbin_cmd:0030",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "マップをみる　",
-   "en": ""
+   "en": "View Map"
   },
   {
    "id": "system_textbin_cmd:0040",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "システム　　　",
-   "en": ""
+   "en": "System"
   }
  ]
 }

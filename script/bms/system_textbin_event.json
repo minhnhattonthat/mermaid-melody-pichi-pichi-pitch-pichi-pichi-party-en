@@ -8,7 +8,7 @@
     0
    ],
    "jp": "まいご",
-   "en": ""
+   "en": "Lost Child"
   },
   {
    "id": "system_textbin_event:0008",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "みちあんない",
-   "en": ""
+   "en": "Giving Directions"
   },
   {
    "id": "system_textbin_event:0016",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "ちかみちはっけん",
-   "en": ""
+   "en": "Shortcut Found"
   },
   {
    "id": "system_textbin_event:0028",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "いちにちメイドさん",
-   "en": ""
+   "en": "Maid for a Day"
   },
   {
    "id": "system_textbin_event:003C",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ききいっぱつ",
-   "en": ""
+   "en": "Close Call"
   },
   {
    "id": "system_textbin_event:004A",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ちいさなゆうしゃ",
-   "en": ""
+   "en": "Little Hero"
   },
   {
    "id": "system_textbin_event:005C",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "スカウト",
-   "en": ""
+   "en": "Scouted!"
   },
   {
    "id": "system_textbin_event:0066",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "カラオケたいかい",
-   "en": ""
+   "en": "Karaoke Contest"
   },
   {
    "id": "system_textbin_event:0078",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "マーメイドうらない",
-   "en": ""
+   "en": "Mermaid Fortune"
   },
   {
    "id": "system_textbin_event:008C",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "おまじない",
-   "en": ""
+   "en": "Good-Luck Charm"
   },
   {
    "id": "system_textbin_event:0098",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "ヒナ",
-   "en": ""
+   "en": "Baby Chick"
   },
   {
    "id": "system_textbin_event:009E",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "おくりもの",
-   "en": ""
+   "en": "A Present"
   },
   {
    "id": "system_textbin_event:00AA",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "ウエディング",
-   "en": ""
+   "en": "Wedding"
   },
   {
    "id": "system_textbin_event:00B8",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "とくしゅう！",
-   "en": ""
+   "en": "Special Feature!"
   },
   {
    "id": "system_textbin_event:00C6",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "タキさん",
-   "en": ""
+   "en": "Taki"
   },
   {
    "id": "system_textbin_event:00D0",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "フリーマーケット",
-   "en": ""
+   "en": "Flea Market"
   },
   {
    "id": "system_textbin_event:00E2",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "きれいなおみせ",
-   "en": ""
+   "en": "Pretty Shop"
   },
   {
    "id": "system_textbin_event:00F2",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "ボトムショップ",
-   "en": ""
+   "en": "Bottoms Shop"
   },
   {
    "id": "system_textbin_event:0102",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "ファンシーショップ",
-   "en": ""
+   "en": "Fancy Goods Shop"
   },
   {
    "id": "system_textbin_event:0116",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "くつやさん",
-   "en": ""
+   "en": "Shoe Store"
   },
   {
    "id": "system_textbin_event:0122",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "ひろっちゃった",
-   "en": ""
+   "en": "Found Something"
   },
   {
    "id": "system_textbin_event:0132",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "よつばのクローバー",
-   "en": ""
+   "en": "Four-Leaf Clover"
   },
   {
    "id": "system_textbin_event:0146",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "ふくびき",
-   "en": ""
+   "en": "Prize Draw"
   },
   {
    "id": "system_textbin_event:0150",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "ピタリしょう",
-   "en": ""
+   "en": "Bull's-Eye Prize"
   },
   {
    "id": "system_textbin_event:016C",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "たからクジはっけん！",
-   "en": ""
+   "en": "Lottery Ticket!"
   },
   {
    "id": "system_textbin_event:0182",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "せいぎのみかた",
-   "en": ""
+   "en": "Hero of Justice"
   },
   {
    "id": "system_textbin_event:0192",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "１００にんめ",
-   "en": ""
+   "en": "100th Visitor"
   },
   {
    "id": "system_textbin_event:01A0",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "こえはどこから？",
-   "en": ""
+   "en": "Whose Voice?"
   },
   {
    "id": "system_textbin_event:01B2",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "めがみのこえ！",
-   "en": ""
+   "en": "Goddess's Voice!"
   },
   {
    "id": "system_textbin_event:01C2",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "まほうのドロップ",
-   "en": ""
+   "en": "Magic Drops"
   },
   {
    "id": "system_textbin_event:01D4",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "まほうのドロップ",
-   "en": ""
+   "en": "Magic Drops"
   },
   {
    "id": "system_textbin_event:01E6",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "まほうのドロップ",
-   "en": ""
+   "en": "Magic Drops"
   },
   {
    "id": "system_textbin_event:01F8",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "ゆうれいやしき",
-   "en": ""
+   "en": "Haunted House"
   },
   {
    "id": "system_textbin_event:0208",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "こううんのほうそく",
-   "en": ""
+   "en": "Law of Luck"
   },
   {
    "id": "system_textbin_event:021C",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "だいバーゲン！",
-   "en": ""
+   "en": "Big Sale!"
   },
   {
    "id": "system_textbin_event:022C",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "うらないのやかた",
-   "en": ""
+   "en": "Fortune Parlor"
   },
   {
    "id": "system_textbin_event:023E",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "スター",
-   "en": ""
+   "en": "The Star"
   },
   {
    "id": "system_textbin_event:0246",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "フール",
-   "en": ""
+   "en": "The Fool"
   },
   {
    "id": "system_textbin_event:024E",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "ストレングス",
-   "en": ""
+   "en": "Strength"
   },
   {
    "id": "system_textbin_event:025C",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "ちょっとたべすぎ？",
-   "en": ""
+   "en": "Ate Too Much?"
   },
   {
    "id": "system_textbin_event:0270",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "ほうこうオンチ",
-   "en": ""
+   "en": "Lost My Way"
   },
   {
    "id": "system_textbin_event:0280",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "こわいイヌ",
-   "en": ""
+   "en": "Scary Dog"
   },
   {
    "id": "system_textbin_event:028C",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "だいどうげいにん",
-   "en": ""
+   "en": "Street Performer"
   },
   {
    "id": "system_textbin_event:029E",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "イジワルなせんせい",
-   "en": ""
+   "en": "Mean Teacher"
   },
   {
    "id": "system_textbin_event:02B2",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "おとしあな",
-   "en": ""
+   "en": "Pitfall"
   },
   {
    "id": "system_textbin_event:02BE",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "おひるね",
-   "en": ""
+   "en": "Nap Time"
   },
   {
    "id": "system_textbin_event:02C8",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "しゅわしゅわ",
-   "en": ""
+   "en": "Fizzy Fizzy"
   },
   {
    "id": "system_textbin_event:02D6",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "水てっぽう",
-   "en": ""
+   "en": "Water Pistol"
   },
   {
    "id": "system_textbin_event:02E2",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "とおりあめ",
-   "en": ""
+   "en": "Passing Shower"
   },
   {
    "id": "system_textbin_event:02EE",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "ふきつなよかん",
-   "en": ""
+   "en": "Bad Feeling"
   },
   {
    "id": "system_textbin_event:02FE",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "アンニュイ",
-   "en": ""
+   "en": "Feeling Blue"
   },
   {
    "id": "system_textbin_event:030A",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "しんじゅレーダー",
-   "en": ""
+   "en": "Pearl Radar"
   },
   {
    "id": "system_textbin_event:031C",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "ふこうなできごと",
-   "en": ""
+   "en": "Misfortune"
   },
   {
    "id": "system_textbin_event:032E",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "ちかんにちゅうい",
-   "en": ""
+   "en": "Watch for Creeps"
   },
   {
    "id": "system_textbin_event:0340",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "カミナリ",
-   "en": ""
+   "en": "Lightning"
   },
   {
    "id": "system_textbin_event:034A",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "水妖のさくせん",
-   "en": ""
+   "en": "Water Demon Plot"
   },
   {
    "id": "system_textbin_event:035A",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "めぐりあわせ",
-   "en": ""
+   "en": "Twist of Fate"
   },
   {
    "id": "system_textbin_event:0368",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "バランス",
-   "en": ""
+   "en": "Balance"
   },
   {
    "id": "system_textbin_event:0372",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "うんめいのわ",
-   "en": ""
+   "en": "Wheel of Fate"
   },
   {
    "id": "system_textbin_event:0380",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "いたずらこぞう",
-   "en": ""
+   "en": "Little Prankster"
   },
   {
    "id": "system_textbin_event:0390",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "つまずく",
-   "en": ""
+   "en": "Stumble"
   },
   {
    "id": "system_textbin_event:039A",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "たちばなし",
-   "en": ""
+   "en": "Chitchat"
   },
   {
    "id": "system_textbin_event:03A6",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "でんちゅう",
-   "en": ""
+   "en": "Utility Pole"
   },
   {
    "id": "system_textbin_event:03B2",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "マンホール",
-   "en": ""
+   "en": "Manhole"
   },
   {
    "id": "system_textbin_event:03BE",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "しょうどうがい",
-   "en": ""
+   "en": "Impulse Buy"
   },
   {
    "id": "system_textbin_event:03CE",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "ドミノたおし",
-   "en": ""
+   "en": "Domino Effect"
   },
   {
    "id": "system_textbin_event:03DC",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "フードバトル！",
-   "en": ""
+   "en": "Food Battle!"
   },
   {
    "id": "system_textbin_event:03EC",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "トラップ",
-   "en": ""
+   "en": "Trap"
   },
   {
    "id": "system_textbin_event:03F6",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "ふこうのれんぞく",
-   "en": ""
+   "en": "Streak of Bad Luck"
   },
   {
    "id": "system_textbin_event:0408",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "パンドラのはこ",
-   "en": ""
+   "en": "Pandora's Box"
   },
   {
    "id": "system_textbin_event:0418",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "グルメショップ",
-   "en": ""
+   "en": "Gourmet Shop"
   },
   {
    "id": "system_textbin_event:0428",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "ふこうのほうそく",
-   "en": ""
+   "en": "Law of Misfortune"
   },
   {
    "id": "system_textbin_event:043A",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "まよいのこみち",
-   "en": ""
+   "en": "Maze of Alleys"
   },
   {
    "id": "system_textbin_event:044A",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "つうこうどめ",
-   "en": ""
+   "en": "Road Closed"
   },
   {
    "id": "system_textbin_event:0458",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "ペンキぬりたて",
-   "en": ""
+   "en": "Wet Paint"
   },
   {
    "id": "system_textbin_event:0468",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "わすれもの",
-   "en": ""
+   "en": "Forgot Something"
   },
   {
    "id": "system_textbin_event:0474",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "デス",
-   "en": ""
+   "en": "Death"
   },
   {
    "id": "system_textbin_event:047A",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "タワー",
-   "en": ""
+   "en": "The Tower"
   },
   {
    "id": "system_textbin_event:0482",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "ムーン",
-   "en": ""
+   "en": "The Moon"
   },
   {
    "id": "system_textbin_event:048A",
@@ -648,7 +648,7 @@
     80
    ],
    "jp": "ちんぼつせん",
-   "en": ""
+   "en": "Sunken Ship"
   },
   {
    "id": "system_textbin_event:0498",
@@ -656,7 +656,7 @@
     81
    ],
    "jp": "ガラスのこびん",
-   "en": ""
+   "en": "Glass Bottle"
   },
   {
    "id": "system_textbin_event:04A8",
@@ -664,7 +664,7 @@
     82
    ],
    "jp": "おさかなのたいぐん",
-   "en": ""
+   "en": "School of Fish"
   },
   {
    "id": "system_textbin_event:04BC",
@@ -672,7 +672,7 @@
     83
    ],
    "jp": "イルカにそうぐう",
-   "en": ""
+   "en": "Dolphin Encounter"
   },
   {
    "id": "system_textbin_event:04CE",
@@ -680,7 +680,7 @@
     84
    ],
    "jp": "たからものはっけん",
-   "en": ""
+   "en": "Treasure Found"
   },
   {
    "id": "system_textbin_event:04E2",
@@ -688,7 +688,7 @@
     85
    ],
    "jp": "すいりゅう",
-   "en": ""
+   "en": "Ocean Current"
   },
   {
    "id": "system_textbin_event:04EE",
@@ -696,7 +696,7 @@
     86
    ],
    "jp": "サメにみつかる",
-   "en": ""
+   "en": "Spotted by a Shark"
   },
   {
    "id": "system_textbin_event:04FE",
@@ -704,7 +704,7 @@
     87
    ],
    "jp": "うみでおとしもの",
-   "en": ""
+   "en": "Lost at Sea"
   },
   {
    "id": "system_textbin_event:0510",
@@ -712,7 +712,7 @@
     88
    ],
    "jp": "うみでアンニュイ",
-   "en": ""
+   "en": "Feeling Blue at Sea"
   },
   {
    "id": "system_textbin_event:0522",
@@ -720,7 +720,7 @@
     89
    ],
    "jp": "しょうとつじこ",
-   "en": ""
+   "en": "Collision"
   }
  ]
 }

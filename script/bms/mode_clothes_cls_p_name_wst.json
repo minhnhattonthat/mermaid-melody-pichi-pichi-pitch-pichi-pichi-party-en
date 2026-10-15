@@ -8,7 +8,7 @@
     0
    ],
    "jp": "フリルスカート",
-   "en": ""
+   "en": "Frilly Skirt"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:0010",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "チェックスカート",
-   "en": ""
+   "en": "Plaid Skirt"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:0022",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "ボックスプリーツ",
-   "en": ""
+   "en": "Box-Pleat Skirt"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:0034",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "フレア",
-   "en": ""
+   "en": "Flared Skirt"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:003C",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ミニスカート",
-   "en": ""
+   "en": "Miniskirt"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:004A",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "スリットミニ",
-   "en": ""
+   "en": "Slit Mini"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:0058",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "プリーツミニ",
-   "en": ""
+   "en": "Pleated Mini"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:0066",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "フリルミニ",
-   "en": ""
+   "en": "Frilly Mini"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:0072",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "レースミニ",
-   "en": ""
+   "en": "Lace Mini"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:007E",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "ふわふわミニ",
-   "en": ""
+   "en": "Fluffy Mini"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:008C",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "ブリーツロング",
-   "en": ""
+   "en": "Pleated Long"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:009C",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "ロングスカート",
-   "en": ""
+   "en": "Long Skirt"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:00AC",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "スリットロング",
-   "en": ""
+   "en": "Slit Long"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:00BC",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "フリルロング",
-   "en": ""
+   "en": "Frilly Long"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:00CA",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "ベルトロング",
-   "en": ""
+   "en": "Belted Long"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:00D8",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "カーゴパンツ",
-   "en": ""
+   "en": "Cargo Pants"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:00E6",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "ジーンズ",
-   "en": ""
+   "en": "Jeans"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:00F0",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "ハーフパンツ",
-   "en": ""
+   "en": "Knee Shorts"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:00FE",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "ホットパンツ",
-   "en": ""
+   "en": "Hot Pants"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:010C",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "デニムパンツ",
-   "en": ""
+   "en": "Denim Pants"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:011A",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "フリルタンパン",
-   "en": ""
+   "en": "Frilly Shorts"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:012A",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "だんしせいふく",
-   "en": ""
+   "en": "Boys' Uniform"
   },
   {
    "id": "mode_clothes_cls_p_name_wst:013A",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "じょしせいふく",
-   "en": ""
+   "en": "Girls' Uniform"
   }
  ]
 }

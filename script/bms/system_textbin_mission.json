@@ -8,7 +8,7 @@
     0
    ],
    "jp": "　　[FFB2]あいのともしび[FFB3]　　　",
-   "en": ""
+   "en": "\"The Light of Love\""
   },
   {
    "id": "system_textbin_mission:001E",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "　　[FFB2]こねこのねがい[FFB3]　　　",
-   "en": ""
+   "en": "\"A Kitten's Wish\""
   },
   {
    "id": "system_textbin_mission:003C",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "　　[FFB2]やさしいあめ[FFB3]　　　　",
-   "en": ""
+   "en": "\"Gentle Rain\""
   },
   {
    "id": "system_textbin_mission:005A",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "　　[FFB2]はなのおまじない[FFB3]　　",
-   "en": ""
+   "en": "\"Flower Charm\""
   },
   {
    "id": "system_textbin_mission:0078",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "　[FFB2]マーメイドのくのう[FFB3]　　",
-   "en": ""
+   "en": "\"A Mermaid's Troubles\""
   },
   {
    "id": "system_textbin_mission:0096",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "　[FFB2]まなつのマーメイド[FFB3]　　",
-   "en": ""
+   "en": "\"Midsummer Mermaid\""
   },
   {
    "id": "system_textbin_mission:00B4",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "　[FFB2]はじまらないさんびか[FFB3]　",
-   "en": ""
+   "en": "\"The Hymn That Won't Start\""
   },
   {
    "id": "system_textbin_mission:00D2",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "　　　[FFB2]なつのはな[FFB3]　　　　",
-   "en": ""
+   "en": "\"Summer Flowers\""
   },
   {
    "id": "system_textbin_mission:00F0",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "　　[FFB2]きもだめしのよる[FFB3]　　",
-   "en": ""
+   "en": "\"Night of Courage\""
   },
   {
    "id": "system_textbin_mission:010E",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "　　[FFB2]ヒッポのひみつ[FFB3]　　　",
-   "en": ""
+   "en": "\"Hippo's Secret\""
   },
   {
    "id": "system_textbin_mission:012C",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "　[FFB2]おかしのプレゼント[FFB3]　　",
-   "en": ""
+   "en": "\"A Gift of Sweets\""
   },
   {
    "id": "system_textbin_mission:014A",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "　[FFB2]やさしいてりょうり[FFB3]　　",
-   "en": ""
+   "en": "\"Cooked with Love\""
   },
   {
    "id": "system_textbin_mission:0168",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "　　[FFB2]いぬのおさんぽ[FFB3]　　　",
-   "en": ""
+   "en": "\"Walking the Dogs\""
   },
   {
    "id": "system_textbin_mission:0186",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "　[FFB2]みわくのメロディー[FFB3]　　",
-   "en": ""
+   "en": "\"Enchanting Melody\""
   },
   {
    "id": "system_textbin_mission:01A4",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "　[FFB2]パジャマパーティー[FFB3]　　",
-   "en": ""
+   "en": "\"Pajama Party\""
   },
   {
    "id": "system_textbin_mission:01C2",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "　　[FFB2]ひめられたじかん[FFB3]　　",
-   "en": ""
+   "en": "\"Secret Time\""
   },
   {
    "id": "system_textbin_mission:01E0",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "　　[FFB2]はなのいろどり[FFB3]　　　",
-   "en": ""
+   "en": "\"Colors of Flowers\""
   },
   {
    "id": "system_textbin_mission:01FE",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "　[FFB2]ぬすまれたたからもの[FFB3]　",
-   "en": ""
+   "en": "\"The Stolen Treasure\""
   },
   {
    "id": "system_textbin_mission:021C",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "　　[FFB2]やさしいうたごえ[FFB3]　　",
-   "en": ""
+   "en": "\"A Gentle Song\""
   },
   {
    "id": "system_textbin_mission:023A",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "　　[FFB2]ゆきへのねがい[FFB3]　　　",
-   "en": ""
+   "en": "\"A Wish for Snow\""
   },
   {
    "id": "system_textbin_mission:0258",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "　　[FFB2]ミスコンバトル！[FFB3]　　",
-   "en": ""
+   "en": "\"Beauty Contest Battle!\""
   },
   {
    "id": "system_textbin_mission:0276",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "　　[FFB2]かきとめたきおく[FFB3]　　",
-   "en": ""
+   "en": "\"Written Memories\""
   },
   {
    "id": "system_textbin_mission:0294",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "　　[FFB2]こいのじゃまもの[FFB3]　　",
-   "en": ""
+   "en": "\"Love's Obstacle\""
   },
   {
    "id": "system_textbin_mission:02B2",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "　　[FFB2]あいのかけあし[FFB3]　　　",
-   "en": ""
+   "en": "\"Love on the Run\""
   },
   {
    "id": "system_textbin_mission:02D0",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "[FFB2]ほのおのちょうせんじょう[FFB3]",
-   "en": ""
+   "en": "\"A Fiery Challenge\""
   },
   {
    "id": "system_textbin_mission:02EE",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "　　[FFB2]きえたペンギン[FFB3]　　　",
-   "en": ""
+   "en": "\"The Vanished Penguin\""
   },
   {
    "id": "system_textbin_mission:030C",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "　[FFB2]ロミオとジュリエット[FFB3]　",
-   "en": ""
+   "en": "\"Romeo and Juliet\""
   },
   {
    "id": "system_textbin_mission:032A",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "　　[FFB2]たなばたのおもい[FFB3]　　",
-   "en": ""
+   "en": "\"Tanabata Wishes\""
   },
   {
    "id": "system_textbin_mission:0348",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "　　[FFB2]ひみつのてがみ[FFB3]　　　",
-   "en": ""
+   "en": "\"The Secret Letter\""
   },
   {
    "id": "system_textbin_mission:0366",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "　[FFB2]バレンタインのぎしき[FFB3]　",
-   "en": ""
+   "en": "\"The Valentine Ritual\""
   },
   {
    "id": "system_textbin_mission:0384",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "　　[FFB2]ガイトふっかつ[FFB3]　　　",
-   "en": ""
+   "en": "\"Gaito Returns\""
   },
   {
    "id": "system_textbin_mission:03A2",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "　　[FFB2]さいごのしとう[FFB3]　　　",
-   "en": ""
+   "en": "\"The Final Battle\""
   },
   {
    "id": "system_textbin_mission:03C0",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "　　　[FFB2]れんしゅう[FFB3]　　　　",
-   "en": ""
+   "en": "\"Practice\""
   }
  ]
 }

@@ -8,7 +8,7 @@
     0
    ],
    "jp": "きらきらミュール",
-   "en": ""
+   "en": "Sparkly Mules"
   },
   {
    "id": "mode_clothes_cls_p_name_reg:0012",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "ハイヒール",
-   "en": ""
+   "en": "High Heels"
   },
   {
    "id": "mode_clothes_cls_p_name_reg:001E",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "ビーチサンダル",
-   "en": ""
+   "en": "Flip-Flops"
   },
   {
    "id": "mode_clothes_cls_p_name_reg:002E",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "スニーカー",
-   "en": ""
+   "en": "Sneakers"
   },
   {
    "id": "mode_clothes_cls_p_name_reg:003A",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "ロングブーツ",
-   "en": ""
+   "en": "Long Boots"
   }
  ]
 }

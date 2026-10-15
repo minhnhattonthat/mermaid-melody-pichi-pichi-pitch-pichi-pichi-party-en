@@ -8,7 +8,7 @@
     0
    ],
    "jp": "ねえねえ{h }しってる？　きょうは\n年に{h }いちどの{h }おおひきしおの日",
-   "en": ""
+   "en": "Hey, hey, did you know? Today is\nthe year's biggest low tide!"
   },
   {
    "id": "event_ev000000:0042",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "すきな人の\nなまえをほった{h }ロウソクを‥‥",
-   "en": ""
+   "en": "If you carve the name of the one\nyou love into a candle..."
   },
   {
    "id": "event_ev000000:006E",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "にんぎょでんせつの{h }どうくつで\nともすとね‥‥",
-   "en": ""
+   "en": "and light it in the cave\nof the mermaid legend..."
   },
   {
    "id": "event_ev000000:009E",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "すきだって{h }おもいが\nあいてに{h }とどくんだって☆",
-   "en": ""
+   "en": "your feelings will reach\nthat person! ☆"
   },
   {
    "id": "event_ev000000:00D0",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "えーっ　ホントにぃ！？\nほんとうに{h }そんなことってあるの？",
-   "en": ""
+   "en": "Whaaat? Seriously?!\nDoes that really happen?"
   },
   {
    "id": "event_ev000000:010C",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "じつは{h }わたしも{h }きいたことがある\nあいのにんぎょでんせつ{h }だそうだ",
-   "en": ""
+   "en": "Actually, I've heard of it too.\nThey call it the Mermaid Legend of Love."
   },
   {
    "id": "event_ev000000:0152",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "だったら　学校がおわったら\nロウソクを{h }ともしにいこうよ！",
-   "en": ""
+   "en": "Then let's go light candles\nafter school's over!"
   },
   {
    "id": "event_ev000000:018E",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "そんなでんせつを{h }しんじるだなんて\nるちあも{h }まだまだ{h }子どもだなぁ",
-   "en": ""
+   "en": "Believing a legend like that?\nYou're still such a kid, Lucia."
   },
   {
    "id": "event_ev000000:01D4",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "う〜‥‥　海斗の{h }いじわるぅ！",
-   "en": ""
+   "en": "Hmph... Kaito, you meanie!"
   },
   {
    "id": "event_ev000000:01F4",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "いいもん　ほうかごになったら\nみんなで{h }どうくつへ{h }いこっ！",
-   "en": ""
+   "en": "Fine! After school,\nlet's all go to the cave!"
   },
   {
    "id": "event_ev000000:0232",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "ロウソクに火を{h }ともすには\nライターが{h }ひつようだよね！",
-   "en": ""
+   "en": "To light the candle,\nI'll need a lighter!"
   },
   {
    "id": "event_ev000000:026C",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "ライターは‥‥\nコンビニに{h }うってるかな",
-   "en": ""
+   "en": "A lighter...\nDo they sell them at the convenience store?"
   },
   {
    "id": "event_ev000000:0296",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "ライターを{h }かいに\nコンビニへ{h }いこう！",
-   "en": ""
+   "en": "Let's go to the convenience store\nand buy a lighter!"
   },
   {
    "id": "event_ev000000:02C0",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "ロウソクを{h }ともすためには\nライターが{h }いるよね",
-   "en": ""
+   "en": "To light the candle,\nI'll need a lighter."
   },
   {
    "id": "event_ev000000:02F2",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "どうくつは{h }くらいから\nかいちゅうでんとうが{h }いるよね",
-   "en": ""
+   "en": "The cave will be dark,\nso we'll need a flashlight."
   },
   {
    "id": "event_ev000000:032A",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "かいちゅうでんとうは‥‥\nでんきやさんに{h }あるよね",
-   "en": ""
+   "en": "A flashlight...\nThe electronics store should have one."
   },
   {
    "id": "event_ev000000:035E",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "かいちゅうでんとうを{h }かいに\nでんきやさんへ{h }いこう",
-   "en": ""
+   "en": "Let's go to the electronics store\nand buy a flashlight."
   },
   {
    "id": "event_ev000000:0394",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "どうくつの中に{h }いくなら\nかいちゅうでんとうは{h }いるよね",
-   "en": ""
+   "en": "If we're going into the cave,\nwe'll need a flashlight."
   },
   {
    "id": "event_ev000000:03CE",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "おまじないようの{h }ロウソクなら",
-   "en": ""
+   "en": "For a candle meant for a charm..."
   },
   {
    "id": "event_ev000000:03EE",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "じんじゃで{h }うってるのが\nいいんだろうな",
-   "en": ""
+   "en": "one from the shrine\nwould be best, I'd think."
   },
   {
    "id": "event_ev000000:0418",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "ロウソクは‥‥じんじゃで{h }かうか",
-   "en": ""
+   "en": "The candle... I'll buy it at the shrine."
   },
   {
    "id": "event_ev000000:043A",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "ロウソクを{h }かいに{h }\nじんじゃへ{h }いこう",
-   "en": ""
+   "en": "Let's go to the shrine\nand buy a candle."
   },
   {
    "id": "event_ev000000:0464",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "じんじゃの{h }ロウソクなら\nきっと{h }こうかが{h }ありそうだよな",
-   "en": ""
+   "en": "A candle from the shrine\nis sure to work."
   },
   {
    "id": "event_ev000000:04A0",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "すみませーん　ライターくださーい！",
-   "en": ""
+   "en": "Excuse me! One lighter, please!"
   },
   {
    "id": "event_ev000000:04C4",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "よーし‥‥おかいものも{h }すんだし",
-   "en": ""
+   "en": "All right... I'm done shopping."
   },
   {
    "id": "event_ev000000:04E6",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "にんぎょでんせつの{h }どうくつへ\nいかなくっちゃ！",
-   "en": ""
+   "en": "Now I have to go to\nthe cave of the mermaid legend!"
   },
   {
    "id": "event_ev000000:0518",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "いそがないと　しおが{h }みちて\nみちが{h }なくなっちゃうもんね",
-   "en": ""
+   "en": "If I don't hurry, the tide will\ncome in and the path will be gone!"
   },
   {
    "id": "event_ev000000:0554",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "すみませーん\nかいちゅうでんとうを{h }くださーい！",
-   "en": ""
+   "en": "Excuse me!\nA flashlight, please!"
   },
   {
    "id": "event_ev000000:0586",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "さぁて{h }にんぎょでんせつの\nどうくつに{h }いかなくっちゃ！",
-   "en": ""
+   "en": "Okay, now I have to go to\nthe cave of the mermaid legend!"
   },
   {
    "id": "event_ev000000:05C0",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "いそがないと{h }しおが{h }みちて\nあるいて{h }いけなくなっちゃうしね",
-   "en": ""
+   "en": "If I don't hurry, the tide will come\nin and I won't be able to walk there!"
   },
   {
    "id": "event_ev000000:0600",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "あの‥‥ロウソクをください",
-   "en": ""
+   "en": "Um... A candle, please."
   },
   {
    "id": "event_ev000000:061C",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "よし　そろそろ{h }いかないとな\nにんぎょでんせつの{h }どうくつに",
-   "en": ""
+   "en": "Right, time to head out\nto the cave of the mermaid legend."
   },
   {
    "id": "event_ev000000:065A",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "いそがないと　あるいて{h }どうくつに\nいけなくなるかもしれないからな",
-   "en": ""
+   "en": "If I don't hurry, I might not be\nable to walk to the cave anymore."
   },
   {
    "id": "event_ev000000:069E",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "にんぎょでんせつの{h }どうくつへ\nいそがなくっちゃ！",
-   "en": ""
+   "en": "I have to hurry to the cave\nof the mermaid legend!"
   },
   {
    "id": "event_ev000000:06D2",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "にんぎょでんせつの{h }どうくつに\nいかなくっちゃ！",
-   "en": ""
+   "en": "I have to get to the cave\nof the mermaid legend!"
   },
   {
    "id": "event_ev000000:0704",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "いそがないと　しおが{h }みちて\nどうくつへ{h }いけなくなっちゃう‥‥",
-   "en": ""
+   "en": "If I don't hurry, the tide will come\nin and I won't reach the cave..."
   },
   {
    "id": "event_ev000000:0746",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "にんぎょでんせつの{h }どうくつかぁ\nなんだか{h }ねがいが{h }かないそう！！",
-   "en": ""
+   "en": "The cave of the mermaid legend...\nI feel like my wish will come true!!"
   },
   {
    "id": "event_ev000000:078C",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "にんぎょでんせつの{h }どうくつへ\nいそがないとねっ！",
-   "en": ""
+   "en": "I'd better hurry to the cave\nof the mermaid legend!"
   },
   {
    "id": "event_ev000000:07C0",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "早く{h }にんぎょでんせつの{h }どうくつへ\nいかないとね！",
-   "en": ""
+   "en": "I have to get to the cave\nof the mermaid legend, quick!"
   },
   {
    "id": "event_ev000000:07F6",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "早く{h }いかないと　しおが{h }みちて\nあるいて{h }いけなくなっちゃう！",
-   "en": ""
+   "en": "If I'm not quick, the tide will come\nin and I won't be able to walk there!"
   },
   {
    "id": "event_ev000000:0838",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "にんぎょでんせつの{h }どうくつ‥‥\nう〜ん　ロマンチック！！",
-   "en": ""
+   "en": "The cave of the mermaid legend...\nMmm, how romantic!!"
   },
   {
    "id": "event_ev000000:0874",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "にんぎょでんせつの{h }どうくつへ\nいそがないとな‥‥",
-   "en": ""
+   "en": "I'd better hurry to the cave\nof the mermaid legend..."
   },
   {
    "id": "event_ev000000:08A8",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "早く{h }にんぎょでんせつの{h }どうくつへ\nいかないと‥‥みんなが{h }まってる",
-   "en": ""
+   "en": "I need to get to the cave of the\nlegend, quick... Everyone's waiting."
   },
   {
    "id": "event_ev000000:08F0",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "いそがないと　しおが{h }みちて\nあるいて{h }どうくつへは{h }いけなくなる",
-   "en": ""
+   "en": "If I don't hurry, the tide will rise\nand I won't be able to walk to the cave."
   },
   {
    "id": "event_ev000000:0934",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "にんぎょでんせつの{h }どうくつか‥‥\nなんだか{h }しんぴてきだな",
-   "en": ""
+   "en": "The cave of the mermaid legend...\nIt does feel mysterious."
   },
   {
    "id": "event_ev000000:0972",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "うわぁ　こんなに{h }たくさんの\nロウソクの火が{h }あるよ‥‥",
-   "en": ""
+   "en": "Wow, there are so many\ncandles burning..."
   },
   {
    "id": "event_ev000000:09AC",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "やっぱり　みんなも\nともしに{h }きてるんだね〜",
-   "en": ""
+   "en": "So everyone else came\nto light one too!"
   },
   {
    "id": "event_ev000000:09DA",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "早く{h }ロウソクに{h }なまえを{h }ほって\nおもいを{h }つたえなきゃ‥‥",
-   "en": ""
+   "en": "I have to carve a name on my candle\nquick and send my feelings..."
   },
   {
    "id": "event_ev000000:0A1A",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "（ビューーーーッ！！）",
-   "en": ""
+   "en": "(WHOOOOOSH!!)"
   },
   {
    "id": "event_ev000000:0A32",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "きゃっ　つめたいかぜ！",
-   "en": ""
+   "en": "Eek! What a cold wind!"
   },
   {
    "id": "event_ev000000:0A4A",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "これじゃあ　みんなの\nロウソクの{h }火が{h }きえちゃう！",
-   "en": ""
+   "en": "At this rate, everyone's\ncandles will go out!"
   },
   {
    "id": "event_ev000000:0A80",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "だいじょうぶだ　オレに{h }まかせろ！",
-   "en": ""
+   "en": "It's okay, leave it to me!"
   },
   {
    "id": "event_ev000000:0AA4",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "このかぜ{h }ふつうじゃない！\nるちあ　おまえは早くにげるんだ！！",
-   "en": ""
+   "en": "This wind isn't normal!\nLucia, get out of here, quick!!"
   },
   {
    "id": "event_ev000000:0AE4",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "ああーっ　海斗っ！\nなんでここに！！",
-   "en": ""
+   "en": "Ahhh, Kaito!\nWhat are you doing here?!"
   },
   {
    "id": "event_ev000000:0B0A",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "るちあが{h }ロウソクに{h }だれのなまえを\nほったのかが{h }気になってさ‥‥",
-   "en": ""
+   "en": "I just wanted to know whose name\nyou carved on your candle..."
   },
   {
    "id": "event_ev000000:0B50",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "しかし‥‥　くそ‥‥こいつは‥‥\nちょっと{h }さむすぎるな‥‥",
-   "en": ""
+   "en": "But... Darn... This is...\nway too cold..."
   },
   {
    "id": "event_ev000000:0B8E",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "（ドサッ！！）",
-   "en": ""
+   "en": "(THUD!!)"
   },
   {
    "id": "event_ev000000:0B9E",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "ああーっ！\n海斗が　たおれちゃった！！",
-   "en": ""
+   "en": "Oh no!\nKaito collapsed!!"
   },
   {
    "id": "event_ev000000:0BC6",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "これは‥‥\nひょっとして水妖のせい！？",
-   "en": ""
+   "en": "Could this be...\nthe work of a water demon?!"
   },
   {
    "id": "event_ev000000:0BEE",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "あいのにんぎょでんせつ{h }ですって？\nウフフ‥おバカさんね",
-   "en": ""
+   "en": "The Mermaid Legend of Love, you say?\nHehehe... How foolish."
   },
   {
    "id": "event_ev000000:0C28",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "かなわぬこいを{h }ねがうだなんて\nおろかしいだけ‥‥",
-   "en": ""
+   "en": "Wishing for a love that can't\ncome true is just silly..."
   },
   {
    "id": "event_ev000000:0C5C",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "きえてしまいなさい‥‥\nにんぎょのでんせつと{h }ともに",
-   "en": ""
+   "en": "Disappear... along with\nyour mermaid legend."
   },
   {
    "id": "event_ev000000:0C92",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "このかぜは{h }あの水妖のせいね！",
-   "en": ""
+   "en": "This wind is that water demon's doing!"
   },
   {
    "id": "event_ev000000:0CB2",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "こいするきもちを{h }わらうだなんて\nもう　ゆるさないんだからぁ！",
-   "en": ""
+   "en": "Laughing at people in love?\nI won't forgive you!"
   },
   {
    "id": "event_ev000000:0CF2",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "うわぁ　こんなに{h }たくさんの\nロウソクの火が‥‥",
-   "en": ""
+   "en": "Wow, there are so many\ncandles burning..."
   },
   {
    "id": "event_ev000000:0D24",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "やっぱり{h }みんなも\nともしに{h }きてるのね〜",
-   "en": ""
+   "en": "So everyone else came\nto light one too!"
   },
   {
    "id": "event_ev000000:0D50",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "わたしも{h }ロウソクに{h }ほらなくちゃ\n太郎ちゃんと{h }わたしの{h }なまえをね！",
-   "en": ""
+   "en": "I have to carve mine too:\nTaro's name and mine!"
   },
   {
    "id": "event_ev000000:0D9A",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "（ビューーーーッ！！）",
-   "en": ""
+   "en": "(WHOOOOOSH!!)"
   },
   {
    "id": "event_ev000000:0DB2",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "あんっ　つめたいかぜ！　これじゃあ\nロウソクの{h }火が{h }きえちゃう！",
-   "en": ""
+   "en": "Ah! What a cold wind! At this rate,\nthe candles will go out!"
   },
   {
    "id": "event_ev000000:0DF6",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "だいじょうぶだ　オレにまかせろ！",
-   "en": ""
+   "en": "It's okay, leave it to me!"
   },
   {
    "id": "event_ev000000:0E18",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "このかぜ{h }ふつうじゃない！\n宝生は早く{h }にげるんだっ！！",
-   "en": ""
+   "en": "This wind isn't normal!\nHosho, get out of here, quick!!"
   },
   {
    "id": "event_ev000000:0E52",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "ああーっ　海斗くんっ！\nなんで{h }ここに！！",
-   "en": ""
+   "en": "Ahhh, Kaito!\nWhat are you doing here?!"
   },
   {
    "id": "event_ev000000:0E7E",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "るちあが{h }ロウソクに{h }だれのなまえを\nほったのかが{h }気になってさ‥‥",
-   "en": ""
+   "en": "I just wanted to know whose name\nyou carved on your candle..."
   },
   {
    "id": "event_ev000000:0EC4",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "けど‥‥こいつは‥‥\nちょっと{h }さむすぎるな‥‥",
-   "en": ""
+   "en": "But... this is...\nway too cold..."
   },
   {
    "id": "event_ev000000:0EF6",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "（ドサッ！！）",
-   "en": ""
+   "en": "(THUD!!)"
   },
   {
    "id": "event_ev000000:0F06",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "きゃっ　海斗くん　たおれちゃった！\nしっかりして！！",
-   "en": ""
+   "en": "Eek! Kaito collapsed!\nHang in there!!"
   },
   {
    "id": "event_ev000000:0F3C",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "これは‥‥\nひょっとして水妖のせい！？",
-   "en": ""
+   "en": "Could this be...\nthe work of a water demon?!"
   },
   {
    "id": "event_ev000000:0F64",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "あいのにんぎょでんせつ{h }ですって？\nウフフ‥おバカさんね",
-   "en": ""
+   "en": "The Mermaid Legend of Love, you say?\nHehehe... How foolish."
   },
   {
    "id": "event_ev000000:0F9E",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "かなわぬこいを{h }ねがうだなんて\nおろかしいだけ‥‥",
-   "en": ""
+   "en": "Wishing for a love that can't\ncome true is just silly..."
   },
   {
    "id": "event_ev000000:0FD2",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "きえてしまいなさい‥‥\nにんぎょのでんせつと{h }ともに",
-   "en": ""
+   "en": "Disappear... along with\nyour mermaid legend."
   },
   {
    "id": "event_ev000000:1008",
@@ -648,7 +648,7 @@
     80
    ],
    "jp": "やっぱり水妖のせいだったのね！",
-   "en": ""
+   "en": "I knew it was a water demon!"
   },
   {
    "id": "event_ev000000:1028",
@@ -656,7 +656,7 @@
     81
    ],
    "jp": "こいするきもちを{h }わらうだなんて\nゆるさないわよ！",
-   "en": ""
+   "en": "Laughing at people in love?\nI won't forgive you!"
   },
   {
    "id": "event_ev000000:105C",
@@ -664,7 +664,7 @@
     82
    ],
    "jp": "こんなに{h }たくさんの\nロウソクの火が‥‥",
-   "en": ""
+   "en": "So many\ncandles burning..."
   },
   {
    "id": "event_ev000000:1086",
@@ -672,7 +672,7 @@
     83
    ],
    "jp": "けっこう　みんなも{h }\nともしに{h }きてるんだな‥‥",
-   "en": ""
+   "en": "Quite a few people\ncame to light one, huh..."
   },
   {
    "id": "event_ev000000:10B8",
@@ -680,7 +680,7 @@
     84
    ],
    "jp": "（ビューーーーッ！！）",
-   "en": ""
+   "en": "(WHOOOOOSH!!)"
   },
   {
    "id": "event_ev000000:10D0",
@@ -688,7 +688,7 @@
     85
    ],
    "jp": "なんだ　この{h }つめたいかぜは‥‥",
-   "en": ""
+   "en": "What is this cold wind..."
   },
   {
    "id": "event_ev000000:10F2",
@@ -696,7 +696,7 @@
     86
    ],
    "jp": "これじゃあ　みんなの\nロウソクの火が{h }きえてしまう！",
-   "en": ""
+   "en": "At this rate, everyone's\ncandles will go out!"
   },
   {
    "id": "event_ev000000:1128",
@@ -704,7 +704,7 @@
     87
    ],
    "jp": "だいじょうぶだ　オレに{h }まかせろ！",
-   "en": ""
+   "en": "It's okay, leave it to me!"
   },
   {
    "id": "event_ev000000:114C",
@@ -712,7 +712,7 @@
     88
    ],
    "jp": "このかぜ{h }ふつうじゃない！\n洞院は早く{h }にげるんだっ！！",
-   "en": ""
+   "en": "This wind isn't normal!\nToin, get out of here, quick!!"
   },
   {
    "id": "event_ev000000:1186",
@@ -720,7 +720,7 @@
     89
    ],
    "jp": "海斗っ！\nなんで{h }おまえが{h }ここにっ！！",
-   "en": ""
+   "en": "Kaito!\nWhat are you doing here?!"
   },
   {
    "id": "event_ev000000:11B0",
@@ -728,7 +728,7 @@
     90
    ],
    "jp": "るちあが{h }ロウソクに{h }だれのなまえを\nほったのかが{h }気になってさ‥‥",
-   "en": ""
+   "en": "I just wanted to know whose name\nyou carved on your candle..."
   },
   {
    "id": "event_ev000000:11F6",
@@ -736,7 +736,7 @@
     91
    ],
    "jp": "けど‥‥こいつは‥‥\nちょっと{h }さむすぎるな‥‥",
-   "en": ""
+   "en": "But... this is...\nway too cold..."
   },
   {
    "id": "event_ev000000:1228",
@@ -744,7 +744,7 @@
     92
    ],
    "jp": "（ドサッ！！）",
-   "en": ""
+   "en": "(THUD!!)"
   },
   {
    "id": "event_ev000000:1238",
@@ -752,7 +752,7 @@
     93
    ],
    "jp": "海斗っ！　だいじょうぶか！？",
-   "en": ""
+   "en": "Kaito! Are you all right?!"
   },
   {
    "id": "event_ev000000:1256",
@@ -760,7 +760,7 @@
     94
    ],
    "jp": "これは‥‥\nひょっとして水妖のせいか！？",
-   "en": ""
+   "en": "Could this be...\nthe work of a water demon?!"
   },
   {
    "id": "event_ev000000:1280",
@@ -768,7 +768,7 @@
     95
    ],
    "jp": "あいのにんぎょでんせつ{h }ですって？\nウフフ‥おバカさんね",
-   "en": ""
+   "en": "The Mermaid Legend of Love, you say?\nHehehe... How foolish."
   },
   {
    "id": "event_ev000000:12BA",
@@ -776,7 +776,7 @@
     96
    ],
    "jp": "かなわぬこいを{h }ねがうだなんて\nおろかしいだけ‥‥",
-   "en": ""
+   "en": "Wishing for a love that can't\ncome true is just silly..."
   },
   {
    "id": "event_ev000000:12EE",
@@ -784,7 +784,7 @@
     97
    ],
    "jp": "きえてしまいなさい‥‥\nにんぎょのでんせつと{h }ともに",
-   "en": ""
+   "en": "Disappear... along with\nyour mermaid legend."
   },
   {
    "id": "event_ev000000:1324",
@@ -792,7 +792,7 @@
     98
    ],
    "jp": "やはり水妖のしわざか！",
-   "en": ""
+   "en": "So it was a water demon after all!"
   },
   {
    "id": "event_ev000000:133C",
@@ -800,7 +800,7 @@
     99
    ],
    "jp": "みんなのきもちを{h }わらうとは‥\nゆるさないぞ　水妖！",
-   "en": ""
+   "en": "Laughing at everyone's feelings...\nI won't forgive you, water demon!"
   },
   {
    "id": "event_ev000000:1372",
@@ -808,7 +808,7 @@
     100
    ],
    "jp": "‥‥海斗　‥‥海斗っ！",
-   "en": ""
+   "en": "...Kaito... Kaito!"
   },
   {
    "id": "event_ev000000:138A",
@@ -816,7 +816,7 @@
     101
    ],
    "jp": "う　うう‥‥るちあ‥‥",
-   "en": ""
+   "en": "Ugh... uhh... Lucia..."
   },
   {
    "id": "event_ev000000:13A2",
@@ -824,7 +824,7 @@
     102
    ],
    "jp": "よかったぁ‥‥\n海斗が{h }目を{h }さましたぁ‥‥",
-   "en": ""
+   "en": "Thank goodness...\nKaito's awake..."
   },
   {
    "id": "event_ev000000:13D0",
@@ -832,7 +832,7 @@
     103
    ],
    "jp": "るちあ‥‥ロウソクの{h }火は？",
-   "en": ""
+   "en": "Lucia... What about the candles?"
   },
   {
    "id": "event_ev000000:13EE",
@@ -840,7 +840,7 @@
     104
    ],
    "jp": "だいじょうぶだよ\nちゃんと{h }どれも{h }ともってるから！",
-   "en": ""
+   "en": "It's okay.\nEvery one of them is still lit!"
   },
   {
    "id": "event_ev000000:1424",
@@ -848,7 +848,7 @@
     105
    ],
    "jp": "そうか　よかった‥‥",
-   "en": ""
+   "en": "I see. Good..."
   },
   {
    "id": "event_ev000000:143A",
@@ -856,7 +856,7 @@
     106
    ],
    "jp": "なぁ{h }るちあ　おまえは{h }ロウソクに\nだれの{h }なまえを{h }ほったんだ？",
-   "en": ""
+   "en": "Hey, Lucia... Whose name\ndid you carve on your candle?"
   },
   {
    "id": "event_ev000000:147E",
@@ -864,7 +864,7 @@
     107
    ],
    "jp": "えっ！　そ　それは‥‥",
-   "en": ""
+   "en": "Huh?! W-Well, that's..."
   },
   {
    "id": "event_ev000000:1496",
@@ -872,7 +872,7 @@
     108
    ],
    "jp": "いいにくいなら{h }いわなくていいぜ",
-   "en": ""
+   "en": "If it's hard to say, you don't have to."
   },
   {
    "id": "event_ev000000:14B8",
@@ -880,7 +880,7 @@
     109
    ],
    "jp": "う　うん‥‥",
-   "en": ""
+   "en": "O-Okay..."
   },
   {
    "id": "event_ev000000:14C6",
@@ -888,7 +888,7 @@
     110
    ],
    "jp": "そうだよな　‥‥やっぱり\nはずかしいよな",
-   "en": ""
+   "en": "Yeah... I guess it'd be\nembarrassing, after all."
   },
   {
    "id": "event_ev000000:14F0",
@@ -896,7 +896,7 @@
     111
    ],
    "jp": "う　うん‥‥",
-   "en": ""
+   "en": "O-Okay..."
   },
   {
    "id": "event_ev000000:14FE",
@@ -904,7 +904,7 @@
     112
    ],
    "jp": "（あーん　いいたいけど\nはずかしくって　いえないよ〜）",
-   "en": ""
+   "en": "(Waaah, I want to tell him, but\nit's too embarrassing to say!)"
   },
   {
    "id": "event_ev000000:1536",
@@ -912,7 +912,7 @@
     113
    ],
    "jp": "うふふふふ‥‥",
-   "en": ""
+   "en": "Hehehehe..."
   },
   {
    "id": "event_ev000000:1546",
@@ -920,7 +920,7 @@
     114
    ],
    "jp": "なんだか　ごきげんだね{h }波音",
-   "en": ""
+   "en": "You're in a good mood, Hanon."
   },
   {
    "id": "event_ev000000:1564",
@@ -928,7 +928,7 @@
     115
    ],
    "jp": "うん　海斗くんの{h }おかげで\nちゃんと火を{h }ともせたもんね",
-   "en": ""
+   "en": "Yep! Thanks to Kaito,\nI got to light my candle!"
   },
   {
    "id": "event_ev000000:159E",
@@ -936,7 +936,7 @@
     116
    ],
    "jp": "太郎ちゃんと{h }わたしのなまえを\nしっかりとほった{h }ロウソクにねっ！",
-   "en": ""
+   "en": "The one I carved with\nTaro's name and mine!"
   },
   {
    "id": "event_ev000000:15E2",
@@ -944,7 +944,7 @@
     117
    ],
    "jp": "海斗も{h }ぶじだったし\nよかったよね！",
-   "en": ""
+   "en": "And Kaito's okay too,\nso it all worked out!"
   },
   {
    "id": "event_ev000000:1608",
@@ -952,7 +952,7 @@
     118
    ],
    "jp": "これでもう　わたしと{h }太郎ちゃん\nラブラブカップルだもーん！",
-   "en": ""
+   "en": "Now Taro and I are\na lovey-dovey couple!"
   },
   {
    "id": "event_ev000000:1646",
@@ -960,7 +960,7 @@
     119
    ],
    "jp": "いや　波音‥‥そうと\nきまったわけじゃあ‥‥",
-   "en": ""
+   "en": "Hanon... I don't think\nthat's been decided..."
   },
   {
    "id": "event_ev000000:1674",
@@ -968,7 +968,7 @@
     120
    ],
    "jp": "そして{h }いつか太郎ちゃんと‥‥",
-   "en": ""
+   "en": "And someday, Taro and I..."
   },
   {
    "id": "event_ev000000:1694",
@@ -976,7 +976,7 @@
     121
    ],
    "jp": "（太郎ちゃ〜〜〜ん☆）",
-   "en": ""
+   "en": "(Taaarooo! ☆)"
   },
   {
    "id": "event_ev000000:16AC",
@@ -984,7 +984,7 @@
     122
    ],
    "jp": "わたしの{h }このおもい‥‥\n太郎ちゃんに{h }とーどけっ！",
-   "en": ""
+   "en": "These feelings of mine...\nReach Taro!"
   },
   {
    "id": "event_ev000000:16E2",
@@ -992,7 +992,7 @@
     123
    ],
    "jp": "あはは　波音ったら\nまるで{h }きいてないし",
-   "en": ""
+   "en": "Ahaha, Hanon's not\nlistening at all."
   },
   {
    "id": "event_ev000000:170C",
@@ -1000,7 +1000,7 @@
     124
    ],
    "jp": "ふぅ　なんとか水妖を\nおいはらったぞ‥‥",
-   "en": ""
+   "en": "Phew. We managed to drive\nthe water demon away..."
   },
   {
    "id": "event_ev000000:1736",
@@ -1008,7 +1008,7 @@
     125
    ],
    "jp": "ロウソクも{h }まもれて{h }よかったよね",
-   "en": ""
+   "en": "And we protected the candles too!"
   },
   {
    "id": "event_ev000000:175A",
@@ -1016,7 +1016,7 @@
     126
    ],
    "jp": "海斗が{h }からだを{h }はって　ロウソクを\nまもってくれた{h }おかげだよ",
-   "en": ""
+   "en": "It's because Kaito put himself\non the line to protect them."
   },
   {
    "id": "event_ev000000:179C",
@@ -1024,7 +1024,7 @@
     127
    ],
    "jp": "ああ　そうだな‥‥",
-   "en": ""
+   "en": "Yeah, that's true..."
   },
   {
    "id": "event_ev000000:17B0",
@@ -1032,7 +1032,7 @@
     128
    ],
    "jp": "ところで　海斗は\nもう目を{h }さましたのか？",
-   "en": ""
+   "en": "By the way, is Kaito\nawake yet?"
   },
   {
    "id": "event_ev000000:17DC",
@@ -1040,7 +1040,7 @@
     129
    ],
    "jp": "そろそろ　目を{h }さますんじゃない？",
-   "en": ""
+   "en": "He should wake up soon, right?"
   },
   {
    "id": "event_ev000000:1800",
@@ -1048,7 +1048,7 @@
     130
    ],
    "jp": "うん　そうだね\nわたし　海斗のようす{h }見てくるっ！",
-   "en": ""
+   "en": "Yeah, probably.\nI'm going to go check on Kaito!"
   },
   {
    "id": "event_ev000000:1834",
@@ -1056,7 +1056,7 @@
     131
    ],
    "jp": "あいかわらず　海斗のことになると\nあわただしい{h }ヤツだなぁ",
-   "en": ""
+   "en": "Whenever it's about Kaito,\nshe's in such a rush."
   },
   {
    "id": "event_ev000000:1870",
@@ -1064,7 +1064,7 @@
     132
    ],
    "jp": "ところでぇ‥‥",
-   "en": ""
+   "en": "By the waaay..."
   },
   {
    "id": "event_ev000000:1880",
@@ -1072,7 +1072,7 @@
     133
    ],
    "jp": "ん？　なんだ？",
-   "en": ""
+   "en": "Hm? What?"
   },
   {
    "id": "event_ev000000:1890",
@@ -1080,7 +1080,7 @@
     134
    ],
    "jp": "リナは　まだ{h }ロウソクに\nなまえを{h }ほってないみたいだけど",
-   "en": ""
+   "en": "Rina, it looks like you haven't\ncarved a name on your candle yet."
   },
   {
    "id": "event_ev000000:18CC",
@@ -1088,7 +1088,7 @@
     135
    ],
    "jp": "いったい　だれのなまえを\nほるつもりなの？",
-   "en": ""
+   "en": "Whose name are you\ngoing to carve?"
   },
   {
    "id": "event_ev000000:18F8",
@@ -1096,7 +1096,7 @@
     136
    ],
    "jp": "えっ！？",
-   "en": ""
+   "en": "Huh?!"
   },
   {
    "id": "event_ev000000:1902",
@@ -1104,7 +1104,7 @@
     137
    ],
    "jp": "ねぇ　ないしょにするから\nわたしだけに{h }おしえてよ",
-   "en": ""
+   "en": "Come on, I'll keep it a secret,\nso tell just me."
   },
   {
    "id": "event_ev000000:1936",
@@ -1112,7 +1112,7 @@
     138
    ],
    "jp": "そっ　それは‥‥",
-   "en": ""
+   "en": "W-Well, that's..."
   },
   {
    "id": "event_ev000000:1948",
@@ -1120,7 +1120,7 @@
     139
    ],
    "jp": "うんうん　それは{h }だれ？",
-   "en": ""
+   "en": "Uh-huh, uh-huh, so who is it?"
   },
   {
    "id": "event_ev000000:1962",
@@ -1128,7 +1128,7 @@
     140
    ],
    "jp": "えっと　その‥‥",
-   "en": ""
+   "en": "Um, well..."
   },
   {
    "id": "event_ev000000:1974",
@@ -1136,7 +1136,7 @@
     141
    ],
    "jp": "うんうん　それで？\nねっ　ないしょにするから〜",
-   "en": ""
+   "en": "Uh-huh, and?\nCome on, I'll keep it a secret!"
   },
   {
    "id": "event_ev000000:19A4",
@@ -1144,7 +1144,7 @@
     142
    ],
    "jp": "（うーん　こまったなぁ‥‥）",
-   "en": ""
+   "en": "(Ugh, what do I do...)"
   },
   {
    "id": "event_ev000000:19C2",
@@ -1152,7 +1152,7 @@
     143
    ],
    "jp": "{h }　　　　エピソード　１　　　　　\n　　『あいのともしび』　おわり　",
-   "en": ""
+   "en": "Episode 1\n\"The Light of Love\" - The End"
   }
  ]
 }

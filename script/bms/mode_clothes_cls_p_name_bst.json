@@ -8,7 +8,7 @@
     0
    ],
    "jp": "すっきりシャツ",
-   "en": ""
+   "en": "Simple Shirt"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0010",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "２ＷＡＹシャツ",
-   "en": ""
+   "en": "2-Way Shirt"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0020",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "リボンシャツ",
-   "en": ""
+   "en": "Ribbon Shirt"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:002E",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "ネクタイシャツ",
-   "en": ""
+   "en": "Necktie Shirt"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:003E",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "キャラＴ",
-   "en": ""
+   "en": "Character Tee"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0048",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ゆったりＴ",
-   "en": ""
+   "en": "Loose Tee"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0054",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "ロゴＴ",
-   "en": ""
+   "en": "Logo Tee"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:005C",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "シンプルＴ",
-   "en": ""
+   "en": "Plain Tee"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0068",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "チビＴ",
-   "en": ""
+   "en": "Cropped Tee"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0070",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "かさねトラップス",
-   "en": ""
+   "en": "Layered Top"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0082",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "チビトップス",
-   "en": ""
+   "en": "Cropped Top"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0090",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "リボントップス",
-   "en": ""
+   "en": "Ribbon Top"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:00A0",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "ハイネック",
-   "en": ""
+   "en": "High Neck"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:00AC",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "タンクトップ",
-   "en": ""
+   "en": "Tank Top"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:00BA",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "みずたまキャミ",
-   "en": ""
+   "en": "Polka-Dot Cami"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:00CA",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "ハートキャミ",
-   "en": ""
+   "en": "Heart Cami"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:00D8",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "レースキャミ",
-   "en": ""
+   "en": "Lace Cami"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:00E6",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "おしゃれキャミ",
-   "en": ""
+   "en": "Stylish Cami"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:00F6",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "フリルカットソー",
-   "en": ""
+   "en": "Frilly Knit Top"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0108",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "Ｖカットソー",
-   "en": ""
+   "en": "V-Neck Top"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0116",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "おとなカットソー",
-   "en": ""
+   "en": "Grown-Up Top"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0128",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "ジャケット",
-   "en": ""
+   "en": "Jacket"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0134",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "ラグシャツ",
-   "en": ""
+   "en": "Raglan Shirt"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0140",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "パーカー",
-   "en": ""
+   "en": "Hoodie"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:014A",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "カーディガン",
-   "en": ""
+   "en": "Cardigan"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0158",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "だんしせいふく",
-   "en": ""
+   "en": "Boys' Uniform"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0168",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "じょしせいふく",
-   "en": ""
+   "en": "Girls' Uniform"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0178",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "ドレス",
-   "en": ""
+   "en": "Dress"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:0180",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "チャイナ",
-   "en": ""
+   "en": "China Dress"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:018A",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "キラキラワンピ",
-   "en": ""
+   "en": "Sparkly Dress"
   },
   {
    "id": "mode_clothes_cls_p_name_bst:019A",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "すっきりワンピ",
-   "en": ""
+   "en": "Simple Dress"
   }
  ]
 }

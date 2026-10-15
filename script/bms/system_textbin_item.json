@@ -8,7 +8,7 @@
     0
    ],
    "jp": "すっきりシャツ",
-   "en": ""
+   "en": "Simple Shirt"
   },
   {
    "id": "system_textbin_item:0010",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "２ＷＡＹシャツ",
-   "en": ""
+   "en": "2-Way Shirt"
   },
   {
    "id": "system_textbin_item:0020",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "リボンシャツ",
-   "en": ""
+   "en": "Ribbon Shirt"
   },
   {
    "id": "system_textbin_item:002E",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "ネクタイシャツ",
-   "en": ""
+   "en": "Necktie Shirt"
   },
   {
    "id": "system_textbin_item:003E",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "キャラＴ",
-   "en": ""
+   "en": "Character Tee"
   },
   {
    "id": "system_textbin_item:0048",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "ゆったりＴ",
-   "en": ""
+   "en": "Loose Tee"
   },
   {
    "id": "system_textbin_item:0054",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "ロゴＴ",
-   "en": ""
+   "en": "Logo Tee"
   },
   {
    "id": "system_textbin_item:005C",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "ハイネックＴ",
-   "en": ""
+   "en": "High-Neck Tee"
   },
   {
    "id": "system_textbin_item:006A",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "チビＴ",
-   "en": ""
+   "en": "Cropped Tee"
   },
   {
    "id": "system_textbin_item:0072",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "かさねトップス",
-   "en": ""
+   "en": "Layered Top"
   },
   {
    "id": "system_textbin_item:0082",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "チビトップス",
-   "en": ""
+   "en": "Cropped Top"
   },
   {
    "id": "system_textbin_item:0090",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "リボントップス",
-   "en": ""
+   "en": "Ribbon Top"
   },
   {
    "id": "system_textbin_item:00A0",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "ハイネック",
-   "en": ""
+   "en": "High Neck"
   },
   {
    "id": "system_textbin_item:00AC",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "タンクトップ",
-   "en": ""
+   "en": "Tank Top"
   },
   {
    "id": "system_textbin_item:00BA",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "水玉キャミ",
-   "en": ""
+   "en": "Polka-Dot Cami"
   },
   {
    "id": "system_textbin_item:00C6",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "ハートキャミ",
-   "en": ""
+   "en": "Heart Cami"
   },
   {
    "id": "system_textbin_item:00D4",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "レースキャミ",
-   "en": ""
+   "en": "Lace Cami"
   },
   {
    "id": "system_textbin_item:00E2",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "おしゃれキャミ",
-   "en": ""
+   "en": "Stylish Cami"
   },
   {
    "id": "system_textbin_item:00F2",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "フリルカットソー",
-   "en": ""
+   "en": "Frilly Knit Top"
   },
   {
    "id": "system_textbin_item:0104",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "Ｖカットソー",
-   "en": ""
+   "en": "V-Neck Top"
   },
   {
    "id": "system_textbin_item:0112",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "大人カットソー",
-   "en": ""
+   "en": "Grown-Up Top"
   },
   {
    "id": "system_textbin_item:0122",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "ジャケット",
-   "en": ""
+   "en": "Jacket"
   },
   {
    "id": "system_textbin_item:012E",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "ラグシャツ",
-   "en": ""
+   "en": "Raglan Shirt"
   },
   {
    "id": "system_textbin_item:013A",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "パーカー",
-   "en": ""
+   "en": "Hoodie"
   },
   {
    "id": "system_textbin_item:0144",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "カーディガン",
-   "en": ""
+   "en": "Cardigan"
   },
   {
    "id": "system_textbin_item:0152",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "だんしせいふく",
-   "en": ""
+   "en": "Boys' Uniform"
   },
   {
    "id": "system_textbin_item:0162",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "じょしせいふく",
-   "en": ""
+   "en": "Girls' Uniform"
   },
   {
    "id": "system_textbin_item:0172",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "フリルスカート",
-   "en": ""
+   "en": "Frilly Skirt"
   },
   {
    "id": "system_textbin_item:0182",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "チェックスカート",
-   "en": ""
+   "en": "Plaid Skirt"
   },
   {
    "id": "system_textbin_item:0194",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "ボックスプリーツ",
-   "en": ""
+   "en": "Box-Pleat Skirt"
   },
   {
    "id": "system_textbin_item:01A6",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "フレアスカート",
-   "en": ""
+   "en": "Flared Skirt"
   },
   {
    "id": "system_textbin_item:01B6",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "ミニスカート",
-   "en": ""
+   "en": "Miniskirt"
   },
   {
    "id": "system_textbin_item:01C4",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "スリットミニ",
-   "en": ""
+   "en": "Slit Mini"
   },
   {
    "id": "system_textbin_item:01D2",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "ポケットミニ",
-   "en": ""
+   "en": "Pocket Mini"
   },
   {
    "id": "system_textbin_item:01E0",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "フリルミニ",
-   "en": ""
+   "en": "Frilly Mini"
   },
   {
    "id": "system_textbin_item:01EC",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "レースミニ",
-   "en": ""
+   "en": "Lace Mini"
   },
   {
    "id": "system_textbin_item:01F8",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "ふわふわミニ",
-   "en": ""
+   "en": "Fluffy Mini"
   },
   {
    "id": "system_textbin_item:0206",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "プリーツロング",
-   "en": ""
+   "en": "Pleated Long"
   },
   {
    "id": "system_textbin_item:0216",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "ロングスカート",
-   "en": ""
+   "en": "Long Skirt"
   },
   {
    "id": "system_textbin_item:0226",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "スリットロング",
-   "en": ""
+   "en": "Slit Long"
   },
   {
    "id": "system_textbin_item:0236",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "フリルロング",
-   "en": ""
+   "en": "Frilly Long"
   },
   {
    "id": "system_textbin_item:0244",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "ベルトロング",
-   "en": ""
+   "en": "Belted Long"
   },
   {
    "id": "system_textbin_item:0252",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "カーゴパンツ",
-   "en": ""
+   "en": "Cargo Pants"
   },
   {
    "id": "system_textbin_item:0260",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "ジーンズ",
-   "en": ""
+   "en": "Jeans"
   },
   {
    "id": "system_textbin_item:026A",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "ハーフパンツ",
-   "en": ""
+   "en": "Knee Shorts"
   },
   {
    "id": "system_textbin_item:0278",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "ホットパンツ",
-   "en": ""
+   "en": "Hot Pants"
   },
   {
    "id": "system_textbin_item:0286",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "デニムタンパン",
-   "en": ""
+   "en": "Denim Shorts"
   },
   {
    "id": "system_textbin_item:0296",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "フリルタンパン",
-   "en": ""
+   "en": "Frilly Shorts"
   },
   {
    "id": "system_textbin_item:02A6",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "だんしせいふく",
-   "en": ""
+   "en": "Boys' Uniform"
   },
   {
    "id": "system_textbin_item:02B6",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "じょしせいふく",
-   "en": ""
+   "en": "Girls' Uniform"
   },
   {
    "id": "system_textbin_item:02C6",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "ドレス",
-   "en": ""
+   "en": "Dress"
   },
   {
    "id": "system_textbin_item:02CE",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "チャイナドレス",
-   "en": ""
+   "en": "China Dress"
   },
   {
    "id": "system_textbin_item:02DE",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "キラキラワンピ",
-   "en": ""
+   "en": "Sparkly Dress"
   },
   {
    "id": "system_textbin_item:02EE",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "すっきりワンピ",
-   "en": ""
+   "en": "Simple Dress"
   },
   {
    "id": "system_textbin_item:02FE",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "ほしのかざり",
-   "en": ""
+   "en": "Star Ornament"
   },
   {
    "id": "system_textbin_item:030C",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "花かざり",
-   "en": ""
+   "en": "Flower Ornament"
   },
   {
    "id": "system_textbin_item:0316",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "スポーツバッグ",
-   "en": ""
+   "en": "Sports Bag"
   },
   {
    "id": "system_textbin_item:0326",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "花がらバッグ",
-   "en": ""
+   "en": "Floral Bag"
   },
   {
    "id": "system_textbin_item:0334",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "ハートペンダント",
-   "en": ""
+   "en": "Heart Pendant"
   },
   {
    "id": "system_textbin_item:0346",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "ほしのペンダント",
-   "en": ""
+   "en": "Star Pendant"
   },
   {
    "id": "system_textbin_item:0358",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "貝のペンダント",
-   "en": ""
+   "en": "Shell Pendant"
   },
   {
    "id": "system_textbin_item:0368",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "ほしのうでわ",
-   "en": ""
+   "en": "Star Bracelet"
   },
   {
    "id": "system_textbin_item:0376",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "ハートのうでわ",
-   "en": ""
+   "en": "Heart Bracelet"
   },
   {
    "id": "system_textbin_item:0386",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "うでどけい",
-   "en": ""
+   "en": "Wristwatch"
   },
   {
    "id": "system_textbin_item:0392",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "きらきらミュール",
-   "en": ""
+   "en": "Sparkly Mules"
   },
   {
    "id": "system_textbin_item:03A4",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "ハイヒール",
-   "en": ""
+   "en": "High Heels"
   },
   {
    "id": "system_textbin_item:03B0",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "ビーチサンダル",
-   "en": ""
+   "en": "Flip-Flops"
   },
   {
    "id": "system_textbin_item:03C0",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "スニーカー",
-   "en": ""
+   "en": "Sneakers"
   },
   {
    "id": "system_textbin_item:03CC",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "ロングブーツ",
-   "en": ""
+   "en": "Long Boots"
   },
   {
    "id": "system_textbin_item:03DA",

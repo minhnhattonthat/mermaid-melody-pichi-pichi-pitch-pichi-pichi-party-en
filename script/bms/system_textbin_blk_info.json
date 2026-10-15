@@ -8,7 +8,7 @@
     0
    ],
    "jp": "『青いマス』\nなにか{h }いいことがおきるマスだよ",
-   "en": ""
+   "en": "\"Blue Space\"\nSomething good happens here!"
   },
   {
    "id": "system_textbin_blk_info:0030",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "『むらさきのマス』\nなにか{h }わるいことがおきるマスだよ",
-   "en": ""
+   "en": "\"Purple Space\"\nSomething bad happens here!"
   },
   {
    "id": "system_textbin_blk_info:0068",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "『きいろいマス』\nカードがもらえるマスだよ",
-   "en": ""
+   "en": "\"Yellow Space\"\nYou get a card here!"
   },
   {
    "id": "system_textbin_blk_info:0094",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "『ラッキー』\nラッキーなできごとがおきるよ",
-   "en": ""
+   "en": "\"Lucky\"\nSomething lucky happens!"
   },
   {
    "id": "system_textbin_blk_info:00C0",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "『ハプニング』\nハプニングなできごとがおきるよ",
-   "en": ""
+   "en": "\"Happening\"\nSomething unexpected happens!"
   },
   {
    "id": "system_textbin_blk_info:00F0",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "『パールピアリ』\nるちあと波音のすんでいるおうち",
-   "en": ""
+   "en": "\"Pearl Piari\"\nWhere Lucia and Hanon live."
   },
   {
    "id": "system_textbin_blk_info:0122",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "『そうごうたいいくかん』\nルーレットで{h }ステータス{h }{i20E}ＵＰ！",
-   "en": ""
+   "en": "\"Sports Center\"\nSpin the roulette: stats {i20E} UP!"
   },
   {
    "id": "system_textbin_blk_info:0160",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "『学校』\nルーレットで{h }ステータス{h }{i20C}ＵＰ！",
-   "en": ""
+   "en": "\"School\"\nSpin the roulette: stats {i20C} UP!"
   },
   {
    "id": "system_textbin_blk_info:018E",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "『としょかん』\nルーレットで{h }ステータス{h }{i20D}ＵＰ！",
-   "en": ""
+   "en": "\"Library\"\nSpin the roulette: stats {i20D} UP!"
   },
   {
    "id": "system_textbin_blk_info:01C2",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "『ショッピングモール』\nおかいものができるよ",
-   "en": ""
+   "en": "\"Shopping Mall\"\nYou can go shopping here!"
   },
   {
    "id": "system_textbin_blk_info:01F0",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "『ちゅうおうこうえん』\nおかいものができるよ",
-   "en": ""
+   "en": "\"Central Park\"\nYou can go shopping here!"
   },
   {
    "id": "system_textbin_blk_info:021E",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "『じんじゃ』\nおまいりして{h }おまもりを入手",
-   "en": ""
+   "en": "\"Shrine\"\nPray and get a good-luck charm."
   },
   {
    "id": "system_textbin_blk_info:024A",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "『にんぎょのどうくつ』\nどうくつを{h }たんけんできるよ",
-   "en": ""
+   "en": "\"Mermaid Cave\"\nYou can explore the cave!"
   },
   {
    "id": "system_textbin_blk_info:0280",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "『アクアプレイス』\nていばんのデートスポットだよ",
-   "en": ""
+   "en": "\"Aqua Place\"\nA classic date spot!"
   },
   {
    "id": "system_textbin_blk_info:02B2",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "『サーフィンかいじょう』\nていばんのデートスポットだよ",
-   "en": ""
+   "en": "\"Surfing Beach\"\nA classic date spot!"
   },
   {
    "id": "system_textbin_blk_info:02EA",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "『うみのいえ』\nていばんのデートスポットだよ",
-   "en": ""
+   "en": "\"Beach House\"\nA classic date spot!"
   },
   {
    "id": "system_textbin_blk_info:0318",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "『みさきのてんぼうだい』\nていばんのデートスポットだよ",
-   "en": ""
+   "en": "\"Cape Lookout\"\nA classic date spot!"
   },
   {
    "id": "system_textbin_blk_info:0350",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "『かいひんこうえん』\nていばんのデートスポットだよ",
-   "en": ""
+   "en": "\"Seaside Park\"\nA classic date spot!"
   },
   {
    "id": "system_textbin_blk_info:0384",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "『ふんすいひろば』\nていばんのデートスポットだよ",
-   "en": ""
+   "en": "\"Fountain Plaza\"\nA classic date spot!"
   },
   {
    "id": "system_textbin_blk_info:03B6",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "『コンサートホール』\nていばんのデートスポットだよ",
-   "en": ""
+   "en": "\"Concert Hall\"\nA classic date spot!"
   },
   {
    "id": "system_textbin_blk_info:03EA",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "『きょうかい』\nていばんのデートスポットだよ",
-   "en": ""
+   "en": "\"Church\"\nA classic date spot!"
   },
   {
    "id": "system_textbin_blk_info:0418",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "『リナのいえ』\nリナのすんでいるいえ",
-   "en": ""
+   "en": "\"Rina's House\"\nThe house where Rina lives."
   },
   {
    "id": "system_textbin_blk_info:043E",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "『海斗のいえ』\n海斗のすんでいるいえ",
-   "en": ""
+   "en": "\"Kaito's House\"\nThe house where Kaito lives."
   },
   {
    "id": "system_textbin_blk_info:0464",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "『海月先生のいえ』\n海月先生のすんでいるいえ",
-   "en": ""
+   "en": "\"Mr. Mitsuki's House\"\nThe house where Mr. Mitsuki lives."
   }
  ]
 }

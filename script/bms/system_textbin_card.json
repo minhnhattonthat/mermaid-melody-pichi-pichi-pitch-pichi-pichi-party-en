@@ -8,7 +8,7 @@
     0
    ],
    "jp": "しんじゅのこえ＋１",
-   "en": ""
+   "en": "Pearl Voice +1"
   },
   {
    "id": "system_textbin_card:0014",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "しんじゅのこえ−１",
-   "en": ""
+   "en": "Pearl Voice -1"
   },
   {
    "id": "system_textbin_card:0028",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "うみのおいかぜ",
-   "en": ""
+   "en": "Sea Tailwind"
   },
   {
    "id": "system_textbin_card:0038",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "うみのむかいかぜ",
-   "en": ""
+   "en": "Sea Headwind"
   },
   {
    "id": "system_textbin_card:004A",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "しろいはやなみ＋３",
-   "en": ""
+   "en": "White Wave +3"
   },
   {
    "id": "system_textbin_card:005E",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "くろいさかなみ−３",
-   "en": ""
+   "en": "Black Wave -3"
   },
   {
    "id": "system_textbin_card:0072",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "くろいさかなみ−２",
-   "en": ""
+   "en": "Black Wave -2"
   },
   {
    "id": "system_textbin_card:0086",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "くろいさかなみ−１",
-   "en": ""
+   "en": "Black Wave -1"
   },
   {
    "id": "system_textbin_card:009A",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "ヒッポのうたごえ",
-   "en": ""
+   "en": "Hippo's Song"
   },
   {
    "id": "system_textbin_card:00AC",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "クラちゃんのおもい",
-   "en": ""
+   "en": "Kura's Wish"
   },
   {
    "id": "system_textbin_card:00C0",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "タキのよげん",
-   "en": ""
+   "en": "Taki's Prophecy"
   },
   {
    "id": "system_textbin_card:00CE",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "さいこうのおいかぜ",
-   "en": ""
+   "en": "Best Tailwind"
   },
   {
    "id": "system_textbin_card:00E2",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "にこらのおつかい",
-   "en": ""
+   "en": "Nikora's Errand"
   },
   {
    "id": "system_textbin_card:00F4",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "あともどりのみち",
-   "en": ""
+   "en": "Road Back"
   },
   {
    "id": "system_textbin_card:0106",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "うんめいのきろ",
-   "en": ""
+   "en": "Fateful Fork"
   },
   {
    "id": "system_textbin_card:0116",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "マーメイドのこえ",
-   "en": ""
+   "en": "Mermaid Voice"
   },
   {
    "id": "system_textbin_card:0128",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "マーメイドのゆうき",
-   "en": ""
+   "en": "Mermaid Courage"
   },
   {
    "id": "system_textbin_card:013C",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "マーメイドのダンス",
-   "en": ""
+   "en": "Mermaid Dance"
   },
   {
    "id": "system_textbin_card:0150",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "水妖のメロディ",
-   "en": ""
+   "en": "Water Demon Melody"
   },
   {
    "id": "system_textbin_card:0160",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "水妖のあい",
-   "en": ""
+   "en": "Water Demon Love"
   },
   {
    "id": "system_textbin_card:016C",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "水妖のステップ",
-   "en": ""
+   "en": "Water Demon Step"
   },
   {
    "id": "system_textbin_card:017C",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "プリンセスのねがい",
-   "en": ""
+   "en": "Princess's Wish"
   },
   {
    "id": "system_textbin_card:0190",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "さんごのたからもの",
-   "en": ""
+   "en": "Coral Treasure"
   },
   {
    "id": "system_textbin_card:01A4",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "おおきいたからもの",
-   "en": ""
+   "en": "Big Treasure"
   },
   {
    "id": "system_textbin_card:01B8",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "かいもののビーズ",
-   "en": ""
+   "en": "Shopping Bead"
   },
   {
    "id": "system_textbin_card:01CA",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "ばいそくのしんじゅ",
-   "en": ""
+   "en": "Double-Speed Pearl"
   },
   {
    "id": "system_textbin_card:01DE",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "まもりのビーズ",
-   "en": ""
+   "en": "Guard Bead"
   },
   {
    "id": "system_textbin_card:01EE",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "イズールのリュウ",
-   "en": ""
+   "en": "Izuru's Dragon"
   },
   {
    "id": "system_textbin_card:0200",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "ガイトのいかり",
-   "en": ""
+   "en": "Gaito's Wrath"
   },
   {
    "id": "system_textbin_card:0210",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "エリルのイジワル",
-   "en": ""
+   "en": "Eriru's Mischief"
   },
   {
    "id": "system_textbin_card:0222",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "ユーリのたくらみ",
-   "en": ""
+   "en": "Yuri's Scheme"
   },
   {
    "id": "system_textbin_card:0234",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "マリアのわな",
-   "en": ""
+   "en": "Maria's Trap"
   },
   {
    "id": "system_textbin_card:0242",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "きけんなかけ",
-   "en": ""
+   "en": "Risky Bet"
   },
   {
    "id": "system_textbin_card:0250",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "あしかせのビーズ",
-   "en": ""
+   "en": "Shackle Bead"
   },
   {
    "id": "system_textbin_card:0262",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "ふういんのビーズ",
-   "en": ""
+   "en": "Seal Bead"
   },
   {
    "id": "system_textbin_card:0274",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "かいようのたつまき",
-   "en": ""
+   "en": "Ocean Tornado"
   },
   {
    "id": "system_textbin_card:0288",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "なぎのうなばら",
-   "en": ""
+   "en": "Calm Seas"
   },
   {
    "id": "system_textbin_card:0298",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "カードいれかえ",
-   "en": ""
+   "en": "Card Swap"
   },
   {
    "id": "system_textbin_card:02A8",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "のろいのビーズ",
-   "en": ""
+   "en": "Curse Bead"
   },
   {
    "id": "system_textbin_card:02B8",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "ふこうのてがみ",
-   "en": ""
+   "en": "Unlucky Letter"
   },
   {
    "id": "system_textbin_card:02C8",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "こううんのほし{i223}１",
-   "en": ""
+   "en": "Lucky Star {i223}1"
   },
   {
    "id": "system_textbin_card:02DC",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "こううんのほし{i223}２",
-   "en": ""
+   "en": "Lucky Star {i223}2"
   },
   {
    "id": "system_textbin_card:02F0",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "こううんのほし{i223}３",
-   "en": ""
+   "en": "Lucky Star {i223}3"
   },
   {
    "id": "system_textbin_card:0304",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "こううんのほし{i223}４",
-   "en": ""
+   "en": "Lucky Star {i223}4"
   },
   {
    "id": "system_textbin_card:0318",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "ふこうのほし{i223}１",
-   "en": ""
+   "en": "Unlucky Star {i223}1"
   },
   {
    "id": "system_textbin_card:032A",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "ふこうのほし{i223}２",
-   "en": ""
+   "en": "Unlucky Star {i223}2"
   },
   {
    "id": "system_textbin_card:033C",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "ふこうのほし{i223}３",
-   "en": ""
+   "en": "Unlucky Star {i223}3"
   },
   {
    "id": "system_textbin_card:034E",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "ふこうのほし{i223}４",
-   "en": ""
+   "en": "Unlucky Star {i223}4"
   },
   {
    "id": "system_textbin_card:0360",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "おそうじのほうき",
-   "en": ""
+   "en": "Cleaning Broom"
   },
   {
    "id": "system_textbin_card:0372",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "ふゆうのビーズ",
-   "en": ""
+   "en": "Float Bead"
   },
   {
    "id": "system_textbin_card:0382",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "とおせんぼのかべ",
-   "en": ""
+   "en": "Blocking Wall"
   }
  ]
 }
