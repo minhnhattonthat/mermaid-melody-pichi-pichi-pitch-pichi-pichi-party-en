@@ -19,6 +19,7 @@ ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 import fs  # noqa: E402
 import mktbl  # noqa: E402
+import font_en  # noqa: E402
 
 SCRIPT = os.path.join(ROOT, "script")
 ORIG = os.path.join(ROOT, "rom", "Mermaid Melody - Pichi Pichi Pitch - Pichi Pichi Party (Japan).gba")
@@ -55,8 +56,8 @@ def encode(markup, lang="jp"):
             out.append(NL)
         elif len(t) == 6 and t[0] == "[" and re.fullmatch(r"\[[0-9A-F]{4}\]", t):
             out.append(int(t[1:5], 16))
-        elif lang != "jp" and len(t) == 1 and 0x20 <= ord(t) < 0x7F:
-            out.append(0x4000 | (ord(t) + 0x10))
+        elif lang != "jp" and len(t) == 1 and font_en.code_of(t) is not None:
+            out.append(font_en.code_of(t))
         elif t in REV:
             out.append(REV[t])
         else:
@@ -161,20 +162,66 @@ def dump(force=False):
 
 def load_all():
     res = []
-    for jp in sorted(glob.glob(os.path.join(SCRIPT, "*", "*.json"))):
-        res.append((jp, json.load(open(jp, encoding="utf-8"))))
+    for fi, jp in enumerate(sorted(glob.glob(os.path.join(SCRIPT, "*", "*.json")))):
+        doc = json.load(open(jp, encoding="utf-8"))
+        m = re.search(r"ev(\d+)\.bin$", doc["path"])
+        pre = "e%d" % int(m.group(1)) if m else "b%d" % fi
+        for k, e in enumerate(doc["strings"]):
+            e["_sid"] = "%s.%d" % (pre, k)
+        res.append((jp, doc))
     return res
 
 
+def lint():
+    """Encodability of every jp/en string. (Width budgets are added once measured: docs/re/windows.md.)"""
+    errs = 0
+    for jp, doc in load_all():
+        for e in doc["strings"]:
+            for lang in ("jp", "en"):
+                if lang == "en" and not e.get("en"):
+                    continue
+                try:
+                    encode(e[lang], lang)
+                except ValueError as x:
+                    print(short_id(e), lang, x); errs += 1
+    print("lint errors:", errs)
+    return 1 if errs else 0
+
+
 # ------------------------------------------------------------------ rebuild
-def rebuild(rom, doc, lang=None, marker=False, en_of=None):
-    """Return new file bytes for one container. lang None = jp (identity); en_of(ent) -> markup or None."""
+FILLER = "The quick brown fox jumps over the lazy dog. Pack my box with five dozen liquor jugs. "
+
+
+def short_id(e):
+    """e5150.12 (event 5150, string at index 12 of its file) / b<file>.<n>; set by load_all."""
+    return e.get("_sid", e["id"])
+
+
+def marker_of(e):
+    """Marker build: short id, then filler as wide (px) as each Japanese line (12 px per glyph)."""
+    lines = e["jp"].split("\n")
+    out = []
+    for i, ln in enumerate(lines):
+        px = 12 * len(TOK.findall(ln))
+        s = (short_id(e) + " ") if i == 0 else ""
+        k = 0
+        while font_en.line_widths(s + FILLER[k % len(FILLER)])[0] <= px:
+            s += FILLER[k % len(FILLER)]; k += 1
+        out.append(s.rstrip() or short_id(e))
+    return "\n".join(out)
+
+
+def rebuild(rom, doc, lang=None, en_of=None, qa=None):
+    """Return new file bytes for one container. lang None = jp (identity); en_of(ent) -> markup or None;
+    qa = {id or short id: markup} overrides."""
     path = doc["path"]
     o, s = fs.get(rom, path)
     ents = doc["strings"]
 
     def codes_for(e):
         if lang:
+            if qa and (e["id"] in qa or short_id(e) in qa):
+                return encode(qa.get(e["id"], qa.get(short_id(e))), "en")
             m = en_of(e) if en_of else e.get("en")
             if m:
                 return encode(m, "en")
