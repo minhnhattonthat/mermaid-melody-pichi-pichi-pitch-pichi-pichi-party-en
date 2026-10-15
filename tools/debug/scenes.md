@@ -19,6 +19,7 @@ mode manager (IWRAM 0x03006300 {current, next, phase=2}) and clears the retail f
 | title demo | MODE=0x0829B104 |
 | save / continue | MODE=0x0829ACAC (sram) / 0x0829ACC0 (continue) |
 | lobby | MODE=0x0829AD30 |
+| battle (roulette battle, episode-end mini-game) | MODE=0x0829C50C (mode "battle", outside the 0x29AC84 table) + `--mash 60`: Maria battle (id 0) from ~f2300, turn banners, attack/defend labels, enemy attack, result chat ~f7500. Other battles: write byte 0x0201EBE1 (= battle id, read by battle init 0x080143CC; table 0x0829C234, 12 B each; byte 0 = 0x0C-0x10 enemy, 0x80-0x84 contest: 1/4 dance, 10/11/14 cooking, 12 playing, 16/21 sketch, 18 gently) every frame from a --script: `L.on_frame(function() emu.write(0x0201EBE1, N, emu.memType.gbaMemory) end)` |
 
 Mode structs {init, update, draw, 1, name} (ROM 0x29AC84..0x29B8FC): ending sram continue lobby mission_select
 mission_loop mission_end linkerror bg_test d_mode_menu (black: needs the dev font) title name titledemo klogo commd

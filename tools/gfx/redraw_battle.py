@@ -256,6 +256,7 @@ def def_bar_icon():
         ys = np.nonzero(L.any(1))[0]
         sub[L] = 1
         top = y0 + ys.min() + (ys.max() - ys.min() + 1 - m.shape[0]) // 2
+        put(a, cx - m.shape[1] // 2 - 1, top - 1, disc(m, 1), 1)      # dark edge where letters meet the rays
         put(a, cx - m.shape[1] // 2, top, m, grad)
     save(a, im, p)
 
