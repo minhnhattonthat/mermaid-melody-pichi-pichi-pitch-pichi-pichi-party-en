@@ -1,0 +1,14 @@
+{
+ "path": "/mode/clothes/cls_p_msg_wst.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_clothes_cls_p_msg_wst:0000",
+   "idx": [
+    0
+   ],
+   "jp": "ひらひらしたさわやかなスカート",
+   "en": ""
+  }
+ ]
+}

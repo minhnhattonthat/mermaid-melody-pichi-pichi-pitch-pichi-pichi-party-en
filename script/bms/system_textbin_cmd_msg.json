@@ -1,0 +1,46 @@
+{
+ "path": "/system/textbin/cmd_msg.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_cmd_msg:0000",
+   "idx": [
+    0
+   ],
+   "jp": "ルーレットをまわして\nおでかけしよう！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_cmd_msg:0028",
+   "idx": [
+    1
+   ],
+   "jp": "カードをつかって\nいろいろできるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_cmd_msg:004C",
+   "idx": [
+    2
+   ],
+   "jp": "おしゃれしてみんなに\nさをつけちゃお",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_cmd_msg:0072",
+   "idx": [
+    3
+   ],
+   "jp": "みんなはどこにいるのかな？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_cmd_msg:008E",
+   "idx": [
+    4
+   ],
+   "jp": "わすれないように\nメモしとかなきゃ",
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "path": "/mode/linkerror/linkerror.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_linkerror_linkerror:0000",
+   "idx": [],
+   "jp": "つうしんにしっぱいしました\nＡボタンをおしてください",
+   "en": ""
+  }
+ ]
+}

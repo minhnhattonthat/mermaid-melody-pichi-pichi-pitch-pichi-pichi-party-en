@@ -1,0 +1,630 @@
+{
+ "path": "/battle/msg/battle_msg_ep19.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "battle_msg_battle_msg_ep19:0000",
+   "idx": [
+    0
+   ],
+   "jp": "いつもいつも\nじゃまばっかりなんだから",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0028",
+   "idx": [
+    1
+   ],
+   "jp": "いつもいつも\nじゃまばっかりなんだから",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0050",
+   "idx": [
+    2
+   ],
+   "jp": "すきかってには\nさせない！",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:006C",
+   "idx": [
+    3
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0074",
+   "idx": [
+    4
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:007C",
+   "idx": [
+    5
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0084",
+   "idx": [
+    6
+   ],
+   "jp": "ダミー！",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:008E",
+   "idx": [
+    7
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0096",
+   "idx": [
+    8
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:009E",
+   "idx": [
+    9
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:00A6",
+   "idx": [
+    10
+   ],
+   "jp": "‥‥くっ　\n『ヒロインポイント{h }ゲット！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:00D2",
+   "idx": [
+    11
+   ],
+   "jp": "‥‥まだですわっ！\n『ヒロインポイント{h }ゲット！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0106",
+   "idx": [
+    12
+   ],
+   "jp": "くっ　ここまでか‥‥　ガイトさま\nもうしわけありません‥‥",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0142",
+   "idx": [
+    13
+   ],
+   "jp": "マーメイドプリンセスめ！\nおぼえてなさい！",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:016E",
+   "idx": [
+    14
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0176",
+   "idx": [
+    15
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:017E",
+   "idx": [
+    16
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0186",
+   "idx": [
+    17
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:018E",
+   "idx": [
+    18
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0196",
+   "idx": [
+    19
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:019E",
+   "idx": [
+    20
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:01A6",
+   "idx": [
+    21
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:01AE",
+   "idx": [
+    22
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:01B6",
+   "idx": [
+    23
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:01BE",
+   "idx": [
+    24
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:01C6",
+   "idx": [
+    25
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:01CE",
+   "idx": [
+    26
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:01D6",
+   "idx": [
+    27
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:01DE",
+   "idx": [
+    28
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:01E6",
+   "idx": [
+    29
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:01EE",
+   "idx": [
+    30
+   ],
+   "jp": "こんどは{h }こちらのばんですわね！",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0210",
+   "idx": [
+    31
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0218",
+   "idx": [
+    32
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0220",
+   "idx": [
+    33
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0228",
+   "idx": [
+    34
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0230",
+   "idx": [
+    35
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0238",
+   "idx": [
+    36
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0240",
+   "idx": [
+    37
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0248",
+   "idx": [
+    38
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0250",
+   "idx": [
+    39
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0258",
+   "idx": [
+    40
+   ],
+   "jp": "きゃ！\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0280",
+   "idx": [
+    41
+   ],
+   "jp": "きゃあ！　いったーい！\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:02B8",
+   "idx": [
+    42
+   ],
+   "jp": "やったあ！",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:02C4",
+   "idx": [
+    43
+   ],
+   "jp": "きゃ！　やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:02FE",
+   "idx": [
+    44
+   ],
+   "jp": "きゃ！\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0326",
+   "idx": [
+    45
+   ],
+   "jp": "きゃああ！\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0352",
+   "idx": [
+    46
+   ],
+   "jp": "そんなこうげきなんて{h }きかないわ！",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0376",
+   "idx": [
+    47
+   ],
+   "jp": "いや〜ん　やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:03B2",
+   "idx": [
+    48
+   ],
+   "jp": "くっ！\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:03DA",
+   "idx": [
+    49
+   ],
+   "jp": "くっ！　水妖め！\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:040C",
+   "idx": [
+    50
+   ],
+   "jp": "ふっ　どうだ！",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:041C",
+   "idx": [
+    51
+   ],
+   "jp": "しまった！\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0448",
+   "idx": [
+    52
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0450",
+   "idx": [
+    53
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0458",
+   "idx": [
+    54
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0460",
+   "idx": [
+    55
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0468",
+   "idx": [
+    56
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0470",
+   "idx": [
+    57
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0478",
+   "idx": [
+    58
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0480",
+   "idx": [
+    59
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0488",
+   "idx": [
+    60
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0490",
+   "idx": [
+    61
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0498",
+   "idx": [
+    62
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04A0",
+   "idx": [
+    63
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04A8",
+   "idx": [
+    64
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04B0",
+   "idx": [
+    65
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04B8",
+   "idx": [
+    66
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04C0",
+   "idx": [
+    67
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04C8",
+   "idx": [
+    68
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04D0",
+   "idx": [
+    69
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04D8",
+   "idx": [
+    70
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04E0",
+   "idx": [
+    71
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04E8",
+   "idx": [
+    72
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04F0",
+   "idx": [
+    73
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:04F8",
+   "idx": [
+    74
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0500",
+   "idx": [
+    75
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0508",
+   "idx": [
+    76
+   ],
+   "jp": "●●●●●●●●●●●●●●●●●\n●●●●●●●●●●●●●●●●●",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep19:0550",
+   "idx": [
+    77
+   ],
+   "jp": "●●●●●●●●●●●●●●●●●\n●●●●●●●●●●●●●●●●●",
+   "en": ""
+  }
+ ]
+}

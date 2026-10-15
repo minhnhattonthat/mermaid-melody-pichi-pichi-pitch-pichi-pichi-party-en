@@ -1,0 +1,30 @@
+{
+ "path": "/mode/clothes/cls_msg.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_clothes_cls_msg:0000",
+   "idx": [
+    0
+   ],
+   "jp": "フリルつきのかわいいカットソー\n　　３５／１／０／−１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_msg:0038",
+   "idx": [
+    1
+   ],
+   "jp": "かわいいみずたまのキャミソール\n　　３０／０／０／１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_msg:006E",
+   "idx": [
+    2
+   ],
+   "jp": "ひらひらしたさわやかなスカート",
+   "en": ""
+  }
+ ]
+}

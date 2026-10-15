@@ -1,0 +1,270 @@
+{
+ "path": "/system/textbin/mission.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_mission:0000",
+   "idx": [
+    0
+   ],
+   "jp": "　　[FFB2]あいのともしび[FFB3]　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:001E",
+   "idx": [
+    1
+   ],
+   "jp": "　　[FFB2]こねこのねがい[FFB3]　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:003C",
+   "idx": [
+    2
+   ],
+   "jp": "　　[FFB2]やさしいあめ[FFB3]　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:005A",
+   "idx": [
+    3
+   ],
+   "jp": "　　[FFB2]はなのおまじない[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:0078",
+   "idx": [
+    4
+   ],
+   "jp": "　[FFB2]マーメイドのくのう[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:0096",
+   "idx": [
+    5
+   ],
+   "jp": "　[FFB2]まなつのマーメイド[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:00B4",
+   "idx": [
+    6
+   ],
+   "jp": "　[FFB2]はじまらないさんびか[FFB3]　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:00D2",
+   "idx": [
+    7
+   ],
+   "jp": "　　　[FFB2]なつのはな[FFB3]　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:00F0",
+   "idx": [
+    8
+   ],
+   "jp": "　　[FFB2]きもだめしのよる[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:010E",
+   "idx": [
+    9
+   ],
+   "jp": "　　[FFB2]ヒッポのひみつ[FFB3]　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:012C",
+   "idx": [
+    10
+   ],
+   "jp": "　[FFB2]おかしのプレゼント[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:014A",
+   "idx": [
+    11
+   ],
+   "jp": "　[FFB2]やさしいてりょうり[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:0168",
+   "idx": [
+    12
+   ],
+   "jp": "　　[FFB2]いぬのおさんぽ[FFB3]　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:0186",
+   "idx": [
+    13
+   ],
+   "jp": "　[FFB2]みわくのメロディー[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:01A4",
+   "idx": [
+    14
+   ],
+   "jp": "　[FFB2]パジャマパーティー[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:01C2",
+   "idx": [
+    15
+   ],
+   "jp": "　　[FFB2]ひめられたじかん[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:01E0",
+   "idx": [
+    16
+   ],
+   "jp": "　　[FFB2]はなのいろどり[FFB3]　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:01FE",
+   "idx": [
+    17
+   ],
+   "jp": "　[FFB2]ぬすまれたたからもの[FFB3]　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:021C",
+   "idx": [
+    18
+   ],
+   "jp": "　　[FFB2]やさしいうたごえ[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:023A",
+   "idx": [
+    19
+   ],
+   "jp": "　　[FFB2]ゆきへのねがい[FFB3]　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:0258",
+   "idx": [
+    20
+   ],
+   "jp": "　　[FFB2]ミスコンバトル！[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:0276",
+   "idx": [
+    21
+   ],
+   "jp": "　　[FFB2]かきとめたきおく[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:0294",
+   "idx": [
+    22
+   ],
+   "jp": "　　[FFB2]こいのじゃまもの[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:02B2",
+   "idx": [
+    23
+   ],
+   "jp": "　　[FFB2]あいのかけあし[FFB3]　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:02D0",
+   "idx": [
+    24
+   ],
+   "jp": "[FFB2]ほのおのちょうせんじょう[FFB3]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:02EE",
+   "idx": [
+    25
+   ],
+   "jp": "　　[FFB2]きえたペンギン[FFB3]　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:030C",
+   "idx": [
+    26
+   ],
+   "jp": "　[FFB2]ロミオとジュリエット[FFB3]　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:032A",
+   "idx": [
+    27
+   ],
+   "jp": "　　[FFB2]たなばたのおもい[FFB3]　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:0348",
+   "idx": [
+    28
+   ],
+   "jp": "　　[FFB2]ひみつのてがみ[FFB3]　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:0366",
+   "idx": [
+    29
+   ],
+   "jp": "　[FFB2]バレンタインのぎしき[FFB3]　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:0384",
+   "idx": [
+    30
+   ],
+   "jp": "　　[FFB2]ガイトふっかつ[FFB3]　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:03A2",
+   "idx": [
+    31
+   ],
+   "jp": "　　[FFB2]さいごのしとう[FFB3]　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_mission:03C0",
+   "idx": [
+    32
+   ],
+   "jp": "　　　[FFB2]れんしゅう[FFB3]　　　　",
+   "en": ""
+  }
+ ]
+}

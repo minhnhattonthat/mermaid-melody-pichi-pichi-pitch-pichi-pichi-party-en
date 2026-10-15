@@ -1,0 +1,414 @@
+{
+ "path": "/system/textbin/card.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_card:0000",
+   "idx": [
+    0
+   ],
+   "jp": "しんじゅのこえ＋１",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0014",
+   "idx": [
+    1
+   ],
+   "jp": "しんじゅのこえ−１",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0028",
+   "idx": [
+    2
+   ],
+   "jp": "うみのおいかぜ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0038",
+   "idx": [
+    3
+   ],
+   "jp": "うみのむかいかぜ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:004A",
+   "idx": [
+    4
+   ],
+   "jp": "しろいはやなみ＋３",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:005E",
+   "idx": [
+    5
+   ],
+   "jp": "くろいさかなみ−３",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0072",
+   "idx": [
+    6
+   ],
+   "jp": "くろいさかなみ−２",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0086",
+   "idx": [
+    7
+   ],
+   "jp": "くろいさかなみ−１",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:009A",
+   "idx": [
+    8
+   ],
+   "jp": "ヒッポのうたごえ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:00AC",
+   "idx": [
+    9
+   ],
+   "jp": "クラちゃんのおもい",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:00C0",
+   "idx": [
+    10
+   ],
+   "jp": "タキのよげん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:00CE",
+   "idx": [
+    11
+   ],
+   "jp": "さいこうのおいかぜ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:00E2",
+   "idx": [
+    12
+   ],
+   "jp": "にこらのおつかい",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:00F4",
+   "idx": [
+    13
+   ],
+   "jp": "あともどりのみち",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0106",
+   "idx": [
+    14
+   ],
+   "jp": "うんめいのきろ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0116",
+   "idx": [
+    15
+   ],
+   "jp": "マーメイドのこえ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0128",
+   "idx": [
+    16
+   ],
+   "jp": "マーメイドのゆうき",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:013C",
+   "idx": [
+    17
+   ],
+   "jp": "マーメイドのダンス",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0150",
+   "idx": [
+    18
+   ],
+   "jp": "水妖のメロディ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0160",
+   "idx": [
+    19
+   ],
+   "jp": "水妖のあい",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:016C",
+   "idx": [
+    20
+   ],
+   "jp": "水妖のステップ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:017C",
+   "idx": [
+    21
+   ],
+   "jp": "プリンセスのねがい",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0190",
+   "idx": [
+    22
+   ],
+   "jp": "さんごのたからもの",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:01A4",
+   "idx": [
+    23
+   ],
+   "jp": "おおきいたからもの",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:01B8",
+   "idx": [
+    24
+   ],
+   "jp": "かいもののビーズ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:01CA",
+   "idx": [
+    25
+   ],
+   "jp": "ばいそくのしんじゅ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:01DE",
+   "idx": [
+    26
+   ],
+   "jp": "まもりのビーズ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:01EE",
+   "idx": [
+    27
+   ],
+   "jp": "イズールのリュウ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0200",
+   "idx": [
+    28
+   ],
+   "jp": "ガイトのいかり",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0210",
+   "idx": [
+    29
+   ],
+   "jp": "エリルのイジワル",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0222",
+   "idx": [
+    30
+   ],
+   "jp": "ユーリのたくらみ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0234",
+   "idx": [
+    31
+   ],
+   "jp": "マリアのわな",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0242",
+   "idx": [
+    32
+   ],
+   "jp": "きけんなかけ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0250",
+   "idx": [
+    33
+   ],
+   "jp": "あしかせのビーズ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0262",
+   "idx": [
+    34
+   ],
+   "jp": "ふういんのビーズ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0274",
+   "idx": [
+    35
+   ],
+   "jp": "かいようのたつまき",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0288",
+   "idx": [
+    36
+   ],
+   "jp": "なぎのうなばら",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0298",
+   "idx": [
+    37
+   ],
+   "jp": "カードいれかえ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:02A8",
+   "idx": [
+    38
+   ],
+   "jp": "のろいのビーズ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:02B8",
+   "idx": [
+    39
+   ],
+   "jp": "ふこうのてがみ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:02C8",
+   "idx": [
+    40
+   ],
+   "jp": "こううんのほし{i223}１",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:02DC",
+   "idx": [
+    41
+   ],
+   "jp": "こううんのほし{i223}２",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:02F0",
+   "idx": [
+    42
+   ],
+   "jp": "こううんのほし{i223}３",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0304",
+   "idx": [
+    43
+   ],
+   "jp": "こううんのほし{i223}４",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0318",
+   "idx": [
+    44
+   ],
+   "jp": "ふこうのほし{i223}１",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:032A",
+   "idx": [
+    45
+   ],
+   "jp": "ふこうのほし{i223}２",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:033C",
+   "idx": [
+    46
+   ],
+   "jp": "ふこうのほし{i223}３",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:034E",
+   "idx": [
+    47
+   ],
+   "jp": "ふこうのほし{i223}４",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0360",
+   "idx": [
+    48
+   ],
+   "jp": "おそうじのほうき",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0372",
+   "idx": [
+    49
+   ],
+   "jp": "ふゆうのビーズ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card:0382",
+   "idx": [
+    50
+   ],
+   "jp": "とおせんぼのかべ",
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,726 @@
+{
+ "path": "/system/textbin/event.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_event:0000",
+   "idx": [
+    0
+   ],
+   "jp": "まいご",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0008",
+   "idx": [
+    1
+   ],
+   "jp": "みちあんない",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0016",
+   "idx": [
+    2
+   ],
+   "jp": "ちかみちはっけん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0028",
+   "idx": [
+    3
+   ],
+   "jp": "いちにちメイドさん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:003C",
+   "idx": [
+    4
+   ],
+   "jp": "ききいっぱつ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:004A",
+   "idx": [
+    5
+   ],
+   "jp": "ちいさなゆうしゃ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:005C",
+   "idx": [
+    6
+   ],
+   "jp": "スカウト",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0066",
+   "idx": [
+    7
+   ],
+   "jp": "カラオケたいかい",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0078",
+   "idx": [
+    8
+   ],
+   "jp": "マーメイドうらない",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:008C",
+   "idx": [
+    9
+   ],
+   "jp": "おまじない",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0098",
+   "idx": [
+    10
+   ],
+   "jp": "ヒナ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:009E",
+   "idx": [
+    11
+   ],
+   "jp": "おくりもの",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:00AA",
+   "idx": [
+    12
+   ],
+   "jp": "ウエディング",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:00B8",
+   "idx": [
+    13
+   ],
+   "jp": "とくしゅう！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:00C6",
+   "idx": [
+    14
+   ],
+   "jp": "タキさん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:00D0",
+   "idx": [
+    15
+   ],
+   "jp": "フリーマーケット",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:00E2",
+   "idx": [
+    16
+   ],
+   "jp": "きれいなおみせ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:00F2",
+   "idx": [
+    17
+   ],
+   "jp": "ボトムショップ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0102",
+   "idx": [
+    18
+   ],
+   "jp": "ファンシーショップ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0116",
+   "idx": [
+    19
+   ],
+   "jp": "くつやさん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0122",
+   "idx": [
+    20
+   ],
+   "jp": "ひろっちゃった",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0132",
+   "idx": [
+    21
+   ],
+   "jp": "よつばのクローバー",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0146",
+   "idx": [
+    22
+   ],
+   "jp": "ふくびき",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0150",
+   "idx": [
+    23
+   ],
+   "jp": "つかまえた！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:015E",
+   "idx": [
+    24
+   ],
+   "jp": "ピタリしょう",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:016C",
+   "idx": [
+    25
+   ],
+   "jp": "たからクジはっけん！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0182",
+   "idx": [
+    26
+   ],
+   "jp": "せいぎのみかた",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0192",
+   "idx": [
+    27
+   ],
+   "jp": "１００にんめ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:01A0",
+   "idx": [
+    28
+   ],
+   "jp": "こえはどこから？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:01B2",
+   "idx": [
+    29
+   ],
+   "jp": "めがみのこえ！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:01C2",
+   "idx": [
+    30
+   ],
+   "jp": "まほうのドロップ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:01D4",
+   "idx": [
+    31
+   ],
+   "jp": "まほうのドロップ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:01E6",
+   "idx": [
+    32
+   ],
+   "jp": "まほうのドロップ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:01F8",
+   "idx": [
+    33
+   ],
+   "jp": "ゆうれいやしき",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0208",
+   "idx": [
+    34
+   ],
+   "jp": "こううんのほうそく",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:021C",
+   "idx": [
+    35
+   ],
+   "jp": "だいバーゲン！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:022C",
+   "idx": [
+    36
+   ],
+   "jp": "うらないのやかた",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:023E",
+   "idx": [
+    37
+   ],
+   "jp": "スター",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0246",
+   "idx": [
+    38
+   ],
+   "jp": "フール",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:024E",
+   "idx": [
+    39
+   ],
+   "jp": "ストレングス",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:025C",
+   "idx": [
+    40
+   ],
+   "jp": "ちょっとたべすぎ？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0270",
+   "idx": [
+    41
+   ],
+   "jp": "ほうこうオンチ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0280",
+   "idx": [
+    42
+   ],
+   "jp": "こわいイヌ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:028C",
+   "idx": [
+    43
+   ],
+   "jp": "だいどうげいにん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:029E",
+   "idx": [
+    44
+   ],
+   "jp": "イジワルなせんせい",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:02B2",
+   "idx": [
+    45
+   ],
+   "jp": "おとしあな",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:02BE",
+   "idx": [
+    46
+   ],
+   "jp": "おひるね",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:02C8",
+   "idx": [
+    47
+   ],
+   "jp": "しゅわしゅわ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:02D6",
+   "idx": [
+    48
+   ],
+   "jp": "水てっぽう",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:02E2",
+   "idx": [
+    49
+   ],
+   "jp": "とおりあめ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:02EE",
+   "idx": [
+    50
+   ],
+   "jp": "ふきつなよかん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:02FE",
+   "idx": [
+    51
+   ],
+   "jp": "アンニュイ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:030A",
+   "idx": [
+    52
+   ],
+   "jp": "しんじゅレーダー",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:031C",
+   "idx": [
+    53
+   ],
+   "jp": "ふこうなできごと",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:032E",
+   "idx": [
+    54
+   ],
+   "jp": "ちかんにちゅうい",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0340",
+   "idx": [
+    55
+   ],
+   "jp": "カミナリ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:034A",
+   "idx": [
+    56
+   ],
+   "jp": "水妖のさくせん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:035A",
+   "idx": [
+    57
+   ],
+   "jp": "めぐりあわせ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0368",
+   "idx": [
+    58
+   ],
+   "jp": "バランス",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0372",
+   "idx": [
+    59
+   ],
+   "jp": "うんめいのわ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0380",
+   "idx": [
+    60
+   ],
+   "jp": "いたずらこぞう",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0390",
+   "idx": [
+    61
+   ],
+   "jp": "つまずく",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:039A",
+   "idx": [
+    62
+   ],
+   "jp": "たちばなし",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:03A6",
+   "idx": [
+    63
+   ],
+   "jp": "でんちゅう",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:03B2",
+   "idx": [
+    64
+   ],
+   "jp": "マンホール",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:03BE",
+   "idx": [
+    65
+   ],
+   "jp": "しょうどうがい",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:03CE",
+   "idx": [
+    66
+   ],
+   "jp": "ドミノたおし",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:03DC",
+   "idx": [
+    67
+   ],
+   "jp": "フードバトル！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:03EC",
+   "idx": [
+    68
+   ],
+   "jp": "トラップ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:03F6",
+   "idx": [
+    69
+   ],
+   "jp": "ふこうのれんぞく",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0408",
+   "idx": [
+    70
+   ],
+   "jp": "パンドラのはこ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0418",
+   "idx": [
+    71
+   ],
+   "jp": "グルメショップ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0428",
+   "idx": [
+    72
+   ],
+   "jp": "ふこうのほうそく",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:043A",
+   "idx": [
+    73
+   ],
+   "jp": "まよいのこみち",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:044A",
+   "idx": [
+    74
+   ],
+   "jp": "つうこうどめ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0458",
+   "idx": [
+    75
+   ],
+   "jp": "ペンキぬりたて",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0468",
+   "idx": [
+    76
+   ],
+   "jp": "わすれもの",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0474",
+   "idx": [
+    77
+   ],
+   "jp": "デス",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:047A",
+   "idx": [
+    78
+   ],
+   "jp": "タワー",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0482",
+   "idx": [
+    79
+   ],
+   "jp": "ムーン",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:048A",
+   "idx": [
+    80
+   ],
+   "jp": "ちんぼつせん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0498",
+   "idx": [
+    81
+   ],
+   "jp": "ガラスのこびん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:04A8",
+   "idx": [
+    82
+   ],
+   "jp": "おさかなのたいぐん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:04BC",
+   "idx": [
+    83
+   ],
+   "jp": "イルカにそうぐう",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:04CE",
+   "idx": [
+    84
+   ],
+   "jp": "たからものはっけん",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:04E2",
+   "idx": [
+    85
+   ],
+   "jp": "すいりゅう",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:04EE",
+   "idx": [
+    86
+   ],
+   "jp": "サメにみつかる",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:04FE",
+   "idx": [
+    87
+   ],
+   "jp": "うみでおとしもの",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0510",
+   "idx": [
+    88
+   ],
+   "jp": "うみでアンニュイ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_event:0522",
+   "idx": [
+    89
+   ],
+   "jp": "しょうとつじこ",
+   "en": ""
+  }
+ ]
+}

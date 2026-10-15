@@ -1,0 +1,30 @@
+{
+ "path": "/mode/clothes/cls_p_name_nek_a.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_clothes_cls_p_name_nek_a:0000",
+   "idx": [
+    0
+   ],
+   "jp": "ハートペンダント",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_nek_a:0012",
+   "idx": [
+    1
+   ],
+   "jp": "ほしのペンダント",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_nek_a:0024",
+   "idx": [
+    2
+   ],
+   "jp": "ペンダント",
+   "en": ""
+  }
+ ]
+}

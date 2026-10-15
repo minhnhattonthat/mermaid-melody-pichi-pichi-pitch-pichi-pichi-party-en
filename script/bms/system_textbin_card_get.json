@@ -1,0 +1,438 @@
+{
+ "path": "/system/textbin/card_get.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_card_get:0000",
+   "idx": [
+    0
+   ],
+   "jp": "カードを手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0016",
+   "idx": [
+    1
+   ],
+   "jp": "カードを２つ手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0030",
+   "idx": [
+    2
+   ],
+   "jp": "しんじゅのこえ＋１{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0054",
+   "idx": [
+    3
+   ],
+   "jp": "しんじゅのこえ−１{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0078",
+   "idx": [
+    4
+   ],
+   "jp": "うみのおいかぜ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0098",
+   "idx": [
+    5
+   ],
+   "jp": "うみのむかいかぜ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:00BA",
+   "idx": [
+    6
+   ],
+   "jp": "しろいはやなみ＋３{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:00DE",
+   "idx": [
+    7
+   ],
+   "jp": "くろいさかなみ−３{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0102",
+   "idx": [
+    8
+   ],
+   "jp": "くろいさかなみ−２{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0126",
+   "idx": [
+    9
+   ],
+   "jp": "くろいさかなみ−１{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:014A",
+   "idx": [
+    10
+   ],
+   "jp": "ヒッポのうたごえ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:016C",
+   "idx": [
+    11
+   ],
+   "jp": "クラちゃんのおもい{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0190",
+   "idx": [
+    12
+   ],
+   "jp": "タキのよげん{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:01AE",
+   "idx": [
+    13
+   ],
+   "jp": "さいこうのおいかぜ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:01D2",
+   "idx": [
+    14
+   ],
+   "jp": "にこらのおつかい{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:01F4",
+   "idx": [
+    15
+   ],
+   "jp": "あともどりのみち{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0216",
+   "idx": [
+    16
+   ],
+   "jp": "うんめいのきろ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0236",
+   "idx": [
+    17
+   ],
+   "jp": "マーメイドのこえ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0258",
+   "idx": [
+    18
+   ],
+   "jp": "マーメイドのゆうき{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:027C",
+   "idx": [
+    19
+   ],
+   "jp": "マーメイドのダンス{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:02A0",
+   "idx": [
+    20
+   ],
+   "jp": "水妖のメロディ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:02C0",
+   "idx": [
+    21
+   ],
+   "jp": "水妖のあい{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:02DC",
+   "idx": [
+    22
+   ],
+   "jp": "水妖のステップ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:02FC",
+   "idx": [
+    23
+   ],
+   "jp": "プリンセスのねがい{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0320",
+   "idx": [
+    24
+   ],
+   "jp": "さんごのたからもの{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0344",
+   "idx": [
+    25
+   ],
+   "jp": "おおきいたからもの{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0368",
+   "idx": [
+    26
+   ],
+   "jp": "かいもののビーズ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:038A",
+   "idx": [
+    27
+   ],
+   "jp": "ばいそくのしんじゅ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:03AE",
+   "idx": [
+    28
+   ],
+   "jp": "まもりのビーズ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:03CE",
+   "idx": [
+    29
+   ],
+   "jp": "イズールのリュウ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:03F0",
+   "idx": [
+    30
+   ],
+   "jp": "ガイトのいかり{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0410",
+   "idx": [
+    31
+   ],
+   "jp": "エリルのイジワル{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0432",
+   "idx": [
+    32
+   ],
+   "jp": "ユーリのたくらみ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0454",
+   "idx": [
+    33
+   ],
+   "jp": "マリアのわな{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0472",
+   "idx": [
+    34
+   ],
+   "jp": "きけんなかけ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0490",
+   "idx": [
+    35
+   ],
+   "jp": "あしかせのビーズ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:04B2",
+   "idx": [
+    36
+   ],
+   "jp": "ふういんのビーズ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:04D4",
+   "idx": [
+    37
+   ],
+   "jp": "かいようのたつまき{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:04F8",
+   "idx": [
+    38
+   ],
+   "jp": "なぎのうなばら{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0518",
+   "idx": [
+    39
+   ],
+   "jp": "カードいれかえ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0538",
+   "idx": [
+    40
+   ],
+   "jp": "のろいのビーズ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0558",
+   "idx": [
+    41
+   ],
+   "jp": "ふこうのてがみ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0578",
+   "idx": [
+    42
+   ],
+   "jp": "こううんのほし{i223}１{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:059C",
+   "idx": [
+    43
+   ],
+   "jp": "こううんのほし{i223}２{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:05C0",
+   "idx": [
+    44
+   ],
+   "jp": "こううんのほし{i223}３{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:05E4",
+   "idx": [
+    45
+   ],
+   "jp": "こううんのほし{i223}４{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0608",
+   "idx": [
+    46
+   ],
+   "jp": "ふこうのほし{i223}１{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:062A",
+   "idx": [
+    47
+   ],
+   "jp": "ふこうのほし{i223}２{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:064C",
+   "idx": [
+    48
+   ],
+   "jp": "ふこうのほし{i223}３{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:066E",
+   "idx": [
+    49
+   ],
+   "jp": "ふこうのほし{i223}４{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:0690",
+   "idx": [
+    50
+   ],
+   "jp": "おそうじのほうき{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:06B2",
+   "idx": [
+    51
+   ],
+   "jp": "ふゆうのビーズ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:06D2",
+   "idx": [
+    52
+   ],
+   "jp": "とおせんぼのかべ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_get:06F4",
+   "idx": [
+    53
+   ],
+   "jp": "もっていたカードがなくなって\nふこうのてがみ{h }を手に入れたよ",
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "path": "/mode/clothes/cls_p_name_reg.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_clothes_cls_p_name_reg:0000",
+   "idx": [
+    0
+   ],
+   "jp": "きらきらミュール",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_reg:0012",
+   "idx": [
+    1
+   ],
+   "jp": "ハイヒール",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_reg:001E",
+   "idx": [
+    2
+   ],
+   "jp": "ビーチサンダル",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_reg:002E",
+   "idx": [
+    3
+   ],
+   "jp": "スニーカー",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_reg:003A",
+   "idx": [
+    4
+   ],
+   "jp": "ロングブーツ",
+   "en": ""
+  }
+ ]
+}

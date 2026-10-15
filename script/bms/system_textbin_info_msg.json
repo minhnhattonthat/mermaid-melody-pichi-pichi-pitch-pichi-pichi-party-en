@@ -1,0 +1,118 @@
+{
+ "path": "/system/textbin/info_msg.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_info_msg:0000",
+   "idx": [
+    0
+   ],
+   "jp": "ここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:0010",
+   "idx": [
+    1
+   ],
+   "jp": "なにかいいことが{h }おきるマスだよ\nここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:0042",
+   "idx": [
+    2
+   ],
+   "jp": "なにかわるいことが{h }おきるマスだよ\nここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:0076",
+   "idx": [
+    3
+   ],
+   "jp": "なにかカードが{h }もらえるマスだよ\nここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:00A8",
+   "idx": [
+    4
+   ],
+   "jp": "かいものが{h }できるマスだよ\nここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:00D4",
+   "idx": [
+    5
+   ],
+   "jp": "いろんなことが{h }おきるマスだよ\nここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:0104",
+   "idx": [
+    6
+   ],
+   "jp": "むこうに{h }だれかいるよ\nここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:012C",
+   "idx": [
+    7
+   ],
+   "jp": "もくてきちに{h }ついたよ\nここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:0154",
+   "idx": [
+    8
+   ],
+   "jp": "ゴールに{h }ついたよ\nここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:0178",
+   "idx": [
+    9
+   ],
+   "jp": "ここから{h }さきへすすめないよ\nここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:01A6",
+   "idx": [
+    10
+   ],
+   "jp": "ここから{h }いっぽもすすめないよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:01C6",
+   "idx": [
+    11
+   ],
+   "jp": "いまとまると{h }いいことがおきるよ\nここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:01F8",
+   "idx": [
+    12
+   ],
+   "jp": "いまとまると{h }わるいことがおきるよ\nここにとまる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_info_msg:022C",
+   "idx": [
+    13
+   ],
+   "jp": "いまとまると{h }カードがもらえるよ\nここにとまる？",
+   "en": ""
+  }
+ ]
+}

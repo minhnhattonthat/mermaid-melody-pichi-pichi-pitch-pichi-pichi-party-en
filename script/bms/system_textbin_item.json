@@ -1,0 +1,582 @@
+{
+ "path": "/system/textbin/item.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_item:0000",
+   "idx": [
+    0
+   ],
+   "jp": "すっきりシャツ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0010",
+   "idx": [
+    1
+   ],
+   "jp": "２ＷＡＹシャツ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0020",
+   "idx": [
+    2
+   ],
+   "jp": "リボンシャツ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:002E",
+   "idx": [
+    3
+   ],
+   "jp": "ネクタイシャツ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:003E",
+   "idx": [
+    4
+   ],
+   "jp": "キャラＴ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0048",
+   "idx": [
+    5
+   ],
+   "jp": "ゆったりＴ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0054",
+   "idx": [
+    6
+   ],
+   "jp": "ロゴＴ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:005C",
+   "idx": [
+    7
+   ],
+   "jp": "ハイネックＴ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:006A",
+   "idx": [
+    8
+   ],
+   "jp": "チビＴ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0072",
+   "idx": [
+    9
+   ],
+   "jp": "かさねトップス",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0082",
+   "idx": [
+    10
+   ],
+   "jp": "チビトップス",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0090",
+   "idx": [
+    11
+   ],
+   "jp": "リボントップス",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:00A0",
+   "idx": [
+    12
+   ],
+   "jp": "ハイネック",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:00AC",
+   "idx": [
+    13
+   ],
+   "jp": "タンクトップ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:00BA",
+   "idx": [
+    14
+   ],
+   "jp": "水玉キャミ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:00C6",
+   "idx": [
+    15
+   ],
+   "jp": "ハートキャミ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:00D4",
+   "idx": [
+    16
+   ],
+   "jp": "レースキャミ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:00E2",
+   "idx": [
+    17
+   ],
+   "jp": "おしゃれキャミ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:00F2",
+   "idx": [
+    18
+   ],
+   "jp": "フリルカットソー",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0104",
+   "idx": [
+    19
+   ],
+   "jp": "Ｖカットソー",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0112",
+   "idx": [
+    20
+   ],
+   "jp": "大人カットソー",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0122",
+   "idx": [
+    21
+   ],
+   "jp": "ジャケット",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:012E",
+   "idx": [
+    22
+   ],
+   "jp": "ラグシャツ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:013A",
+   "idx": [
+    23
+   ],
+   "jp": "パーカー",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0144",
+   "idx": [
+    24
+   ],
+   "jp": "カーディガン",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0152",
+   "idx": [
+    25
+   ],
+   "jp": "だんしせいふく",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0162",
+   "idx": [
+    26
+   ],
+   "jp": "じょしせいふく",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0172",
+   "idx": [
+    27
+   ],
+   "jp": "フリルスカート",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0182",
+   "idx": [
+    28
+   ],
+   "jp": "チェックスカート",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0194",
+   "idx": [
+    29
+   ],
+   "jp": "ボックスプリーツ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:01A6",
+   "idx": [
+    30
+   ],
+   "jp": "フレアスカート",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:01B6",
+   "idx": [
+    31
+   ],
+   "jp": "ミニスカート",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:01C4",
+   "idx": [
+    32
+   ],
+   "jp": "スリットミニ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:01D2",
+   "idx": [
+    33
+   ],
+   "jp": "ポケットミニ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:01E0",
+   "idx": [
+    34
+   ],
+   "jp": "フリルミニ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:01EC",
+   "idx": [
+    35
+   ],
+   "jp": "レースミニ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:01F8",
+   "idx": [
+    36
+   ],
+   "jp": "ふわふわミニ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0206",
+   "idx": [
+    37
+   ],
+   "jp": "プリーツロング",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0216",
+   "idx": [
+    38
+   ],
+   "jp": "ロングスカート",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0226",
+   "idx": [
+    39
+   ],
+   "jp": "スリットロング",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0236",
+   "idx": [
+    40
+   ],
+   "jp": "フリルロング",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0244",
+   "idx": [
+    41
+   ],
+   "jp": "ベルトロング",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0252",
+   "idx": [
+    42
+   ],
+   "jp": "カーゴパンツ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0260",
+   "idx": [
+    43
+   ],
+   "jp": "ジーンズ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:026A",
+   "idx": [
+    44
+   ],
+   "jp": "ハーフパンツ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0278",
+   "idx": [
+    45
+   ],
+   "jp": "ホットパンツ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0286",
+   "idx": [
+    46
+   ],
+   "jp": "デニムタンパン",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0296",
+   "idx": [
+    47
+   ],
+   "jp": "フリルタンパン",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:02A6",
+   "idx": [
+    48
+   ],
+   "jp": "だんしせいふく",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:02B6",
+   "idx": [
+    49
+   ],
+   "jp": "じょしせいふく",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:02C6",
+   "idx": [
+    50
+   ],
+   "jp": "ドレス",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:02CE",
+   "idx": [
+    51
+   ],
+   "jp": "チャイナドレス",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:02DE",
+   "idx": [
+    52
+   ],
+   "jp": "キラキラワンピ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:02EE",
+   "idx": [
+    53
+   ],
+   "jp": "すっきりワンピ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:02FE",
+   "idx": [
+    54
+   ],
+   "jp": "ほしのかざり",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:030C",
+   "idx": [
+    55
+   ],
+   "jp": "花かざり",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0316",
+   "idx": [
+    56
+   ],
+   "jp": "スポーツバッグ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0326",
+   "idx": [
+    57
+   ],
+   "jp": "花がらバッグ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0334",
+   "idx": [
+    58
+   ],
+   "jp": "ハートペンダント",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0346",
+   "idx": [
+    59
+   ],
+   "jp": "ほしのペンダント",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0358",
+   "idx": [
+    60
+   ],
+   "jp": "貝のペンダント",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0368",
+   "idx": [
+    61
+   ],
+   "jp": "ほしのうでわ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0376",
+   "idx": [
+    62
+   ],
+   "jp": "ハートのうでわ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0386",
+   "idx": [
+    63
+   ],
+   "jp": "うでどけい",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:0392",
+   "idx": [
+    64
+   ],
+   "jp": "きらきらミュール",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:03A4",
+   "idx": [
+    65
+   ],
+   "jp": "ハイヒール",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:03B0",
+   "idx": [
+    66
+   ],
+   "jp": "ビーチサンダル",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:03C0",
+   "idx": [
+    67
+   ],
+   "jp": "スニーカー",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:03CC",
+   "idx": [
+    68
+   ],
+   "jp": "ロングブーツ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:03DA",
+   "idx": [
+    69
+   ],
+   "jp": "　　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:03EC",
+   "idx": [
+    70
+   ],
+   "jp": "　　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item:03FE",
+   "idx": [
+    71
+   ],
+   "jp": "　　　　　　　　",
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "path": "/mode/clothes/cls_p_name_wst.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_clothes_cls_p_name_wst:0000",
+   "idx": [
+    0
+   ],
+   "jp": "フリルスカート",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:0010",
+   "idx": [
+    1
+   ],
+   "jp": "チェックスカート",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:0022",
+   "idx": [
+    2
+   ],
+   "jp": "ボックスプリーツ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:0034",
+   "idx": [
+    3
+   ],
+   "jp": "フレア",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:003C",
+   "idx": [
+    4
+   ],
+   "jp": "ミニスカート",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:004A",
+   "idx": [
+    5
+   ],
+   "jp": "スリットミニ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:0058",
+   "idx": [
+    6
+   ],
+   "jp": "プリーツミニ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:0066",
+   "idx": [
+    7
+   ],
+   "jp": "フリルミニ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:0072",
+   "idx": [
+    8
+   ],
+   "jp": "レースミニ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:007E",
+   "idx": [
+    9
+   ],
+   "jp": "ふわふわミニ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:008C",
+   "idx": [
+    10
+   ],
+   "jp": "ブリーツロング",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:009C",
+   "idx": [
+    11
+   ],
+   "jp": "ロングスカート",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:00AC",
+   "idx": [
+    12
+   ],
+   "jp": "スリットロング",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:00BC",
+   "idx": [
+    13
+   ],
+   "jp": "フリルロング",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:00CA",
+   "idx": [
+    14
+   ],
+   "jp": "ベルトロング",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:00D8",
+   "idx": [
+    15
+   ],
+   "jp": "カーゴパンツ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:00E6",
+   "idx": [
+    16
+   ],
+   "jp": "ジーンズ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:00F0",
+   "idx": [
+    17
+   ],
+   "jp": "ハーフパンツ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:00FE",
+   "idx": [
+    18
+   ],
+   "jp": "ホットパンツ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:010C",
+   "idx": [
+    19
+   ],
+   "jp": "デニムパンツ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:011A",
+   "idx": [
+    20
+   ],
+   "jp": "フリルタンパン",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:012A",
+   "idx": [
+    21
+   ],
+   "jp": "だんしせいふく",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_wst:013A",
+   "idx": [
+    22
+   ],
+   "jp": "じょしせいふく",
+   "en": ""
+  }
+ ]
+}

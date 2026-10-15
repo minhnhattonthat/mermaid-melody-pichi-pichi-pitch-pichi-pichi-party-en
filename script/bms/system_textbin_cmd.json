@@ -1,0 +1,46 @@
+{
+ "path": "/system/textbin/cmd.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_cmd:0000",
+   "idx": [
+    0
+   ],
+   "jp": "いどうする　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_cmd:0010",
+   "idx": [
+    1
+   ],
+   "jp": "カードをつかう",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_cmd:0020",
+   "idx": [
+    2
+   ],
+   "jp": "きがえる　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_cmd:0030",
+   "idx": [
+    3
+   ],
+   "jp": "マップをみる　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_cmd:0040",
+   "idx": [
+    4
+   ],
+   "jp": "システム　　　",
+   "en": ""
+  }
+ ]
+}

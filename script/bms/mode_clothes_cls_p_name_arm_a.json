@@ -1,0 +1,30 @@
+{
+ "path": "/mode/clothes/cls_p_name_arm_a.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_clothes_cls_p_name_arm_a:0000",
+   "idx": [
+    0
+   ],
+   "jp": "ほしのうでわ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_arm_a:000E",
+   "idx": [
+    1
+   ],
+   "jp": "ハートのうでわ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_arm_a:001E",
+   "idx": [
+    2
+   ],
+   "jp": "うでどけい",
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,414 @@
+{
+ "path": "/system/textbin/card_msg.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_card_msg:0000",
+   "idx": [
+    0
+   ],
+   "jp": "オンプのかずを＋１するよ\n（さいこう５つまでふやせるよ）",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:003A",
+   "idx": [
+    1
+   ],
+   "jp": "オンプのかずを−１するよ\n（さいてい１つまでへらせるよ）",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0074",
+   "idx": [
+    2
+   ],
+   "jp": "つぎにすすめるかずを\nさいてい６いじょうにするよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:00A6",
+   "idx": [
+    3
+   ],
+   "jp": "つぎにすすめるかずを\nさいこう３までにするよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:00D4",
+   "idx": [
+    4
+   ],
+   "jp": "ルーレットのごうけいを＋３するよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:00F6",
+   "idx": [
+    5
+   ],
+   "jp": "ルーレットのごうけいを−３するよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0118",
+   "idx": [
+    6
+   ],
+   "jp": "ルーレットのごうけいを−２するよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:013A",
+   "idx": [
+    7
+   ],
+   "jp": "ルーレットのごうけいを−１するよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:015C",
+   "idx": [
+    8
+   ],
+   "jp": "みんな{h }つぎのいどうが１マスになるよ\nこのカードのこうかはふせげないよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:01A4",
+   "idx": [
+    9
+   ],
+   "jp": "ルーレットのかいてんスピードが\nおそくなるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:01D2",
+   "idx": [
+    10
+   ],
+   "jp": "オンプがはねても\nかずがかわらないよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:01F8",
+   "idx": [
+    11
+   ],
+   "jp": "いちばん大きなかずがでるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0214",
+   "idx": [
+    12
+   ],
+   "jp": "いつでも\nとまれるようになるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0234",
+   "idx": [
+    13
+   ],
+   "jp": "あるくほうこうが\nぎゃくになっちゃうよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:025C",
+   "idx": [
+    14
+   ],
+   "jp": "じゆうにほうこうをかえられるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:027C",
+   "idx": [
+    15
+   ],
+   "jp": "うたうちからを＋２するよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0296",
+   "idx": [
+    16
+   ],
+   "jp": "まけないこころを＋２するよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:02B2",
+   "idx": [
+    17
+   ],
+   "jp": "けいかいなステップを＋２するよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:02D2",
+   "idx": [
+    18
+   ],
+   "jp": "うたうちからを{h-}２するよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:02EC",
+   "idx": [
+    19
+   ],
+   "jp": "まけないこころを{h-}２するよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0308",
+   "idx": [
+    20
+   ],
+   "jp": "けいかいなステップを{h-}２するよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0328",
+   "idx": [
+    21
+   ],
+   "jp": "しばらく{h }パワーＵＰして{h }\nつよくなるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0352",
+   "idx": [
+    22
+   ],
+   "jp": "なにかアイテムがもらえるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:036E",
+   "idx": [
+    23
+   ],
+   "jp": "なにかカードを２まいもらえるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:038E",
+   "idx": [
+    24
+   ],
+   "jp": "たくさん{h }かいものができるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:03AC",
+   "idx": [
+    25
+   ],
+   "jp": "１／２で{h }２ターンつづけて\nこうどうできるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:03DA",
+   "idx": [
+    26
+   ],
+   "jp": "３ターンのあいだ\nカードのこうかをよせつけないよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:040C",
+   "idx": [
+    27
+   ],
+   "jp": "ランダムに\nアイテムをこわすことができるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0438",
+   "idx": [
+    28
+   ],
+   "jp": "もっているカードが３まい\nいじょうならすべてこわすよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:046E",
+   "idx": [
+    29
+   ],
+   "jp": "ランダムにカードを\n１まいうばうことができるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:049E",
+   "idx": [
+    30
+   ],
+   "jp": "ヒロインポイントの３０％を\nうばって{h }２人でわけるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:04D4",
+   "idx": [
+    31
+   ],
+   "jp": "１／２で１ターンお休みにするよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:04F4",
+   "idx": [
+    32
+   ],
+   "jp": "１／４で３ターンお休みにできる\n３／４でじぶんの{i211}が−３００に",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0534",
+   "idx": [
+    33
+   ],
+   "jp": "３ターンのあいだ\nいどうが２マスになるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:055E",
+   "idx": [
+    34
+   ],
+   "jp": "３ターンのあいだ\nカードとアイテムがつかえなくなるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0594",
+   "idx": [
+    35
+   ],
+   "jp": "ランダムにどこかにとばされるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:05B4",
+   "idx": [
+    36
+   ],
+   "jp": "いまかかっているすべてのこうかを\nなくしてしまうよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:05E8",
+   "idx": [
+    37
+   ],
+   "jp": "もっているカードをすべてすてて\nおなじかずだけもらうよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0620",
+   "idx": [
+    38
+   ],
+   "jp": "あるいたかず×５だけ\nヒロインポイントマイナス",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0650",
+   "idx": [
+    39
+   ],
+   "jp": "もっているとふこうになる\n２ターンごに{h }どこかにいくよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0688",
+   "idx": [
+    40
+   ],
+   "jp": "すこし{h }こううんなできごとを\nマスにおけるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:06B6",
+   "idx": [
+    41
+   ],
+   "jp": "こううんなできごとを\nマスにおけるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:06DC",
+   "idx": [
+    42
+   ],
+   "jp": "わりと{h }こううんなできごとを\nマスにおけるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:070A",
+   "idx": [
+    43
+   ],
+   "jp": "とても{h }こううんなできごとを\nマスにおけるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0738",
+   "idx": [
+    44
+   ],
+   "jp": "すこし{h }ふこうなできごとを\nマスにおけるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0764",
+   "idx": [
+    45
+   ],
+   "jp": "ふこうなできごとを\nマスにおけるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0788",
+   "idx": [
+    46
+   ],
+   "jp": "わりと{h }ふこうなできごとを\nマスにおけるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:07B4",
+   "idx": [
+    47
+   ],
+   "jp": "とても{h }ふこうなできごとを\nマスにおけるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:07E0",
+   "idx": [
+    48
+   ],
+   "jp": "おかれたほしやいわを\nけすことができるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:080A",
+   "idx": [
+    49
+   ],
+   "jp": "マスのこうかを\nうけずにいどうができるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_msg:0834",
+   "idx": [
+    50
+   ],
+   "jp": "じぶんのばしょに\nつうこうどめをつくれるよ",
+   "en": ""
+  }
+ ]
+}

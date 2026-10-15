@@ -1,0 +1,150 @@
+{
+ "path": "/system/textbin/syscmd.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_syscmd:0000",
+   "idx": [
+    0
+   ],
+   "jp": "みる　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:0008",
+   "idx": [
+    1
+   ],
+   "jp": "きろく",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:0010",
+   "idx": [
+    2
+   ],
+   "jp": "カード",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:0018",
+   "idx": [
+    3
+   ],
+   "jp": "キャラクターのじょうほうが見れるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:003C",
+   "idx": [
+    4
+   ],
+   "jp": "十字ボタンの左右で\n見ているキャラクターをかえられるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:0074",
+   "idx": [
+    5
+   ],
+   "jp": "ボタンをおすと{h }もどれるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:0090",
+   "idx": [
+    6
+   ],
+   "jp": "いまのじょうたいを{h }きろくできるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:00B4",
+   "idx": [
+    7
+   ],
+   "jp": "ばんごうをえらんでけってい",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:00D0",
+   "idx": [
+    8
+   ],
+   "jp": "ほんとうに{h }きろくしてもいい？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:00F0",
+   "idx": [
+    9
+   ],
+   "jp": "きろくできたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:0100",
+   "idx": [
+    10
+   ],
+   "jp": "むずかしいモードでしかつかえないよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:0124",
+   "idx": [
+    11
+   ],
+   "jp": "きいろマスの上でしかつかえないよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:0146",
+   "idx": [
+    12
+   ],
+   "jp": "ほしいカードを{h }せっていしちゃおう",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:016A",
+   "idx": [
+    13
+   ],
+   "jp": "Ａボタンをおして{h }\nほしいカードのレベルを上げてね",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:019E",
+   "idx": [
+    14
+   ],
+   "jp": "このモードはきろくできないよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:01BC",
+   "idx": [
+    15
+   ],
+   "jp": "これいじょうポイントを\nせっていできないよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:01E8",
+   "idx": [
+    16
+   ],
+   "jp": "　データがありません",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_syscmd:01FE",
+   "idx": [
+    17
+   ],
+   "jp": "　データがこわれています",
+   "en": ""
+  }
+ ]
+}

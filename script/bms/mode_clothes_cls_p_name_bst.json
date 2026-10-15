@@ -1,0 +1,254 @@
+{
+ "path": "/mode/clothes/cls_p_name_bst.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_clothes_cls_p_name_bst:0000",
+   "idx": [
+    0
+   ],
+   "jp": "すっきりシャツ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0010",
+   "idx": [
+    1
+   ],
+   "jp": "２ＷＡＹシャツ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0020",
+   "idx": [
+    2
+   ],
+   "jp": "リボンシャツ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:002E",
+   "idx": [
+    3
+   ],
+   "jp": "ネクタイシャツ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:003E",
+   "idx": [
+    4
+   ],
+   "jp": "キャラＴ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0048",
+   "idx": [
+    5
+   ],
+   "jp": "ゆったりＴ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0054",
+   "idx": [
+    6
+   ],
+   "jp": "ロゴＴ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:005C",
+   "idx": [
+    7
+   ],
+   "jp": "シンプルＴ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0068",
+   "idx": [
+    8
+   ],
+   "jp": "チビＴ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0070",
+   "idx": [
+    9
+   ],
+   "jp": "かさねトラップス",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0082",
+   "idx": [
+    10
+   ],
+   "jp": "チビトップス",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0090",
+   "idx": [
+    11
+   ],
+   "jp": "リボントップス",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:00A0",
+   "idx": [
+    12
+   ],
+   "jp": "ハイネック",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:00AC",
+   "idx": [
+    13
+   ],
+   "jp": "タンクトップ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:00BA",
+   "idx": [
+    14
+   ],
+   "jp": "みずたまキャミ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:00CA",
+   "idx": [
+    15
+   ],
+   "jp": "ハートキャミ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:00D8",
+   "idx": [
+    16
+   ],
+   "jp": "レースキャミ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:00E6",
+   "idx": [
+    17
+   ],
+   "jp": "おしゃれキャミ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:00F6",
+   "idx": [
+    18
+   ],
+   "jp": "フリルカットソー",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0108",
+   "idx": [
+    19
+   ],
+   "jp": "Ｖカットソー",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0116",
+   "idx": [
+    20
+   ],
+   "jp": "おとなカットソー",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0128",
+   "idx": [
+    21
+   ],
+   "jp": "ジャケット",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0134",
+   "idx": [
+    22
+   ],
+   "jp": "ラグシャツ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0140",
+   "idx": [
+    23
+   ],
+   "jp": "パーカー",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:014A",
+   "idx": [
+    24
+   ],
+   "jp": "カーディガン",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0158",
+   "idx": [
+    25
+   ],
+   "jp": "だんしせいふく",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0168",
+   "idx": [
+    26
+   ],
+   "jp": "じょしせいふく",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0178",
+   "idx": [
+    27
+   ],
+   "jp": "ドレス",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:0180",
+   "idx": [
+    28
+   ],
+   "jp": "チャイナ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:018A",
+   "idx": [
+    29
+   ],
+   "jp": "キラキラワンピ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bst:019A",
+   "idx": [
+    30
+   ],
+   "jp": "すっきりワンピ",
+   "en": ""
+  }
+ ]
+}

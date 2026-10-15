@@ -1,0 +1,38 @@
+{
+ "path": "/system/textbin/item_info.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_item_info:0000",
+   "idx": [
+    0
+   ],
+   "jp": "きがえられる{h }ようふくは\nもってないよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_info:0028",
+   "idx": [
+    1
+   ],
+   "jp": "これに{h }きがえる？{h }すてる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_info:0046",
+   "idx": [
+    2
+   ],
+   "jp": "アイテムがいっぱいでもてなかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_info:006A",
+   "idx": [
+    3
+   ],
+   "jp": "これを{h }ぬいじゃう？{h }すてる？",
+   "en": ""
+  }
+ ]
+}

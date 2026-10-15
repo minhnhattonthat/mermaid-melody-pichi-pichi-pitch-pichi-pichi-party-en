@@ -1,0 +1,142 @@
+{
+ "path": "/system/textbin/card_info.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_card_info:0000",
+   "idx": [
+    0
+   ],
+   "jp": "十字ボタンでキャラクターをえらんでね",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:0026",
+   "idx": [
+    1
+   ],
+   "jp": "十字ボタンでマスをえらんでね",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:0044",
+   "idx": [
+    2
+   ],
+   "jp": "カードがいっぱいでもてなかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:0066",
+   "idx": [
+    3
+   ],
+   "jp": "カードは{h }１まいももってないよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:0086",
+   "idx": [
+    4
+   ],
+   "jp": "カードをつかう？{h }すてる？",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:00A2",
+   "idx": [
+    5
+   ],
+   "jp": "を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:00B2",
+   "idx": [
+    6
+   ],
+   "jp": "がこわれたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:00C0",
+   "idx": [
+    7
+   ],
+   "jp": "をうばって手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:00D8",
+   "idx": [
+    8
+   ],
+   "jp": "をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:00E6",
+   "idx": [
+    9
+   ],
+   "jp": "１ターンお休みさせるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:00FE",
+   "idx": [
+    10
+   ],
+   "jp": "３ターンお休みさせるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:0116",
+   "idx": [
+    11
+   ],
+   "jp": "このカードは{h }つかうことも\nすてることもできないよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:014A",
+   "idx": [
+    12
+   ],
+   "jp": "ふこうのてがみのこうかがきれて\nどこかにきえていったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:0182",
+   "idx": [
+    13
+   ],
+   "jp": "ふこうのてがみのこうかがきれて\nだれかのところへいったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:01BC",
+   "idx": [
+    14
+   ],
+   "jp": "３まいいじょうもってないから\nこわせなかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:01EC",
+   "idx": [
+    15
+   ],
+   "jp": "ふしぎなこうかが{h }カードのこうかを\nよせつけなかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_info:0224",
+   "idx": [
+    16
+   ],
+   "jp": "２ターンつづけてこうどう\nできるようになったよ",
+   "en": ""
+  }
+ ]
+}

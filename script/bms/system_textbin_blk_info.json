@@ -1,0 +1,198 @@
+{
+ "path": "/system/textbin/blk_info.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_blk_info:0000",
+   "idx": [
+    0
+   ],
+   "jp": "『青いマス』\nなにか{h }いいことがおきるマスだよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:0030",
+   "idx": [
+    1
+   ],
+   "jp": "『むらさきのマス』\nなにか{h }わるいことがおきるマスだよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:0068",
+   "idx": [
+    2
+   ],
+   "jp": "『きいろいマス』\nカードがもらえるマスだよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:0094",
+   "idx": [
+    3
+   ],
+   "jp": "『ラッキー』\nラッキーなできごとがおきるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:00C0",
+   "idx": [
+    4
+   ],
+   "jp": "『ハプニング』\nハプニングなできごとがおきるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:00F0",
+   "idx": [
+    5
+   ],
+   "jp": "『パールピアリ』\nるちあと波音のすんでいるおうち",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:0122",
+   "idx": [
+    6
+   ],
+   "jp": "『そうごうたいいくかん』\nルーレットで{h }ステータス{h }{i20E}ＵＰ！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:0160",
+   "idx": [
+    7
+   ],
+   "jp": "『学校』\nルーレットで{h }ステータス{h }{i20C}ＵＰ！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:018E",
+   "idx": [
+    8
+   ],
+   "jp": "『としょかん』\nルーレットで{h }ステータス{h }{i20D}ＵＰ！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:01C2",
+   "idx": [
+    9
+   ],
+   "jp": "『ショッピングモール』\nおかいものができるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:01F0",
+   "idx": [
+    10
+   ],
+   "jp": "『ちゅうおうこうえん』\nおかいものができるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:021E",
+   "idx": [
+    11
+   ],
+   "jp": "『じんじゃ』\nおまいりして{h }おまもりを入手",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:024A",
+   "idx": [
+    12
+   ],
+   "jp": "『にんぎょのどうくつ』\nどうくつを{h }たんけんできるよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:0280",
+   "idx": [
+    13
+   ],
+   "jp": "『アクアプレイス』\nていばんのデートスポットだよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:02B2",
+   "idx": [
+    14
+   ],
+   "jp": "『サーフィンかいじょう』\nていばんのデートスポットだよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:02EA",
+   "idx": [
+    15
+   ],
+   "jp": "『うみのいえ』\nていばんのデートスポットだよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:0318",
+   "idx": [
+    16
+   ],
+   "jp": "『みさきのてんぼうだい』\nていばんのデートスポットだよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:0350",
+   "idx": [
+    17
+   ],
+   "jp": "『かいひんこうえん』\nていばんのデートスポットだよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:0384",
+   "idx": [
+    18
+   ],
+   "jp": "『ふんすいひろば』\nていばんのデートスポットだよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:03B6",
+   "idx": [
+    19
+   ],
+   "jp": "『コンサートホール』\nていばんのデートスポットだよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:03EA",
+   "idx": [
+    20
+   ],
+   "jp": "『きょうかい』\nていばんのデートスポットだよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:0418",
+   "idx": [
+    21
+   ],
+   "jp": "『リナのいえ』\nリナのすんでいるいえ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:043E",
+   "idx": [
+    22
+   ],
+   "jp": "『海斗のいえ』\n海斗のすんでいるいえ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_blk_info:0464",
+   "idx": [
+    23
+   ],
+   "jp": "『海月先生のいえ』\n海月先生のすんでいるいえ",
+   "en": ""
+  }
+ ]
+}

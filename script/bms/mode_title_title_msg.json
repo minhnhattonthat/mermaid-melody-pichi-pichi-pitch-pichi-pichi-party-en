@@ -1,0 +1,198 @@
+{
+ "path": "/mode/title/title_msg.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_title_title_msg:0000",
+   "idx": [
+    0
+   ],
+   "jp": "１だいをつかってコンピューターと\nたいせんできるモードよ",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:003A",
+   "idx": [
+    1
+   ],
+   "jp": "１だいをつかって\nみんなでたいせんできるモードよ",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:006C",
+   "idx": [
+    2
+   ],
+   "jp": "つうしんケーブルをつかって\nみんなでたいせんできるモードよ",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:00A8",
+   "idx": [
+    3
+   ],
+   "jp": "ひとりで３２エピソードのクリアを\nとことんめざすモードよ",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:00E2",
+   "idx": [
+    4
+   ],
+   "jp": "とことんピッチで入手したアイテムで\nきせかえができるモードよ",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:0120",
+   "idx": [
+    5
+   ],
+   "jp": "じぶんのヒロインを{h }せんたくしてね",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:0144",
+   "idx": [
+    6
+   ],
+   "jp": "ゲームのじゅんばんをきめるね",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:0162",
+   "idx": [
+    7
+   ],
+   "jp": "あそぶながさをきめてね",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:017A",
+   "idx": [
+    8
+   ],
+   "jp": "きょうはなん人であそぶの？",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:0196",
+   "idx": [
+    9
+   ],
+   "jp": "つうしんをしらべてるよ{h }ＯＫなら\n１Ｐの人がＡボタンをおしてね",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:01D6",
+   "idx": [
+    10
+   ],
+   "jp": "はじめから？　つづきから？",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:01F2",
+   "idx": [
+    11
+   ],
+   "jp": "ゲームのせっていをきめてね",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:020E",
+   "idx": [
+    12
+   ],
+   "jp": "つづき",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:0216",
+   "idx": [
+    13
+   ],
+   "jp": "けす",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:021C",
+   "idx": [
+    14
+   ],
+   "jp": "クリア",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:0224",
+   "idx": [
+    15
+   ],
+   "jp": "きろくしたつづきから\nゲームをはじめるよ",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:024E",
+   "idx": [
+    16
+   ],
+   "jp": "つづきからはじめたいばんごうを\nえらんでね",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:027A",
+   "idx": [
+    17
+   ],
+   "jp": "これでいい？",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:0288",
+   "idx": [
+    18
+   ],
+   "jp": "きろくをけすことができるよ",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:02A4",
+   "idx": [
+    19
+   ],
+   "jp": "けしたいきろくをえらんでね",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:02C0",
+   "idx": [
+    20
+   ],
+   "jp": "これをほんとうにけしちゃっていい？",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:02E4",
+   "idx": [
+    21
+   ],
+   "jp": "ゲームをかったときの\nじょうたいにもどすよ",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:0310",
+   "idx": [
+    22
+   ],
+   "jp": "ほんとうにクリアしちゃっていい？",
+   "en": ""
+  },
+  {
+   "id": "mode_title_title_msg:0332",
+   "idx": [
+    23
+   ],
+   "jp": "このじゅんばんでいい？",
+   "en": ""
+  }
+ ]
+}

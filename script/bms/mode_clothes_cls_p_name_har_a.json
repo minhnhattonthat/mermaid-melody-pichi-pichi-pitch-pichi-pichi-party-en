@@ -1,0 +1,22 @@
+{
+ "path": "/mode/clothes/cls_p_name_har_a.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_clothes_cls_p_name_har_a:0000",
+   "idx": [
+    0
+   ],
+   "jp": "おっきなリボン",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_har_a:0010",
+   "idx": [
+    1
+   ],
+   "jp": "はなかざり",
+   "en": ""
+  }
+ ]
+}

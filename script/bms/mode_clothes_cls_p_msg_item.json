@@ -1,0 +1,558 @@
+{
+ "path": "/mode/clothes/cls_p_msg_item.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_clothes_cls_p_msg_item:0000",
+   "idx": [
+    0
+   ],
+   "jp": "むね１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0008",
+   "idx": [
+    1
+   ],
+   "jp": "むね２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0010",
+   "idx": [
+    2
+   ],
+   "jp": "むね３",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0018",
+   "idx": [
+    3
+   ],
+   "jp": "むね４",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0020",
+   "idx": [
+    4
+   ],
+   "jp": "むね５",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0028",
+   "idx": [
+    5
+   ],
+   "jp": "むね６",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0030",
+   "idx": [
+    6
+   ],
+   "jp": "むね７",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0038",
+   "idx": [
+    7
+   ],
+   "jp": "むね８",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0040",
+   "idx": [
+    8
+   ],
+   "jp": "むね９",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0048",
+   "idx": [
+    9
+   ],
+   "jp": "むね１０",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0052",
+   "idx": [
+    10
+   ],
+   "jp": "むね１１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:005C",
+   "idx": [
+    11
+   ],
+   "jp": "むね１２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0066",
+   "idx": [
+    12
+   ],
+   "jp": "むね１３",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0070",
+   "idx": [
+    13
+   ],
+   "jp": "むね１４",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:007A",
+   "idx": [
+    14
+   ],
+   "jp": "むね１５",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0084",
+   "idx": [
+    15
+   ],
+   "jp": "むね１６",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:008E",
+   "idx": [
+    16
+   ],
+   "jp": "むね１７",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0098",
+   "idx": [
+    17
+   ],
+   "jp": "むね１８",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:00A2",
+   "idx": [
+    18
+   ],
+   "jp": "むね１９",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:00AC",
+   "idx": [
+    19
+   ],
+   "jp": "むね２０",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:00B6",
+   "idx": [
+    20
+   ],
+   "jp": "むね２１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:00C0",
+   "idx": [
+    21
+   ],
+   "jp": "むね２２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:00CA",
+   "idx": [
+    22
+   ],
+   "jp": "むね２３",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:00D4",
+   "idx": [
+    23
+   ],
+   "jp": "むね２４",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:00DE",
+   "idx": [
+    24
+   ],
+   "jp": "むね２５",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:00E8",
+   "idx": [
+    25
+   ],
+   "jp": "むね２６",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:00F2",
+   "idx": [
+    26
+   ],
+   "jp": "むね２７",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:00FC",
+   "idx": [
+    27
+   ],
+   "jp": "つなぎ１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0106",
+   "idx": [
+    28
+   ],
+   "jp": "つなぎ２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0110",
+   "idx": [
+    29
+   ],
+   "jp": "つなぎ３",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:011A",
+   "idx": [
+    30
+   ],
+   "jp": "つなぎ４",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0124",
+   "idx": [
+    31
+   ],
+   "jp": "こし１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:012C",
+   "idx": [
+    32
+   ],
+   "jp": "こし２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0134",
+   "idx": [
+    33
+   ],
+   "jp": "こし３",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:013C",
+   "idx": [
+    34
+   ],
+   "jp": "こし４",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0144",
+   "idx": [
+    35
+   ],
+   "jp": "こし５",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:014C",
+   "idx": [
+    36
+   ],
+   "jp": "こし６",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0154",
+   "idx": [
+    37
+   ],
+   "jp": "こし７",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:015C",
+   "idx": [
+    38
+   ],
+   "jp": "こし８",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0164",
+   "idx": [
+    39
+   ],
+   "jp": "こし９",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:016C",
+   "idx": [
+    40
+   ],
+   "jp": "こし１０",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0176",
+   "idx": [
+    41
+   ],
+   "jp": "こし１１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0180",
+   "idx": [
+    42
+   ],
+   "jp": "こし１２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:018A",
+   "idx": [
+    43
+   ],
+   "jp": "こし１３",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0194",
+   "idx": [
+    44
+   ],
+   "jp": "こし１４",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:019E",
+   "idx": [
+    45
+   ],
+   "jp": "こし１５",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:01A8",
+   "idx": [
+    46
+   ],
+   "jp": "こし１６",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:01B2",
+   "idx": [
+    47
+   ],
+   "jp": "こし１７",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:01BC",
+   "idx": [
+    48
+   ],
+   "jp": "こし１８",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:01C6",
+   "idx": [
+    49
+   ],
+   "jp": "こし１９",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:01D0",
+   "idx": [
+    50
+   ],
+   "jp": "こし２０",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:01DA",
+   "idx": [
+    51
+   ],
+   "jp": "こし２１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:01E4",
+   "idx": [
+    52
+   ],
+   "jp": "こし２２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:01EE",
+   "idx": [
+    53
+   ],
+   "jp": "こし２３",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:01F8",
+   "idx": [
+    54
+   ],
+   "jp": "かみかざり１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0206",
+   "idx": [
+    55
+   ],
+   "jp": "かみかざり２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0214",
+   "idx": [
+    56
+   ],
+   "jp": "ばっぐ１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:021E",
+   "idx": [
+    57
+   ],
+   "jp": "ばっぐ２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0228",
+   "idx": [
+    58
+   ],
+   "jp": "ペンダント１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0236",
+   "idx": [
+    59
+   ],
+   "jp": "ペンダント２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0244",
+   "idx": [
+    60
+   ],
+   "jp": "ペンダント３",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0252",
+   "idx": [
+    61
+   ],
+   "jp": "うでわ１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:025C",
+   "idx": [
+    62
+   ],
+   "jp": "うでわ２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0266",
+   "idx": [
+    63
+   ],
+   "jp": "うでわ３",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0270",
+   "idx": [
+    64
+   ],
+   "jp": "くつ１",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0278",
+   "idx": [
+    65
+   ],
+   "jp": "くつ２",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0280",
+   "idx": [
+    66
+   ],
+   "jp": "くつ３",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0288",
+   "idx": [
+    67
+   ],
+   "jp": "くつ４",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_msg_item:0290",
+   "idx": [
+    68
+   ],
+   "jp": "くつ５",
+   "en": ""
+  }
+ ]
+}

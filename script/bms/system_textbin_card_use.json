@@ -1,0 +1,414 @@
+{
+ "path": "/system/textbin/card_use.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_card_use:0000",
+   "idx": [
+    0
+   ],
+   "jp": "しんじゅのこえ＋１{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0022",
+   "idx": [
+    1
+   ],
+   "jp": "しんじゅのこえ−１{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0044",
+   "idx": [
+    2
+   ],
+   "jp": "うみのおいかぜ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0062",
+   "idx": [
+    3
+   ],
+   "jp": "うみのむかいかぜ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0082",
+   "idx": [
+    4
+   ],
+   "jp": "しろいはやなみ＋３{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:00A4",
+   "idx": [
+    5
+   ],
+   "jp": "くろいさかなみ−３{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:00C6",
+   "idx": [
+    6
+   ],
+   "jp": "くろいさかなみ−２{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:00E8",
+   "idx": [
+    7
+   ],
+   "jp": "くろいさかなみ−１{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:010A",
+   "idx": [
+    8
+   ],
+   "jp": "ヒッポのうたごえ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:012A",
+   "idx": [
+    9
+   ],
+   "jp": "クラちゃんのおもい{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:014C",
+   "idx": [
+    10
+   ],
+   "jp": "タキのよげん{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0168",
+   "idx": [
+    11
+   ],
+   "jp": "さいこうのおいかぜ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:018A",
+   "idx": [
+    12
+   ],
+   "jp": "にこらのおつかい{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:01AA",
+   "idx": [
+    13
+   ],
+   "jp": "あともどりのみち{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:01CA",
+   "idx": [
+    14
+   ],
+   "jp": "うんめいのきろ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:01E8",
+   "idx": [
+    15
+   ],
+   "jp": "マーメイドのこえ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0208",
+   "idx": [
+    16
+   ],
+   "jp": "マーメイドのゆうき{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:022A",
+   "idx": [
+    17
+   ],
+   "jp": "マーメイドのダンス{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:024C",
+   "idx": [
+    18
+   ],
+   "jp": "水妖のメロディ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:026A",
+   "idx": [
+    19
+   ],
+   "jp": "水妖のあい{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0284",
+   "idx": [
+    20
+   ],
+   "jp": "水妖のステップ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:02A2",
+   "idx": [
+    21
+   ],
+   "jp": "プリンセスのねがい{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:02C4",
+   "idx": [
+    22
+   ],
+   "jp": "アイテムがいっぱいでもてなかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:02E8",
+   "idx": [
+    23
+   ],
+   "jp": "カードがいっぱいでもてなかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:030A",
+   "idx": [
+    24
+   ],
+   "jp": "かいもののビーズ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:032A",
+   "idx": [
+    25
+   ],
+   "jp": "れんぞくこうどう{h }しっぱい！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0348",
+   "idx": [
+    26
+   ],
+   "jp": "まもりのビーズ{h }のこうかで\nカードこうかを{h }よせつけない！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0384",
+   "idx": [
+    27
+   ],
+   "jp": "アイテムをもっていないから\nなにもこわせなかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:03B8",
+   "idx": [
+    28
+   ],
+   "jp": "カードをぜんぶこわしたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:03D2",
+   "idx": [
+    29
+   ],
+   "jp": "カードをもっていないから\nなにもうばえなかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0404",
+   "idx": [
+    30
+   ],
+   "jp": "ヒロインポイントをうばって\n２人でわけたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0430",
+   "idx": [
+    31
+   ],
+   "jp": "おやすみこうか{h }しっぱい！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:044C",
+   "idx": [
+    32
+   ],
+   "jp": "おやすみこうか{h }しっぱい！\nヒロインポイントがへっちゃった！",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:048A",
+   "idx": [
+    33
+   ],
+   "jp": "あしかせのビーズ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:04AA",
+   "idx": [
+    34
+   ],
+   "jp": "ふういんのビーズ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:04CA",
+   "idx": [
+    35
+   ],
+   "jp": "かいようのたつまき{h }のこうかで\nどこかにとばしたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:04FE",
+   "idx": [
+    36
+   ],
+   "jp": "すべてのこうかをなくしたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:051A",
+   "idx": [
+    37
+   ],
+   "jp": "すべてのカードを入れかえたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0538",
+   "idx": [
+    38
+   ],
+   "jp": "のろいのビーズ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0556",
+   "idx": [
+    39
+   ],
+   "jp": "ふこうのてがみ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0574",
+   "idx": [
+    40
+   ],
+   "jp": "こううんのほし{i223}１{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:0596",
+   "idx": [
+    41
+   ],
+   "jp": "こううんのほし{i223}２{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:05B8",
+   "idx": [
+    42
+   ],
+   "jp": "こううんのほし{i223}３{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:05DA",
+   "idx": [
+    43
+   ],
+   "jp": "こううんのほし{i223}４{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:05FC",
+   "idx": [
+    44
+   ],
+   "jp": "ふこうのほし{i223}１{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:061C",
+   "idx": [
+    45
+   ],
+   "jp": "ふこうのほし{i223}２{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:063C",
+   "idx": [
+    46
+   ],
+   "jp": "ふこうのほし{i223}３{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:065C",
+   "idx": [
+    47
+   ],
+   "jp": "ふこうのほし{i223}４{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:067C",
+   "idx": [
+    48
+   ],
+   "jp": "マスにおかれていたものをけしたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:069E",
+   "idx": [
+    49
+   ],
+   "jp": "ふゆうのビーズ{h }をつかったよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_card_use:06BC",
+   "idx": [
+    50
+   ],
+   "jp": "とおせんぼのかべ{h }をつかったよ",
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,598 @@
+{
+ "path": "/system/textbin/item_get.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_item_get:0000",
+   "idx": [
+    0
+   ],
+   "jp": "そうびできるアイテムを手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0024",
+   "idx": [
+    1
+   ],
+   "jp": "アイテムを２つ手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0040",
+   "idx": [
+    2
+   ],
+   "jp": "すっきりシャツ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0060",
+   "idx": [
+    3
+   ],
+   "jp": "２ＷＡＹシャツ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0080",
+   "idx": [
+    4
+   ],
+   "jp": "リボンシャツ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:009E",
+   "idx": [
+    5
+   ],
+   "jp": "ネクタイシャツ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:00BE",
+   "idx": [
+    6
+   ],
+   "jp": "キャラＴ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:00D8",
+   "idx": [
+    7
+   ],
+   "jp": "ゆったりＴ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:00F4",
+   "idx": [
+    8
+   ],
+   "jp": "ロゴＴ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:010C",
+   "idx": [
+    9
+   ],
+   "jp": "ハイネックＴ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:012A",
+   "idx": [
+    10
+   ],
+   "jp": "チビＴ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0142",
+   "idx": [
+    11
+   ],
+   "jp": "かさねトップス{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0162",
+   "idx": [
+    12
+   ],
+   "jp": "チビトップス{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0180",
+   "idx": [
+    13
+   ],
+   "jp": "リボントップス{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:01A0",
+   "idx": [
+    14
+   ],
+   "jp": "ハイネック{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:01BC",
+   "idx": [
+    15
+   ],
+   "jp": "タンクトップ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:01DA",
+   "idx": [
+    16
+   ],
+   "jp": "水玉キャミ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:01F6",
+   "idx": [
+    17
+   ],
+   "jp": "ハートキャミ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0214",
+   "idx": [
+    18
+   ],
+   "jp": "レースキャミ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0232",
+   "idx": [
+    19
+   ],
+   "jp": "おしゃれキャミ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0252",
+   "idx": [
+    20
+   ],
+   "jp": "フリルカットソー{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0274",
+   "idx": [
+    21
+   ],
+   "jp": "Ｖカットソー{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0292",
+   "idx": [
+    22
+   ],
+   "jp": "大人カットソー{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:02B2",
+   "idx": [
+    23
+   ],
+   "jp": "ジャケット{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:02CE",
+   "idx": [
+    24
+   ],
+   "jp": "ラグシャツ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:02EA",
+   "idx": [
+    25
+   ],
+   "jp": "パーカー{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0304",
+   "idx": [
+    26
+   ],
+   "jp": "カーディガン{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0322",
+   "idx": [
+    27
+   ],
+   "jp": "だんしせいふく{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0342",
+   "idx": [
+    28
+   ],
+   "jp": "じょしせいふく{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0362",
+   "idx": [
+    29
+   ],
+   "jp": "フリルスカート{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0382",
+   "idx": [
+    30
+   ],
+   "jp": "チェックスカート{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:03A4",
+   "idx": [
+    31
+   ],
+   "jp": "ボックスプリーツ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:03C6",
+   "idx": [
+    32
+   ],
+   "jp": "フレアスカート{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:03E6",
+   "idx": [
+    33
+   ],
+   "jp": "ミニスカート{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0404",
+   "idx": [
+    34
+   ],
+   "jp": "スリットミニ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0422",
+   "idx": [
+    35
+   ],
+   "jp": "ポケットミニ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0440",
+   "idx": [
+    36
+   ],
+   "jp": "フリルミニ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:045C",
+   "idx": [
+    37
+   ],
+   "jp": "レースミニ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0478",
+   "idx": [
+    38
+   ],
+   "jp": "ふわふわミニ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0496",
+   "idx": [
+    39
+   ],
+   "jp": "プリーツロング{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:04B6",
+   "idx": [
+    40
+   ],
+   "jp": "ロングスカート{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:04D6",
+   "idx": [
+    41
+   ],
+   "jp": "スリットロング{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:04F6",
+   "idx": [
+    42
+   ],
+   "jp": "フリルロング{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0514",
+   "idx": [
+    43
+   ],
+   "jp": "ベルトロング{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0532",
+   "idx": [
+    44
+   ],
+   "jp": "カーゴパンツ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0550",
+   "idx": [
+    45
+   ],
+   "jp": "ジーンズ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:056A",
+   "idx": [
+    46
+   ],
+   "jp": "ハーフパンツ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0588",
+   "idx": [
+    47
+   ],
+   "jp": "ホットパンツ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:05A6",
+   "idx": [
+    48
+   ],
+   "jp": "デニムタンパン{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:05C6",
+   "idx": [
+    49
+   ],
+   "jp": "フリルタンパン{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:05E6",
+   "idx": [
+    50
+   ],
+   "jp": "だんしせいふく{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0606",
+   "idx": [
+    51
+   ],
+   "jp": "じょしせいふく{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0626",
+   "idx": [
+    52
+   ],
+   "jp": "ドレス{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:063E",
+   "idx": [
+    53
+   ],
+   "jp": "チャイナドレス{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:065E",
+   "idx": [
+    54
+   ],
+   "jp": "キラキラワンピ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:067E",
+   "idx": [
+    55
+   ],
+   "jp": "すっきりワンピ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:069E",
+   "idx": [
+    56
+   ],
+   "jp": "ほしのかざり{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:06BC",
+   "idx": [
+    57
+   ],
+   "jp": "花かざり{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:06D6",
+   "idx": [
+    58
+   ],
+   "jp": "スポーツバッグ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:06F6",
+   "idx": [
+    59
+   ],
+   "jp": "花がらバッグ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0714",
+   "idx": [
+    60
+   ],
+   "jp": "ハートペンダント{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0736",
+   "idx": [
+    61
+   ],
+   "jp": "ほしのペンダント{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0758",
+   "idx": [
+    62
+   ],
+   "jp": "貝のペンダント{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0778",
+   "idx": [
+    63
+   ],
+   "jp": "ほしのうでわ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0796",
+   "idx": [
+    64
+   ],
+   "jp": "ハートのうでわ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:07B6",
+   "idx": [
+    65
+   ],
+   "jp": "うでどけい{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:07D2",
+   "idx": [
+    66
+   ],
+   "jp": "きらきらミュール{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:07F4",
+   "idx": [
+    67
+   ],
+   "jp": "ハイヒール{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0810",
+   "idx": [
+    68
+   ],
+   "jp": "ビーチサンダル{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:0830",
+   "idx": [
+    69
+   ],
+   "jp": "スニーカー{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:084C",
+   "idx": [
+    70
+   ],
+   "jp": "ロングブーツ{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:086A",
+   "idx": [
+    71
+   ],
+   "jp": "　　　　　　　　{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:088C",
+   "idx": [
+    72
+   ],
+   "jp": "　　　　　　　　{h }を手に入れたよ",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_get:08AE",
+   "idx": [
+    73
+   ],
+   "jp": "　　　　　　　　{h }を手に入れたよ",
+   "en": ""
+  }
+ ]
+}

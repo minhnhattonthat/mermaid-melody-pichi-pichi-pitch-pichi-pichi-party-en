@@ -1,0 +1,582 @@
+{
+ "path": "/system/textbin/item_msg.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_item_msg:0000",
+   "idx": [
+    0
+   ],
+   "jp": "きれいなかんじのはんそでシャツ　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0024",
+   "idx": [
+    1
+   ],
+   "jp": "かっこいい２ＷＡＹシャツ　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0048",
+   "idx": [
+    2
+   ],
+   "jp": "リボンのついたシャツ　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:006C",
+   "idx": [
+    3
+   ],
+   "jp": "ネクタイがポイントのシャツ　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0090",
+   "idx": [
+    4
+   ],
+   "jp": "かわいいキャラの入ったシャツ　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:00B4",
+   "idx": [
+    5
+   ],
+   "jp": "ゆったりうごきやすいＴシャツ　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:00D8",
+   "idx": [
+    6
+   ],
+   "jp": "かわいいロゴ入りＴシャツ　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:00FC",
+   "idx": [
+    7
+   ],
+   "jp": "ハイネックのＴシャツ　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0120",
+   "idx": [
+    8
+   ],
+   "jp": "ちっちゃいかわいいＴシャツ　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0144",
+   "idx": [
+    9
+   ],
+   "jp": "かさねぎでおしゃれどアップ！　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0168",
+   "idx": [
+    10
+   ],
+   "jp": "みじかいかっこいいタンクトップ　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:018C",
+   "idx": [
+    11
+   ],
+   "jp": "ひらひらリボンのタンクトップ　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:01B0",
+   "idx": [
+    12
+   ],
+   "jp": "ハイネックのタンクトップ　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:01D4",
+   "idx": [
+    13
+   ],
+   "jp": "かっこいいくろのタンクトップ　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:01F8",
+   "idx": [
+    14
+   ],
+   "jp": "かわいい水玉のキャミソール　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:021C",
+   "idx": [
+    15
+   ],
+   "jp": "ハートがらのキャミソール　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0240",
+   "idx": [
+    16
+   ],
+   "jp": "レースのかわいいキャミソール　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0264",
+   "idx": [
+    17
+   ],
+   "jp": "大人っぽいきれいなキャミソール　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0288",
+   "idx": [
+    18
+   ],
+   "jp": "ふわふわそでのカットソー　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:02AC",
+   "idx": [
+    19
+   ],
+   "jp": "Ｖネックのきれいなカットソー　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:02D0",
+   "idx": [
+    20
+   ],
+   "jp": "大人っぽいきれいなカットソー　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:02F4",
+   "idx": [
+    21
+   ],
+   "jp": "シンプルでかっこいいジャケット　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0318",
+   "idx": [
+    22
+   ],
+   "jp": "さわやかなラグシャツ　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:033C",
+   "idx": [
+    23
+   ],
+   "jp": "シンプルなフードつきパーカー　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0360",
+   "idx": [
+    24
+   ],
+   "jp": "かわいいカーディガン　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0384",
+   "idx": [
+    25
+   ],
+   "jp": "だんしのせいふく　　　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:03A8",
+   "idx": [
+    26
+   ],
+   "jp": "じょしのせいふく　　　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:03CC",
+   "idx": [
+    27
+   ],
+   "jp": "フリルのついたかわいいスカート　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:03F0",
+   "idx": [
+    28
+   ],
+   "jp": "かわいいチェックのスカート　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0414",
+   "idx": [
+    29
+   ],
+   "jp": "おしゃれなプリーツスカート　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0438",
+   "idx": [
+    30
+   ],
+   "jp": "ふわふわひろがるフレアスカート　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:045C",
+   "idx": [
+    31
+   ],
+   "jp": "みじかくてかわいいスカート　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0480",
+   "idx": [
+    32
+   ],
+   "jp": "スリットの入ったミニスカート　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:04A4",
+   "idx": [
+    33
+   ],
+   "jp": "ポケットのついたミニスカート　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:04C8",
+   "idx": [
+    34
+   ],
+   "jp": "フリルのついたかわいいミニスカート",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:04EC",
+   "idx": [
+    35
+   ],
+   "jp": "レースのついたきれいなミニスカート",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0510",
+   "idx": [
+    36
+   ],
+   "jp": "ふわふわのかわいいミニスカート　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0534",
+   "idx": [
+    37
+   ],
+   "jp": "プリーツの入ったロングスカート　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0558",
+   "idx": [
+    38
+   ],
+   "jp": "シンプルなロングスカート　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:057C",
+   "idx": [
+    39
+   ],
+   "jp": "スリットのきれいなロングスカート　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:05A0",
+   "idx": [
+    40
+   ],
+   "jp": "フリルのはなやかなロングスカート　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:05C4",
+   "idx": [
+    41
+   ],
+   "jp": "ベルトがかっこいいロングスカート　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:05E8",
+   "idx": [
+    42
+   ],
+   "jp": "しぶいかんじのカーゴパンツ　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:060C",
+   "idx": [
+    43
+   ],
+   "jp": "スタイルのよくなるジーンズ　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0630",
+   "idx": [
+    44
+   ],
+   "jp": "かわいいハーフパンツ　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0654",
+   "idx": [
+    45
+   ],
+   "jp": "うごきやすいみじかいズボン　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0678",
+   "idx": [
+    46
+   ],
+   "jp": "デニムのかっこいいズボン　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:069C",
+   "idx": [
+    47
+   ],
+   "jp": "かわいいフリルのみじかいズボン　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:06C0",
+   "idx": [
+    48
+   ],
+   "jp": "だんしのせいふく　　　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:06E4",
+   "idx": [
+    49
+   ],
+   "jp": "じょしのせいふく　　　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0708",
+   "idx": [
+    50
+   ],
+   "jp": "おひめさまみたいなドレス　　　　　\nスカートとかをはけないよ　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0750",
+   "idx": [
+    51
+   ],
+   "jp": "大人っぽいチャイナドレス　　　　　\nスカートとかをはけないよ　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0798",
+   "idx": [
+    52
+   ],
+   "jp": "アイドルみたいなキラキラワンピ　　\nスカートとかをはけないよ　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:07E0",
+   "idx": [
+    53
+   ],
+   "jp": "すっきりしたきれいなワンピ　　　　\nスカートとかをはけないよ　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0828",
+   "idx": [
+    54
+   ],
+   "jp": "たくさんほしのついたかみかざり　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:084C",
+   "idx": [
+    55
+   ],
+   "jp": "花のかざりがついたかみかざり　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0870",
+   "idx": [
+    56
+   ],
+   "jp": "いっぱい入るスポーツバッグ　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0894",
+   "idx": [
+    57
+   ],
+   "jp": "花がらのショルダーバッグ　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:08B8",
+   "idx": [
+    58
+   ],
+   "jp": "かわいいハートのペンダント　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:08DC",
+   "idx": [
+    59
+   ],
+   "jp": "きれいなほしのペンダント　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0900",
+   "idx": [
+    60
+   ],
+   "jp": "きれいな貝のペンダント　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0924",
+   "idx": [
+    61
+   ],
+   "jp": "きれいなほしのうでわ　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0948",
+   "idx": [
+    62
+   ],
+   "jp": "かわいいハートのうでわ　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:096C",
+   "idx": [
+    63
+   ],
+   "jp": "じかんぴったりのうでどけい　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0990",
+   "idx": [
+    64
+   ],
+   "jp": "きらきらかわいいミュール　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:09B4",
+   "idx": [
+    65
+   ],
+   "jp": "きれいなハイヒール　　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:09D8",
+   "idx": [
+    66
+   ],
+   "jp": "かわいいビーチサンダル　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:09FC",
+   "idx": [
+    67
+   ],
+   "jp": "かるくてうごきやすいスニーカー　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0A20",
+   "idx": [
+    68
+   ],
+   "jp": "雨の日もへいきなブーツ　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0A44",
+   "idx": [
+    69
+   ],
+   "jp": "　　　　　　　　　　　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0A68",
+   "idx": [
+    70
+   ],
+   "jp": "　　　　　　　　　　　　　　　　　",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_item_msg:0A8C",
+   "idx": [
+    71
+   ],
+   "jp": "　　　　　　　　　　　　　　　　　",
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,630 @@
+{
+ "path": "/battle/msg/battle_msg_ep21.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "battle_msg_battle_msg_ep21:0000",
+   "idx": [
+    0
+   ],
+   "jp": "まずは{h }ちゃんと{h }イメージを\nかためるのが{h }さきよね",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0036",
+   "idx": [
+    1
+   ],
+   "jp": "まずは{h }ちゃんと{h }イメージを\nかためるのが{h }さきよね",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:006C",
+   "idx": [
+    2
+   ],
+   "jp": "まずは{h }ちゃんと{h }イメージを\nかためるのが{h }さきだな",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:00A2",
+   "idx": [
+    3
+   ],
+   "jp": "つぎは{h }デザインのバランスを\nかんがえなきゃ",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:00D0",
+   "idx": [
+    4
+   ],
+   "jp": "つぎは{h }デザインのバランスを\nかんがえなきゃ",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:00FE",
+   "idx": [
+    5
+   ],
+   "jp": "つぎは{h }デザインのバランスを\nかんがえよう",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:012A",
+   "idx": [
+    6
+   ],
+   "jp": "さいごに{h }しあげを\nちゃんとしなきゃ",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0150",
+   "idx": [
+    7
+   ],
+   "jp": "さいごに{h }しあげを\nちゃんとしなきゃよね",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:017A",
+   "idx": [
+    8
+   ],
+   "jp": "さいごに{h }しあげを\nちゃんとしなきゃな",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:01A2",
+   "idx": [
+    9
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:01AA",
+   "idx": [
+    10
+   ],
+   "jp": "いいかんじ\n『ヒロインポイント{h }ゲット！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:01D6",
+   "idx": [
+    11
+   ],
+   "jp": "うまくできたみたい\n『ヒロインポイント{h }ゲット！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:020A",
+   "idx": [
+    12
+   ],
+   "jp": "『うん！　いいかんじ\nイメージがうまくかたまったよ！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0242",
+   "idx": [
+    13
+   ],
+   "jp": "『つぎは{h }ぜんたいのデザインの\nバランスをとろう』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0276",
+   "idx": [
+    14
+   ],
+   "jp": "いいかんじ\n『ヒロインポイント{h }ゲット！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:02A2",
+   "idx": [
+    15
+   ],
+   "jp": "うまくできたみたい\n『ヒロインポイント{h }ゲット！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:02D6",
+   "idx": [
+    16
+   ],
+   "jp": "『バランスもいいかんじ！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:02F2",
+   "idx": [
+    17
+   ],
+   "jp": "『それじゃあ{h }つぎは\nさいごのしあげを{h }がんばろう！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:032A",
+   "idx": [
+    18
+   ],
+   "jp": "いいかんじ\n『ヒロインポイント{h }ゲット！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0356",
+   "idx": [
+    19
+   ],
+   "jp": "うまくできたみたい\n『ヒロインポイント{h }ゲット！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:038A",
+   "idx": [
+    20
+   ],
+   "jp": "『いいかんじに{h }しあがったかな』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:03AC",
+   "idx": [
+    21
+   ],
+   "jp": "『うん\nきれいにまとまったよ！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:03CE",
+   "idx": [
+    22
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:03D6",
+   "idx": [
+    23
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:03DE",
+   "idx": [
+    24
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:03E6",
+   "idx": [
+    25
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:03EE",
+   "idx": [
+    26
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:03F6",
+   "idx": [
+    27
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:03FE",
+   "idx": [
+    28
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0406",
+   "idx": [
+    29
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:040E",
+   "idx": [
+    30
+   ],
+   "jp": "『なんだか‥‥　イメージが\nわかない‥‥　どうしよう』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0446",
+   "idx": [
+    31
+   ],
+   "jp": "『ぜんたいのバランスが\nうまくいかない‥‥』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0474",
+   "idx": [
+    32
+   ],
+   "jp": "『きゃ！\n‥‥ちょっとまちがっちゃった』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:049E",
+   "idx": [
+    33
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:04A6",
+   "idx": [
+    34
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:04AE",
+   "idx": [
+    35
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:04B6",
+   "idx": [
+    36
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:04BE",
+   "idx": [
+    37
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:04C6",
+   "idx": [
+    38
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:04CE",
+   "idx": [
+    39
+   ],
+   "jp": "ダミー",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:04D6",
+   "idx": [
+    40
+   ],
+   "jp": "とりあえず　こうしちゃおう\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0512",
+   "idx": [
+    41
+   ],
+   "jp": "あーん　やっぱりだめ〜\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:054A",
+   "idx": [
+    42
+   ],
+   "jp": "！　ひらめいちゃった！",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0562",
+   "idx": [
+    43
+   ],
+   "jp": "につまっちゃった　かも\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:059A",
+   "idx": [
+    44
+   ],
+   "jp": "とりあえず　こうしちゃおう\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:05D6",
+   "idx": [
+    45
+   ],
+   "jp": "いや〜ん　やっぱりだめ〜\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0610",
+   "idx": [
+    46
+   ],
+   "jp": "！　ひらめいちゃった！",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0628",
+   "idx": [
+    47
+   ],
+   "jp": "につまっちゃった　かも\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0660",
+   "idx": [
+    48
+   ],
+   "jp": "とりあえず　こうか？\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0696",
+   "idx": [
+    49
+   ],
+   "jp": "やっぱり　だめだな\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:06CA",
+   "idx": [
+    50
+   ],
+   "jp": "！　よし！　こうか！？",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:06E2",
+   "idx": [
+    51
+   ],
+   "jp": "につまった‥‥　な‥‥\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:071A",
+   "idx": [
+    52
+   ],
+   "jp": "とりあえず　こうしちゃおう\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0756",
+   "idx": [
+    53
+   ],
+   "jp": "あーん　やっぱりだめ〜\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:078E",
+   "idx": [
+    54
+   ],
+   "jp": "！　ひらめいちゃった！",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:07A6",
+   "idx": [
+    55
+   ],
+   "jp": "につまっちゃった　かも\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:07DE",
+   "idx": [
+    56
+   ],
+   "jp": "とりあえず　こうしちゃおう\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:081A",
+   "idx": [
+    57
+   ],
+   "jp": "いや〜ん　やっぱりだめ〜\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0854",
+   "idx": [
+    58
+   ],
+   "jp": "！　ひらめいちゃった！",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:086C",
+   "idx": [
+    59
+   ],
+   "jp": "につまっちゃった　かも\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:08A4",
+   "idx": [
+    60
+   ],
+   "jp": "とりあえず　こうか？\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:08DA",
+   "idx": [
+    61
+   ],
+   "jp": "やっぱり　だめだな\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:090E",
+   "idx": [
+    62
+   ],
+   "jp": "！　よし！　こうか！？",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0926",
+   "idx": [
+    63
+   ],
+   "jp": "につまった‥‥　な‥‥\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:095E",
+   "idx": [
+    64
+   ],
+   "jp": "‥‥フォローしてみた\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0994",
+   "idx": [
+    65
+   ],
+   "jp": "ちょっとフォローきかないかも\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:09D2",
+   "idx": [
+    66
+   ],
+   "jp": "こう‥‥ちょっとなおして‥‥",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:09F0",
+   "idx": [
+    67
+   ],
+   "jp": "‥‥やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0A26",
+   "idx": [
+    68
+   ],
+   "jp": "‥‥フォローしてみたけど‥‥\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0A64",
+   "idx": [
+    69
+   ],
+   "jp": "ちょっとフォローきかないかも\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0AA2",
+   "idx": [
+    70
+   ],
+   "jp": "こう‥‥ちょっとなおして‥‥",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0AC0",
+   "idx": [
+    71
+   ],
+   "jp": "‥‥やっちゃった‥‥\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0AF6",
+   "idx": [
+    72
+   ],
+   "jp": "フォローしてみたが‥‥どうだろう\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0B38",
+   "idx": [
+    73
+   ],
+   "jp": "ちょっとこれは‥‥まずいな\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0B74",
+   "idx": [
+    74
+   ],
+   "jp": "こう‥‥すればなんとか‥‥",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0B90",
+   "idx": [
+    75
+   ],
+   "jp": "‥‥やってしまった‥‥\n『ヒロインポイント{h }ダウン！』",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0BC8",
+   "idx": [
+    76
+   ],
+   "jp": "●●●●●●●●●●●●●●●●●\n●●●●●●●●●●●●●●●●●",
+   "en": ""
+  },
+  {
+   "id": "battle_msg_battle_msg_ep21:0C10",
+   "idx": [
+    77
+   ],
+   "jp": "●●●●●●●●●●●●●●●●●\n●●●●●●●●●●●●●●●●●",
+   "en": ""
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "path": "/system/textbin/sysstat.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "system_textbin_sysstat:0000",
+   "idx": [
+    0
+   ],
+   "jp": "オンプのかず　　　{h }{h }[4000][FFCA]{h }{h }",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0020",
+   "idx": [
+    1
+   ],
+   "jp": "いどうできるかずに{h }{h }[4000][FFDF][FFCD]{h }",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0040",
+   "idx": [
+    2
+   ],
+   "jp": "さいていいくつ　　{h }{h }[4000][FFDF][FFCD]{h }",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0060",
+   "idx": [
+    3
+   ],
+   "jp": "さいていちターン　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0080",
+   "idx": [
+    4
+   ],
+   "jp": "さいこういくつ　　{h }{h }[4000][FFDF][FFCD]{h }",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:00A0",
+   "idx": [
+    5
+   ],
+   "jp": "さいこうちターン　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:00C0",
+   "idx": [
+    6
+   ],
+   "jp": "いどうが２マス　　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:00E0",
+   "idx": [
+    7
+   ],
+   "jp": "いどうが１マス　　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0100",
+   "idx": [
+    8
+   ],
+   "jp": "ルーレットがおそい{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0120",
+   "idx": [
+    9
+   ],
+   "jp": "オンプがへんかする{h }{h }{h }{h }{h }",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:013E",
+   "idx": [
+    10
+   ],
+   "jp": "オンプがさいだい　{h }{h }{h }{h }{h }",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:015C",
+   "idx": [
+    11
+   ],
+   "jp": "いつでもとまれる　{h }{h }{h }{h }{h }",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:017A",
+   "idx": [
+    12
+   ],
+   "jp": "うしろにすすむ　　{h }{h }{h }{h }{h }",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0198",
+   "idx": [
+    13
+   ],
+   "jp": "パワーアップ　　　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:01B8",
+   "idx": [
+    14
+   ],
+   "jp": "かいものワク×２　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:01D8",
+   "idx": [
+    15
+   ],
+   "jp": "カードワク×２　　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:01F8",
+   "idx": [
+    16
+   ],
+   "jp": "れんぞくターン　　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0218",
+   "idx": [
+    17
+   ],
+   "jp": "おやすみ　　　　　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0238",
+   "idx": [
+    18
+   ],
+   "jp": "カードがきかない　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0258",
+   "idx": [
+    19
+   ],
+   "jp": "カードがつかえない{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0278",
+   "idx": [
+    20
+   ],
+   "jp": "きがえができない　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0298",
+   "idx": [
+    21
+   ],
+   "jp": "あるくとへるＨＰ　{h }{h }[4000]{h }{h }{h }",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:02B8",
+   "idx": [
+    22
+   ],
+   "jp": "ＨＰがへるターン　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:02D8",
+   "idx": [
+    23
+   ],
+   "jp": "あるくとふえるＨＰ{h }{h }[4000]{h }{h }{h }",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:02F8",
+   "idx": [
+    24
+   ],
+   "jp": "ＨＰがふえるターン{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0318",
+   "idx": [
+    25
+   ],
+   "jp": "マスのえいきょう　{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0338",
+   "idx": [
+    26
+   ],
+   "jp": "マスのこていタイプ{h }{h }[4000]{h }{h }{h }",
+   "en": ""
+  },
+  {
+   "id": "system_textbin_sysstat:0358",
+   "idx": [
+    27
+   ],
+   "jp": "マスのこていターン{h }{h }[4000][FFD0][FFC0][FFED]",
+   "en": ""
+  }
+ ]
+}

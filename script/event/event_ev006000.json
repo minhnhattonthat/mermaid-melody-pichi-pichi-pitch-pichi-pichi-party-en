@@ -1,0 +1,17 @@
+{
+ "path": "/event/ev006000.bin",
+ "kind": "event",
+ "strings": [
+  {
+   "id": "event_ev006000:0000",
+   "idx": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "jp": "ダミー",
+   "en": ""
+  }
+ ]
+}

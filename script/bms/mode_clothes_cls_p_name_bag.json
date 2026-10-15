@@ -1,0 +1,22 @@
+{
+ "path": "/mode/clothes/cls_p_name_bag.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_clothes_cls_p_name_bag:0000",
+   "idx": [
+    0
+   ],
+   "jp": "スポーツバッグ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_bag:0010",
+   "idx": [
+    1
+   ],
+   "jp": "はながらバッグ",
+   "en": ""
+  }
+ ]
+}

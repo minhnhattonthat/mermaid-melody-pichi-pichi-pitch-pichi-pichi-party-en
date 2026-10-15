@@ -1,0 +1,38 @@
+{
+ "path": "/mode/clothes/cls_p_name_acs.bms",
+ "kind": "bms",
+ "strings": [
+  {
+   "id": "mode_clothes_cls_p_name_acs:0000",
+   "idx": [
+    0
+   ],
+   "jp": "ほしのかざり",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_acs:000E",
+   "idx": [
+    1
+   ],
+   "jp": "はなかざり",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_acs:001A",
+   "idx": [
+    2
+   ],
+   "jp": "スポーツバッグ",
+   "en": ""
+  },
+  {
+   "id": "mode_clothes_cls_p_name_acs:002A",
+   "idx": [
+    3
+   ],
+   "jp": "はながらバッグ",
+   "en": ""
+  }
+ ]
+}
