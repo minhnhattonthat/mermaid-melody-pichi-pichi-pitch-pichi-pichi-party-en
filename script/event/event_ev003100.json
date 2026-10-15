@@ -8,7 +8,7 @@
     0
    ],
    "jp": "ふっ‥‥マーメイドプリンセスが\n３人も{h }そろっているのか",
-   "en": ""
+   "en": "Heh... So all three\nMermaid Princesses are here."
   },
   {
    "id": "event_ev003100:003A",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "マリアたちも　それなりに\nやくには{h }立ったということか‥‥",
-   "en": ""
+   "en": "I suppose Maria and the others\nwere of some use after all..."
   },
   {
    "id": "event_ev003100:0076",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "なんだよおまえ！　たいかいの\nじゃまするんじゃねーよ！",
-   "en": ""
+   "en": "Who do you think you are?! Don't\nmess up the contest!"
   },
   {
    "id": "event_ev003100:00AE",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "きさまこそ\nオレのまえに{h }立つな‥‥",
-   "en": ""
+   "en": "It's you who should\nnot stand before me..."
   },
   {
    "id": "event_ev003100:00D4",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "（ドカッ！！）",
-   "en": ""
+   "en": "(WHAM!!)"
   },
   {
    "id": "event_ev003100:00E4",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "うわぁっ！！",
-   "en": ""
+   "en": "Waaagh!!"
   },
   {
    "id": "event_ev003100:00F2",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "ああっ　海斗ーっ！",
-   "en": ""
+   "en": "Oh no, Kaito!"
   },
   {
    "id": "event_ev003100:0106",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "なるほど‥‥　おもったよりも\nパワーが{h }上がっているな",
-   "en": ""
+   "en": "I see... My power has grown\nmore than I expected."
   },
   {
    "id": "event_ev003100:013E",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "まずは　にんげんどもの{h }町で\nこの{h }力を{h }ためしてみるか‥‥",
-   "en": ""
+   "en": "First, I'll test this power\non the humans' town..."
   },
   {
    "id": "event_ev003100:017C",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "それにしても　この男‥‥\nオレのかおに{h }そっくりじゃないか",
-   "en": ""
+   "en": "Still, this boy...\nHe has a face just like mine."
   },
   {
    "id": "event_ev003100:01B8",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "すこし{h }きょうみがわいたぞ‥‥",
-   "en": ""
+   "en": "I'm a little intrigued..."
   },
   {
    "id": "event_ev003100:01D8",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "たいへん！\n海斗が{h }さらわれちゃったぁ！",
-   "en": ""
+   "en": "Oh no!\nKaito's been kidnapped!"
   },
   {
    "id": "event_ev003100:0202",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "たいへん！\n海斗が{h }さらわれちゃった！",
-   "en": ""
+   "en": "Oh no!\nKaito's been kidnapped!"
   },
   {
    "id": "event_ev003100:022A",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "海斗　まっててね‥‥",
-   "en": ""
+   "en": "Kaito, hang on..."
   },
   {
    "id": "event_ev003100:0240",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "あれが{h }波音と{h }リナのくにを\nほろぼした{h }ガイトだったんだ‥‥",
-   "en": ""
+   "en": "So that was Gaito, who destroyed\nHanon's and Rina's kingdoms..."
   },
   {
    "id": "event_ev003100:0280",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "海斗を{h }さらうだなんて\nゆるさないんだからぁ！",
-   "en": ""
+   "en": "Kidnapping Kaito...\nI'll never forgive him!"
   },
   {
    "id": "event_ev003100:02B0",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "まさか{h }海斗くんが\nつかまっちゃうなんて！",
-   "en": ""
+   "en": "I can't believe Kaito\ngot captured!"
   },
   {
    "id": "event_ev003100:02DC",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "海斗くん\nすぐに{h }たすけてあげるからね！",
-   "en": ""
+   "en": "Kaito, we'll save\nyou right away!"
   },
   {
    "id": "event_ev003100:0306",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "ガイトの{h }おもいどおりだなんて\nぜったいに{h }させないんだから！",
-   "en": ""
+   "en": "I'll never let things\ngo Gaito's way!"
   },
   {
    "id": "event_ev003100:0346",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "ガイト‥‥ゆるさないわよ！",
-   "en": ""
+   "en": "Gaito... I won't forgive you!"
   },
   {
    "id": "event_ev003100:0362",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "まさか　海斗が{h }つかまるとは‥‥",
-   "en": ""
+   "en": "I can't believe Kaito got captured..."
   },
   {
    "id": "event_ev003100:0384",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "海斗‥‥\nすぐに{h }たすけ出してやるからな！",
-   "en": ""
+   "en": "Kaito...\nWe'll get you out right away!"
   },
   {
    "id": "event_ev003100:03B0",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "ガイトの{h }おもいどおりには\nぜったいに{h }させない！",
-   "en": ""
+   "en": "I'll never let things\ngo Gaito's way!"
   },
   {
    "id": "event_ev003100:03E4",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "ガイト‥‥お前を{h }たおす！",
-   "en": ""
+   "en": "Gaito... I'll defeat you!"
   },
   {
    "id": "event_ev003100:0400",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "やっと{h }おいついた！",
-   "en": ""
+   "en": "Finally caught up!"
   },
   {
    "id": "event_ev003100:0416",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "いくわよ！！",
-   "en": ""
+   "en": "Here I come!!"
   },
   {
    "id": "event_ev003100:0424",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "わざわざ{h }きてくれるとはな\nさがす{h }てまが{h }はぶけたよ",
-   "en": ""
+   "en": "You came all this way yourselves.\nThat saves me the trouble of looking."
   },
   {
    "id": "event_ev003100:045C",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "こっちから\nきてあげたんだから",
-   "en": ""
+   "en": "We came to you\nourselves, so..."
   },
   {
    "id": "event_ev003100:047C",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "海斗を{h }はなしなさいよ！",
-   "en": ""
+   "en": "let Kaito go!"
   },
   {
    "id": "event_ev003100:0496",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "おまえたちが{h }すなおに{h }オレのものに\nなるのならばな",
-   "en": ""
+   "en": "Only if you'll obediently\nbecome mine."
   },
   {
    "id": "event_ev003100:04CC",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "ふざけないで！\nいくわよ！",
-   "en": ""
+   "en": "Don't be ridiculous!\nHere I come!"
   },
   {
    "id": "event_ev003100:04E8",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "ガイトを見つけたわ！",
-   "en": ""
+   "en": "I found Gaito!"
   },
   {
    "id": "event_ev003100:04FE",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "いくわよ！！",
-   "en": ""
+   "en": "Here I come!!"
   },
   {
    "id": "event_ev003100:050C",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "わざわざ{h }きてくれるとはな\nさがす{h }てまが{h }はぶけたよ",
-   "en": ""
+   "en": "You came all this way yourselves.\nThat saves me the trouble of looking."
   },
   {
    "id": "event_ev003100:0544",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "よかったじゃない　おれいに\nその海斗くんを{h }はなしてくれない？",
-   "en": ""
+   "en": "Good for you. So as thanks,\nhow about letting Kaito go?"
   },
   {
    "id": "event_ev003100:0584",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "おまえたちが{h }すなおに{h }オレのものに\nなるのならばな",
-   "en": ""
+   "en": "Only if you'll obediently\nbecome mine."
   },
   {
    "id": "event_ev003100:05BA",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "つまんない{h }じょうだんね\nいくわよ！",
-   "en": ""
+   "en": "What a lame joke.\nHere I come!"
   },
   {
    "id": "event_ev003100:05E0",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "こんどはにがさん！",
-   "en": ""
+   "en": "You won't escape this time!"
   },
   {
    "id": "event_ev003100:0602",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "わざわざ{h }きてくれるとはな\nさがす{h }てまが{h }はぶけたよ",
-   "en": ""
+   "en": "You came all this way yourselves.\nThat saves me the trouble of looking."
   },
   {
    "id": "event_ev003100:063A",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "わるいが　まず{h }海斗を\nはなしてもらうぞ！",
-   "en": ""
+   "en": "Sorry, but first\nyou'll let Kaito go!"
   },
   {
    "id": "event_ev003100:0666",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "お前たちが{h }すなおに{h }オレのものに\nなるのならばな",
-   "en": ""
+   "en": "Only if you'll obediently\nbecome mine."
   },
   {
    "id": "event_ev003100:069A",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "ならば{h }おまえをたおす！\nいくぞ！",
-   "en": ""
+   "en": "Then I'll defeat you!\nHere I come!"
   },
   {
    "id": "event_ev003100:06BE",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "こんどこそ\nやっつけちゃうんだからぁ！",
-   "en": ""
+   "en": "This time I'm\ngonna beat you for sure!"
   },
   {
    "id": "event_ev003100:06E6",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "にがさないわよ　ガイト！",
-   "en": ""
+   "en": "You won't get away, Gaito!"
   },
   {
    "id": "event_ev003100:0700",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "まちなさい　ガイト！",
-   "en": ""
+   "en": "Wait right there, Gaito!"
   },
   {
    "id": "event_ev003100:0716",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "ぜったいに　にがさないんだから！",
-   "en": ""
+   "en": "I'm never letting you get away!"
   },
   {
    "id": "event_ev003100:0738",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "こんどこそ　やっつけるわよ！",
-   "en": ""
+   "en": "This time we'll beat you for sure!"
   },
   {
    "id": "event_ev003100:0756",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "ガイト　こんどは{h }にがさないわよ！",
-   "en": ""
+   "en": "Gaito, you won't escape this time!"
   },
   {
    "id": "event_ev003100:077A",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "ガイト　まちなさーい",
-   "en": ""
+   "en": "Gaito, waaait!"
   },
   {
    "id": "event_ev003100:0790",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "ぜったいに　にがさないわよーっ！",
-   "en": ""
+   "en": "I'm never letting you get away!"
   },
   {
    "id": "event_ev003100:07B2",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "ガイト‥‥\nこんどこそ{h }おまえをたおす！",
-   "en": ""
+   "en": "Gaito...\nThis time I'll defeat you!"
   },
   {
    "id": "event_ev003100:07DC",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "にがさないぞ　ガイト！",
-   "en": ""
+   "en": "You won't escape, Gaito!"
   },
   {
    "id": "event_ev003100:07F4",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "にげるな　ガイト！！",
-   "en": ""
+   "en": "Don't run, Gaito!!"
   },
   {
    "id": "event_ev003100:080A",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "ガイト！\nおまえを{h }ぜったいに{h }にがさない！",
-   "en": ""
+   "en": "Gaito!\nI'll never let you escape!"
   },
   {
    "id": "event_ev003100:0838",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "そこまでよ　ガイト！\nもう　にがさないんだからっ！！",
-   "en": ""
+   "en": "That's far enough, Gaito!\nYou're not getting away now!!"
   },
   {
    "id": "event_ev003100:086E",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "おもい上がるなよ\nマーメイドプリンセス",
-   "en": ""
+   "en": "Don't get cocky,\nMermaid Princesses."
   },
   {
    "id": "event_ev003100:0896",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "‥‥いいだろう\nあいてに{h }なってやる！",
-   "en": ""
+   "en": "...Very well.\nI'll take you on!"
   },
   {
    "id": "event_ev003100:08BE",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "そして　おまえたちを\nわがものに{h }してみせる！",
-   "en": ""
+   "en": "And then I'll make\nyou mine!"
   },
   {
    "id": "event_ev003100:08EE",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "わたしたちは　あなたのものなんかに\nぜったいに{h }ならないんだからっ！",
-   "en": ""
+   "en": "We will never, ever\nbe yours!"
   },
   {
    "id": "event_ev003100:0934",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "いくわよ！！　波音！　リナ！",
-   "en": ""
+   "en": "Let's go!! Hanon! Rina!"
   },
   {
    "id": "event_ev003100:0952",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "見つけたわよ　ガイト！\nもう　にがさないわよっ！",
-   "en": ""
+   "en": "Found you, Gaito!\nYou're not getting away now!"
   },
   {
    "id": "event_ev003100:0984",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "おもい上がるなよ\nマーメイドプリンセス",
-   "en": ""
+   "en": "Don't get cocky,\nMermaid Princesses."
   },
   {
    "id": "event_ev003100:09AC",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "‥‥いいだろう\nあいてに{h }なってやる！",
-   "en": ""
+   "en": "...Very well.\nI'll take you on!"
   },
   {
    "id": "event_ev003100:09D4",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "そして　おまえたちを\nわがものに{h }してみせる！",
-   "en": ""
+   "en": "And then I'll make\nyou mine!"
   },
   {
    "id": "event_ev003100:0A04",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "わたしたちは{h }あなたのものなんかに\nぜったい　ならないもんねっ！",
-   "en": ""
+   "en": "We'll never, ever\nbe yours!"
   },
   {
    "id": "event_ev003100:0A46",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "いくわよ！！　るちあ！　リナ！",
-   "en": ""
+   "en": "Let's go!! Lucia! Rina!"
   },
   {
    "id": "event_ev003100:0A66",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "そこまでだ　ガイト！\nもう　にがさないぞ！",
-   "en": ""
+   "en": "That's far enough, Gaito!\nYou won't get away now!"
   },
   {
    "id": "event_ev003100:0A92",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "おもい上がるなよ\nマーメイドプリンセス",
-   "en": ""
+   "en": "Don't get cocky,\nMermaid Princesses."
   },
   {
    "id": "event_ev003100:0ABA",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "‥‥いいだろう\nあいてに{h }なってやる！",
-   "en": ""
+   "en": "...Very well.\nI'll take you on!"
   },
   {
    "id": "event_ev003100:0AE2",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "そして　おまえたちを\nわがものに{h }してみせる！",
-   "en": ""
+   "en": "And then I'll make\nyou mine!"
   },
   {
    "id": "event_ev003100:0B12",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "ふざけるなっ！\nだれが{h }おまえのものなんかにっ！",
-   "en": ""
+   "en": "Don't be ridiculous!\nWho'd ever be yours?!"
   },
   {
    "id": "event_ev003100:0B44",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "いくぞ！！　るちあ！　波音！",
-   "en": ""
+   "en": "Let's go!! Lucia! Hanon!"
   },
   {
    "id": "event_ev003100:0B62",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "‥‥たしかに　いまのは\nなかなか{h }きいた‥‥",
-   "en": ""
+   "en": "...I admit, that one\nhit pretty hard..."
   },
   {
    "id": "event_ev003100:0B90",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "まだ{h }あたらしい力が\nからだに{h }なじんでいなかったか‥‥",
-   "en": ""
+   "en": "My new power hasn't settled\ninto my body yet, it seems..."
   },
   {
    "id": "event_ev003100:0BCA",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "しばらく\nじかんが{h }ひつようだな‥‥",
-   "en": ""
+   "en": "I'll need some\ntime..."
   },
   {
    "id": "event_ev003100:0BF0",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "あーっ！　ガイトが\n海斗くんを{h }おいてにげたーっ！",
-   "en": ""
+   "en": "Ah! Gaito left Kaito\nbehind and ran away!"
   },
   {
    "id": "event_ev003100:0C24",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "む！　じかんをおくと\nガイトが力を{h }かいふくしてしまう",
-   "en": ""
+   "en": "Hm! If we give him time,\nGaito will recover his power."
   },
   {
    "id": "event_ev003100:0C5C",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "おいかけよう！",
-   "en": ""
+   "en": "Let's go after him!"
   },
   {
    "id": "event_ev003100:0C6C",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "よーし　ぜったいに\nにがさないんだからぁ！",
-   "en": ""
+   "en": "All right, I'm never\nletting him get away!"
   },
   {
    "id": "event_ev003100:0C98",
@@ -648,7 +648,7 @@
     80
    ],
    "jp": "海斗‥‥おねがい‥‥\n目をさまして‥‥",
-   "en": ""
+   "en": "Kaito... please...\nwake up..."
   },
   {
    "id": "event_ev003100:0CC0",
@@ -656,7 +656,7 @@
     81
    ],
    "jp": "う　ううん‥‥\nるちあ‥‥だいじょうぶか‥‥",
-   "en": ""
+   "en": "Ugh, ungh...\nLucia... are you okay...?"
   },
   {
    "id": "event_ev003100:0CEE",
@@ -664,7 +664,7 @@
     82
    ],
    "jp": "あっ{h }海斗！　目を{h }さましたんだね！\nふぅ〜　よかったぁ〜",
-   "en": ""
+   "en": "Ah, Kaito! You woke up!\nPhew, thank goodness!"
   },
   {
    "id": "event_ev003100:0D2A",
@@ -672,7 +672,7 @@
     83
    ],
    "jp": "えっ　なにが？　オレは{h }たしか‥‥\nうーん‥‥おもい出せない",
-   "en": ""
+   "en": "Huh? What happened? I'm pretty sure...\nHmm... I can't remember."
   },
   {
    "id": "event_ev003100:0D68",
@@ -680,7 +680,7 @@
     84
    ],
    "jp": "‥‥むりに{h }おもい出さなくても\nいいんじゃないかなぁ？",
-   "en": ""
+   "en": "...Maybe you don't have to\nforce yourself to remember?"
   },
   {
    "id": "event_ev003100:0DA0",
@@ -688,7 +688,7 @@
     85
    ],
    "jp": "だって　海斗は{h }海斗じゃない",
-   "en": ""
+   "en": "I mean, you're still you, Kaito."
   },
   {
    "id": "event_ev003100:0DBE",
@@ -696,7 +696,7 @@
     86
    ],
    "jp": "えっ？　なに{h }いってんだよ",
-   "en": ""
+   "en": "Huh? What are you talking about?"
   },
   {
    "id": "event_ev003100:0DDA",
@@ -704,7 +704,7 @@
     87
    ],
    "jp": "いーの　海斗は{h }海斗らしくいてね",
-   "en": ""
+   "en": "Never mind. Just stay you, Kaito."
   },
   {
    "id": "event_ev003100:0DFC",
@@ -712,7 +712,7 @@
     88
    ],
    "jp": "‥‥たしかに　いまのは\nなかなか{h }きいた‥‥",
-   "en": ""
+   "en": "...I admit, that one\nhit pretty hard..."
   },
   {
    "id": "event_ev003100:0E2A",
@@ -720,7 +720,7 @@
     89
    ],
    "jp": "まだ{h }あたらしい力が\nからだに{h }なじんでいなかったか‥‥",
-   "en": ""
+   "en": "My new power hasn't settled\ninto my body yet, it seems..."
   },
   {
    "id": "event_ev003100:0E64",
@@ -728,7 +728,7 @@
     90
    ],
    "jp": "しばらく\nじかんが{h }ひつようだな‥‥",
-   "en": ""
+   "en": "I'll need some\ntime..."
   },
   {
    "id": "event_ev003100:0E8A",
@@ -736,7 +736,7 @@
     91
    ],
    "jp": "あーっ！　ガイトが\n海斗くんを{h }おいてにげたーっ！",
-   "en": ""
+   "en": "Ah! Gaito left Kaito\nbehind and ran away!"
   },
   {
    "id": "event_ev003100:0EBE",
@@ -744,7 +744,7 @@
     92
    ],
    "jp": "む！　じかんをおくと\nガイトが力を{h }かいふくしてしまう",
-   "en": ""
+   "en": "Hm! If we give him time,\nGaito will recover his power."
   },
   {
    "id": "event_ev003100:0EF6",
@@ -752,7 +752,7 @@
     93
    ],
    "jp": "おいかけよう！",
-   "en": ""
+   "en": "Let's go after him!"
   },
   {
    "id": "event_ev003100:0F06",
@@ -760,7 +760,7 @@
     94
    ],
    "jp": "よーし　ぜったいに\nにがさないんだからぁ！",
-   "en": ""
+   "en": "All right, I'm never\nletting him get away!"
   },
   {
    "id": "event_ev003100:0F32",
@@ -776,7 +776,7 @@
     96
    ],
    "jp": "ねえ海斗！　海斗ったら！\n生きてるのなら　へんじしてよーっ！",
-   "en": ""
+   "en": "Hey, Kaito! Kaito!\nIf you're alive, answer me!"
   },
   {
    "id": "event_ev003100:0F7E",
@@ -784,7 +784,7 @@
     97
    ],
    "jp": "すこし{h }おちつけ　るちあ",
-   "en": ""
+   "en": "Calm down a little, Lucia."
   },
   {
    "id": "event_ev003100:0F98",
@@ -792,7 +792,7 @@
     98
    ],
    "jp": "まず　いきを{h }してるかどうか\nたしかめるんだ",
-   "en": ""
+   "en": "First, check whether\nhe's breathing."
   },
   {
    "id": "event_ev003100:0FC6",
@@ -800,7 +800,7 @@
     99
    ],
    "jp": "う　うん‥‥‥‥\nちゃんと{h }いきしてるみたいだよ",
-   "en": ""
+   "en": "O-okay......\nHe seems to be breathing fine."
   },
   {
    "id": "event_ev003100:0FF8",
@@ -808,7 +808,7 @@
     100
    ],
    "jp": "だったら　だいじょうぶだ\nしばらくすれば{h }目を{h }さますだろう",
-   "en": ""
+   "en": "Then he's all right.\nHe should wake up in a while."
   },
   {
    "id": "event_ev003100:1036",
@@ -816,7 +816,7 @@
     101
    ],
    "jp": "（るちあったら{h }いいなぁ　わたしも\n太郎ちゃんを{h }かいほうしたいかも）",
-   "en": ""
+   "en": "(Lucky Lucia... I kinda wanna\nnurse my Taro back to health too.)"
   },
   {
    "id": "event_ev003100:107E",
@@ -824,7 +824,7 @@
     102
    ],
    "jp": "おーい　波音さーん！！\nキミたち　だいじょうぶかーい？",
-   "en": ""
+   "en": "Heeey, Hanon!\nAre you all right?"
   },
   {
    "id": "event_ev003100:10B6",
@@ -832,7 +832,7 @@
     103
    ],
    "jp": "太郎ちゃ‥‥じゃなくて　海月先生！\nどうしてここに！？",
-   "en": ""
+   "en": "Ta-... I mean, Mr. Mitsuki!\nWhat are you doing here?!"
   },
   {
    "id": "event_ev003100:10EE",
@@ -840,7 +840,7 @@
     104
    ],
    "jp": "てんぼうだいで{h }さわぎがあったと\nきいたものですから‥‥",
-   "en": ""
+   "en": "I heard there was a commotion\nat Cape Lookout, so..."
   },
   {
    "id": "event_ev003100:1128",
@@ -848,7 +848,7 @@
     105
    ],
    "jp": "海斗くんが{h }気を{h }うしなってますけど\nでも　だいじょうぶですよ",
-   "en": ""
+   "en": "Kaito's passed out,\nbut he's okay."
   },
   {
    "id": "event_ev003100:1168",
@@ -856,7 +856,7 @@
     106
    ],
    "jp": "よかった　ほっとしました\n波音さんに{h }なにもなくて‥‥",
-   "en": ""
+   "en": "Thank goodness, what a relief.\nNothing happened to you, Hanon..."
   },
   {
    "id": "event_ev003100:11A0",
@@ -864,7 +864,7 @@
     107
    ],
    "jp": "えっ！　海月先生　わたしのこと\nしんぱいしてくれたんですかっ！？",
-   "en": ""
+   "en": "Huh! Mr. Mitsuki, you were\nworried about me?!"
   },
   {
    "id": "event_ev003100:11E2",
@@ -872,7 +872,7 @@
     108
    ],
    "jp": "あ　いや　ぼくは{h }波音さんたち\nみんなのことを{h }しんぱいして‥‥",
-   "en": ""
+   "en": "Ah, no, I mean, I was worried\nabout all of you, Hanon..."
   },
   {
    "id": "event_ev003100:1224",
@@ -880,7 +880,7 @@
     109
    ],
    "jp": "（うれしいー！　わたし{h }きいたもん\n『波音さんに』って！）",
-   "en": ""
+   "en": "(I'm so happy! I heard him\nsay \"to you, Hanon\"!)"
   },
   {
    "id": "event_ev003100:1260",
@@ -888,7 +888,7 @@
     110
    ],
    "jp": "（わたし　ぜったい太郎ちゃんと\nラブラブになっちゃう！）",
-   "en": ""
+   "en": "(Taro and I are totally gonna\nbe lovey-dovey!)"
   },
   {
    "id": "event_ev003100:129A",
@@ -896,7 +896,7 @@
     111
    ],
    "jp": "‥‥たしかに　いまのは\nなかなか{h }きいた‥‥",
-   "en": ""
+   "en": "...I admit, that one\nhit pretty hard..."
   },
   {
    "id": "event_ev003100:12C8",
@@ -904,7 +904,7 @@
     112
    ],
    "jp": "まだ{h }あたらしい力が\nからだに{h }なじんでいなかったか‥‥",
-   "en": ""
+   "en": "My new power hasn't settled\ninto my body yet, it seems..."
   },
   {
    "id": "event_ev003100:1302",
@@ -912,7 +912,7 @@
     113
    ],
    "jp": "しばらく\nじかんが{h }ひつようだな‥‥",
-   "en": ""
+   "en": "I'll need some\ntime..."
   },
   {
    "id": "event_ev003100:1328",
@@ -920,7 +920,7 @@
     114
    ],
    "jp": "あーっ！　ガイトが\n海斗くんを{h }おいてにげたーっ！",
-   "en": ""
+   "en": "Ah! Gaito left Kaito\nbehind and ran away!"
   },
   {
    "id": "event_ev003100:135C",
@@ -928,7 +928,7 @@
     115
    ],
    "jp": "む！　じかんをおくと\nガイトが力を{h }かいふくしてしまう",
-   "en": ""
+   "en": "Hm! If we give him time,\nGaito will recover his power."
   },
   {
    "id": "event_ev003100:1394",
@@ -936,7 +936,7 @@
     116
    ],
    "jp": "おいかけよう！",
-   "en": ""
+   "en": "Let's go after him!"
   },
   {
    "id": "event_ev003100:13A4",
@@ -944,7 +944,7 @@
     117
    ],
    "jp": "よーし　ぜったいに\nにがさないんだからぁ！",
-   "en": ""
+   "en": "All right, I'm never\nletting him get away!"
   },
   {
    "id": "event_ev003100:13D0",
@@ -952,7 +952,7 @@
     118
    ],
    "jp": "‥‥‥‥‥‥\n（‥‥かった　ガイトにかったぞ！）",
-   "en": ""
+   "en": "..........\n(...I won. I beat Gaito!)"
   },
   {
    "id": "event_ev003100:1402",
@@ -960,7 +960,7 @@
     119
    ],
    "jp": "（こんかいは{h }にがしたが‥‥\nつぎこそは　かならず！！）",
-   "en": ""
+   "en": "(He got away this time...\nbut next time, for sure!!)"
   },
   {
    "id": "event_ev003100:143C",
@@ -968,7 +968,7 @@
     120
    ],
    "jp": "リナ　みぃーつけた☆",
-   "en": ""
+   "en": "Rina, fouuund you! ☆"
   },
   {
    "id": "event_ev003100:1452",
@@ -976,7 +976,7 @@
     121
    ],
    "jp": "リナったら　こんなところに\n１人で{h }いるんだもんなぁ",
-   "en": ""
+   "en": "Look at you, Rina,\noff here all by yourself."
   },
   {
    "id": "event_ev003100:1488",
@@ -984,7 +984,7 @@
     122
    ],
    "jp": "なっ　なんだ！　２人とも\nきゅうに{h }どうしたんだ！？",
-   "en": ""
+   "en": "Wh-what?! What's gotten\ninto you two all of a sudden?!"
   },
   {
    "id": "event_ev003100:14BE",
@@ -992,7 +992,7 @@
     123
    ],
    "jp": "リナが{h }いなくなっちゃったから\nさがしに{h }きたんじゃない",
-   "en": ""
+   "en": "You disappeared, so we\ncame looking for you, silly."
   },
   {
    "id": "event_ev003100:14F8",
@@ -1000,7 +1000,7 @@
     124
    ],
    "jp": "それより{h }リナこそ{h }なにしてたの？",
-   "en": ""
+   "en": "More importantly, what were you doing?"
   },
   {
    "id": "event_ev003100:151C",
@@ -1008,7 +1008,7 @@
     125
    ],
    "jp": "なにって{h }べつに‥‥",
-   "en": ""
+   "en": "Doing? Nothing really..."
   },
   {
    "id": "event_ev003100:1532",
@@ -1016,7 +1016,7 @@
     126
    ],
    "jp": "わたしのことより\n海斗は{h }もういいのか？",
-   "en": ""
+   "en": "Never mind me.\nIs Kaito okay now?"
   },
   {
    "id": "event_ev003100:155C",
@@ -1024,7 +1024,7 @@
     127
    ],
    "jp": "うん！　だいじょうぶだよ\nちゃーんと　目を{h }さましてるから",
-   "en": ""
+   "en": "Yeah! He's fine.\nHe's wide awake now."
   },
   {
    "id": "event_ev003100:1598",
@@ -1032,7 +1032,7 @@
     128
    ],
    "jp": "そうか‥‥よかったな",
-   "en": ""
+   "en": "I see... That's good."
   },
   {
    "id": "event_ev003100:15AE",
@@ -1048,7 +1048,7 @@
     130
    ],
    "jp": "うふふ‥‥",
-   "en": ""
+   "en": "Hehehe..."
   },
   {
    "id": "event_ev003100:15C6",
@@ -1056,7 +1056,7 @@
     131
    ],
    "jp": "ん？　どうしたんだ？",
-   "en": ""
+   "en": "Hm? What is it?"
   },
   {
    "id": "event_ev003100:15DC",
@@ -1064,7 +1064,7 @@
     132
    ],
    "jp": "ガイトを{h }やっつけることが\nできたのは{h }リナのおかげっ！",
-   "en": ""
+   "en": "We could beat Gaito\nthanks to you, Rina!"
   },
   {
    "id": "event_ev003100:1616",
@@ -1072,7 +1072,7 @@
     133
    ],
    "jp": "うわっ　な　なんだ{h }２人とも！",
-   "en": ""
+   "en": "Whoa, wh-what's with you two?!"
   },
   {
    "id": "event_ev003100:1636",
@@ -1080,7 +1080,7 @@
     134
    ],
    "jp": "これからも　いっしょに\nがんばろうねっ！",
-   "en": ""
+   "en": "Let's keep doing\nour best together!"
   },
   {
    "id": "event_ev003100:1660",
@@ -1096,7 +1096,7 @@
     136
    ],
    "jp": "どうしたの？",
-   "en": ""
+   "en": "What's wrong?"
   },
   {
    "id": "event_ev003100:167C",
@@ -1104,7 +1104,7 @@
     137
    ],
    "jp": "‥‥いや　なんでもないよ",
-   "en": ""
+   "en": "...No, it's nothing."
   },
   {
    "id": "event_ev003100:1696",
@@ -1112,7 +1112,7 @@
     138
    ],
    "jp": "（なかまって{h }いいものだな‥‥）",
-   "en": ""
+   "en": "(Having friends is nice...)"
   },
   {
    "id": "event_ev003100:16B8",
@@ -1120,7 +1120,7 @@
     139
    ],
    "jp": "{h }　　　　エピソード　３２　　　　\n　　『さいごのしとう』{h }おわり　　",
-   "en": ""
+   "en": "Episode 32\n\"The Final Battle\" - The End"
   }
  ]
 }

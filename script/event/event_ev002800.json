@@ -11,7 +11,7 @@
     127
    ],
    "jp": "やっぱり{h }こくはくするなら\nラブレターよね！",
-   "en": ""
+   "en": "If you're going to confess,\nit's gotta be with a love letter!"
   },
   {
    "id": "event_ev002800:002E",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "うう〜ん　ロマンチック☆",
-   "en": ""
+   "en": "Mmm, so romantic! ☆"
   },
   {
    "id": "event_ev002800:0048",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "波音ったら　きのうのドラマに\nハマってたもんね　でもよかったね〜",
-   "en": ""
+   "en": "Hanon, you were hooked on that drama\nlast night. But it ended well, huh?"
   },
   {
    "id": "event_ev002800:008A",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "ひきさかれてしまった\n２人の{h }あいだを‥‥",
-   "en": ""
+   "en": "Two people who were\ntorn apart..."
   },
   {
    "id": "event_ev002800:00B6",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "１つうの{h }ラブレターが\nとりもつのよ〜",
-   "en": ""
+   "en": "brought back together\nby a single love letter!"
   },
   {
    "id": "event_ev002800:00DE",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "うーん　わたしも{h }太郎ちゃんに\nラブレター{h }かきたーい☆",
-   "en": ""
+   "en": "Mmm, I wanna write a love letter\nto my Taro too! ☆"
   },
   {
    "id": "event_ev002800:0118",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "わたしだって　海斗に☆",
-   "en": ""
+   "en": "And me to Kaito! ☆"
   },
   {
    "id": "event_ev002800:0130",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "ラブレターか‥‥とはいうものの\nかくのは{h }たいへんなんだよな",
-   "en": ""
+   "en": "A love letter... Easier said than done.\nThey're hard to write."
   },
   {
    "id": "event_ev002800:016E",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "でも　きぶんを{h }もりあげれば\nかけるんじゃないかって‥‥",
-   "en": ""
+   "en": "But I hear if you get in the mood,\nyou might be able to write one..."
   },
   {
    "id": "event_ev002800:01A8",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "なるほどぉ\nリナったら{h }あたまいいー！",
-   "en": ""
+   "en": "I see!\nRina, you're so smart!"
   },
   {
    "id": "event_ev002800:01D0",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "そうかぁ　たいせつなのは\nきぶんかぁ‥‥",
-   "en": ""
+   "en": "Right, so the important thing\nis the mood..."
   },
   {
    "id": "event_ev002800:01FA",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "よし！　みんな{h }すきなばしょで\nそれぞれ{h }ラブレターかこうよ！",
-   "en": ""
+   "en": "Okay! Let's each write a love letter\nat our favorite spot!"
   },
   {
    "id": "event_ev002800:023A",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "そういうことなら　さっそく‥‥\nえへ☆　ちょっと出かけてくるね☆",
-   "en": ""
+   "en": "In that case, right away...\nHehe ☆ I'm heading out for a bit! ☆"
   },
   {
    "id": "event_ev002800:027C",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "海斗への{h }てがみなら\nかいがんで{h }かくのがいいよね☆",
-   "en": ""
+   "en": "A letter to Kaito should\nbe written at the beach! ☆"
   },
   {
    "id": "event_ev002800:02B2",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "かいがんで{h }かいたら\nステキな{h }ラブレターに{h }なりそう☆",
-   "en": ""
+   "en": "If I write it at the beach,\nit'll be a lovely love letter! ☆"
   },
   {
    "id": "event_ev002800:02EC",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "早く{h }かいがんに{h }いって\nラブレターを{h }かこーっと",
-   "en": ""
+   "en": "I'll hurry to the beach\nand write my love letter!"
   },
   {
    "id": "event_ev002800:0320",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "海斗に{h }ステキなラブレター‥‥\nとどけたいな☆",
-   "en": ""
+   "en": "A lovely love letter to Kaito...\nI hope I can deliver it! ☆"
   },
   {
    "id": "event_ev002800:0350",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "太郎ちゃんのことを{h }おもうのなら\nやっぱり{h }コンサートホールだよね",
-   "en": ""
+   "en": "If I'm thinking of my Taro,\nit's gotta be the Concert Hall!"
   },
   {
    "id": "event_ev002800:0394",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "コンサートホールで　ステキな\nおんがくを{h }ききながら{h }かこうっと",
-   "en": ""
+   "en": "I'll write it at the Concert Hall\nwhile listening to lovely music!"
   },
   {
    "id": "event_ev002800:03D6",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "太郎ちゃんへの{h }ラブレター\nコンサートホールで{h }かくの",
-   "en": ""
+   "en": "My love letter to Taro...\nI'll write it at the Concert Hall!"
   },
   {
    "id": "event_ev002800:040E",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "ステキなラブレター　かけるといいな",
-   "en": ""
+   "en": "I hope I can write a lovely love letter."
   },
   {
    "id": "event_ev002800:0432",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "まったく　なんで{h }わたしが‥‥\nとりあえず{h }じんじゃへ{h }いこうか",
-   "en": ""
+   "en": "Honestly, why do I have to...\nWell, I'll head to the Shrine for now."
   },
   {
    "id": "event_ev002800:0474",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "とにかく　ジャマされない\nばしょが{h }いいな‥‥",
-   "en": ""
+   "en": "Anyway, I want somewhere\nI won't be disturbed..."
   },
   {
    "id": "event_ev002800:04A4",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "うーん　ラブレターか‥‥こまったな\nとりあえず{h }じんじゃへ{h }いこう",
-   "en": ""
+   "en": "Hmm, a love letter... What a pain.\nI'll head to the Shrine for now."
   },
   {
    "id": "event_ev002800:04E8",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "じんじゃで{h }かいてみるか‥‥\nそれにしても{h }こまったな",
-   "en": ""
+   "en": "Maybe I'll try writing it at the Shrine...\nStill, what a pain."
   },
   {
    "id": "event_ev002800:0520",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "ラブレターか‥‥むずかしいな\nじんじゃでなら{h }かけるだろうか",
-   "en": ""
+   "en": "A love letter... That's tough.\nCould I write one at the Shrine?"
   },
   {
    "id": "event_ev002800:055E",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "ふぅ　こんなものかな\nでも　ちょっと{h }はずかしいな☆",
-   "en": ""
+   "en": "Phew, I guess that'll do.\nBut it's a little embarrassing! ☆"
   },
   {
    "id": "event_ev002800:0594",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "あっ！　かぜが！\nラブレターが{h }とばされちゃう！",
-   "en": ""
+   "en": "Ah! The wind!\nMy love letter's blowing away!"
   },
   {
    "id": "event_ev002800:05C6",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "あらら　なにかしら？\nこの{h }つまらない{h }てがみは‥‥",
-   "en": ""
+   "en": "Oh my, what's this?\nWhat a boring letter..."
   },
   {
    "id": "event_ev002800:05FC",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "人のこころは{h }うつろいやすいもの\nこいぶみなんて　ほんとうにおろかね",
-   "en": ""
+   "en": "People's hearts are so fickle.\nLove letters are truly foolish."
   },
   {
    "id": "event_ev002800:0642",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "あー！　水妖！\nちょっと！　もっていかないで！",
-   "en": ""
+   "en": "Ah! A water demon!\nHey! Don't take that!"
   },
   {
    "id": "event_ev002800:0672",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "‥‥てがみ{h }とられちゃった\nおいかけなきゃ！",
-   "en": ""
+   "en": "...She took my letter.\nI've gotta chase her!"
   },
   {
    "id": "event_ev002800:06A0",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "あの水妖‥‥\n学校のほうへ　いったようだわ！",
-   "en": ""
+   "en": "That water demon...\nlooks like she went toward the School!"
   },
   {
    "id": "event_ev002800:06CE",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "ふう‥‥こんなものかな\nようやく{h }かきあがったわ",
-   "en": ""
+   "en": "Phew... I guess that'll do.\nI finally finished writing it."
   },
   {
    "id": "event_ev002800:0700",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "えっ！　なんで{h }かぜが！\nあん　ラブレターが{h }とんじゃう！",
-   "en": ""
+   "en": "Huh?! Why is it so windy?!\nOh no, my love letter's flying away!"
   },
   {
    "id": "event_ev002800:073C",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "あらら　なにかしら？\nこの{h }つまらない{h }てがみは‥‥",
-   "en": ""
+   "en": "Oh my, what's this?\nWhat a boring letter..."
   },
   {
    "id": "event_ev002800:0772",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "人のこころは{h }うつろいやすいもの\nこいぶみなんて　ほんとうにおろかね",
-   "en": ""
+   "en": "People's hearts are so fickle.\nLove letters are truly foolish."
   },
   {
    "id": "event_ev002800:07B8",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "あー！　水妖！\nかってに{h }よまれちゃう！",
-   "en": ""
+   "en": "Ah! A water demon!\nShe's gonna read it without asking!"
   },
   {
    "id": "event_ev002800:07E2",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "もう‥‥！　てがみ\nとられちゃった{h }おいかけなきゃ！",
-   "en": ""
+   "en": "Ugh...! She took my letter.\nI've gotta chase her!"
   },
   {
    "id": "event_ev002800:0818",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "水妖は‥‥\n学校のほうへ　むかったようね！",
-   "en": ""
+   "en": "The water demon...\nseems to have headed for the School!"
   },
   {
    "id": "event_ev002800:0844",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "ふう‥‥まあ{h }こんなものかな？\nはじめて{h }かいたわりには‥‥！！",
-   "en": ""
+   "en": "Phew... I guess this'll do?\nNot bad for my first try...!!"
   },
   {
    "id": "event_ev002800:0886",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "むっ　この{h }かぜは！？\nせっかく{h }かいたラブレターが！！",
-   "en": ""
+   "en": "Hm, this wind?!\nThe love letter I worked so hard on!!"
   },
   {
    "id": "event_ev002800:08C0",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "あらら　なにかしら？\nこの{h }つまらない{h }てがみは‥‥",
-   "en": ""
+   "en": "Oh my, what's this?\nWhat a boring letter..."
   },
   {
    "id": "event_ev002800:08F6",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "人のこころは{h }うつろいやすいもの\nこいぶみなんて　ほんとうにおろかね",
-   "en": ""
+   "en": "People's hearts are so fickle.\nLove letters are truly foolish."
   },
   {
    "id": "event_ev002800:093C",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "ああ！　水妖！",
-   "en": ""
+   "en": "Ah! A water demon!"
   },
   {
    "id": "event_ev002800:094C",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "それは{h }わたしのものだ！\n‥‥といっても{h }とどかないか",
-   "en": ""
+   "en": "That's mine!\n...Not that she can hear me."
   },
   {
    "id": "event_ev002800:0984",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "てがみを{h }とられてしまった\nおいかけなければ！",
-   "en": ""
+   "en": "My letter's been stolen.\nI have to go after her!"
   },
   {
    "id": "event_ev002800:09B4",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "あの水妖‥‥学校のほうへ\nむかったようだ‥‥",
-   "en": ""
+   "en": "That water demon... seems to\nhave headed toward the School..."
   },
   {
    "id": "event_ev002800:09E2",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "あの水妖は　学校ね‥‥\nラブレター　とりかえすわよ！",
-   "en": ""
+   "en": "That water demon's at the School...\nI'm getting my love letter back!"
   },
   {
    "id": "event_ev002800:0A18",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "あの水妖　学校にいるみたい\nいそいで{h }いかなくっちゃ！",
-   "en": ""
+   "en": "That water demon seems to be at\nthe School. I've gotta hurry!"
   },
   {
    "id": "event_ev002800:0A50",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "学校にいる水妖から\nラブレターを{h }とりかえすわよ！",
-   "en": ""
+   "en": "I'm getting my love letter back\nfrom that water demon at the School!"
   },
   {
    "id": "event_ev002800:0A84",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "わたしのラブレターを　へんだなんて\nぜったいに　ゆるさないんだから",
-   "en": ""
+   "en": "Calling my love letter weird...\nI'll never forgive her!"
   },
   {
    "id": "event_ev002800:0AC8",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "あの水妖\nどうやら学校に{h }いるみたいね",
-   "en": ""
+   "en": "That water demon...\nseems to be at the School."
   },
   {
    "id": "event_ev002800:0AF0",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "学校にいる　あの水妖から\nラブレターを{h }とりかえすわよ！",
-   "en": ""
+   "en": "I'm getting my love letter back\nfrom that water demon at the School!"
   },
   {
    "id": "event_ev002800:0B2A",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "れんあいは{h }けして\nおろかじゃないもん！",
-   "en": ""
+   "en": "Love is never\nfoolish!"
   },
   {
    "id": "event_ev002800:0B54",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "あの水妖は{h }学校ね\nいそがなくっちゃ！！",
-   "en": ""
+   "en": "That water demon's at the School.\nI've gotta hurry!!"
   },
   {
    "id": "event_ev002800:0B7E",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "あの水妖‥‥学校へ{h }いったのか",
-   "en": ""
+   "en": "That water demon... went to the School?"
   },
   {
    "id": "event_ev002800:0B9E",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "学校へにげた{h }あの水妖から\nラブレターを{h }とりかえさないとな",
-   "en": ""
+   "en": "I need to get my love letter back\nfrom that water demon at the School."
   },
   {
    "id": "event_ev002800:0BDC",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "水妖め‥‥\nラブレターを{h }とりかえさないと",
-   "en": ""
+   "en": "That water demon...\nI have to get my love letter back."
   },
   {
    "id": "event_ev002800:0C08",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "水妖は{h }学校だな\n早くラブレターを{h }とりかえそう！",
-   "en": ""
+   "en": "The water demon's at the School.\nLet's get that love letter back fast!"
   },
   {
    "id": "event_ev002800:0C3C",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "見つけたー！\nもう！　とっちめてやるんだから！",
-   "en": ""
+   "en": "Found you!\nOoh, I'm gonna teach you a lesson!"
   },
   {
    "id": "event_ev002800:0C6C",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "わたしのラブレター　かえしなさい！",
-   "en": ""
+   "en": "Give my love letter back!"
   },
   {
    "id": "event_ev002800:0C90",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "あら？　これはあなたの\nてがみだったの？",
-   "en": ""
+   "en": "Oh? So this letter\nwas yours?"
   },
   {
    "id": "event_ev002800:0CBA",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "それにしても　この{h }てがみ\n見れば見るほど{h }おもしろいわ",
-   "en": ""
+   "en": "Still, the more I look at this letter,\nthe funnier it gets."
   },
   {
    "id": "event_ev002800:0CF4",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "もちかえって\nみんなで{h }わらうことにするわ",
-   "en": ""
+   "en": "I'll take it home\nso everyone can laugh at it."
   },
   {
    "id": "event_ev002800:0D20",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "だから{h }かえせないの　うふふ‥‥",
-   "en": ""
+   "en": "So I can't give it back. Hehehe..."
   },
   {
    "id": "event_ev002800:0D42",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "しんけんな{h }こいを{h }わらうだなんて\nぜったいに{h }ゆるせない！",
-   "en": ""
+   "en": "Laughing at someone's true love...\nI'll never forgive you!"
   },
   {
    "id": "event_ev002800:0D80",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "見つけた！\nつかまえて　こらしめちゃう！",
-   "en": ""
+   "en": "Found you!\nI'll catch you and teach you a lesson!"
   },
   {
    "id": "event_ev002800:0DAA",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "おいつめたわよ　水妖！\nわたしのラブレター　かえして！",
-   "en": ""
+   "en": "I've got you cornered, water demon!\nGive my love letter back!"
   },
   {
    "id": "event_ev002800:0DE2",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "あら？　ひょっとして\nこのてがみは{h }あなたのかしら？",
-   "en": ""
+   "en": "Oh? Could this letter\nbe yours, perhaps?"
   },
   {
    "id": "event_ev002800:0E18",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "この{h }てがみ　見れば見るほど\nおもしろいわ",
-   "en": ""
+   "en": "The more I look at this letter,\nthe funnier it gets."
   },
   {
    "id": "event_ev002800:0E44",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "もちかえって\nみんなで{h }わらうことにするわ",
-   "en": ""
+   "en": "I'll take it home\nso everyone can laugh at it."
   },
   {
    "id": "event_ev002800:0E70",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "だから{h }かえせないの　うふふ‥‥",
-   "en": ""
+   "en": "So I can't give it back. Hehehe..."
   },
   {
    "id": "event_ev002800:0E92",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "なんですって！",
-   "en": ""
+   "en": "What did you say?!"
   },
   {
    "id": "event_ev002800:0EA2",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "そんなの　\nぜったいにゆるさなーい！",
-   "en": ""
+   "en": "I'll never,\never forgive that!"
   },
   {
    "id": "event_ev002800:0EC8",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "なんとしても\nてがみを{h }とりかえさなければ！",
-   "en": ""
+   "en": "I have to get that letter\nback no matter what!"
   },
   {
    "id": "event_ev002800:0F04",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "とうとう{h }おいつめたぞ　水妖！\nさあ　ラブレターを{h }かえせ！",
-   "en": ""
+   "en": "I've finally cornered you, water demon!\nNow give back that love letter!"
   },
   {
    "id": "event_ev002800:0F42",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "あら？　これはあなたの\nてがみだったの？",
-   "en": ""
+   "en": "Oh? So this letter\nwas yours?"
   },
   {
    "id": "event_ev002800:0F6C",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "それにしても　この{h }てがみ\n見れば見るほど{h }おもしろいわ",
-   "en": ""
+   "en": "Still, the more I look at this letter,\nthe funnier it gets."
   },
   {
    "id": "event_ev002800:0FA6",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "もちかえって\nみんなで{h }わらうことにするわ",
-   "en": ""
+   "en": "I'll take it home\nso everyone can laugh at it."
   },
   {
    "id": "event_ev002800:0FD2",
@@ -659,7 +659,7 @@
     81
    ],
    "jp": "だから{h }かえせないの　うふふ‥‥",
-   "en": ""
+   "en": "So I can't give it back. Hehehe..."
   },
   {
    "id": "event_ev002800:0FF4",
@@ -667,7 +667,7 @@
     82
    ],
    "jp": "本気のおもいを\nあざわらうとは{h }ゆるさない！",
-   "en": ""
+   "en": "I won't forgive you for\nmocking someone's true feelings!"
   },
   {
    "id": "event_ev002800:1022",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "はあ　はあ‥‥\nなんとか{h }とりかえせたわ！",
-   "en": ""
+   "en": "Huff, huff...\nI got it back somehow!"
   },
   {
    "id": "event_ev002800:104E",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "おい　どうした？　なにか{h }さわぎが\nあったみたいだけど",
-   "en": ""
+   "en": "Hey, what's up? Sounded like\nthere was some kind of commotion."
   },
   {
    "id": "event_ev002800:1086",
@@ -691,7 +691,7 @@
     85
    ],
    "jp": "え？　わたし　しらないよ\n（いまよ！　チャンス！）",
-   "en": ""
+   "en": "Huh? I don't know anything.\n(Now! Here's my chance!)"
   },
   {
    "id": "event_ev002800:10BA",
@@ -699,7 +699,7 @@
     86
    ],
    "jp": "ん〜　オレの{h }気のせいだったかな？",
-   "en": ""
+   "en": "Hmm... Maybe it was just me?"
   },
   {
    "id": "event_ev002800:10DE",
@@ -707,7 +707,7 @@
     87
    ],
    "jp": "海斗！　コレ‥‥\nよんでほしいの！",
-   "en": ""
+   "en": "Kaito! This...\nI want you to read it!"
   },
   {
    "id": "event_ev002800:1102",
@@ -715,7 +715,7 @@
     88
    ],
    "jp": "ん？　オレにか？\nもらっとくぜ‥‥",
-   "en": ""
+   "en": "Hm? For me?\nI'll take it, then..."
   },
   {
    "id": "event_ev002800:1126",
@@ -723,7 +723,7 @@
     89
    ],
    "jp": "（ああん　どきどきしちゃう）",
-   "en": ""
+   "en": "(Oh, my heart's pounding...)"
   },
   {
    "id": "event_ev002800:1144",
@@ -731,7 +731,7 @@
     90
    ],
    "jp": "えーっと　なになに‥‥",
-   "en": ""
+   "en": "Let's see, what's this..."
   },
   {
    "id": "event_ev002800:115C",
@@ -739,7 +739,7 @@
     91
    ],
    "jp": "ああっ　ひどぉーい！\nわたしの目のまえで{h }よむなんてー！",
-   "en": ""
+   "en": "Ah! That's so mean!\nReading it right in front of me!"
   },
   {
    "id": "event_ev002800:1196",
@@ -747,7 +747,7 @@
     92
    ],
    "jp": "海斗の{h }いじわるぅ！\nもう！　かえしてっ！",
-   "en": ""
+   "en": "Kaito, you meanie!\nUgh! Give it back!"
   },
   {
    "id": "event_ev002800:11C2",
@@ -755,7 +755,7 @@
     93
    ],
    "jp": "おいおい　オレにくれたんじゃ\nなかったのかよ‥‥",
-   "en": ""
+   "en": "Hey, hey, didn't you\ngive it to me?"
   },
   {
    "id": "event_ev002800:11F4",
@@ -763,7 +763,7 @@
     94
    ],
    "jp": "ふぅ　よかった\nなんとか{h }とりかえせたわ",
-   "en": ""
+   "en": "Phew, thank goodness.\nI got it back somehow."
   },
   {
    "id": "event_ev002800:121E",
@@ -771,7 +771,7 @@
     95
    ],
    "jp": "おや　波音さん　いま{h }ここで\nなにか{h }ありませんでした？",
-   "en": ""
+   "en": "Oh, Hanon. Did something\nhappen here just now?"
   },
   {
    "id": "event_ev002800:1258",
@@ -779,7 +779,7 @@
     96
    ],
    "jp": "え〜？　しりませんよぉ？\n（いまよ！　チャーンス！）",
-   "en": ""
+   "en": "Huh? I don't know anything!\n(Now! Here's my chaaance!)"
   },
   {
    "id": "event_ev002800:128E",
@@ -787,7 +787,7 @@
     97
    ],
    "jp": "おかしいですね？\nたしかに‥‥",
-   "en": ""
+   "en": "How strange...\nI'm sure that..."
   },
   {
    "id": "event_ev002800:12AE",
@@ -795,7 +795,7 @@
     98
    ],
    "jp": "あのっ、海月先生！\nこれ　よんでください！",
-   "en": ""
+   "en": "Um, Mr. Mitsuki!\nPlease read this!"
   },
   {
    "id": "event_ev002800:12DA",
@@ -803,7 +803,7 @@
     99
    ],
    "jp": "てがみなんて{h }めずらしいですね\nどれどれ‥‥",
-   "en": ""
+   "en": "A letter? How unusual.\nLet's see..."
   },
   {
    "id": "event_ev002800:1308",
@@ -811,7 +811,7 @@
     100
    ],
    "jp": "ああん　ここじゃダメ\n１人で{h }よんでくださいね☆",
-   "en": ""
+   "en": "Oh no, not here!\nPlease read it alone! ☆"
   },
   {
    "id": "event_ev002800:133A",
@@ -819,7 +819,7 @@
     101
    ],
    "jp": "はい　わかりました",
-   "en": ""
+   "en": "All right, I understand."
   },
   {
    "id": "event_ev002800:134E",
@@ -827,7 +827,7 @@
     102
    ],
    "jp": "やくそくですよ‥‥\n（うわーん　ドキドキする〜）",
-   "en": ""
+   "en": "It's a promise...\n(Waaah, my heart's pounding!)"
   },
   {
    "id": "event_ev002800:1380",
@@ -835,7 +835,7 @@
     103
    ],
    "jp": "（なんだか　すっごくはずかしくて\nもう{h }たえられないよぉ！）",
-   "en": ""
+   "en": "(This is sooo embarrassing,\nI can't take it anymore!)"
   },
   {
    "id": "event_ev002800:13BE",
@@ -843,7 +843,7 @@
     104
    ],
    "jp": "‥‥あのっ！　その{h }てがみ\nやっぱり{h }かえしてください！",
-   "en": ""
+   "en": "...Um! That letter...\nPlease give it back after all!"
   },
   {
    "id": "event_ev002800:13F8",
@@ -851,7 +851,7 @@
     105
    ],
    "jp": "え？　それは{h }かまいませんが‥‥",
-   "en": ""
+   "en": "Huh? I don't mind, but..."
   },
   {
    "id": "event_ev002800:141A",
@@ -859,7 +859,7 @@
     106
    ],
    "jp": "どうしたんでしょう{h }\n波音さん‥‥",
-   "en": ""
+   "en": "What's gotten into\nHanon...?"
   },
   {
    "id": "event_ev002800:143E",
@@ -867,7 +867,7 @@
     107
    ],
    "jp": "（あーん！\nわたしの{h }いくじなしぃ〜！）",
-   "en": ""
+   "en": "(Waaah!\nI'm such a chicken!)"
   },
   {
    "id": "event_ev002800:1468",
@@ -875,7 +875,7 @@
     108
    ],
    "jp": "よし！\nどこも{h }やぶれたりは{h }してないな",
-   "en": ""
+   "en": "Good!\nIt's not torn anywhere."
   },
   {
    "id": "event_ev002800:1492",
@@ -883,7 +883,7 @@
     109
    ],
    "jp": "とりかえせて{h }よかった‥‥",
-   "en": ""
+   "en": "I'm glad I got it back..."
   },
   {
    "id": "event_ev002800:14AE",
@@ -891,7 +891,7 @@
     110
    ],
    "jp": "お　洞院じゃないか\n‥‥なんだこれ　ラブレター！？",
-   "en": ""
+   "en": "Oh, Toin, it's you.\n...What's this, a love letter?!"
   },
   {
    "id": "event_ev002800:14E2",
@@ -899,7 +899,7 @@
     111
    ],
    "jp": "海斗！？\nあっ　か　かえせっ！",
-   "en": ""
+   "en": "Kaito?!\nAh, g-give that back!"
   },
   {
    "id": "event_ev002800:1502",
@@ -907,7 +907,7 @@
     112
    ],
    "jp": "へー　洞院がねー",
-   "en": ""
+   "en": "Whoa, Toin, huh..."
   },
   {
    "id": "event_ev002800:1514",
@@ -915,7 +915,7 @@
     113
    ],
    "jp": "それは{h }だいじな\nたのまれものなんだ！",
-   "en": ""
+   "en": "That's something important\nsomeone asked me to do!"
   },
   {
    "id": "event_ev002800:153C",
@@ -923,7 +923,7 @@
     114
    ],
    "jp": "ええっ！？",
-   "en": ""
+   "en": "Whaaat?!"
   },
   {
    "id": "event_ev002800:1548",
@@ -931,7 +931,7 @@
     115
    ],
    "jp": "どうかな{h }リナちゃん‥‥",
-   "en": ""
+   "en": "How did it go, Rina...?"
   },
   {
    "id": "event_ev002800:1562",
@@ -939,7 +939,7 @@
     116
    ],
    "jp": "たのんでおいた{h }ラブレターは\nかけたかな？",
-   "en": ""
+   "en": "Were you able to write\nthe love letter I asked for?"
   },
   {
    "id": "event_ev002800:158E",
@@ -947,7 +947,7 @@
     117
    ],
    "jp": "くろうはしましたけど　なんとか‥‥\nこんなもので{h }いいんですか？",
-   "en": ""
+   "en": "It took some work, but I managed...\nIs this okay?"
   },
   {
    "id": "event_ev002800:15D0",
@@ -955,7 +955,7 @@
     118
    ],
    "jp": "ふむふむ‥‥じょうできだ\nリナちゃん{h }たすかったよ",
-   "en": ""
+   "en": "Hmm, hmm... Nicely done.\nYou really helped me out, Rina."
   },
   {
    "id": "event_ev002800:1604",
@@ -963,7 +963,7 @@
     119
    ],
    "jp": "このくらいのことなら\nいつでもするよ",
-   "en": ""
+   "en": "Anytime you need\nsomething like this."
   },
   {
    "id": "event_ev002800:162A",
@@ -971,7 +971,7 @@
     120
    ],
    "jp": "ラブレターの{h }だいひつなんて\nたのめるのは",
-   "en": ""
+   "en": "Ghostwriting a love letter\nisn't something I could ask"
   },
   {
    "id": "event_ev002800:1656",
@@ -979,7 +979,7 @@
     121
    ],
    "jp": "リナちゃん{h }ぐらいだからね\nたすかったよ　ありがとう",
-   "en": ""
+   "en": "anyone but you, Rina.\nYou really helped. Thank you."
   },
   {
    "id": "event_ev002800:168C",
@@ -987,7 +987,7 @@
     122
    ],
    "jp": "なんだ　だいひつだったのか‥‥",
-   "en": ""
+   "en": "Oh, so she was ghostwriting it..."
   },
   {
    "id": "event_ev002800:16AC",
@@ -995,7 +995,7 @@
     123
    ],
    "jp": "（それにしても　あのラブレター‥‥\nだれに出すつもりなんだろう？）",
-   "en": ""
+   "en": "(Still, that love letter...\nwho's it meant for, I wonder?)"
   },
   {
    "id": "event_ev002800:16F0",
@@ -1003,7 +1003,7 @@
     124
    ],
    "jp": "{h }　　　　エピソード　２９　　　　\n　　『ひみつのてがみ』{h }おわり　　",
-   "en": ""
+   "en": "Episode 29\n\"The Secret Letter\" - The End"
   }
  ]
 }

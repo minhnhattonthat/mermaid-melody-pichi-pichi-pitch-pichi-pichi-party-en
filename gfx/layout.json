@@ -1,0 +1,14 @@
+{
+ "/mode/result/res_ep_bg_0.imb": {
+  "bpp": 8,
+  "tw": 30
+ },
+ "/system/title/ev000000.dcg": {
+  "bpp": 4,
+  "tw": 26
+ },
+ "/system/title/ev000100.dcg": {
+  "bpp": 4,
+  "tw": 26
+ }
+}

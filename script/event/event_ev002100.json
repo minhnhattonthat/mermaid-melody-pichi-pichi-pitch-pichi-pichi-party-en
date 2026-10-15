@@ -10,7 +10,7 @@
     71
    ],
    "jp": "つぎは　びじゅつの\nかがいじゅぎょうだな‥‥",
-   "en": ""
+   "en": "Next is the art class\nfield trip..."
   },
   {
    "id": "event_ev002100:002E",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "ふうけいがの{h }下がきかぁ\nつまんないなぁ‥‥",
-   "en": ""
+   "en": "Sketching a landscape, huh...\nHow boring..."
   },
   {
    "id": "event_ev002100:005C",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "じゃあ　だれが{h }いちばん\nじょうずに{h }かけるのか",
-   "en": ""
+   "en": "Then let's see who\ncan draw the best..."
   },
   {
    "id": "event_ev002100:008E",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "きょうそうしようよ！",
-   "en": ""
+   "en": "Let's have a contest!"
   },
   {
    "id": "event_ev002100:00A4",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "そうだな‥‥\nそのほうが{h }やりがいがありそうだ",
-   "en": ""
+   "en": "Sure...\nThat'd make it more worthwhile."
   },
   {
    "id": "event_ev002100:00D4",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "そういうことなら\nがんばってみようかなぁ",
-   "en": ""
+   "en": "If that's the case,\nI guess I'll give it my best."
   },
   {
    "id": "event_ev002100:00FE",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "それじゃあ　みんな{h }がんばろうね！",
-   "en": ""
+   "en": "Okay, everyone, let's do our best!"
   },
   {
    "id": "event_ev002100:0122",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "ふうけいが{h }といえば\nやっぱり　うみ{h }よね",
-   "en": ""
+   "en": "When it comes to landscapes,\nit's got to be the sea!"
   },
   {
    "id": "event_ev002100:014E",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "みさきの{h }てんぼうだいで\n下がきをしようっと！",
-   "en": ""
+   "en": "I'll do my sketch at\nCape Lookout!"
   },
   {
    "id": "event_ev002100:017E",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "わたしは　みさきのてんぼうだいへ\nいこうっと",
-   "en": ""
+   "en": "I think I'll go\nto Cape Lookout."
   },
   {
    "id": "event_ev002100:01AC",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "うまく{h }えが{h }かけるといいなぁ",
-   "en": ""
+   "en": "I hope I can draw a good picture."
   },
   {
    "id": "event_ev002100:01CC",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "うーん　あつーい‥‥\nふんすいひろばの{h }けしきで{h }いいかな",
-   "en": ""
+   "en": "Ugh, it's so hot...\nMaybe I'll draw Fountain Plaza."
   },
   {
    "id": "event_ev002100:0208",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "ふんすいひろばで　下がきしよーっと",
-   "en": ""
+   "en": "I'll do my sketch at Fountain Plaza."
   },
   {
    "id": "event_ev002100:022C",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "ふんすいひろばで\n下がきを{h }おわらせないと",
-   "en": ""
+   "en": "I've got to finish\nmy sketch at Fountain Plaza."
   },
   {
    "id": "event_ev002100:0258",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "あついよー‥‥\n早く{h }おわらせちゃおーっと",
-   "en": ""
+   "en": "It's so hot...\nI'll just finish it quickly."
   },
   {
    "id": "event_ev002100:0284",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "えを{h }かくならやっぱり{h }\nすずしげな{h }じんじゃだよな",
-   "en": ""
+   "en": "If I'm drawing a picture,\nit should be the cool Shrine."
   },
   {
    "id": "event_ev002100:02BA",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "しずかな{h }じんじゃで\n下がきをしよう",
-   "en": ""
+   "en": "I'll do my sketch\nat the quiet Shrine."
   },
   {
    "id": "event_ev002100:02E0",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "じんじゃで{h }いそいで\n下がきを{h }しようか",
-   "en": ""
+   "en": "I'll hurry to the Shrine\nand do my sketch."
   },
   {
    "id": "event_ev002100:030A",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "たまの{h }かがいじゅぎょうも\nたのしいよな",
-   "en": ""
+   "en": "A field trip class once in\na while is fun, huh."
   },
   {
    "id": "event_ev002100:0334",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "てんぼうだいに{h }とうちゃーく！",
-   "en": ""
+   "en": "I'm at the lookout!"
   },
   {
    "id": "event_ev002100:0354",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "んーっ　やっぱり{h }うみって\nきもちいいなぁ",
-   "en": ""
+   "en": "Mmm, the sea really\nfeels nice..."
   },
   {
    "id": "event_ev002100:0380",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "おっと　あそんでないで\nいそいで{h }下がきしなくちゃね",
-   "en": ""
+   "en": "Oops, no playing around!\nI've got to hurry and sketch."
   },
   {
    "id": "event_ev002100:03B6",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "ふんすいひろばに{h }ついたわ\n水しぶきが{h }きもちいいーっ！",
-   "en": ""
+   "en": "I'm at Fountain Plaza!\nThe spray feels so niiice!"
   },
   {
    "id": "event_ev002100:03F0",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "さてと　いつまでも\nすずんでられない",
-   "en": ""
+   "en": "Okay, I can't stay\ncooling off forever."
   },
   {
    "id": "event_ev002100:0416",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "下がきを{h }おわらせなきゃね",
-   "en": ""
+   "en": "I've got to finish my sketch."
   },
   {
    "id": "event_ev002100:0432",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "山は{h }やっぱり\nすずしくて{h }気が{h }ひきしまる‥‥",
-   "en": ""
+   "en": "Up on the hill it's cool,\nand it clears my mind..."
   },
   {
    "id": "event_ev002100:0464",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "よし　下がきを{h }はじめるか\nがんばらなきゃな",
-   "en": ""
+   "en": "All right, time to start sketching.\nI'd better do my best."
   },
   {
    "id": "event_ev002100:0492",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "下がき{h }かんりょう\n学校へ{h }かえろう！",
-   "en": ""
+   "en": "Sketch done!\nBack to the School!"
   },
   {
    "id": "event_ev002100:04BA",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "学校へ{h }かえって　しあげをしないと",
-   "en": ""
+   "en": "I've got to go back to the School\nand finish it."
   },
   {
    "id": "event_ev002100:04DE",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "いそいで{h }学校に{h }かえらなきゃ",
-   "en": ""
+   "en": "I've got to hurry back to the School."
   },
   {
    "id": "event_ev002100:04FE",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "いちばんは　わたしなんだからぁ",
-   "en": ""
+   "en": "I'm gonna be number one!"
   },
   {
    "id": "event_ev002100:051E",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "下がきは{h }こんなものね\n学校に{h }かえりましょ",
-   "en": ""
+   "en": "That's good enough for a sketch.\nLet's go back to the School."
   },
   {
    "id": "event_ev002100:054C",
@@ -266,7 +266,7 @@
     32
    ],
    "jp": "学校に{h }もどって\nえに{h }いろを{h }つけないと",
-   "en": ""
+   "en": "I've got to go back to the School\nand color in my picture."
   },
   {
    "id": "event_ev002100:0578",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "いそいで{h }学校へ{h }かえろうっと",
-   "en": ""
+   "en": "I'll hurry back to the School."
   },
   {
    "id": "event_ev002100:0598",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "うふふ‥‥いちばんは\nわたしなんだもんね！",
-   "en": ""
+   "en": "Hehe... I'm gonna be\nnumber one!"
   },
   {
    "id": "event_ev002100:05C4",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "下がきも{h }おわったし‥‥\n学校に{h }もどらないとな",
-   "en": ""
+   "en": "My sketch is done...\nI'd better go back to the School."
   },
   {
    "id": "event_ev002100:05F6",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "早く{h }学校に{h }もどらないと\nしあげが{h }おくれてしまうぞ",
-   "en": ""
+   "en": "If I don't hurry back to the School,\nI'll be late finishing it."
   },
   {
    "id": "event_ev002100:062E",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "学校へ{h }もどって\n早く{h }えを{h }しあげないと",
-   "en": ""
+   "en": "I'll go back to the School\nand finish my picture fast."
   },
   {
    "id": "event_ev002100:065A",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "下がきは{h }うまく{h }かけたな‥‥\nしあげが{h }たのしみだ",
-   "en": ""
+   "en": "My sketch came out well...\nI'm looking forward to finishing it."
   },
   {
    "id": "event_ev002100:0690",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "よおーっし！\nしあげに{h }入るよぉ！",
-   "en": ""
+   "en": "All riiight!\nTime to finish it up!"
   },
   {
    "id": "event_ev002100:06B4",
@@ -330,7 +330,7 @@
     40
    ],
    "jp": "それじゃあ\nしあげを{h }はじめようかな",
-   "en": ""
+   "en": "Okay then,\nI'll start finishing it."
   },
   {
    "id": "event_ev002100:06DA",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "こんどは{h }しあげを{h }しないとな\nがんばるぞ‥‥",
-   "en": ""
+   "en": "Now I've got to finish it up.\nI'll do my best..."
   },
   {
    "id": "event_ev002100:070A",
@@ -346,7 +346,7 @@
     42
    ],
    "jp": "うふ！\nうまく{h }かけたみたい",
-   "en": ""
+   "en": "Hehe!\nI think it came out well."
   },
   {
    "id": "event_ev002100:0728",
@@ -354,7 +354,7 @@
     43
    ],
    "jp": "へー\nるちあにしては{h }やるじゃない！",
-   "en": ""
+   "en": "Wow,\nnot bad for Lucia!"
   },
   {
    "id": "event_ev002100:074E",
@@ -362,7 +362,7 @@
     44
    ],
    "jp": "るちあにしては{h }ってなによー！",
-   "en": ""
+   "en": "What do you mean, \"for Lucia\"?!"
   },
   {
    "id": "event_ev002100:076E",
@@ -370,7 +370,7 @@
     45
    ],
    "jp": "でも　たしかに\nいい{h }えだと{h }おもうよ",
-   "en": ""
+   "en": "But it really is\na good picture."
   },
   {
    "id": "event_ev002100:0796",
@@ -378,7 +378,7 @@
     46
    ],
    "jp": "じんぶつが{h }とてもこまかく\nえがかれている",
-   "en": ""
+   "en": "The person is drawn\nin great detail."
   },
   {
    "id": "event_ev002100:07C2",
@@ -386,7 +386,7 @@
     47
    ],
    "jp": "えへへ　じつはここにかいたのって\n海斗なんだぁ☆",
-   "en": ""
+   "en": "Hehe, actually, the person\nI drew here is Kaito ☆"
   },
   {
    "id": "event_ev002100:07F4",
@@ -394,7 +394,7 @@
     48
    ],
    "jp": "なるほどね\nそれで{h }きあいが{h }入ったってわけだ",
-   "en": ""
+   "en": "I see.\nSo that's why you tried so hard."
   },
   {
    "id": "event_ev002100:0824",
@@ -402,7 +402,7 @@
     49
    ],
    "jp": "ははは‥‥るちあらしいな",
-   "en": ""
+   "en": "Hahaha... That's so like Lucia."
   },
   {
    "id": "event_ev002100:083E",
@@ -410,7 +410,7 @@
     50
    ],
    "jp": "できあがったわ\nまあ　こんなものかな？",
-   "en": ""
+   "en": "It's done.\nNot bad, if I say so myself."
   },
   {
    "id": "event_ev002100:0866",
@@ -418,7 +418,7 @@
     51
    ],
    "jp": "うわぁ　波音すごーい！",
-   "en": ""
+   "en": "Wow, Hanon, that's amazing!"
   },
   {
    "id": "event_ev002100:087E",
@@ -426,7 +426,7 @@
     52
    ],
    "jp": "うん　なかなか{h }うまく\nかけているじゃないか",
-   "en": ""
+   "en": "Yeah, you drew\nit pretty well."
   },
   {
    "id": "event_ev002100:08AC",
@@ -434,7 +434,7 @@
     53
    ],
    "jp": "この波音が{h }本気になったら\nざっと{h }こんなものよ☆",
-   "en": ""
+   "en": "When I get serious,\nthis is what I can do ☆"
   },
   {
    "id": "event_ev002100:08E0",
@@ -442,7 +442,7 @@
     54
    ],
    "jp": "んん？　ひょっとして‥‥\nこの{h }つうこうにんって{h }海月先生？",
-   "en": ""
+   "en": "Hmm? Wait a minute...\nIs this passerby Mr. Mitsuki?"
   },
   {
    "id": "event_ev002100:091E",
@@ -450,7 +450,7 @@
     55
    ],
    "jp": "きゃ☆\nみつかっちゃったぁ！",
-   "en": ""
+   "en": "Eek ☆\nYou caught me!"
   },
   {
    "id": "event_ev002100:093C",
@@ -458,7 +458,7 @@
     56
    ],
    "jp": "それで{h }本気に{h }なったのか？\nなんだか{h }波音らしいな",
-   "en": ""
+   "en": "So that's why you got serious?\nThat's so like you, Hanon."
   },
   {
    "id": "event_ev002100:0972",
@@ -466,7 +466,7 @@
     57
    ],
    "jp": "ああーっ！　ひっどぉーい！",
-   "en": ""
+   "en": "Aaah! That's so meeean!"
   },
   {
    "id": "event_ev002100:098E",
@@ -474,7 +474,7 @@
     58
    ],
    "jp": "よし　これはなかなかのできだぞ",
-   "en": ""
+   "en": "All right, this came out pretty well."
   },
   {
    "id": "event_ev002100:09AE",
@@ -482,7 +482,7 @@
     59
    ],
    "jp": "ここのところの{h }みどりをとおる",
-   "en": ""
+   "en": "The way the light shines\nthrough the green here..."
   },
   {
    "id": "event_ev002100:09CE",
@@ -490,7 +490,7 @@
     60
    ],
    "jp": "ひかりのかんじが{h }\nむずかしかった‥‥",
-   "en": ""
+   "en": "was hard\nto get right..."
   },
   {
    "id": "event_ev002100:09F6",
@@ -514,7 +514,7 @@
     63
    ],
    "jp": "２人とも{h }どうした？",
-   "en": ""
+   "en": "What's wrong, you two?"
   },
   {
    "id": "event_ev002100:0A28",
@@ -522,7 +522,7 @@
     64
    ],
    "jp": "ううー　リナ{h }てつだってー",
-   "en": ""
+   "en": "Ugh... Rina, help meee!"
   },
   {
    "id": "event_ev002100:0A44",
@@ -530,7 +530,7 @@
     65
    ],
    "jp": "わたしもー！！",
-   "en": ""
+   "en": "Me tooo!!"
   },
   {
    "id": "event_ev002100:0A54",
@@ -538,7 +538,7 @@
     66
    ],
    "jp": "２人とも‥‥\nまだ{h }下がきだけなのか！？",
-   "en": ""
+   "en": "You two...\nyou've only done the sketch?!"
   },
   {
    "id": "event_ev002100:0A7E",
@@ -546,7 +546,7 @@
     67
    ],
    "jp": "しかたがない　てつだうか‥‥",
-   "en": ""
+   "en": "It can't be helped. I'll help..."
   },
   {
    "id": "event_ev002100:0A9C",
@@ -554,7 +554,7 @@
     68
    ],
    "jp": "（ほんとうは\nいけないんだけどなぁ‥‥）",
-   "en": ""
+   "en": "(I'm really not\nsupposed to, though...)"
   },
   {
    "id": "event_ev002100:0AC6",
@@ -562,7 +562,7 @@
     69
    ],
    "jp": "{h }　　　　エピソード　２２　　　　\n　『かきとめたきおく』　おわり　",
-   "en": ""
+   "en": "Episode 22\n\"Written Memories\" - The End"
   }
  ]
 }

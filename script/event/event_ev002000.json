@@ -11,7 +11,7 @@
     123
    ],
    "jp": "ねぇきいた　きいた？",
-   "en": ""
+   "en": "Hey, did you hear, did you hear?"
   },
   {
    "id": "event_ev002000:0016",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "こんど{h }こうかいする{h }えいがの\nイベントで{h }ミスコンやるんだって！",
-   "en": ""
+   "en": "There's gonna be a beauty contest at\nan event for a movie coming out!"
   },
   {
    "id": "event_ev002000:005A",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "ミスコンっていうと\nキレイな人を{h }えらぶ{h }アレのことか？",
-   "en": ""
+   "en": "A beauty contest? You mean that\nthing where they pick a pretty girl?"
   },
   {
    "id": "event_ev002000:0094",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "そう！　ゆうしょうすると{h }えいがの\nペアチケットが{h }もらえるんだって！",
-   "en": ""
+   "en": "Yeah! The winner gets\na pair of movie tickets!"
   },
   {
    "id": "event_ev002000:00DC",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "あ　その{h }えいが\n海斗が見たいって{h }いってたやつだぁ",
-   "en": ""
+   "en": "Oh, that's the movie\nKaito said he wanted to see!"
   },
   {
    "id": "event_ev002000:0112",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "わたしも\n太郎ちゃんと{h }見にいきたいのよねぇ",
-   "en": ""
+   "en": "I want to go see it\nwith my Taro too."
   },
   {
    "id": "event_ev002000:0140",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "それじゃあ　ミスコンに出るために\nかわいい{h }ふくを{h }かいにいこうよ！",
-   "en": ""
+   "en": "Then let's go buy some cute\nclothes for the beauty contest!"
   },
   {
    "id": "event_ev002000:0186",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "まずは{h }かわいいふくを{h }かわないとね",
-   "en": ""
+   "en": "First, I have to buy some cute clothes."
   },
   {
    "id": "event_ev002000:01AC",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "いっぱい{h }おしゃれしないと\nダメだよね",
-   "en": ""
+   "en": "I've got to dress up\nreally nicely!"
   },
   {
    "id": "event_ev002000:01D4",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "まずはショッピングモールで\nおかいものだよね",
-   "en": ""
+   "en": "First, it's shopping\nat the Shopping Mall!"
   },
   {
    "id": "event_ev002000:0202",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "かわいい{h }ふくを{h }かって‥‥\n海斗と見にいきたいもんね！",
-   "en": ""
+   "en": "I'll buy cute clothes...\nI want to see it with Kaito!"
   },
   {
    "id": "event_ev002000:023C",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "まずは{h }おしゃれのために\nショッピングモールへ！",
-   "en": ""
+   "en": "First, to get stylish,\nto the Shopping Mall!"
   },
   {
    "id": "event_ev002000:026E",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "大人っぽい{h }ふくがいいかな？\nそれともカワイイのが{h }いいかなぁ？",
-   "en": ""
+   "en": "Should I go for grown-up clothes?\nOr something cute?"
   },
   {
    "id": "event_ev002000:02B0",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "いいふくを{h }うっていれば\nいいんだけどなぁ",
-   "en": ""
+   "en": "I hope they're selling\nsome nice clothes."
   },
   {
    "id": "event_ev002000:02DC",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "どんなふくを{h }かおうかなぁ？",
-   "en": ""
+   "en": "What kind of clothes should I buy?"
   },
   {
    "id": "event_ev002000:02FA",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "えいがか‥‥\nわたしもおしゃれしてみるか",
-   "en": ""
+   "en": "A movie, huh...\nMaybe I'll dress up too."
   },
   {
    "id": "event_ev002000:0324",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "ミスコンか‥‥",
-   "en": ""
+   "en": "A beauty contest, huh..."
   },
   {
    "id": "event_ev002000:0334",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "‥‥あたらしいふくでも\nかってみるか",
-   "en": ""
+   "en": "...Maybe I'll try buying\nsome new clothes."
   },
   {
    "id": "event_ev002000:035A",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "たまには{h }きあいを入れて\nおしゃれするのも{h }わるくないかもな",
-   "en": ""
+   "en": "Putting some effort into dressing\nup once in a while might be nice."
   },
   {
    "id": "event_ev002000:0398",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "ショッピングモールに{h }いけば\nこのみの{h }ふくが{h }あるだろう",
-   "en": ""
+   "en": "The Shopping Mall should have\nclothes I like."
   },
   {
    "id": "event_ev002000:03D4",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "よし　ついたぁ〜〜〜\nえっと{h }どんなふくに{h }しようかなぁ？",
-   "en": ""
+   "en": "All right, I'm heeere!\nUm, what kind of clothes should I get?"
   },
   {
    "id": "event_ev002000:0410",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "やっぱり　カワイイのが{h }いいよね\n‥‥でもおちついた{h }かんじのも‥‥",
-   "en": ""
+   "en": "Something cute would be best...\nBut something calm could be nice..."
   },
   {
    "id": "event_ev002000:0456",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "あー　これすごくいい！",
-   "en": ""
+   "en": "Ooh, this one's great!"
   },
   {
    "id": "event_ev002000:046E",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "でも　わたしのサイズに\nピッタリじゃないか",
-   "en": ""
+   "en": "But it's not\nquite my size."
   },
   {
    "id": "event_ev002000:049A",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "う〜ん‥‥‥‥\nよし　これに{h }きめた！",
-   "en": ""
+   "en": "Hmmm........\nOkay, I'll go with this one!"
   },
   {
    "id": "event_ev002000:04C2",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "えっと‥‥　かいじょうは{h }\nコンサートホールだよね",
-   "en": ""
+   "en": "Um... the venue is\nthe Concert Hall, right?"
   },
   {
    "id": "event_ev002000:04F6",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "さてと　どんな{h }ふくがいいかなぁ？\nやっぱり{h }大人っぽいの？",
-   "en": ""
+   "en": "Now, what kind of clothes?\nSomething grown-up, of course?"
   },
   {
    "id": "event_ev002000:0534",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "あ　これすごくいい！",
-   "en": ""
+   "en": "Ooh, this one's great!"
   },
   {
    "id": "event_ev002000:054A",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "でも‥‥\nこの{h }かみがたには{h }あわないかぁ",
-   "en": ""
+   "en": "But... it doesn't go\nwith this hairstyle."
   },
   {
    "id": "event_ev002000:0576",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "う〜ん‥‥‥‥\nよし　これに{h }きめたぁ！",
-   "en": ""
+   "en": "Hmmm........\nOkay, I'll go with this one!"
   },
   {
    "id": "event_ev002000:05A0",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "つぎは{h }かいじょうの\nコンサートホールに{h }いこう！",
-   "en": ""
+   "en": "Next, to the venue,\nthe Concert Hall!"
   },
   {
    "id": "event_ev002000:05D4",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "どういう{h }ふくにしようか‥‥",
-   "en": ""
+   "en": "What kind of clothes should I get..."
   },
   {
    "id": "event_ev002000:05F2",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "フリルとか{h }リボンとか\nそういうのでも{h }いいのかもな‥‥",
-   "en": ""
+   "en": "Maybe frills and ribbons\nand stuff like that would be fine..."
   },
   {
    "id": "event_ev002000:062C",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "う〜ん‥‥‥‥\nよし　これにしよう‥‥",
-   "en": ""
+   "en": "Hmmm........\nAll right, I'll take this..."
   },
   {
    "id": "event_ev002000:0654",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "さぁ　かいじょうの\nコンサートホールに{h }いくか‥‥",
-   "en": ""
+   "en": "Now, to the venue,\nthe Concert Hall..."
   },
   {
    "id": "event_ev002000:0688",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "それじゃあ{h }コンサートホールに\nレッツゴー！",
-   "en": ""
+   "en": "Okay then, to the Concert Hall!\nLet's go!"
   },
   {
    "id": "event_ev002000:06B6",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "ゆうしょう{h }できれば\nいいんだけどなぁ‥‥",
-   "en": ""
+   "en": "I hope I\ncan win..."
   },
   {
    "id": "event_ev002000:06E2",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "かいじょうは‥‥\nコンサートホールだね",
-   "en": ""
+   "en": "The venue is...\nthe Concert Hall!"
   },
   {
    "id": "event_ev002000:070A",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "ゆうしょうして{h }海斗と‥‥☆\nコンサートホールに{h }いそがなきゃ！",
-   "en": ""
+   "en": "I'll win and go with Kaito... ☆\nI've got to hurry to the Concert Hall!"
   },
   {
    "id": "event_ev002000:074C",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "ミスコンに{h }ゆうしょうしたら‥‥☆\nはやく{h }コンサートホールへ{h }いこ！",
-   "en": ""
+   "en": "If I win the beauty contest... ☆\nLet's hurry to the Concert Hall!"
   },
   {
    "id": "event_ev002000:0794",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "コンサートホールって　おきゃくさん\nどれくらいいるんだろ？",
-   "en": ""
+   "en": "I wonder how big the audience\nat the Concert Hall will be?"
   },
   {
    "id": "event_ev002000:07D0",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "さあ　コンサートホールへ！\nゆうしょうして{h }太郎ちゃんと‥‥☆",
-   "en": ""
+   "en": "Now, to the Concert Hall!\nI'll win and go with Taro... ☆"
   },
   {
    "id": "event_ev002000:0810",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "かいじょうは‥‥\nコンサートホールだったよね",
-   "en": ""
+   "en": "The venue was...\nthe Concert Hall, right?"
   },
   {
    "id": "event_ev002000:083E",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "かいじょうは\nコンサートホールか‥‥",
-   "en": ""
+   "en": "So the venue is\nthe Concert Hall..."
   },
   {
    "id": "event_ev002000:0864",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "たまにはマジメに\nゆうしょうでも{h }ねらってみるか？",
-   "en": ""
+   "en": "Maybe for once I'll seriously\ntry to win?"
   },
   {
    "id": "event_ev002000:0898",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "コンサートホールか‥‥\n人が{h }おおそうだな",
-   "en": ""
+   "en": "The Concert Hall, huh...\nLooks like there'll be a crowd."
   },
   {
    "id": "event_ev002000:08C4",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "コンサートホール{h }だったよな‥‥",
-   "en": ""
+   "en": "It was the Concert Hall, right..."
   },
   {
    "id": "event_ev002000:08E6",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "もう{h }うけつけが{h }はじまってる！\n早くしなくっちゃ！",
-   "en": ""
+   "en": "Registration's already started!\nI've got to hurry!"
   },
   {
    "id": "event_ev002000:091C",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "ゆうしょうは{h }ユーリに\nきまってますわ",
-   "en": ""
+   "en": "Yuri is sure\nto win, of course."
   },
   {
    "id": "event_ev002000:0944",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "あ！\nあれってもしかして水妖！？",
-   "en": ""
+   "en": "Ah!\nIs that a water demon?!"
   },
   {
    "id": "event_ev002000:0966",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "どうして{h }こんなところに！",
-   "en": ""
+   "en": "Why is it here?!"
   },
   {
    "id": "event_ev002000:0982",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "きっとまた\nじゃましにきたにちがいないわ！",
-   "en": ""
+   "en": "I bet it came to\nget in the way again!"
   },
   {
    "id": "event_ev002000:09AE",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "そうはさせないんだから！",
-   "en": ""
+   "en": "I won't let that happen!"
   },
   {
    "id": "event_ev002000:09C8",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "ちょっと！\nこんなところで{h }なにをするつもり？",
-   "en": ""
+   "en": "Hey! What are you\nplanning to do here?"
   },
   {
    "id": "event_ev002000:09F8",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "キャハハハハハハハ\nあんたもミスコンにでるつもりなの？",
-   "en": ""
+   "en": "Kyahahahahaha! You're\nentering the beauty contest?"
   },
   {
    "id": "event_ev002000:0A30",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "あんたみたいなコが{h }ゆうしょう\nできるわけないじゃない！",
-   "en": ""
+   "en": "There's no way a girl like you\ncould ever win!"
   },
   {
    "id": "event_ev002000:0A6A",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "おかしくって{h }わらいがとまらない！\nキャハハハハハハハ",
-   "en": ""
+   "en": "It's so funny I can't stop laughing!\nKyahahahahaha!"
   },
   {
    "id": "event_ev002000:0AA2",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "ひっどーい　こいする女の子に\nそんなこと{h }いうなんてゆるせない！",
-   "en": ""
+   "en": "How mean! Saying that to a girl\nin love is unforgivable!"
   },
   {
    "id": "event_ev002000:0AE4",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "ああ　もう{h }うけつけ{h }はじまってる！\n早くしなくちゃ！",
-   "en": ""
+   "en": "Oh no, registration's already started!\nI've got to hurry!"
   },
   {
    "id": "event_ev002000:0B1C",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "ゆうしょうは{h }ユーリに\nきまってますわ",
-   "en": ""
+   "en": "Yuri is sure\nto win, of course."
   },
   {
    "id": "event_ev002000:0B44",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "あ！\nあれってもしかして水妖！？",
-   "en": ""
+   "en": "Ah!\nIs that a water demon?!"
   },
   {
    "id": "event_ev002000:0B66",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "どうして{h }こんなところに！",
-   "en": ""
+   "en": "Why is it here?!"
   },
   {
    "id": "event_ev002000:0B82",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "きっとまた\nじゃましにきたにちがいないわ！",
-   "en": ""
+   "en": "I bet it came to\nget in the way again!"
   },
   {
    "id": "event_ev002000:0BAE",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "そんなことは{h }させないわ！",
-   "en": ""
+   "en": "I won't let you do that!"
   },
   {
    "id": "event_ev002000:0BCA",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "ちょっと！\nこんなところで{h }なにをするつもり？",
-   "en": ""
+   "en": "Hey! What are you\nplanning to do here?"
   },
   {
    "id": "event_ev002000:0BFA",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "キャハハハハハハハ\nあんたもミスコンにでるつもりなの？",
-   "en": ""
+   "en": "Kyahahahahaha! You're\nentering the beauty contest?"
   },
   {
    "id": "event_ev002000:0C32",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "あんたみたいなコが{h }ゆうしょう\nできるわけないじゃない！",
-   "en": ""
+   "en": "There's no way a girl like you\ncould ever win!"
   },
   {
    "id": "event_ev002000:0C6C",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "やっぱり　ユーリみたいに\nキレイじゃないとねぇ",
-   "en": ""
+   "en": "After all, you've got to be\nas pretty as Yuri."
   },
   {
    "id": "event_ev002000:0C9C",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "なに{h }いってんのよ　わたしのほうが\nキレイに{h }きまってるでしょ！",
-   "en": ""
+   "en": "What are you saying? Obviously\nI'm prettier than you!"
   },
   {
    "id": "event_ev002000:0CDE",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "そこのところ\nきっちり{h }おえてあげるわ",
-   "en": ""
+   "en": "I'll teach you that\nlesson properly!"
   },
   {
    "id": "event_ev002000:0D06",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "うけつけが　\nはじまってるようだな‥‥",
-   "en": ""
+   "en": "Looks like registration\nhas started..."
   },
   {
    "id": "event_ev002000:0D2E",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "ゆうしょうは{h }ユーリに\nきまってますわ",
-   "en": ""
+   "en": "Yuri is sure\nto win, of course."
   },
   {
    "id": "event_ev002000:0D56",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "あれは‥‥\nもしかして水妖か！？",
-   "en": ""
+   "en": "That's...\na water demon?!"
   },
   {
    "id": "event_ev002000:0D78",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "どうして{h }こんなところに！",
-   "en": ""
+   "en": "Why is it here?!"
   },
   {
    "id": "event_ev002000:0D94",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "じゃまはさせない！",
-   "en": ""
+   "en": "I won't let you interfere!"
   },
   {
    "id": "event_ev002000:0DA8",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "キャハハハハハハハ\nあんたもミスコンにでるつもりなの？",
-   "en": ""
+   "en": "Kyahahahahaha! You're\nentering the beauty contest?"
   },
   {
    "id": "event_ev002000:0DE0",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "あんたみたいなコが{h }ゆうしょう\nできるわけないじゃない！",
-   "en": ""
+   "en": "There's no way a girl like you\ncould ever win!"
   },
   {
    "id": "event_ev002000:0E1A",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "おかしくって{h }わらいがとまらない！\nキャハハハハハハハ",
-   "en": ""
+   "en": "It's so funny I can't stop laughing!\nKyahahahahaha!"
   },
   {
    "id": "event_ev002000:0E52",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "＊が{h }ゆうしょう{h }できないのは\nしかたがない‥‥",
-   "en": ""
+   "en": "It can't be helped\nif I don't win..."
   },
   {
    "id": "event_ev002000:0E84",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "だけど　イベントを{h }じゃまするのは\nゆるせないっ！",
-   "en": ""
+   "en": "But I won't forgive anyone\nwho ruins the event!"
   },
   {
    "id": "event_ev002000:0EB8",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "ゆうしょうは‥‥‥‥‥‥‥‥",
-   "en": ""
+   "en": "And the winner is................"
   },
   {
    "id": "event_ev002000:0ED6",
@@ -667,7 +667,7 @@
     82
    ],
    "jp": "‥‥七海るちあさん{h }でーす！",
-   "en": ""
+   "en": "...Lucia Nanami!"
   },
   {
    "id": "event_ev002000:0F02",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "えっ？　えっ{h }わたし？",
-   "en": ""
+   "en": "Huh? Huh? Me?"
   },
   {
    "id": "event_ev002000:0F1A",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "きゃー！！　やったぁー！！",
-   "en": ""
+   "en": "Kyaaa!! I did iiit!!"
   },
   {
    "id": "event_ev002000:0F36",
@@ -691,7 +691,7 @@
     85
    ],
    "jp": "なんだよ　ようじって‥‥",
-   "en": ""
+   "en": "So what did you want...?"
   },
   {
    "id": "event_ev002000:0F50",
@@ -699,7 +699,7 @@
     86
    ],
    "jp": "あのね　海斗‥‥\nえいがのチケットが{h }あるんだけどぉ",
-   "en": ""
+   "en": "Um, Kaito...\nI've got movie tickets..."
   },
   {
    "id": "event_ev002000:0F86",
@@ -707,7 +707,7 @@
     87
    ],
    "jp": "その‥‥いっしょに{h }いかない？",
-   "en": ""
+   "en": "So... wanna go together?"
   },
   {
    "id": "event_ev002000:0FA6",
@@ -715,7 +715,7 @@
     88
    ],
    "jp": "おっ　このえいがって\nサーファーが{h }しゅじんこうのだろ？",
-   "en": ""
+   "en": "Oh, this movie's the one\nwhere the hero's a surfer, right?"
   },
   {
    "id": "event_ev002000:0FE0",
@@ -723,7 +723,7 @@
     89
    ],
    "jp": "いくいく　いっしょに{h }いこうぜ！\nこんしゅうの{h }にちよう日で{h }いいよな",
-   "en": ""
+   "en": "Sure, sure, let's go together!\nThis Sunday okay with you?"
   },
   {
    "id": "event_ev002000:1028",
@@ -731,7 +731,7 @@
     90
    ],
    "jp": "うん！\n（やったぁ☆）",
-   "en": ""
+   "en": "Yeah!\n(Yaaay ☆)"
   },
   {
    "id": "event_ev002000:1040",
@@ -739,7 +739,7 @@
     91
    ],
    "jp": "ゆうしょうは‥‥‥‥‥‥‥‥",
-   "en": ""
+   "en": "And the winner is................"
   },
   {
    "id": "event_ev002000:105E",
@@ -755,7 +755,7 @@
     93
    ],
    "jp": "‥‥宝生波音さん{h }でーす！",
-   "en": ""
+   "en": "...Hanon Hosho!"
   },
   {
    "id": "event_ev002000:1088",
@@ -763,7 +763,7 @@
     94
    ],
    "jp": "うっそー！！　やったぁー！",
-   "en": ""
+   "en": "No waaay!! I did it!"
   },
   {
    "id": "event_ev002000:10A4",
@@ -771,7 +771,7 @@
     95
    ],
    "jp": "（太郎ちゃーん　\nわたし{h }やったよ〜〜☆）",
-   "en": ""
+   "en": "(Taroooo,\nI did iiit ☆)"
   },
   {
    "id": "event_ev002000:10D0",
@@ -779,7 +779,7 @@
     96
    ],
    "jp": "波音さん‥‥\nようじというのは　なんですか？",
-   "en": ""
+   "en": "Hanon...\nWhat did you need?"
   },
   {
    "id": "event_ev002000:10FE",
@@ -787,7 +787,7 @@
     97
    ],
    "jp": "あの‥‥\nえいがのチケットが{h }あるんですけど",
-   "en": ""
+   "en": "Um...\nI have movie tickets..."
   },
   {
    "id": "event_ev002000:112C",
@@ -795,7 +795,7 @@
     98
    ],
    "jp": "えっと　その‥‥\nいっしょに{h }見にいきませんか？",
-   "en": ""
+   "en": "Well, um...\nwould you like to go see it with me?"
   },
   {
    "id": "event_ev002000:115E",
@@ -803,7 +803,7 @@
     99
    ],
    "jp": "ぜったい{h }おもしろいですから！",
-   "en": ""
+   "en": "I'm sure it'll be fun!"
   },
   {
    "id": "event_ev002000:117E",
@@ -811,7 +811,7 @@
     100
    ],
    "jp": "わかりました　よろこんで",
-   "en": ""
+   "en": "All right, I'd be glad to."
   },
   {
    "id": "event_ev002000:1198",
@@ -819,7 +819,7 @@
     101
    ],
    "jp": "では　えいがのあとには\nしょくじでも{h }しましょうか",
-   "en": ""
+   "en": "Then after the movie,\nshall we have dinner?"
   },
   {
    "id": "event_ev002000:11CC",
@@ -827,7 +827,7 @@
     102
    ],
    "jp": "はい！　たのしみにしてます！",
-   "en": ""
+   "en": "Yes! I'm looking forward to it!"
   },
   {
    "id": "event_ev002000:11EA",
@@ -835,7 +835,7 @@
     103
    ],
    "jp": "（やったー！　太郎ちゃんと\nデートよ〜〜〜☆）",
-   "en": ""
+   "en": "(Yaaay! A date\nwith my Taro ☆)"
   },
   {
    "id": "event_ev002000:121A",
@@ -843,7 +843,7 @@
     104
    ],
    "jp": "ゆうしょうは‥‥‥‥‥‥‥‥",
-   "en": ""
+   "en": "And the winner is................"
   },
   {
    "id": "event_ev002000:1238",
@@ -859,7 +859,7 @@
     106
    ],
    "jp": "‥‥洞院リナさん{h }でーす！",
-   "en": ""
+   "en": "...Rina Toin!"
   },
   {
    "id": "event_ev002000:1262",
@@ -867,7 +867,7 @@
     107
    ],
    "jp": "わたしが‥‥？",
-   "en": ""
+   "en": "Me...?"
   },
   {
    "id": "event_ev002000:1272",
@@ -875,7 +875,7 @@
     108
    ],
    "jp": "おどろいたな\nゆうしょうしてしまった‥‥",
-   "en": ""
+   "en": "Wow, I'm surprised.\nI actually won..."
   },
   {
    "id": "event_ev002000:129C",
@@ -883,7 +883,7 @@
     109
    ],
    "jp": "洞院ー！！",
-   "en": ""
+   "en": "Toiiin!!"
   },
   {
    "id": "event_ev002000:12A8",
@@ -891,7 +891,7 @@
     110
    ],
    "jp": "ミスコンゆうしょうしたんだってな",
-   "en": ""
+   "en": "I heard you won the beauty contest."
   },
   {
    "id": "event_ev002000:12CA",
@@ -899,7 +899,7 @@
     111
    ],
    "jp": "あ　ああ‥‥",
-   "en": ""
+   "en": "Y-Yeah..."
   },
   {
    "id": "event_ev002000:12D8",
@@ -907,7 +907,7 @@
     112
    ],
    "jp": "じゃあ　えいがのチケット\nもってるんだろ？",
-   "en": ""
+   "en": "So you've got\nthe movie tickets, right?"
   },
   {
    "id": "event_ev002000:1304",
@@ -915,7 +915,7 @@
     113
    ],
    "jp": "オレ　そのえいが\n見たかったんだよなぁ",
-   "en": ""
+   "en": "I really wanted\nto see that movie."
   },
   {
    "id": "event_ev002000:132C",
@@ -923,7 +923,7 @@
     114
    ],
    "jp": "そうなのか？\nじゃあ　おまえにチケットやるよ",
-   "en": ""
+   "en": "Is that so?\nThen I'll give you the tickets."
   },
   {
    "id": "event_ev002000:135A",
@@ -931,7 +931,7 @@
     115
    ],
    "jp": "サンキュー　洞院！\nこんどの{h }にちよう日で{h }いいよな？",
-   "en": ""
+   "en": "Thanks, Toin!\nNext Sunday good for you?"
   },
   {
    "id": "event_ev002000:1392",
@@ -939,7 +939,7 @@
     116
    ],
    "jp": "は？　にちよう日も{h }なにも\n１人で{h }いけばいいだろう",
-   "en": ""
+   "en": "Huh? Sunday or not,\nyou can just go by yourself."
   },
   {
    "id": "event_ev002000:13C8",
@@ -947,7 +947,7 @@
     117
    ],
    "jp": "チケットは{h }２まいだろ？\nだったら{h }いっしょに{h }いこうぜ",
-   "en": ""
+   "en": "There are two tickets, right?\nThen let's go together."
   },
   {
    "id": "event_ev002000:1402",
@@ -955,7 +955,7 @@
     118
    ],
    "jp": "メシくらい{h }おごるぜ！",
-   "en": ""
+   "en": "I'll at least treat you to a meal!"
   },
   {
    "id": "event_ev002000:141A",
@@ -963,7 +963,7 @@
     119
    ],
    "jp": "いや‥‥しかし‥‥\nまあ　じゃあ‥‥よろしく",
-   "en": ""
+   "en": "No... but...\nWell, all right... sure."
   },
   {
    "id": "event_ev002000:1448",
@@ -971,7 +971,7 @@
     120
    ],
    "jp": "{h }　　　　エピソード　２１　　　　\n　『ミスコンバトル！』　おわり　",
-   "en": ""
+   "en": "Episode 21\n\"Beauty Contest Battle!\" - The End"
   }
  ]
 }

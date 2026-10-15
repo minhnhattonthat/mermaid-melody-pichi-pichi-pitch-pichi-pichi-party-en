@@ -11,7 +11,7 @@
     111
    ],
    "jp": "きょうは　まちにまった\nバレンタインデー",
-   "en": ""
+   "en": "Today's the Valentine's Day\nI've been waiting for!"
   },
   {
    "id": "event_ev002900:002A",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "海斗には　もちろん\nほんめいチョコを{h }あげるんだぁ",
-   "en": ""
+   "en": "Of course I'm giving Kaito\ntrue-love chocolate!"
   },
   {
    "id": "event_ev002900:005E",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "わたしは　いうまでもなく\n太郎ちゃんによ！",
-   "en": ""
+   "en": "And it goes without saying\nmine is for my Taro!"
   },
   {
    "id": "event_ev002900:008A",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "ねえ　リナは{h }だれに{h }あげるの？",
-   "en": ""
+   "en": "Hey, Rina, who are you giving yours to?"
   },
   {
    "id": "event_ev002900:00AC",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "いや　だれにも\nあげる{h }よていはないが？",
-   "en": ""
+   "en": "Um, I'm not planning\nto give any to anyone."
   },
   {
    "id": "event_ev002900:00D6",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "えーっ！　そんなのダメだよぉ！",
-   "en": ""
+   "en": "Whaaat?! You can't do that!"
   },
   {
    "id": "event_ev002900:00F6",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "年に{h }いちどの{h }ことなんだから\nぜったいに{h }ダメ！",
-   "en": ""
+   "en": "It only happens once a year,\nso absolutely not!"
   },
   {
    "id": "event_ev002900:012A",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "そうよ！　こういう{h }ぎょうじには\nちゃんと{h }さんかしないと",
-   "en": ""
+   "en": "That's right! You've gotta join in\non events like this."
   },
   {
    "id": "event_ev002900:0166",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "そういうもの{h }なのか‥‥",
-   "en": ""
+   "en": "Is that how it works...?"
   },
   {
    "id": "event_ev002900:0180",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "しかし　あいてが\nいないんだがなぁ‥‥",
-   "en": ""
+   "en": "But I don't have\nanyone to give it to..."
   },
   {
    "id": "event_ev002900:01A8",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "さぁ！　そうときまれば\nおかいものよね！",
-   "en": ""
+   "en": "Okay! Now that that's settled,\nit's shopping time!"
   },
   {
    "id": "event_ev002900:01D2",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "おかしやさんで　いっちばん\nステキな{h }チョコを{h }かうの☆",
-   "en": ""
+   "en": "I'll buy the most wonderful\nchocolate at the candy store! ☆"
   },
   {
    "id": "event_ev002900:020C",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "どんなチョコが{h }あるかなぁ",
-   "en": ""
+   "en": "I wonder what kind\nof chocolate they have."
   },
   {
    "id": "event_ev002900:0228",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "早く{h }おかしやさんに\nつかないかな",
-   "en": ""
+   "en": "I can't wait to get\nto the candy store."
   },
   {
    "id": "event_ev002900:024C",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "早く{h }チョコを{h }えらびたいな\nおかしやさんに{h }いそごう",
-   "en": ""
+   "en": "I wanna pick my chocolate soon!\nLet's hurry to the candy store."
   },
   {
    "id": "event_ev002900:0284",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "ラッピングには{h }こだわりたいな\nファンシーショップに{h }いこうっと",
-   "en": ""
+   "en": "I want the wrapping to be perfect.\nI'll go to the fancy goods shop!"
   },
   {
    "id": "event_ev002900:02C6",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "ファンシーショップで\nかわいい{h }リボンを{h }かっちゃおう",
-   "en": ""
+   "en": "I'll buy a cute ribbon\nat the fancy goods shop!"
   },
   {
    "id": "event_ev002900:02FE",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "かわいいチョコを{h }あげたいなぁ",
-   "en": ""
+   "en": "I wanna give him cute chocolate..."
   },
   {
    "id": "event_ev002900:031E",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "もう　まちきれなーい！\nファンシーショップに{h }いそごう",
-   "en": ""
+   "en": "I can't wait anymore!\nLet's hurry to the fancy goods shop."
   },
   {
    "id": "event_ev002900:0356",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "これも{h }つきあいだからな\nぎりチョコでも{h }かうとするか",
-   "en": ""
+   "en": "It's just being polite, so...\nI'll buy some courtesy chocolate."
   },
   {
    "id": "event_ev002900:038E",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "うーん‥‥チョコレートなら\nスーパーに{h }うってるのでいいか",
-   "en": ""
+   "en": "Hmm... For chocolate, the stuff\nat the supermarket should do."
   },
   {
    "id": "event_ev002900:03CA",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "バレンタインデーか‥‥\nまったく{h }やっかいな日だな‥‥",
-   "en": ""
+   "en": "Valentine's Day, huh...\nWhat a troublesome day..."
   },
   {
    "id": "event_ev002900:0402",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "きっと　スーパーになら\nそれなりのチョコが{h }あるだろう",
-   "en": ""
+   "en": "The supermarket should have\nsome decent chocolate."
   },
   {
    "id": "event_ev002900:043A",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "うわーっ　うわーっ\nいっぱいある☆　どれにしよう",
-   "en": ""
+   "en": "Wow, wow!\nThere's so much! ☆ Which one?"
   },
   {
    "id": "event_ev002900:046C",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "まようなぁ　どうしよっかなぁ\nうーん{h }コレ！　コレ{h }くださーい☆",
-   "en": ""
+   "en": "It's so hard to choose... Hmm, this one!\nI'll take this one, please! ☆"
   },
   {
    "id": "event_ev002900:04AE",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "よーし　学校に{h }いこう！",
-   "en": ""
+   "en": "All right, to School!"
   },
   {
    "id": "event_ev002900:04C8",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "えーっと　リボンのいろは",
-   "en": ""
+   "en": "Let's see, for the ribbon color..."
   },
   {
    "id": "event_ev002900:04E2",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "大人っぽくブルー？\nかわいくピンク？",
-   "en": ""
+   "en": "Grown-up blue?\nOr cute pink?"
   },
   {
    "id": "event_ev002900:0508",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "うーん‥‥まよっちゃう\nえーい　コレに{h }きめた☆",
-   "en": ""
+   "en": "Hmm... I can't decide.\nOh, fine, I'll go with this! ☆"
   },
   {
    "id": "event_ev002900:053A",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "さぁてと　学校に{h }いくわよー！",
-   "en": ""
+   "en": "Okaaay, off to School!"
   },
   {
    "id": "event_ev002900:055A",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "なんだか{h }きょうは\nチョコレートうりばが{h }ひろいな‥‥",
-   "en": ""
+   "en": "The chocolate section\nseems huge today..."
   },
   {
    "id": "event_ev002900:0592",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "チョコレートだけでも{h }こんなに‥‥\nいったい　どれにすれば？",
-   "en": ""
+   "en": "So many kinds just of chocolate...\nWhich one am I supposed to pick?"
   },
   {
    "id": "event_ev002900:05D0",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "‥‥うーん　まあ{h }これでいいか",
-   "en": ""
+   "en": "...Hmm, well, this'll do."
   },
   {
    "id": "event_ev002900:05F0",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "よし‥‥　\nこのチョコレートを{h }かおう‥‥",
-   "en": ""
+   "en": "Okay...\nI'll buy this chocolate..."
   },
   {
    "id": "event_ev002900:061C",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "‥‥学校に{h }いくとするか",
-   "en": ""
+   "en": "...Guess I'll head to School."
   },
   {
    "id": "event_ev002900:0636",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "海斗　学校で{h }まっててね！",
-   "en": ""
+   "en": "Kaito, wait for me at School!"
   },
   {
    "id": "event_ev002900:0652",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "早くしないと\n海斗が{h }学校から{h }かえっちゃう",
-   "en": ""
+   "en": "If I don't hurry,\nKaito will go home from School!"
   },
   {
    "id": "event_ev002900:0680",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "このチョコを{h }学校にいる{h }海斗へ☆",
-   "en": ""
+   "en": "This chocolate is for Kaito at School! ☆"
   },
   {
    "id": "event_ev002900:06A4",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "海斗　よろこんでくれるかなぁ？",
-   "en": ""
+   "en": "I wonder if Kaito will like it?"
   },
   {
    "id": "event_ev002900:06C4",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "うふっ　太郎ちゃん\n学校で{h }まっててね〜",
-   "en": ""
+   "en": "Hehe, my Taro,\nwait for me at School!"
   },
   {
    "id": "event_ev002900:06EE",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "早くしないと\n太郎ちゃん　学校からかえっちゃう",
-   "en": ""
+   "en": "If I don't hurry,\nTaro will go home from School!"
   },
   {
    "id": "event_ev002900:071E",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "太郎ちゃん‥‥\nよろこんでくれるかな？",
-   "en": ""
+   "en": "My Taro...\nI wonder if he'll like it?"
   },
   {
    "id": "event_ev002900:0746",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "早く{h }学校に{h }いかないと‥‥\n太郎ちゃん　まっててね☆",
-   "en": ""
+   "en": "I've gotta hurry to School...\nWait for me, Taro! ☆"
   },
   {
    "id": "event_ev002900:077E",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "ぎりチョコとはいえ‥‥\nだれにあげれば？",
-   "en": ""
+   "en": "Courtesy chocolate or not...\nwho should I give it to?"
   },
   {
    "id": "event_ev002900:07A8",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "学校に{h }だれかいれば\nいいのだが‥‥",
-   "en": ""
+   "en": "I hope someone's\nstill at School..."
   },
   {
    "id": "event_ev002900:07CE",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "バレンタインデーか‥‥\nやっかいな{h }ぎょうじだ‥‥",
-   "en": ""
+   "en": "Valentine's Day, huh...\nWhat a troublesome event..."
   },
   {
    "id": "event_ev002900:0802",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "さっさと　すませてしまおう\n学校へ{h }いそぐか‥‥",
-   "en": ""
+   "en": "Let's get this over with.\nI'll hurry to School..."
   },
   {
    "id": "event_ev002900:0834",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "なになに！？　このさわぎ！",
-   "en": ""
+   "en": "What's going on?! What's all this fuss?!"
   },
   {
    "id": "event_ev002900:0850",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "あー！\n水妖がみんなをおいまわしてる！",
-   "en": ""
+   "en": "Ah!\nA water demon's chasing everyone!"
   },
   {
    "id": "event_ev002900:0878",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "なんだか　あまーい{h }チョコの{h }におい",
-   "en": ""
+   "en": "Something smells like\nsweeet chocolate."
   },
   {
    "id": "event_ev002900:089E",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "そういえば{h }きょうは\nバレンタインデーなのね",
-   "en": ""
+   "en": "Oh, that's right,\ntoday's Valentine's Day."
   },
   {
    "id": "event_ev002900:08CC",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "キャハハ　かなわない\nこいのためなんて　もったいないわ",
-   "en": ""
+   "en": "Kyahaha! Wasting it on love\nthat'll never come true!"
   },
   {
    "id": "event_ev002900:0904",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "その{h }むいみなチョコレート\nユーリが{h }もらって{h }あ・げ・る",
-   "en": ""
+   "en": "So I, Yuri, will take that\npointless chocolate off your hands~"
   },
   {
    "id": "event_ev002900:0940",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "なんですってぇ　ゆるせない！",
-   "en": ""
+   "en": "What did you say?!\nI won't forgive you!"
   },
   {
    "id": "event_ev002900:095E",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "これはいったいなにごと！",
-   "en": ""
+   "en": "What on earth is going on?!"
   },
   {
    "id": "event_ev002900:0978",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "ああっ！\n水妖がみんなをおいまわしてる！",
-   "en": ""
+   "en": "Oh no!\nA water demon's chasing everyone!"
   },
   {
    "id": "event_ev002900:09A2",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "なんだか　あまーい{h }チョコの{h }におい",
-   "en": ""
+   "en": "Something smells like\nsweeet chocolate."
   },
   {
    "id": "event_ev002900:09C8",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "そういえば{h }きょうは\nバレンタインデーなのね",
-   "en": ""
+   "en": "Oh, that's right,\ntoday's Valentine's Day."
   },
   {
    "id": "event_ev002900:09F6",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "キャハハ　かなわない\nこいのためなんて　もったいないわ",
-   "en": ""
+   "en": "Kyahaha! Wasting it on love\nthat'll never come true!"
   },
   {
    "id": "event_ev002900:0A2E",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "その{h }むいみなチョコレート\nユーリが{h }もらって{h }あ・げ・る",
-   "en": ""
+   "en": "So I, Yuri, will take that\npointless chocolate off your hands~"
   },
   {
    "id": "event_ev002900:0A6A",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "かってなことばっかり{h }いってる！",
-   "en": ""
+   "en": "She's just saying whatever she wants!"
   },
   {
    "id": "event_ev002900:0A8C",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "この{h }チョコレートで\n太郎ちゃんと{h }ラブラブになる",
-   "en": ""
+   "en": "With this chocolate, Taro and I\nwere gonna be lovey-dovey!"
   },
   {
    "id": "event_ev002900:0AC0",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "おとめのけいかくを\nじゃまするなんて{h }ゆるせない！",
-   "en": ""
+   "en": "Getting in the way of a girl's plans?\nI won't forgive that!"
   },
   {
    "id": "event_ev002900:0AF4",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "いったいこのさわぎはなんだ！？",
-   "en": ""
+   "en": "What is all this commotion?!"
   },
   {
    "id": "event_ev002900:0B14",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "む！　むこうで\nあばれているのは{h }水妖！",
-   "en": ""
+   "en": "Hm! The one running wild\nover there is a water demon!"
   },
   {
    "id": "event_ev002900:0B3E",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "なんだか　あまーい{h }チョコの{h }におい",
-   "en": ""
+   "en": "Something smells like\nsweeet chocolate."
   },
   {
    "id": "event_ev002900:0B64",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "そういえば{h }きょうは\nバレンタインデーなのね",
-   "en": ""
+   "en": "Oh, that's right,\ntoday's Valentine's Day."
   },
   {
    "id": "event_ev002900:0B92",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "キャハハ　かなわない\nこいのためなんて　もったいないわ",
-   "en": ""
+   "en": "Kyahaha! Wasting it on love\nthat'll never come true!"
   },
   {
    "id": "event_ev002900:0BCA",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "その{h }むいみなチョコレート\nユーリが{h }もらって{h }あ・げ・る",
-   "en": ""
+   "en": "So I, Yuri, will take that\npointless chocolate off your hands~"
   },
   {
    "id": "event_ev002900:0C06",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "かってなことばかり‥‥！\nこいするきもちが{h }だいじなんだ！",
-   "en": ""
+   "en": "Saying whatever she wants...!\nFeelings of love are precious!"
   },
   {
    "id": "event_ev002900:0C42",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "‥‥やっとついたぁ！\n海斗　まだ{h }いるかなぁ？",
-   "en": ""
+   "en": "...I finally made it!\nIs Kaito still here?"
   },
   {
    "id": "event_ev002900:0C72",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "あれ？　るちあ‥‥",
-   "en": ""
+   "en": "Huh? Lucia..."
   },
   {
    "id": "event_ev002900:0C86",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "おまえ　まだ{h }かえって\nなかったのか",
-   "en": ""
+   "en": "You haven't\ngone home yet?"
   },
   {
    "id": "event_ev002900:0CAC",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "海斗‥‥よかった！　はい　これ‥‥",
-   "en": ""
+   "en": "Kaito... Thank goodness! Here, this..."
   },
   {
    "id": "event_ev002900:0CD0",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "バレンタインの{h }チョコレートだよ",
-   "en": ""
+   "en": "It's Valentine's chocolate."
   },
   {
    "id": "event_ev002900:0CF2",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "へえ‥‥\nわざわざ{h }もどってきて{h }くれたのか",
-   "en": ""
+   "en": "Huh...\nYou came all the way back for this?"
   },
   {
    "id": "event_ev002900:0D20",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "てことは‥‥オレ\nおまえの{h }ほんめいだったりしてな",
-   "en": ""
+   "en": "So that means...\nmaybe I'm your true love, huh?"
   },
   {
    "id": "event_ev002900:0D54",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "ばっ　ばかぁ！\n（あたりまえ{h }じゃない‥‥）",
-   "en": ""
+   "en": "D-dummy!\n(Well, obviously...)"
   },
   {
    "id": "event_ev002900:0D82",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "海月センセ☆",
-   "en": ""
+   "en": "Mr. Mitsukiii! ☆"
   },
   {
    "id": "event_ev002900:0D90",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "おや？　波音さん‥‥\nどうしたんですか？",
-   "en": ""
+   "en": "Oh? Hanon...\nWhat's the matter?"
   },
   {
    "id": "event_ev002900:0DBA",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "きょうは{h }バレンタインデーだから\n‥‥ハイ！",
-   "en": ""
+   "en": "Since today is Valentine's Day...\nHere!"
   },
   {
    "id": "event_ev002900:0DE8",
@@ -659,7 +659,7 @@
     81
    ],
    "jp": "チョコレートですか\nどうもありがとう",
-   "en": ""
+   "en": "Chocolate?\nThank you very much."
   },
   {
    "id": "event_ev002900:0E0E",
@@ -667,7 +667,7 @@
     82
    ],
    "jp": "ちゃーんと\nぜんぶ{h }たべて下さいね{i21C}",
-   "en": ""
+   "en": "Make sure you\neat every bit of it{i21C}"
   },
   {
    "id": "event_ev002900:0E34",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "もちろんですよ",
-   "en": ""
+   "en": "Of course."
   },
   {
    "id": "event_ev002900:0E44",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "（いつか{h }太郎ちゃんに‥‥）",
-   "en": ""
+   "en": "(Someday, I want Taro...)"
   },
   {
    "id": "event_ev002900:0E62",
@@ -691,7 +691,7 @@
     85
    ],
    "jp": "（わたしのきもちを{h }うけとめて\nもらいたいなぁ‥‥）",
-   "en": ""
+   "en": "(to accept\nmy feelings...)"
   },
   {
    "id": "event_ev002900:0E98",
@@ -699,7 +699,7 @@
     86
    ],
    "jp": "チョコをもって{h }学校まで{h }きたし‥‥\nさぁ　これからが{h }ほんばんだよ！",
-   "en": ""
+   "en": "I brought my chocolate to School...\nNow comes the real thing!"
   },
   {
    "id": "event_ev002900:0EE0",
@@ -707,7 +707,7 @@
     87
    ],
    "jp": "ふふふ‥‥\n気あい{h }はいりまくってるな",
-   "en": ""
+   "en": "Hehe...\nYou're really fired up."
   },
   {
    "id": "event_ev002900:0F08",
@@ -715,7 +715,7 @@
     88
    ],
    "jp": "チョコレートを{h }手わたしてこその\nバレンタインデーだからね！",
-   "en": ""
+   "en": "Valentine's Day is all about\nhanding over the chocolate!"
   },
   {
    "id": "event_ev002900:0F46",
@@ -723,7 +723,7 @@
     89
    ],
    "jp": "ところで　リナは\nだれに{h }チョコを{h }あげるつもりなの？",
-   "en": ""
+   "en": "By the way, Rina, who are you\nplanning to give chocolate to?"
   },
   {
    "id": "event_ev002900:0F7E",
@@ -731,7 +731,7 @@
     90
    ],
    "jp": "うーん‥‥ぎりチョコとはいえ\nまだ{h }きめてないんだ",
-   "en": ""
+   "en": "Hmm... Even if it's courtesy chocolate,\nI still haven't decided."
   },
   {
    "id": "event_ev002900:0FB2",
@@ -739,7 +739,7 @@
     91
    ],
    "jp": "そ　そうなんだぁ‥‥",
-   "en": ""
+   "en": "O-oh, I see..."
   },
   {
    "id": "event_ev002900:0FC8",
@@ -747,7 +747,7 @@
     92
    ],
    "jp": "わたしのことは{h }いいから　早く\nチョコを{h }わたしに{h }いってこい",
-   "en": ""
+   "en": "Never mind me. Hurry up\nand go give your chocolate."
   },
   {
    "id": "event_ev002900:1008",
@@ -755,7 +755,7 @@
     93
    ],
    "jp": "そうだね　いってくるっ！\n‥‥‥‥あっ　わわっ！？",
-   "en": ""
+   "en": "You're right, here I go!\n......Ah, whoa whoa?!"
   },
   {
    "id": "event_ev002900:103C",
@@ -763,7 +763,7 @@
     94
    ],
    "jp": "（パキッ！！）",
-   "en": ""
+   "en": "(SNAP!!)"
   },
   {
    "id": "event_ev002900:104C",
@@ -771,7 +771,7 @@
     95
    ],
    "jp": "ああーーーっ！？\nチョコレート　おとしちゃったぁ！！",
-   "en": ""
+   "en": "Noooo?!\nI dropped my chocolate!!"
   },
   {
    "id": "event_ev002900:1082",
@@ -779,7 +779,7 @@
     96
    ],
    "jp": "‥‥だいじょうぶか　るちあ？",
-   "en": ""
+   "en": "...Are you okay, Lucia?"
   },
   {
    "id": "event_ev002900:10A0",
@@ -787,7 +787,7 @@
     97
    ],
    "jp": "うん　わたしは{h }だいじょうぶだけど\nチョコレートが‥‥",
-   "en": ""
+   "en": "Yeah, I'm okay,\nbut the chocolate..."
   },
   {
    "id": "event_ev002900:10D8",
@@ -795,7 +795,7 @@
     98
    ],
    "jp": "うわぁーん！！\nやっぱり{h }われちゃってる{h }みたーい",
-   "en": ""
+   "en": "Waaah!!\nIt looks like it's broken!"
   },
   {
    "id": "event_ev002900:110C",
@@ -803,7 +803,7 @@
     99
    ],
    "jp": "どうしよう‥‥",
-   "en": ""
+   "en": "What do I do..."
   },
   {
    "id": "event_ev002900:111C",
@@ -811,7 +811,7 @@
     100
    ],
    "jp": "‥‥‥‥‥‥\nしんぱいするな　るちあ",
-   "en": ""
+   "en": "..........\nDon't worry, Lucia."
   },
   {
    "id": "event_ev002900:1142",
@@ -819,7 +819,7 @@
     101
    ],
    "jp": "ほら　かわりに{h }このチョコレート\nもってきなよ",
-   "en": ""
+   "en": "Here, take this chocolate\ninstead."
   },
   {
    "id": "event_ev002900:1172",
@@ -827,7 +827,7 @@
     102
    ],
    "jp": "でも　これ‥‥リナがかった\nチョコレートだよ‥‥いいの？",
-   "en": ""
+   "en": "But this... is the chocolate\nyou bought, Rina... Is that okay?"
   },
   {
    "id": "event_ev002900:11AC",
@@ -835,7 +835,7 @@
     103
    ],
    "jp": "気にしなくても{h }いいよ\nどうせ{h }あげるあいても{h }いないしな",
-   "en": ""
+   "en": "Don't worry about it.\nI don't have anyone to give it to."
   },
   {
    "id": "event_ev002900:11E8",
@@ -843,7 +843,7 @@
     104
    ],
    "jp": "リナ‥‥　ありがとう！",
-   "en": ""
+   "en": "Rina... Thank you!"
   },
   {
    "id": "event_ev002900:1200",
@@ -851,7 +851,7 @@
     105
    ],
    "jp": "それじゃあ　いってくるね！",
-   "en": ""
+   "en": "Okay, here I go!"
   },
   {
    "id": "event_ev002900:121C",
@@ -859,7 +859,7 @@
     106
    ],
    "jp": "がんばってこいよ",
-   "en": ""
+   "en": "Go get him."
   },
   {
    "id": "event_ev002900:122E",
@@ -867,7 +867,7 @@
     107
    ],
    "jp": "（よかった　わたしのチョコレートが\nやくに{h }たって‥‥）",
-   "en": ""
+   "en": "(I'm glad my chocolate\nwas useful after all...)"
   },
   {
    "id": "event_ev002900:1268",
@@ -875,7 +875,7 @@
     108
    ],
    "jp": "{h }　　　　エピソード　３０　　　\n『バレンタインのぎしき』{h }おわり",
-   "en": ""
+   "en": "Episode 30\n\"The Valentine Ritual\" - The End"
   }
  ]
 }

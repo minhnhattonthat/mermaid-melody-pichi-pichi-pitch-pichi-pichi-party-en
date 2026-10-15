@@ -9,7 +9,7 @@
     95
    ],
    "jp": "きょうは{h }七夕　うれしいなー",
-   "en": ""
+   "en": "Today's Tanabata! I'm so happy!"
   },
   {
    "id": "event_ev002700:001E",
@@ -17,7 +17,7 @@
     1
    ],
    "jp": "みんなで{h }いっしょに\nおほしさまを{h }見にいくんだ☆",
-   "en": ""
+   "en": "We're all going to go\nsee the stars together! ☆"
   },
   {
    "id": "event_ev002700:0052",
@@ -25,7 +25,7 @@
     2
    ],
    "jp": "七夕に{h }ほしを{h }ながめるなんてステキ\nしかも　太郎ちゃんと{h }いっしょ‥‥",
-   "en": ""
+   "en": "Stargazing on Tanabata is so romantic...\nAnd with my Taro, too..."
   },
   {
    "id": "event_ev002700:009C",
@@ -33,7 +33,7 @@
     3
    ],
    "jp": "けれど　くもゆきが\nなんだか{h }あやしいぞ？",
-   "en": ""
+   "en": "But the clouds\nlook kind of iffy."
   },
   {
    "id": "event_ev002700:00C8",
@@ -41,7 +41,7 @@
     4
    ],
    "jp": "ニュースでは　\nはれるといってたんだが‥‥",
-   "en": ""
+   "en": "The news said\nit would be sunny..."
   },
   {
    "id": "event_ev002700:00F4",
@@ -49,7 +49,7 @@
     5
    ],
    "jp": "‥‥このまま空が{h }くもったら\nほしが{h }見られなくなるな‥‥",
-   "en": ""
+   "en": "...If the sky clouds over like this,\nwe won't be able to see the stars..."
   },
   {
    "id": "event_ev002700:0130",
@@ -57,7 +57,7 @@
     6
    ],
    "jp": "いやーん　ほんとうだぁ！\nよるまでに{h }なんとか{h }しないと！",
-   "en": ""
+   "en": "Oh no, you're right!\nWe have to do something before tonight!"
   },
   {
    "id": "event_ev002700:016C",
@@ -65,7 +65,7 @@
     7
    ],
    "jp": "わたしたちに\nなにか{h }できるのかなぁ？",
-   "en": ""
+   "en": "I wonder if there's\nanything we can do?"
   },
   {
    "id": "event_ev002700:0194",
@@ -73,7 +73,7 @@
     8
    ],
    "jp": "タキさんならなにかしっているかな？\nパールピアリに{h }いかなきゃ",
-   "en": ""
+   "en": "Maybe Taki knows something?\nI've gotta go to Pearl Piari."
   },
   {
    "id": "event_ev002700:01D4",
@@ -81,7 +81,7 @@
     9
    ],
    "jp": "パールピアリで\nタキさんにきいてみよっと",
-   "en": ""
+   "en": "I'll go ask Taki\nat Pearl Piari!"
   },
   {
    "id": "event_ev002700:01FE",
@@ -89,7 +89,7 @@
     10
    ],
    "jp": "タキさんなら{h }くもをはらす\nおまじない{h }しってるかも",
-   "en": ""
+   "en": "Taki might know a charm\nto clear away the clouds."
   },
   {
    "id": "event_ev002700:0234",
@@ -97,7 +97,7 @@
     11
    ],
    "jp": "パールピアリに{h }いそごう！\nタキさんに{h }はなしをきかなきゃ！",
-   "en": ""
+   "en": "Let's hurry to Pearl Piari!\nI've gotta talk to Taki!"
   },
   {
    "id": "event_ev002700:0272",
@@ -105,7 +105,7 @@
     12
    ],
    "jp": "こんな日には\nやっぱり　てるてるぼうずよねー",
-   "en": ""
+   "en": "On a day like this,\nit's gotta be a teru-teru bozu!"
   },
   {
    "id": "event_ev002700:02A0",
@@ -113,7 +113,7 @@
     13
    ],
    "jp": "パールピアリに{h }かえって\nてるてるぼうずを{h }つくろうっと",
-   "en": ""
+   "en": "I'll go back to Pearl Piari\nand make a teru-teru bozu!"
   },
   {
    "id": "event_ev002700:02DA",
@@ -121,7 +121,7 @@
     14
    ],
    "jp": "早く{h }パールピアリにかえって\nてるてるぼうずを{h }つーくろっと",
-   "en": ""
+   "en": "I'll hurry back to Pearl Piari\nand make a teru-teru bozu!"
   },
   {
    "id": "event_ev002700:0318",
@@ -129,7 +129,7 @@
     15
    ],
    "jp": "パールピアリで{h }たくさん\nてるてるぼうず{h }つくるんだからね",
-   "en": ""
+   "en": "I'm gonna make lots of\nteru-teru bozu at Pearl Piari!"
   },
   {
    "id": "event_ev002700:0354",
@@ -137,7 +137,7 @@
     16
    ],
    "jp": "空が{h }くもらないようにだなんて‥‥\nじんじゃで{h }おねがいでもするか",
-   "en": ""
+   "en": "Keeping the sky from clouding over...\nMaybe I'll pray at the Shrine."
   },
   {
    "id": "event_ev002700:0398",
@@ -145,7 +145,7 @@
     17
    ],
    "jp": "こうなったら\nじんじゃで{h }かみだのみだな",
-   "en": ""
+   "en": "At this point,\nI'll have to pray at the Shrine."
   },
   {
    "id": "event_ev002700:03C2",
@@ -153,7 +153,7 @@
     18
    ],
    "jp": "じんじゃで　おまいりをして",
-   "en": ""
+   "en": "I'll pray at the Shrine..."
   },
   {
    "id": "event_ev002700:03DE",
@@ -161,7 +161,7 @@
     19
    ],
    "jp": "くもらないように\nおねがいしようかな‥‥",
-   "en": ""
+   "en": "and ask for the sky\nnot to cloud over..."
   },
   {
    "id": "event_ev002700:0408",
@@ -169,7 +169,7 @@
     20
    ],
    "jp": "いそいで{h }じんじゃへ{h }いって\nおまいりするか",
-   "en": ""
+   "en": "I'd better hurry to the\nShrine and pray."
   },
   {
    "id": "event_ev002700:0436",
@@ -177,7 +177,7 @@
     21
    ],
    "jp": "ただいま！　タキさんいる！？",
-   "en": ""
+   "en": "I'm home! Taki, are you here?!"
   },
   {
    "id": "event_ev002700:0454",
@@ -185,7 +185,7 @@
     22
    ],
    "jp": "くもがはれる{h }おまじない\nおしえて！",
-   "en": ""
+   "en": "Teach me a charm\nto clear the clouds!"
   },
   {
    "id": "event_ev002700:047A",
@@ -193,7 +193,7 @@
     23
    ],
    "jp": "‥‥マーメイドプリンセスのうたは\nくもりを{h }しずめることもある‥‥",
-   "en": ""
+   "en": "...The Mermaid Princesses' song\ncan sometimes calm the clouds..."
   },
   {
    "id": "event_ev002700:04BE",
@@ -201,7 +201,7 @@
     24
    ],
    "jp": "ひょっとすると　うたってみれば\nきき目が{h }あるかもしれないよ",
-   "en": ""
+   "en": "Perhaps if you sing,\nit might just work."
   },
   {
    "id": "event_ev002700:04FC",
@@ -209,7 +209,7 @@
     25
    ],
    "jp": "白いぬのと{h }ひもで‥‥\nてるてるぼうずの{h }でっきあがりぃ☆",
-   "en": ""
+   "en": "White cloth and string...\nThe teru-teru bozu is all done! ☆"
   },
   {
    "id": "event_ev002700:0538",
@@ -217,7 +217,7 @@
     26
    ],
    "jp": "おねがい　てるてるぼうずさん\n空が{h }くもりませんように！",
-   "en": ""
+   "en": "Please, Mr. Teru-teru Bozu,\ndon't let the sky cloud over!"
   },
   {
    "id": "event_ev002700:0572",
@@ -225,7 +225,7 @@
     27
    ],
    "jp": "じんじゃに{h }ついたぞ‥‥",
-   "en": ""
+   "en": "I've made it to the Shrine..."
   },
   {
    "id": "event_ev002700:058C",
@@ -233,7 +233,7 @@
     28
    ],
    "jp": "おねがいします\n空が{h }くもりませんように‥‥",
-   "en": ""
+   "en": "Please...\ndon't let the sky cloud over..."
   },
   {
    "id": "event_ev002700:05BA",
@@ -241,7 +241,7 @@
     29
    ],
    "jp": "せっかくの{h }七夕だし\nみんな{h }たのしみにしてるんです‥‥",
-   "en": ""
+   "en": "It's Tanabata, after all,\nand everyone's looking forward to it..."
   },
   {
    "id": "event_ev002700:05F4",
@@ -249,7 +249,7 @@
     30
    ],
    "jp": "空　くもらないといいな",
-   "en": ""
+   "en": "I hope the sky doesn't cloud over."
   },
   {
    "id": "event_ev002700:060C",
@@ -257,7 +257,7 @@
     31
    ],
    "jp": "まちあわせは\nにんぎょのどうくつよね",
-   "en": ""
+   "en": "We're meeting up\nat the Mermaid Cave, right?"
   },
   {
    "id": "event_ev002700:0632",
@@ -265,7 +265,7 @@
     32
    ],
    "jp": "にんぎょのどうくつに{h }ついたら\nほしが見れるといいな‥‥",
-   "en": ""
+   "en": "I hope we can see the stars\nwhen we get to the Mermaid Cave..."
   },
   {
    "id": "event_ev002700:066C",
@@ -273,7 +273,7 @@
     33
    ],
    "jp": "まちあわせの{h }にんぎょのどうくつへ\nいこう",
-   "en": ""
+   "en": "Let's go to the Mermaid Cave\nto meet up."
   },
   {
    "id": "event_ev002700:0698",
@@ -281,7 +281,7 @@
     34
    ],
    "jp": "空がくもったら‥‥\nおほしさまが{h }見えないよ",
-   "en": ""
+   "en": "If the sky clouds over...\nwe won't see the stars."
   },
   {
    "id": "event_ev002700:06C6",
@@ -289,7 +289,7 @@
     35
    ],
    "jp": "にんぎょのどうくつに\nついたころには{h }ほし{h }見えてるかな",
-   "en": ""
+   "en": "I wonder if the stars will be out\nby the time I reach the Mermaid Cave."
   },
   {
    "id": "event_ev002700:0700",
@@ -297,7 +297,7 @@
     36
    ],
    "jp": "まちあわせの{h }にんぎょのどうくつへ\nいそがなきゃ！",
-   "en": ""
+   "en": "I've gotta hurry to the\nMermaid Cave to meet up!"
   },
   {
    "id": "event_ev002700:0734",
@@ -305,7 +305,7 @@
     37
    ],
    "jp": "にんぎょのどうくつへ{h }いこう\n太郎ちゃん　もうきてるのかなぁ？",
-   "en": ""
+   "en": "Let's go to the Mermaid Cave.\nI wonder if Taro's there already?"
   },
   {
    "id": "event_ev002700:0774",
@@ -313,7 +313,7 @@
     38
    ],
    "jp": "にんぎょのどうくつで\nほしが{h }見れるといいな‥‥",
-   "en": ""
+   "en": "I hope we can see the stars\nat the Mermaid Cave..."
   },
   {
    "id": "event_ev002700:07A6",
@@ -321,7 +321,7 @@
     39
    ],
    "jp": "まちあわせは{h }にんぎょのどうくつか\nいそごう",
-   "en": ""
+   "en": "We're meeting at the Mermaid Cave.\nBetter hurry."
   },
   {
    "id": "event_ev002700:07D4",
@@ -329,7 +329,7 @@
     40
    ],
    "jp": "にんぎょのどうくつに{h }つくころには\nほしが{h }見えてるといいな‥‥",
-   "en": ""
+   "en": "I hope the stars are out by the\ntime I get to the Mermaid Cave..."
   },
   {
    "id": "event_ev002700:0816",
@@ -337,7 +337,7 @@
     41
    ],
    "jp": "もうみんな　にんぎょのどうくつに\nあつまっているのかな？",
-   "en": ""
+   "en": "Is everyone already gathered\nat the Mermaid Cave?"
   },
   {
    "id": "event_ev002700:0850",
@@ -345,7 +345,7 @@
     42
    ],
    "jp": "おまいりも{h }したことだし‥‥\nきっと{h }くもったりしないさ",
-   "en": ""
+   "en": "I prayed at the Shrine, after all...\nI'm sure it won't cloud over."
   },
   {
    "id": "event_ev002700:088A",
@@ -353,7 +353,7 @@
     43
    ],
    "jp": "あーあ‥‥やっぱり{h }空が\nくもってきちゃった‥‥",
-   "en": ""
+   "en": "Aww... the sky's\nclouding over after all..."
   },
   {
    "id": "event_ev002700:08BC",
@@ -361,7 +361,7 @@
     44
    ],
    "jp": "うたえば{h }はれて{h }くれるのかな？",
-   "en": ""
+   "en": "Will it clear up if we sing?"
   },
   {
    "id": "event_ev002700:08DE",
@@ -369,7 +369,7 @@
     45
    ],
    "jp": "あーっ！　あんなところに！？",
-   "en": ""
+   "en": "Ah! Over there?!"
   },
   {
    "id": "event_ev002700:08FC",
@@ -377,7 +377,7 @@
     46
    ],
    "jp": "ウフフ　七夕なんて{h }ほんとうに\nバカな{h }ぎょうじ‥‥",
-   "en": ""
+   "en": "Hehehe... Tanabata is such\na foolish festival..."
   },
   {
    "id": "event_ev002700:0932",
@@ -385,7 +385,7 @@
     47
    ],
    "jp": "こんやは{h }ほしなんか\n見えるわけ{h }ないわよ",
-   "en": ""
+   "en": "There's no way you'll\nsee any stars tonight."
   },
   {
    "id": "event_ev002700:095E",
@@ -393,7 +393,7 @@
     48
    ],
    "jp": "この空は　あいつのしわざなの！？\nだとしたら　ぜったいにゆるせない！",
-   "en": ""
+   "en": "She's the one doing this to the sky?!\nIf so, I'll never forgive her!"
   },
   {
    "id": "event_ev002700:09A4",
@@ -401,7 +401,7 @@
     49
    ],
    "jp": "いくわよ！！",
-   "en": ""
+   "en": "Here I come!!"
   },
   {
    "id": "event_ev002700:09B2",
@@ -409,7 +409,7 @@
     50
    ],
    "jp": "うーん‥‥やっぱり空が\nくもってきちゃった‥‥",
-   "en": ""
+   "en": "Hmm... the sky's\nclouding over after all..."
   },
   {
    "id": "event_ev002700:09E2",
@@ -417,7 +417,7 @@
     51
    ],
    "jp": "てるてるぼうずさん\nがんばって{h }ほしを{h }見せてね！",
-   "en": ""
+   "en": "Mr. Teru-teru Bozu,\ndo your best and show us the stars!"
   },
   {
    "id": "event_ev002700:0A16",
@@ -425,7 +425,7 @@
     52
    ],
    "jp": "‥‥って　あーっ！\nあんなところに水妖！？",
-   "en": ""
+   "en": "...Wait, ah!\nA water demon over there?!"
   },
   {
    "id": "event_ev002700:0A42",
@@ -433,7 +433,7 @@
     53
    ],
    "jp": "ウフフ　七夕なんて{h }ほんとうに\nバカな{h }ぎょうじ‥‥",
-   "en": ""
+   "en": "Hehehe... Tanabata is such\na foolish festival..."
   },
   {
    "id": "event_ev002700:0A78",
@@ -441,7 +441,7 @@
     54
    ],
    "jp": "こんやは{h }くもった空を\nさみしく{h }ながめてなさい",
-   "en": ""
+   "en": "Tonight you can gaze lonely\nat a cloudy sky."
   },
   {
    "id": "event_ev002700:0AAA",
@@ -449,7 +449,7 @@
     55
    ],
    "jp": "もう！　この空は{h }あいつのせい！？",
-   "en": ""
+   "en": "Ugh! Is she the reason for this sky?!"
   },
   {
    "id": "event_ev002700:0ACE",
@@ -457,7 +457,7 @@
     56
    ],
    "jp": "せっかくの{h }七夕の日に\nなんてことを{h }するのよ！",
-   "en": ""
+   "en": "What are you doing to\nour special Tanabata day?!"
   },
   {
    "id": "event_ev002700:0B00",
@@ -465,7 +465,7 @@
     57
    ],
    "jp": "もう　ゆるさない！！",
-   "en": ""
+   "en": "I won't forgive you!!"
   },
   {
    "id": "event_ev002700:0B16",
@@ -473,7 +473,7 @@
     58
    ],
    "jp": "空が{h }くもってしまった‥‥\nふぅ　せっかくの七夕だというのにな",
-   "en": ""
+   "en": "The sky's clouded over...\nSigh, and on Tanabata of all days."
   },
   {
    "id": "event_ev002700:0B56",
@@ -481,7 +481,7 @@
     59
    ],
    "jp": "‥‥‥‥おや　あれは？",
-   "en": ""
+   "en": "........Hm? What's that?"
   },
   {
    "id": "event_ev002700:0B6E",
@@ -489,7 +489,7 @@
     60
    ],
    "jp": "ウフフ　七夕なんて{h }ほんとうに\nバカな{h }ぎょうじ‥‥",
-   "en": ""
+   "en": "Hehehe... Tanabata is such\na foolish festival..."
   },
   {
    "id": "event_ev002700:0BA4",
@@ -497,7 +497,7 @@
     61
    ],
    "jp": "こんやの{h }空は\nず〜っと{h }くもったままよ",
-   "en": ""
+   "en": "Tonight's sky will stay\ncloudy all niiight long."
   },
   {
    "id": "event_ev002700:0BCE",
@@ -505,7 +505,7 @@
     62
    ],
    "jp": "なんだと水妖！　この空は\nあいつの{h }しわざだったのか！",
-   "en": ""
+   "en": "What, a water demon?! So this sky\nwas her doing!"
   },
   {
    "id": "event_ev002700:0C06",
@@ -513,7 +513,7 @@
     63
    ],
    "jp": "‥‥いくぞ！！",
-   "en": ""
+   "en": "...Here I come!!"
   },
   {
    "id": "event_ev002700:0C16",
@@ -521,7 +521,7 @@
     64
    ],
    "jp": "あ　くもが{h }はれた‥‥\nわぁ‥‥ステキな{h }ほし空",
-   "en": ""
+   "en": "Oh, the clouds cleared...\nWow... What a lovely starry sky."
   },
   {
    "id": "event_ev002700:0C48",
@@ -529,7 +529,7 @@
     65
    ],
    "jp": "よお{h }るちあ　はれてよかったな\nきれいな{h }ほし空に{h }なってさ",
-   "en": ""
+   "en": "Hey, Lucia. Good thing it cleared up.\nThe starry sky looks great."
   },
   {
    "id": "event_ev002700:0C86",
@@ -537,7 +537,7 @@
     66
    ],
    "jp": "うん☆　おりひめさまも\nきっと{h }よろこんでるね",
-   "en": ""
+   "en": "Yeah! ☆ I bet Orihime\nis happy too."
   },
   {
    "id": "event_ev002700:0CB6",
@@ -545,7 +545,7 @@
     67
    ],
    "jp": "年に{h }いちどのことなんだもの",
-   "en": ""
+   "en": "It only happens once a year, after all."
   },
   {
    "id": "event_ev002700:0CD4",
@@ -553,7 +553,7 @@
     68
    ],
    "jp": "それにしても　こんなに{h }きれいな\nほし空を{h }見るの{h }ひさしぶりだぜ",
-   "en": ""
+   "en": "Still, it's been a while since I saw\na starry sky this beautiful."
   },
   {
    "id": "event_ev002700:0D18",
@@ -561,7 +561,7 @@
     69
    ],
    "jp": "うん　ほんとうだよね",
-   "en": ""
+   "en": "Yeah, it really has."
   },
   {
    "id": "event_ev002700:0D2E",
@@ -569,7 +569,7 @@
     70
    ],
    "jp": "（えへへ‥‥海斗といっしょ\nうれしいな　しあわせ☆）",
-   "en": ""
+   "en": "(Hehe... I'm with Kaito...\nI'm so happy! ☆)"
   },
   {
    "id": "event_ev002700:0D64",
@@ -577,7 +577,7 @@
     71
    ],
    "jp": "やったあ　くもが{h }はれた！\nすっごく{h }キレイな{h }ほし空☆",
-   "en": ""
+   "en": "Yay, the clouds cleared up!\nWhat a gorgeous starry sky! ☆"
   },
   {
    "id": "event_ev002700:0D9E",
@@ -585,7 +585,7 @@
     72
    ],
    "jp": "おや　きれいに{h }はれましたか",
-   "en": ""
+   "en": "Oh my, it's cleared up nicely."
   },
   {
    "id": "event_ev002700:0DBC",
@@ -593,7 +593,7 @@
     73
    ],
    "jp": "かわりに{h }ほしが{h }ふってきそうな\nよぞら{h }ですよ",
-   "en": ""
+   "en": "Now it's a night sky where the stars\nlook like they could rain down."
   },
   {
    "id": "event_ev002700:0DEE",
@@ -601,7 +601,7 @@
     74
    ],
    "jp": "きゃ☆　海月先生\nうふふ　ほんとうに{h }キレイですね",
-   "en": ""
+   "en": "Eek! ☆ Mr. Mitsuki!\nHehe, it really is beautiful."
   },
   {
    "id": "event_ev002700:0E22",
@@ -609,7 +609,7 @@
     75
    ],
    "jp": "こんな{h }ほし空を{h }ながめていると\nピアノを{h }ひきたくなってしまいます",
-   "en": ""
+   "en": "Gazing at a starry sky like this\nmakes me want to play the piano."
   },
   {
    "id": "event_ev002700:0E68",
@@ -617,7 +617,7 @@
     76
    ],
    "jp": "うわぁ　それならわたしも\nきいてみたいなぁ",
-   "en": ""
+   "en": "Ooh, then\nI'd love to hear it!"
   },
   {
    "id": "event_ev002700:0E94",
@@ -625,7 +625,7 @@
     77
    ],
    "jp": "それじゃあ{h }こんど\nききに{h }きますか？",
-   "en": ""
+   "en": "Well then, would you like\nto come listen sometime?"
   },
   {
    "id": "event_ev002700:0EBC",
@@ -633,7 +633,7 @@
     78
    ],
    "jp": "はい！　おねがいしまーす！",
-   "en": ""
+   "en": "Yes! I'd love to!"
   },
   {
    "id": "event_ev002700:0ED8",
@@ -641,7 +641,7 @@
     79
    ],
    "jp": "（やったぁ！　七夕の{h }おねがいが\nさっそく{h }かなったのかしら{i21C}）",
-   "en": ""
+   "en": "(Yaaay! Did my Tanabata wish\ncome true already?{i21C})"
   },
   {
    "id": "event_ev002700:0F1A",
@@ -649,7 +649,7 @@
     80
    ],
    "jp": "ふぅ　なんとか{h }くもが{h }はれた",
-   "en": ""
+   "en": "Phew, the clouds cleared up somehow."
   },
   {
    "id": "event_ev002700:0F3A",
@@ -657,7 +657,7 @@
     81
    ],
    "jp": "‥‥なんてキレイな\nほし空{h }なんだろう",
-   "en": ""
+   "en": "...What a beautiful\nstarry sky."
   },
   {
    "id": "event_ev002700:0F62",
@@ -665,7 +665,7 @@
     82
    ],
    "jp": "うっわー！　おほしさま{h }キレー！！\nさすが{h }七夕だよね",
-   "en": ""
+   "en": "Wooow! The stars are so pretty!!\nThat's Tanabata for you!"
   },
   {
    "id": "event_ev002700:0F9A",
@@ -673,7 +673,7 @@
     83
    ],
    "jp": "はれて{h }よかったよな",
-   "en": ""
+   "en": "Good thing it cleared up."
   },
   {
    "id": "event_ev002700:0FB0",
@@ -681,7 +681,7 @@
     84
    ],
    "jp": "ほら　あのほしが{h }おりひめのベガ\n太郎ちゃんに{h }おしえてもらったの",
-   "en": ""
+   "en": "Look, that star is Vega, Orihime's star.\nMy Taro taught me that."
   },
   {
    "id": "event_ev002700:0FF4",
@@ -689,7 +689,7 @@
     85
    ],
    "jp": "あっちが{h }ひこぼしの{h }アルタイル‥‥",
-   "en": ""
+   "en": "And over there is Altair, Hikoboshi..."
   },
   {
    "id": "event_ev002700:101A",
@@ -697,7 +697,7 @@
     86
    ],
    "jp": "はくちょうざの{h }デネブで\nなつの{h }だいさんかくなんだよ",
-   "en": ""
+   "en": "With Deneb in Cygnus, they make\nthe Summer Triangle."
   },
   {
    "id": "event_ev002700:1052",
@@ -705,7 +705,7 @@
     87
    ],
    "jp": "うわーっ　リナって{h }すごーい！",
-   "en": ""
+   "en": "Wooow, Rina, you're amazing!"
   },
   {
    "id": "event_ev002700:1072",
@@ -713,7 +713,7 @@
     88
    ],
    "jp": "へー　洞院って\nものしり{h }なんだな‥‥",
-   "en": ""
+   "en": "Huh, Toin, you sure\nknow a lot..."
   },
   {
    "id": "event_ev002700:109A",
@@ -721,7 +721,7 @@
     89
    ],
    "jp": "‥‥なんだ海斗\nその{h }いがいそうな{h }かおは",
-   "en": ""
+   "en": "...What, Kaito?\nWhy so surprised?"
   },
   {
    "id": "event_ev002700:10C6",
@@ -729,7 +729,7 @@
     90
    ],
    "jp": "いや　見かけによらないもんだな\nって{h }おもってさ",
-   "en": ""
+   "en": "Nah, I was just thinking\nyou can't judge by looks."
   },
   {
    "id": "event_ev002700:10F8",
@@ -737,7 +737,7 @@
     91
    ],
    "jp": "ねえねえ　それじゃあ　リナ\nさそりざって{h }どこにあるの？",
-   "en": ""
+   "en": "Hey, hey, then Rina,\nwhere's Scorpius?"
   },
   {
    "id": "event_ev002700:1132",
@@ -745,7 +745,7 @@
     92
    ],
    "jp": "さそりは{h }みなみの空だよ",
-   "en": ""
+   "en": "The scorpion is in the southern sky."
   },
   {
    "id": "event_ev002700:114C",
@@ -753,7 +753,7 @@
     93
    ],
    "jp": "じかんはあるし\nゆっくり{h }おしえてあげるよ",
-   "en": ""
+   "en": "We have time, so\nI'll show you slowly."
   },
   {
    "id": "event_ev002700:1178",
@@ -761,7 +761,7 @@
     94
    ],
    "jp": "{h }　　　　エピソード　２８　　　　\n　　『七夕のおもい』　おわり　　",
-   "en": ""
+   "en": "Episode 28\n\"Tanabata Wishes\" - The End"
   }
  ]
 }

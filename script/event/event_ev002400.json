@@ -11,7 +11,7 @@
     115
    ],
    "jp": "やったー！　ストライクだぁ！\nリナったら　すごーい！",
-   "en": ""
+   "en": "Yaaay! A strike!\nRina, you're amazing!"
   },
   {
    "id": "event_ev002400:0036",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "ほんと　やっぱりすごいよ〜",
-   "en": ""
+   "en": "Really, you're so amazing!"
   },
   {
    "id": "event_ev002400:0052",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "るちあも{h }わたしも\nガーターばっかりだし",
-   "en": ""
+   "en": "Lucia and I only\nget gutter balls."
   },
   {
    "id": "event_ev002400:007C",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "わたしを{h }ひきあいに出さなくても\nいいじゃない　もう！",
-   "en": ""
+   "en": "You didn't have to drag\nme into it! Geez!"
   },
   {
    "id": "event_ev002400:00B4",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "たいへんです！{h }みなさん！",
-   "en": ""
+   "en": "Everyone! This is terrible!"
   },
   {
    "id": "event_ev002400:00D0",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "こんなものが‥‥！",
-   "en": ""
+   "en": "Look at this...!"
   },
   {
    "id": "event_ev002400:00E4",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "なーに？　これ？\n『ちょうせんじょう』？",
-   "en": ""
+   "en": "What's this?\n\"A challenge\"?"
   },
   {
    "id": "event_ev002400:010E",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "どれどれ‥‥",
-   "en": ""
+   "en": "Let me see..."
   },
   {
    "id": "event_ev002400:011C",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "『おたがいの{h }しんぼくを\nふかめるべく‥‥』",
-   "en": ""
+   "en": "\"In order to deepen\nour friendship...\""
   },
   {
    "id": "event_ev002400:014A",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "『ボーリングたいかいを\nひらきたいとおもいます』",
-   "en": ""
+   "en": "\"we would like to hold\na bowling tournament.\""
   },
   {
    "id": "event_ev002400:017C",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "『ぜひ{h }さんかして下さい\n水妖いちどう{h }より』",
-   "en": ""
+   "en": "\"Please do take part.\nFrom: all the water demons.\""
   },
   {
    "id": "event_ev002400:01AC",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "水妖いちどう{h }より！？\nなんなの？　これ？",
-   "en": ""
+   "en": "From all the water demons?!\nWhat is this?"
   },
   {
    "id": "event_ev002400:01D8",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "まて　つづきがある",
-   "en": ""
+   "en": "Wait, there's more."
   },
   {
    "id": "event_ev002400:01EC",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "『なお\nさんかしなかったばあい』",
-   "en": ""
+   "en": "\"Furthermore,\nif you do not take part,\""
   },
   {
    "id": "event_ev002400:020E",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "『しょうぶから\nにげたと見なします』",
-   "en": ""
+   "en": "\"we will consider that\nyou ran from the match.\""
   },
   {
    "id": "event_ev002400:0234",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "これって‥‥　ワナいがいの\nなにものでもないわよね‥‥",
-   "en": ""
+   "en": "This is... nothing\nbut a trap, right...?"
   },
   {
    "id": "event_ev002400:0276",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "でも　しょうぶからにげたって\n見なすって",
-   "en": ""
+   "en": "But they said they'll say\nwe ran from the match..."
   },
   {
    "id": "event_ev002400:02A0",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "このしょうぶ\nうけよう！",
-   "en": ""
+   "en": "I accept\nthis challenge!"
   },
   {
    "id": "event_ev002400:02BA",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "なんだか　おもしろそうね",
-   "en": ""
+   "en": "Sounds kind of fun."
   },
   {
    "id": "event_ev002400:02D4",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "じゃあ　こういうときは\nとっくんよね！",
-   "en": ""
+   "en": "Then at a time like this,\nit's training time!"
   },
   {
    "id": "event_ev002400:02FC",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "ちょっと　みなさん！",
-   "en": ""
+   "en": "Now hold on, everyone!"
   },
   {
    "id": "event_ev002400:0312",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "‥‥まったく\nしりませんよ‥‥？",
-   "en": ""
+   "en": "...Honestly,\nI'm not responsible for this..."
   },
   {
    "id": "event_ev002400:0334",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "とっくん{h }といえば　やっぱり\nかいがんで{h }ランニングだよね！",
-   "en": ""
+   "en": "Training means\nrunning on the beach!"
   },
   {
    "id": "event_ev002400:0372",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "よーし！　サーフィンかいじょうで\nランニングしちゃうんだからぁ！",
-   "en": ""
+   "en": "All right! I'm gonna go running\nat Surfing Beach!"
   },
   {
    "id": "event_ev002400:03B4",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "サーフィンかいじょうで\nとっくんだよっ！",
-   "en": ""
+   "en": "Training at\nSurfing Beach!"
   },
   {
    "id": "event_ev002400:03DE",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "なんで{h }ボーリングのために\nとっくん{h }しなきゃなんないのよー！",
-   "en": ""
+   "en": "Why do I have to train\nfor bowling, anyway?!"
   },
   {
    "id": "event_ev002400:041E",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "みさきの{h }てんぼうだいで\nとっくんよっ！",
-   "en": ""
+   "en": "Training at\nCape Lookout!"
   },
   {
    "id": "event_ev002400:0448",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "てんぼうだいを{h }のぼったり\nおりたりすれば　とっくんになるかな",
-   "en": ""
+   "en": "Running up and down the lookout\nshould be good training."
   },
   {
    "id": "event_ev002400:0488",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "まったく　なんで水妖なんかと\nボーリングたいけつを‥‥",
-   "en": ""
+   "en": "Honestly, why a bowling match\nagainst water demons..."
   },
   {
    "id": "event_ev002400:04C0",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "みさきの{h }てんぼうだい{h }まで‥‥\nダーッシュ！！",
-   "en": ""
+   "en": "All the way to Cape Lookout...\nDaaash!!"
   },
   {
    "id": "event_ev002400:04F2",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "じんじゃで{h }こころを{h }おちつける\nれんしゅうをしよう",
-   "en": ""
+   "en": "I'll practice calming\nmy mind at the Shrine."
   },
   {
    "id": "event_ev002400:0528",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "じんじゃで{h }こころを{h }\nきたえよう‥‥",
-   "en": ""
+   "en": "I'll train my mind\nat the Shrine..."
   },
   {
    "id": "event_ev002400:0550",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "じんじゃへ{h }いくぞ‥‥",
-   "en": ""
+   "en": "To the Shrine..."
   },
   {
    "id": "event_ev002400:0568",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "ボーリングでの{h }しょうぶといえど\n水妖あいてに{h }まけるわけには！",
-   "en": ""
+   "en": "Even if it's just bowling, I can't\nlose to a water demon!"
   },
   {
    "id": "event_ev002400:05AA",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "とうちゃーく！　はまべを{h }はしって\nおもいっきり{h }きたえるわよー！",
-   "en": ""
+   "en": "I'm here! I'll run on the beach\nand train as hard as I can!"
   },
   {
    "id": "event_ev002400:05EE",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "水妖なんて　わたしが\nやっつけてやるんだから！",
-   "en": ""
+   "en": "I'm gonna beat\nthose water demons!"
   },
   {
    "id": "event_ev002400:061E",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "ついたー！　それじゃあ\nてんぼうだいを{h }かけあがるわよー！",
-   "en": ""
+   "en": "I'm here! Okay, time to\nrun up the lookout!"
   },
   {
    "id": "event_ev002400:065A",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "水妖と{h }しょうぶするまで　\nガンガンきたえなきゃ！",
-   "en": ""
+   "en": "I've got to train hard\nuntil the match with the water demons!"
   },
   {
    "id": "event_ev002400:068E",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "ついた‥‥\nよし　ここで{h }こころをきたえよう",
-   "en": ""
+   "en": "I'm here...\nAll right, I'll train my mind here."
   },
   {
    "id": "event_ev002400:06BC",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "そして　水妖どもと{h }しょうぶだ！",
-   "en": ""
+   "en": "And then, the match against the water demons!"
   },
   {
    "id": "event_ev002400:06DE",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "よーし　水妖たちと\nボーリングで{h }しょうぶよ！",
-   "en": ""
+   "en": "All right! A bowling match\nwith the water demons!"
   },
   {
    "id": "event_ev002400:070E",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "ボーリングは{h }とくいじゃないけど\nぜったいに{h }まけないんだからぁ！",
-   "en": ""
+   "en": "I'm not good at bowling,\nbut I'm never gonna lose!"
   },
   {
    "id": "event_ev002400:0752",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "しょうぶの{h }ばしょは\nボーリングじょうよ！",
-   "en": ""
+   "en": "The match is\nat the bowling alley!"
   },
   {
    "id": "event_ev002400:077E",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "ボーリングじょうへ\nいそがなきゃ！",
-   "en": ""
+   "en": "I've got to hurry\nto the bowling alley!"
   },
   {
    "id": "event_ev002400:07A2",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "ボーリングって　しゅみじゃないけど\n水妖には{h }まけないからね！",
-   "en": ""
+   "en": "Bowling's not my thing, but I won't\nlose to the water demons!"
   },
   {
    "id": "event_ev002400:07E2",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "いそいでボーリングじょうへ\nいかなくちゃ！",
-   "en": ""
+   "en": "I've got to hurry\nto the bowling alley!"
   },
   {
    "id": "event_ev002400:080E",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "ボーリングじょうで\n水妖と{h }しょうぶよ！",
-   "en": ""
+   "en": "A match with the water demons\nat the bowling alley!"
   },
   {
    "id": "event_ev002400:0838",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "とっくんしたんだから\n水妖なんかに{h }まけないわよー！",
-   "en": ""
+   "en": "I trained, so I won't lose\nto any water demons!"
   },
   {
    "id": "event_ev002400:086E",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "よし　ボーリングじょうへ\nいこう！",
-   "en": ""
+   "en": "All right,\nto the bowling alley!"
   },
   {
    "id": "event_ev002400:0892",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "水妖め‥‥ボーリングでも\nやっつけてやる！",
-   "en": ""
+   "en": "Water demons... I'll beat\nyou at bowling too!"
   },
   {
    "id": "event_ev002400:08BE",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "ボーリングは{h }にがてじゃない\nだから　まけられないな‥‥",
-   "en": ""
+   "en": "I'm not bad at bowling,\nso I can't afford to lose..."
   },
   {
    "id": "event_ev002400:08F8",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "とっくんのせいか‥‥\nボーリングじょうで{h }みせてやる！",
-   "en": ""
+   "en": "The results of my training...\nI'll show them at the bowling alley!"
   },
   {
    "id": "event_ev002400:0930",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "ボーリングじょうに{h }ついたよ！\nさあ　水妖！　出てらっしゃい！",
-   "en": ""
+   "en": "I'm at the bowling alley!\nCome out, water demons!"
   },
   {
    "id": "event_ev002400:0970",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "よくきたな　マーメイドプリンセス\nその{h }ゆうきだけは{h }ほめてやろう！",
-   "en": ""
+   "en": "Welcome, Mermaid Princess.\nI'll at least praise your courage!"
   },
   {
    "id": "event_ev002400:09B6",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "あ〜ら　よくきたわね〜\nにげたのかと{h }おもってたわ〜",
-   "en": ""
+   "en": "Ohhh, so you came!\nI thought you'd run awaaay."
   },
   {
    "id": "event_ev002400:09EC",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "やぁねぇー　もう",
-   "en": ""
+   "en": "Oh my, honestly..."
   },
   {
    "id": "event_ev002400:09FE",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "そんなに{h }あつくなってると\nあたまが{h }ゆだっちゃうわよー",
-   "en": ""
+   "en": "If you get so worked up,\nyour head's going to boil over!"
   },
   {
    "id": "event_ev002400:0A38",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "おのぞみどおり　ボーリングで\nしょうぶして{h }あげるんだからぁ！",
-   "en": ""
+   "en": "Just like you wanted, I'll take\nyou on in a bowling match!"
   },
   {
    "id": "event_ev002400:0A78",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "きょうこそ　けっちゃくを\nつけさせてもらおう！",
-   "en": ""
+   "en": "Today, we will finally\nsettle this!"
   },
   {
    "id": "event_ev002400:0AA8",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "わたしが{h }あいてだ！！",
-   "en": ""
+   "en": "I will be your opponent!!"
   },
   {
    "id": "event_ev002400:0AC0",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "のぞむところよ！",
-   "en": ""
+   "en": "Bring it on!"
   },
   {
    "id": "event_ev002400:0AD2",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "ボーリングじょうに{h }とうちゃーく！\nさあ水妖　出てらっしゃい！",
-   "en": ""
+   "en": "I'm at the bowling alley!\nCome on out, water demons!"
   },
   {
    "id": "event_ev002400:0B12",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "よくきたな　マーメイドプリンセス\nその{h }ゆうきだけは{h }ほめてやろう！",
-   "en": ""
+   "en": "Welcome, Mermaid Princess.\nI'll at least praise your courage!"
   },
   {
    "id": "event_ev002400:0B58",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "あ〜ら　よくきたわね〜\nにげたのかと{h }おもってたわ〜",
-   "en": ""
+   "en": "Ohhh, so you came!\nI thought you'd run awaaay."
   },
   {
    "id": "event_ev002400:0B8E",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "やぁねぇー　もう",
-   "en": ""
+   "en": "Oh my, honestly..."
   },
   {
    "id": "event_ev002400:0BA0",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "そんなに{h }あつくなってると\nあたまが{h }ゆだっちゃうわよー",
-   "en": ""
+   "en": "If you get so worked up,\nyour head's going to boil over!"
   },
   {
    "id": "event_ev002400:0BDA",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "なに{h }いってんのよ！　こっちは\nとっくんまで{h }してきてるんだから！",
-   "en": ""
+   "en": "What are you saying?!\nI even trained for this!"
   },
   {
    "id": "event_ev002400:0C1E",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "きょうこそ　けっちゃくを\nつけさせてもらおう！",
-   "en": ""
+   "en": "Today, we will finally\nsettle this!"
   },
   {
    "id": "event_ev002400:0C4E",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "わたしが{h }あいてだ！！",
-   "en": ""
+   "en": "I will be your opponent!!"
   },
   {
    "id": "event_ev002400:0C66",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "じょうとうじゃない！",
-   "en": ""
+   "en": "Bring it on!"
   },
   {
    "id": "event_ev002400:0C7C",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "ボーリングじょうに{h }ついた‥‥",
-   "en": ""
+   "en": "I'm at the bowling alley..."
   },
   {
    "id": "event_ev002400:0C9C",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "出てこい{h }水妖！\nあいてになってやるぞ！",
-   "en": ""
+   "en": "Come out, water demons!\nI'll take you on!"
   },
   {
    "id": "event_ev002400:0CC6",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "よくきたな　マーメイドプリンセス\nその{h }ゆうきだけは{h }ほめてやろう！",
-   "en": ""
+   "en": "Welcome, Mermaid Princess.\nI'll at least praise your courage!"
   },
   {
    "id": "event_ev002400:0D0C",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "あ〜ら　よくきたわね〜\nにげたのかと{h }おもってたわ〜",
-   "en": ""
+   "en": "Ohhh, so you came!\nI thought you'd run awaaay."
   },
   {
    "id": "event_ev002400:0D42",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "やぁねぇー　もう",
-   "en": ""
+   "en": "Oh my, honestly..."
   },
   {
    "id": "event_ev002400:0D54",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "そんなに{h }あつくなってると\nあたまが{h }ゆだっちゃうわよー",
-   "en": ""
+   "en": "If you get so worked up,\nyour head's going to boil over!"
   },
   {
    "id": "event_ev002400:0D8E",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "だまれ{h }水妖！\nとっとと{h }しょうぶを{h }はじめるぞ！",
-   "en": ""
+   "en": "Silence, water demon!\nLet's get this match started!"
   },
   {
    "id": "event_ev002400:0DC2",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "きょうこそ　けっちゃくを\nつけさせてもらおう！",
-   "en": ""
+   "en": "Today, we will finally\nsettle this!"
   },
   {
    "id": "event_ev002400:0DF2",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "わたしが{h }あいてだ！！",
-   "en": ""
+   "en": "I will be your opponent!!"
   },
   {
    "id": "event_ev002400:0E0A",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "のぞむところだっ！",
-   "en": ""
+   "en": "Bring it on!"
   },
   {
    "id": "event_ev002400:0E1E",
@@ -659,7 +659,7 @@
     81
    ],
    "jp": "まったくもう！　あの水妖たちったら\nはごたえが{h }なかったじゃない！",
-   "en": ""
+   "en": "Honestly! Those water demons\nweren't any challenge at all!"
   },
   {
    "id": "event_ev002400:0E62",
@@ -667,7 +667,7 @@
     82
    ],
    "jp": "とっくんしたかいが\nぜんぜん{h }なかったよー！",
-   "en": ""
+   "en": "All that training\nwas for nothing!"
   },
   {
    "id": "event_ev002400:0E90",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "おっ　るちあじゃないか？\nこんなばしょで{h }めずらしいな",
-   "en": ""
+   "en": "Oh, isn't that Lucia?\nDidn't expect to see you here."
   },
   {
    "id": "event_ev002400:0EC8",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "あっ{h }海斗",
-   "en": ""
+   "en": "Oh, Kaito."
   },
   {
    "id": "event_ev002400:0ED4",
@@ -691,7 +691,7 @@
     85
    ],
    "jp": "おまえも　ボーリングやるんだ？",
-   "en": ""
+   "en": "So you bowl too?"
   },
   {
    "id": "event_ev002400:0EF4",
@@ -699,7 +699,7 @@
     86
    ],
    "jp": "おまえも‥‥ってことは　海斗も？",
-   "en": ""
+   "en": "\"Too\"...? So you bowl, Kaito?"
   },
   {
    "id": "event_ev002400:0F16",
@@ -707,7 +707,7 @@
     87
    ],
    "jp": "ああ　たまに{h }やるぐらいだけどな",
-   "en": ""
+   "en": "Yeah, just once in a while."
   },
   {
    "id": "event_ev002400:0F38",
@@ -715,7 +715,7 @@
     88
    ],
    "jp": "なあ　るちあ\nいまから{h }ボーリングしないか？",
-   "en": ""
+   "en": "Hey, Lucia,\nwanna bowl a game now?"
   },
   {
    "id": "event_ev002400:0F66",
@@ -723,7 +723,7 @@
     89
    ],
    "jp": "うん　やるやるー！",
-   "en": ""
+   "en": "Yeah, sure, sure!"
   },
   {
    "id": "event_ev002400:0F7A",
@@ -731,7 +731,7 @@
     90
    ],
    "jp": "（やったぁー！\n海斗と{h }ボーリングデートだよ！）",
-   "en": ""
+   "en": "(Yaaay!\nA bowling date with Kaito!)"
   },
   {
    "id": "event_ev002400:0FAC",
@@ -739,7 +739,7 @@
     91
    ],
    "jp": "ボーリングで{h }たいけつするだなんて\n大したこと{h }なかったじゃない",
-   "en": ""
+   "en": "A bowling showdown, and they\nweren't anything special."
   },
   {
    "id": "event_ev002400:0FEE",
@@ -747,7 +747,7 @@
     92
    ],
    "jp": "あーあ　せっかくやった{h }とっくんが\nむだに{h }なっちゃったぁ",
-   "en": ""
+   "en": "Aww, all that training\nwent to waste."
   },
   {
    "id": "event_ev002400:102A",
@@ -755,7 +755,7 @@
     93
    ],
    "jp": "おや　波音さん‥‥\nボーリングですか？",
-   "en": ""
+   "en": "Oh, Hanon...\nAre you here to bowl?"
   },
   {
    "id": "event_ev002400:1052",
@@ -763,7 +763,7 @@
     94
    ],
    "jp": "太郎ちゃ‥‥じゃなくて海月先生！\nあの　わたし{h }ボーリングなんて‥‥",
-   "en": ""
+   "en": "Tar... I mean, Mr. Mitsuki!\nUm, I'm not really into bowling..."
   },
   {
    "id": "event_ev002400:1098",
@@ -771,7 +771,7 @@
     95
    ],
    "jp": "なつかしいなぁ‥‥",
-   "en": ""
+   "en": "This brings back memories..."
   },
   {
    "id": "event_ev002400:10AC",
@@ -779,7 +779,7 @@
     96
    ],
    "jp": "ぼくも{h }学生のころは　ときどき\nボーリングを{h }していたものです",
-   "en": ""
+   "en": "Back when I was a student,\nI used to bowl now and then."
   },
   {
    "id": "event_ev002400:10EC",
@@ -787,7 +787,7 @@
     97
    ],
    "jp": "えっ！？　海月先生も\nボーリング{h }やってたんですか？",
-   "en": ""
+   "en": "What?! You used to bowl\ntoo, Mr. Mitsuki?"
   },
   {
    "id": "event_ev002400:1122",
@@ -795,7 +795,7 @@
     98
    ],
    "jp": "だったら　いまから{h }わたしと\nボーリングしませんか？",
-   "en": ""
+   "en": "Then would you like to\nbowl a game with me now?"
   },
   {
    "id": "event_ev002400:1158",
@@ -803,7 +803,7 @@
     99
    ],
    "jp": "いまからですか？\nええ　いいですよ",
-   "en": ""
+   "en": "Right now?\nSure, why not."
   },
   {
    "id": "event_ev002400:117C",
@@ -811,7 +811,7 @@
     100
    ],
    "jp": "ひさしぶりに　あそんでみましょう！",
-   "en": ""
+   "en": "Let's have some fun,\nit's been a while!"
   },
   {
    "id": "event_ev002400:11A0",
@@ -819,7 +819,7 @@
     101
    ],
    "jp": "よろしく{h }おねがいしまーす！",
-   "en": ""
+   "en": "Thank you sooo much!"
   },
   {
    "id": "event_ev002400:11BE",
@@ -827,7 +827,7 @@
     102
    ],
    "jp": "（やったぁ　ボーリングデートよ！）",
-   "en": ""
+   "en": "(Yaaay, a bowling date!)"
   },
   {
    "id": "event_ev002400:11E2",
@@ -835,7 +835,7 @@
     103
    ],
    "jp": "あの水妖たち‥‥\n口ほどにもなかったな",
-   "en": ""
+   "en": "Those water demons...\nwere all talk."
   },
   {
    "id": "event_ev002400:120A",
@@ -843,7 +843,7 @@
     104
    ],
    "jp": "あれだけの{h }大口たたいて\nボーリングは{h }さっぱりだったし",
-   "en": ""
+   "en": "After all that bragging,\nthey were terrible at bowling."
   },
   {
    "id": "event_ev002400:1244",
@@ -851,7 +851,7 @@
     105
    ],
    "jp": "まったくもう！\nとっくんして{h }そんしちゃった！",
-   "en": ""
+   "en": "Honestly!\nAll that training for nothing!"
   },
   {
    "id": "event_ev002400:1274",
@@ -859,7 +859,7 @@
     106
    ],
    "jp": "そうじゃないよ　とっくんしなくちゃ\nまけてたかもしれないんだ",
-   "en": ""
+   "en": "That's not true. Without training,\nwe might have lost."
   },
   {
    "id": "event_ev002400:12B2",
@@ -867,7 +867,7 @@
     107
    ],
    "jp": "それに　いちど{h }とっくんしたことは\nむだには{h }ならないはずだからね！",
-   "en": ""
+   "en": "Besides, training you've done once\nis never wasted!"
   },
   {
    "id": "event_ev002400:12F8",
@@ -875,7 +875,7 @@
     108
    ],
    "jp": "そうね　太郎ちゃんとボーリングを\nするきかいがないとは{h }かぎらないし",
-   "en": ""
+   "en": "True, I might get the chance\nto bowl with my Taro someday."
   },
   {
    "id": "event_ev002400:133E",
@@ -883,7 +883,7 @@
     109
    ],
    "jp": "わたしも　海斗とボーリングデート\nしたりすることがあるかも‥‥",
-   "en": ""
+   "en": "And maybe I'll go on a\nbowling date with Kaito..."
   },
   {
    "id": "event_ev002400:137E",
@@ -891,7 +891,7 @@
     110
    ],
    "jp": "まったく‥‥",
-   "en": ""
+   "en": "Honestly..."
   },
   {
    "id": "event_ev002400:138C",
@@ -899,7 +899,7 @@
     111
    ],
    "jp": "おまえたちというヤツは‥‥",
-   "en": ""
+   "en": "You two are something else..."
   },
   {
    "id": "event_ev002400:13A8",
@@ -907,7 +907,7 @@
     112
    ],
    "jp": "{h }　　　　エピソード　２５　　　　\n『ほのおのちょうせんじょう』おわり",
-   "en": ""
+   "en": "Episode 25\n\"A Fiery Challenge\" - The End"
   }
  ]
 }

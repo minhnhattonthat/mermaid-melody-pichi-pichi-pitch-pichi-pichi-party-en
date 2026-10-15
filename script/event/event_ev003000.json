@@ -10,7 +10,7 @@
     163
    ],
    "jp": "もう{h }じかんがないわ",
-   "en": ""
+   "en": "We're out of time."
   },
   {
    "id": "event_ev003000:0016",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "このままじゃあ\nガイトさまが{h }目ざめてしまう‥‥",
-   "en": ""
+   "en": "At this rate,\nLord Gaito will awaken..."
   },
   {
    "id": "event_ev003000:0048",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "あ〜ら\nそれは{h }いいことじゃなぁ〜い",
-   "en": ""
+   "en": "Oh my~\nIsn't that a good thing~?"
   },
   {
    "id": "event_ev003000:006E",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "なにが{h }いいものか！\nガイトさまが{h }ねむっているのは‥‥",
-   "en": ""
+   "en": "How is that good?! The reason\nLord Gaito is sleeping..."
   },
   {
    "id": "event_ev003000:00A8",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "にんぎょどもを{h }とらえるために\n力を{h }たくわえているのだぞ",
-   "en": ""
+   "en": "is to build up his power\nto capture the mermaids."
   },
   {
    "id": "event_ev003000:00E4",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "目を{h }さませば　にんぎょどもを\nかならず{h }とらえてしまうだろう‥‥",
-   "en": ""
+   "en": "Once he awakens, he'll surely\ncapture the mermaids himself..."
   },
   {
    "id": "event_ev003000:0128",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "つまり　わたしたちは{h }ガイトさまの\nおやくに{h }立てなかったことになる",
-   "en": ""
+   "en": "Which means we will have been\nof no use to Lord Gaito."
   },
   {
    "id": "event_ev003000:016E",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "そんなこと{h }いわれなくたって\nユーリは　わかってますわ！",
-   "en": ""
+   "en": "I, Yuri, know that\nwithout being told!"
   },
   {
    "id": "event_ev003000:01A8",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "こんかいばかりは{h }本気でないと\nガイトさまから{h }見すてられるわよ",
-   "en": ""
+   "en": "This time we must be serious,\nor Lord Gaito will abandon us."
   },
   {
    "id": "event_ev003000:01EA",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "こうなったら‥‥‥",
-   "en": ""
+   "en": "In that case......"
   },
   {
    "id": "event_ev003000:01FE",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "いまこそ{h }エリルたち〜！",
-   "en": ""
+   "en": "Now is the time, Eriru and all~!"
   },
   {
    "id": "event_ev003000:0218",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "ダーク{h }ラヴァーズの力を！",
-   "en": ""
+   "en": "For the power of the Dark Lovers!"
   },
   {
    "id": "event_ev003000:0234",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "見せるときですわぁ！",
-   "en": ""
+   "en": "It's time to show it!"
   },
   {
    "id": "event_ev003000:024A",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "まっていなさい‥‥\nマーメイドプリンセス！！",
-   "en": ""
+   "en": "Just you wait...\nMermaid Princesses!!"
   },
   {
    "id": "event_ev003000:0278",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "きょうのサーフィンたいかい\nたのしみ〜！！",
-   "en": ""
+   "en": "I can't wait for today's\nsurfing contest!!"
   },
   {
    "id": "event_ev003000:02A4",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "海斗のこと　いーっぱい\nおうえんするんだからぁ！！",
-   "en": ""
+   "en": "I'm gonna cheer for Kaito\nsooo much!!"
   },
   {
    "id": "event_ev003000:02D8",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "たいへんよーっ！\n水妖たちが{h }町で{h }あばれてるーっ！",
-   "en": ""
+   "en": "Big trouble!\nWater demons are running wild in town!"
   },
   {
    "id": "event_ev003000:030E",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "なんだとっ！　水妖どもめ！！\n‥‥るちあ！！",
-   "en": ""
+   "en": "What?! Those water demons!!\n...Lucia!!"
   },
   {
    "id": "event_ev003000:033C",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "うん　わかってるよ！　みんなで\n水妖たちを{h }なんとかしなきゃ！",
-   "en": ""
+   "en": "Yeah, I know! We all have to\ndo something about the water demons!"
   },
   {
    "id": "event_ev003000:037C",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "町で{h }あばれるなんて{h }ゆるせない！",
-   "en": ""
+   "en": "Running wild in town? Unforgivable!"
   },
   {
    "id": "event_ev003000:03A0",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "町が{h }たいへんなことに\nなっちゃってる！！",
-   "en": ""
+   "en": "The town's in\nbig trouble!!"
   },
   {
    "id": "event_ev003000:03EC",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "町で{h }あばれるだなんて\nすっごく{h }めいわく！",
-   "en": ""
+   "en": "Running wild in town...\nWhat a huge nuisance!"
   },
   {
    "id": "event_ev003000:0444",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "あーあ　町で\nあばれるだなんて‥‥",
-   "en": ""
+   "en": "Ugh, running wild\nin town..."
   },
   {
    "id": "event_ev003000:0488",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "町で{h }あばれるとは\nゆるせないな",
-   "en": ""
+   "en": "Running wild in town...\nI won't allow it."
   },
   {
    "id": "event_ev003000:04CE",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "まったく　町で{h }あばれるとは‥‥",
-   "en": ""
+   "en": "Honestly, running wild in town..."
   },
   {
    "id": "event_ev003000:0512",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "見つけたわよーっ！\nあばれるのは{h }よしなさーいっ！",
-   "en": ""
+   "en": "Found you!\nStop running wild!"
   },
   {
    "id": "event_ev003000:0566",
@@ -266,7 +266,7 @@
     32
    ],
    "jp": "やっと{h }出てきたわね\nマーメイドプリンセス",
-   "en": ""
+   "en": "So you've finally shown up,\nMermaid Princess."
   },
   {
    "id": "event_ev003000:0592",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "きょうこそ　きっちりけっちゃくを\nつけさせてもらうわよ！",
-   "en": ""
+   "en": "Today, I'll settle things\nwith you once and for all!"
   },
   {
    "id": "event_ev003000:05CC",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "ンもぉー！　だからって{h }町で\nあばれなくてもいいじゃないっ！",
-   "en": ""
+   "en": "Oh, come on! That's no reason\nto run wild in town!"
   },
   {
    "id": "event_ev003000:060A",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "ゆるさないんだから！",
-   "en": ""
+   "en": "I won't forgive you!"
   },
   {
    "id": "event_ev003000:0620",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "ンもぉ〜　おそかったじゃなぁ〜い\nあたし　まってたんだからぁ〜",
-   "en": ""
+   "en": "Oh, come oooon, you're so late~\nI've been waiting for you~"
   },
   {
    "id": "event_ev003000:0676",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "おくれちゃって　ごめんねー",
-   "en": ""
+   "en": "Sorry I'm late!"
   },
   {
    "id": "event_ev003000:0692",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "‥‥いや　そうじゃなくって！",
-   "en": ""
+   "en": "...Wait, that's not the point!"
   },
   {
    "id": "event_ev003000:06B0",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "きゃはは　マーメイドプリンセス\nみぃーつけたぁ！",
-   "en": ""
+   "en": "Kyahaha! Mermaid Princess,\nfouuund you!"
   },
   {
    "id": "event_ev003000:06EE",
@@ -346,7 +346,7 @@
     42
    ],
    "jp": "それはこっちのセリフだよ\nさがしてたのは　わたしたちだもん！",
-   "en": ""
+   "en": "That's my line!\nWe're the ones looking for you!"
   },
   {
    "id": "event_ev003000:072C",
@@ -354,7 +354,7 @@
     43
    ],
    "jp": "そんなのどっちだって\nいいんだもんねー！",
-   "en": ""
+   "en": "Who cares\neither way!"
   },
   {
    "id": "event_ev003000:0756",
@@ -362,7 +362,7 @@
     44
    ],
    "jp": "どーせ　あなたたちは　このユーリに\nつかまっちゃうんだから！！",
-   "en": ""
+   "en": "You're all gonna get\ncaught by me, Yuri, anyway!!"
   },
   {
    "id": "event_ev003000:0796",
@@ -370,7 +370,7 @@
     45
    ],
    "jp": "あなたなんかに\nぜったい{h }つかまらないよーだ！",
-   "en": ""
+   "en": "There's no way I'll ever\nget caught by you! Nyah!"
   },
   {
    "id": "event_ev003000:07C6",
@@ -378,7 +378,7 @@
     46
    ],
    "jp": "見つけたっ！　町で\nあばれるだなんて　やめてよね！",
-   "en": ""
+   "en": "Found you! Quit\nrunning wild in town!"
   },
   {
    "id": "event_ev003000:07FA",
@@ -386,7 +386,7 @@
     47
    ],
    "jp": "やっと{h }出てきたわね\nマーメイドプリンセス",
-   "en": ""
+   "en": "So you've finally shown up,\nMermaid Princess."
   },
   {
    "id": "event_ev003000:0826",
@@ -394,7 +394,7 @@
     48
    ],
    "jp": "きょうこそ　きっちりけっちゃくを\nつけさせてもらうわよ！",
-   "en": ""
+   "en": "Today, I'll settle things\nwith you once and for all!"
   },
   {
    "id": "event_ev003000:0860",
@@ -402,7 +402,7 @@
     49
    ],
    "jp": "町で{h }あばれるだなんて\nほんっと　めいわくなのよっ！",
-   "en": ""
+   "en": "Running wild in town is\na real nuisance, you know!"
   },
   {
    "id": "event_ev003000:0896",
@@ -418,7 +418,7 @@
     51
    ],
    "jp": "やっと見つけたわよ　水妖！",
-   "en": ""
+   "en": "Finally found you, water demon!"
   },
   {
    "id": "event_ev003000:08BE",
@@ -426,7 +426,7 @@
     52
    ],
    "jp": "ンもぉ〜　おそかったじゃなぁ〜い\nあたし　まってたんだからぁ〜",
-   "en": ""
+   "en": "Oh, come oooon, you're so late~\nI've been waiting for you~"
   },
   {
    "id": "event_ev003000:08FE",
@@ -434,7 +434,7 @@
     53
    ],
    "jp": "いや　そうことじゃないし‥‥\nまっ　いいかぁ",
-   "en": ""
+   "en": "No, that's not the point...\nOh well, whatever."
   },
   {
    "id": "event_ev003000:092C",
@@ -442,7 +442,7 @@
     54
    ],
    "jp": "おいかえしてあげる{i21C}",
-   "en": ""
+   "en": "I'll send you packing{i21C}"
   },
   {
    "id": "event_ev003000:0942",
@@ -450,7 +450,7 @@
     55
    ],
    "jp": "きゃはは　マーメイドプリンセス\nみぃーつけたぁ！",
-   "en": ""
+   "en": "Kyahaha! Mermaid Princess,\nfouuund you!"
   },
   {
    "id": "event_ev003000:0974",
@@ -458,7 +458,7 @@
     56
    ],
    "jp": "えっ？　なにいってんの？\nわたしたちが　きてやったんじゃない",
-   "en": ""
+   "en": "Huh? What are you talking about?\nWe're the ones who came to you!"
   },
   {
    "id": "event_ev003000:09B2",
@@ -466,7 +466,7 @@
     57
    ],
    "jp": "そんなのどっちだって\nいいんだもんねー！",
-   "en": ""
+   "en": "Who cares\neither way!"
   },
   {
    "id": "event_ev003000:09DC",
@@ -474,7 +474,7 @@
     58
    ],
    "jp": "どーせ　あなたたちは　このユーリに\nつかまっちゃうんだから！！",
-   "en": ""
+   "en": "You're all gonna get\ncaught by me, Yuri, anyway!!"
   },
   {
    "id": "event_ev003000:0A1C",
@@ -482,7 +482,7 @@
     59
    ],
    "jp": "ほんっと　つきあってらんない\nさっさと　かたづけてやるんだから",
-   "en": ""
+   "en": "I really can't be bothered with you.\nI'll finish you off quick!"
   },
   {
    "id": "event_ev003000:0A5C",
@@ -498,7 +498,7 @@
     61
    ],
    "jp": "やっと{h }出てきたわね\nマーメイドプリンセス",
-   "en": ""
+   "en": "So you've finally shown up,\nMermaid Princess."
   },
   {
    "id": "event_ev003000:0A9C",
@@ -506,7 +506,7 @@
     62
    ],
    "jp": "きょうこそ　きっちりけっちゃくを\nつけさせてもらうわよ！",
-   "en": ""
+   "en": "Today, I'll settle things\nwith you once and for all!"
   },
   {
    "id": "event_ev003000:0AD6",
@@ -514,7 +514,7 @@
     63
    ],
    "jp": "のぞむところだっ！\nあいてに{h }なってやるっ！！",
-   "en": ""
+   "en": "Bring it on!\nI'll take you on!!"
   },
   {
    "id": "event_ev003000:0B06",
@@ -530,7 +530,7 @@
     65
    ],
    "jp": "ンもぉ〜　おそかったじゃなぁ〜い\nあたし　まってたんだからぁ〜",
-   "en": ""
+   "en": "Oh, come oooon, you're so late~\nI've been waiting for you~"
   },
   {
    "id": "event_ev003000:0B5A",
@@ -538,7 +538,7 @@
     66
    ],
    "jp": "ふざけるのは{h }よせっ！",
-   "en": ""
+   "en": "Quit fooling around!"
   },
   {
    "id": "event_ev003000:0B72",
@@ -554,7 +554,7 @@
     68
    ],
    "jp": "きゃはは　マーメイドプリンセス\nみぃーつけたぁ！",
-   "en": ""
+   "en": "Kyahaha! Mermaid Princess,\nfouuund you!"
   },
   {
    "id": "event_ev003000:0BAE",
@@ -562,7 +562,7 @@
     69
    ],
    "jp": "おもいちがいを{h }してるんじゃないぞ\nそれは{h }こっちのセリフだ！",
-   "en": ""
+   "en": "Don't get the wrong idea.\nThat's my line!"
   },
   {
    "id": "event_ev003000:0BEE",
@@ -570,7 +570,7 @@
     70
    ],
    "jp": "そんなのどっちだって\nいいんだもんねー！",
-   "en": ""
+   "en": "Who cares\neither way!"
   },
   {
    "id": "event_ev003000:0C18",
@@ -578,7 +578,7 @@
     71
    ],
    "jp": "どーせ　あなたたちは　このユーリに\nつかまっちゃうんだから！！",
-   "en": ""
+   "en": "You're all gonna get\ncaught by me, Yuri, anyway!!"
   },
   {
    "id": "event_ev003000:0C58",
@@ -586,7 +586,7 @@
     72
    ],
    "jp": "ふっ　じしんたっぷりだな\nいいだろう　あいてになってやる！",
-   "en": ""
+   "en": "Heh, you're awfully confident.\nFine, I'll take you on!"
   },
   {
    "id": "event_ev003000:0C94",
@@ -594,7 +594,7 @@
     73
    ],
    "jp": "よりにもよって",
-   "en": ""
+   "en": "Of all the places..."
   },
   {
    "id": "event_ev003000:0CA4",
@@ -602,7 +602,7 @@
     74
    ],
    "jp": "サーフィンたいかいの{h }かいじょうに\n水妖があらわれるだなんて‥‥",
-   "en": ""
+   "en": "a water demon shows up at\nthe surfing contest site..."
   },
   {
    "id": "event_ev003000:0CE6",
@@ -610,7 +610,7 @@
     75
    ],
    "jp": "いそいで{h }サーフィンたいかいの{h }\nかいじょうに{h }いかなくっちゃ！",
-   "en": ""
+   "en": "I've gotta hurry to the\nsurfing contest site!"
   },
   {
    "id": "event_ev003000:0D28",
@@ -618,7 +618,7 @@
     76
    ],
    "jp": "海斗‥‥だいじょうぶかなぁ‥‥",
-   "en": ""
+   "en": "Kaito... I hope he's okay..."
   },
   {
    "id": "event_ev003000:0D48",
@@ -626,7 +626,7 @@
     77
    ],
    "jp": "まだ{h }水妖がいるだなんて‥‥",
-   "en": ""
+   "en": "There are still more water demons..."
   },
   {
    "id": "event_ev003000:0D66",
@@ -634,7 +634,7 @@
     78
    ],
    "jp": "こんどは{h }サーフィンたいかいの\nかいじょうなのっ！？",
-   "en": ""
+   "en": "Now it's the surfing\ncontest site?!"
   },
   {
    "id": "event_ev003000:0D9C",
@@ -642,7 +642,7 @@
     79
    ],
    "jp": "こんどは{h }サーフィンたいかいの\nかいじょうへ{h }いそがないとね",
-   "en": ""
+   "en": "Now we've gotta hurry to\nthe surfing contest site."
   },
   {
    "id": "event_ev003000:0DDA",
@@ -650,7 +650,7 @@
     80
    ],
    "jp": "海斗くん　だいじょうぶかなぁ‥‥",
-   "en": ""
+   "en": "I hope Kaito's okay..."
   },
   {
    "id": "event_ev003000:0DFC",
@@ -658,7 +658,7 @@
     81
    ],
    "jp": "ンもぉ〜　４人目じゃなぁーい！",
-   "en": ""
+   "en": "Oh, come oooon, that's the fourth one!"
   },
   {
    "id": "event_ev003000:0E1C",
@@ -666,7 +666,7 @@
     82
    ],
    "jp": "どれだけ　\n水妖が{h }出てきてるのよー！！",
-   "en": ""
+   "en": "Just how many water demons\nare out here?!"
   },
   {
    "id": "event_ev003000:0E46",
@@ -674,7 +674,7 @@
     83
    ],
    "jp": "こんどは{h }サーフィンたいかいの\nかいじょうか‥‥",
-   "en": ""
+   "en": "Now it's the surfing\ncontest site, huh..."
   },
   {
    "id": "event_ev003000:0E78",
@@ -682,7 +682,7 @@
     84
    ],
    "jp": "サーフィンたいかいのかいじょうへ\nいそがないと‥‥",
-   "en": ""
+   "en": "I have to hurry to the\nsurfing contest site..."
   },
   {
    "id": "event_ev003000:0EAC",
@@ -690,7 +690,7 @@
     85
    ],
    "jp": "サーフィンたいかいの\nかいじょうには{h }海斗がいる‥‥",
-   "en": ""
+   "en": "Kaito's at the\nsurfing contest site..."
   },
   {
    "id": "event_ev003000:0EE2",
@@ -698,7 +698,7 @@
     86
    ],
    "jp": "まだいたのか水妖‥‥\nなん人でも{h }出てこい！",
-   "en": ""
+   "en": "Still more of you, water demons...\nCome out, as many as you like!"
   },
   {
    "id": "event_ev003000:0F10",
@@ -714,7 +714,7 @@
     88
    ],
    "jp": "（海斗は‥‥\nよかった　ぶじみたい！）",
-   "en": ""
+   "en": "(Kaito's...\nPhew, he looks okay!)"
   },
   {
    "id": "event_ev003000:0F4E",
@@ -722,7 +722,7 @@
     89
    ],
    "jp": "どうやら{h }イズールたちは\nたおされたみたいね‥‥",
-   "en": ""
+   "en": "It seems Izuru and the others\nhave been defeated..."
   },
   {
    "id": "event_ev003000:0F80",
@@ -730,7 +730,7 @@
     90
    ],
    "jp": "そのとおりよ！　だからあなたも\nあばれるのは{h }よしなさい！",
-   "en": ""
+   "en": "That's right! So you should\nstop running wild too!"
   },
   {
    "id": "event_ev003000:0FBC",
@@ -738,7 +738,7 @@
     91
    ],
    "jp": "うふふ‥‥むしろ{h }わたしにとっては\nつごうがいいのよ",
-   "en": ""
+   "en": "Hehehe... If anything,\nthat suits me just fine."
   },
   {
    "id": "event_ev003000:0FF2",
@@ -746,7 +746,7 @@
     92
    ],
    "jp": "マーメイドプリンセスたちを\nわたしが{h }とらえれさえすれば‥‥",
-   "en": ""
+   "en": "As long as I'm the one who\ncaptures the Mermaid Princesses..."
   },
   {
    "id": "event_ev003000:1030",
@@ -754,7 +754,7 @@
     93
    ],
    "jp": "ガイトさまにとって{h }ひつようなのは{h }\nわたしだけになるもの",
-   "en": ""
+   "en": "I'll be the only one\nLord Gaito needs."
   },
   {
    "id": "event_ev003000:106C",
@@ -762,7 +762,7 @@
     94
    ],
    "jp": "ンもぉ！　わからずやっ！！",
-   "en": ""
+   "en": "Ugh! You just don't get it!!"
   },
   {
    "id": "event_ev003000:1088",
@@ -770,7 +770,7 @@
     95
    ],
    "jp": "見つけたわよ　水妖！\nあばれるのをやめさせなきゃっ！",
-   "en": ""
+   "en": "Found you, water demon!\nI've gotta make you stop!"
   },
   {
    "id": "event_ev003000:10BE",
@@ -778,7 +778,7 @@
     96
    ],
    "jp": "どうやら{h }イズールたちは\nたおされたみたいね‥‥",
-   "en": ""
+   "en": "It seems Izuru and the others\nhave been defeated..."
   },
   {
    "id": "event_ev003000:10F0",
@@ -786,7 +786,7 @@
     97
    ],
    "jp": "そのとおりよ！　あなたも{h }とっとと\nかえっちゃったら！",
-   "en": ""
+   "en": "That's right! Why don't you\nhurry up and go home too!"
   },
   {
    "id": "event_ev003000:1128",
@@ -794,7 +794,7 @@
     98
    ],
    "jp": "うふふ‥‥むしろ{h }わたしにとっては\nつごうがいいのよ",
-   "en": ""
+   "en": "Hehehe... If anything,\nthat suits me just fine."
   },
   {
    "id": "event_ev003000:115E",
@@ -802,7 +802,7 @@
     99
    ],
    "jp": "マーメイドプリンセスたちを\nわたしが{h }とらえれさえすれば‥‥",
-   "en": ""
+   "en": "As long as I'm the one who\ncaptures the Mermaid Princesses..."
   },
   {
    "id": "event_ev003000:119C",
@@ -810,7 +810,7 @@
     100
    ],
    "jp": "ガイトさまにとって{h }ひつようなのは{h }\nわたしだけになるもの",
-   "en": ""
+   "en": "I'll be the only one\nLord Gaito needs."
   },
   {
    "id": "event_ev003000:11D8",
@@ -818,7 +818,7 @@
     101
    ],
    "jp": "なにを　わけのわかんないこと\nいってるかなぁ？",
-   "en": ""
+   "en": "What kind of nonsense\nare you talking?"
   },
   {
    "id": "event_ev003000:1208",
@@ -826,7 +826,7 @@
     102
    ],
    "jp": "見つけたぞ　水妖！\nおまえでさいごだ",
-   "en": ""
+   "en": "Found you, water demon!\nYou're the last one."
   },
   {
    "id": "event_ev003000:122E",
@@ -834,7 +834,7 @@
     103
    ],
    "jp": "どうやら{h }イズールたちは\nたおされたみたいね‥‥",
-   "en": ""
+   "en": "It seems Izuru and the others\nhave been defeated..."
   },
   {
    "id": "event_ev003000:1260",
@@ -842,7 +842,7 @@
     104
    ],
    "jp": "じきに{h }おまえも　おなじ目にあう！",
-   "en": ""
+   "en": "Soon you'll meet the same fate!"
   },
   {
    "id": "event_ev003000:1284",
@@ -850,7 +850,7 @@
     105
    ],
    "jp": "うふふ‥‥むしろ{h }わたしにとっては\nつごうがいいのよ",
-   "en": ""
+   "en": "Hehehe... If anything,\nthat suits me just fine."
   },
   {
    "id": "event_ev003000:12BA",
@@ -858,7 +858,7 @@
     106
    ],
    "jp": "マーメイドプリンセスたちを\nわたしが{h }とらえれさえすれば‥‥",
-   "en": ""
+   "en": "As long as I'm the one who\ncaptures the Mermaid Princesses..."
   },
   {
    "id": "event_ev003000:12F8",
@@ -866,7 +866,7 @@
     107
    ],
    "jp": "ガイトさまにとって{h }ひつようなのは{h }\nわたしだけになるもの",
-   "en": ""
+   "en": "I'll be the only one\nLord Gaito needs."
   },
   {
    "id": "event_ev003000:1334",
@@ -874,7 +874,7 @@
     108
    ],
    "jp": "くだらないな‥‥\nとてもつきあってられない‥‥",
-   "en": ""
+   "en": "How ridiculous...\nI can't be bothered with this..."
   },
   {
    "id": "event_ev003000:1364",
@@ -882,7 +882,7 @@
     109
    ],
    "jp": "まだ水妖が{h }あばれてるみたい\nこんどは{h }アクアプレイスのほう？",
-   "en": ""
+   "en": "Looks like water demons are still at it.\nThis time near Aqua Place?"
   },
   {
    "id": "event_ev003000:13A4",
@@ -890,7 +890,7 @@
     110
    ],
    "jp": "はやく{h }いかなきゃ！",
-   "en": ""
+   "en": "I've gotta hurry!"
   },
   {
    "id": "event_ev003000:13BA",
@@ -898,7 +898,7 @@
     111
    ],
    "jp": "まだ水妖が{h }あばれてるの？\nつぎは{h }そうごうたいいくかんみたい",
-   "en": ""
+   "en": "Water demons are still running wild?\nLooks like the Sports Center is next."
   },
   {
    "id": "event_ev003000:13FA",
@@ -906,7 +906,7 @@
     112
    ],
    "jp": "たいへん〜！",
-   "en": ""
+   "en": "Oh nooo!"
   },
   {
    "id": "event_ev003000:1408",
@@ -914,7 +914,7 @@
     113
    ],
    "jp": "こんどは{h }サーフィンかいじょうの\nほうが{h }さわがしいみたい！",
-   "en": ""
+   "en": "Now there's a commotion over\nby the surfing contest site!"
   },
   {
    "id": "event_ev003000:1446",
@@ -922,7 +922,7 @@
     114
    ],
    "jp": "たぶん{h }つぎがさいごね！",
-   "en": ""
+   "en": "That's probably the last one!"
   },
   {
    "id": "event_ev003000:1460",
@@ -930,7 +930,7 @@
     115
    ],
    "jp": "ふぅ　つかれたぁ‥‥さすがに\nもうこれで{h }おわりかな？",
-   "en": ""
+   "en": "Phew, I'm beat...\nThat's gotta be the end of it, right?"
   },
   {
    "id": "event_ev003000:1498",
@@ -938,7 +938,7 @@
     116
    ],
    "jp": "でも　海斗がいる\nはまべに{h }こられてラッキー！",
-   "en": ""
+   "en": "But lucky me, I got to come to\nthe beach where Kaito is!"
   },
   {
    "id": "event_ev003000:14C8",
@@ -946,7 +946,7 @@
     117
    ],
    "jp": "海斗のこと　たぁーっぷり\nおうえん{h }しなくっちゃね！",
-   "en": ""
+   "en": "I've gotta cheer for Kaito\nsooo much!"
   },
   {
    "id": "event_ev003000:14FE",
@@ -954,7 +954,7 @@
     118
    ],
    "jp": "それ　ちょっと{h }むりかも‥‥",
-   "en": ""
+   "en": "That might be a little hard..."
   },
   {
    "id": "event_ev003000:151C",
@@ -962,7 +962,7 @@
     119
    ],
    "jp": "あれを{h }見るんだ　るちあ！",
-   "en": ""
+   "en": "Look at that, Lucia!"
   },
   {
    "id": "event_ev003000:1538",
@@ -970,7 +970,7 @@
     120
    ],
    "jp": "あーっ！　海斗が２人いるーっ！",
-   "en": ""
+   "en": "Ah! There are two Kaitos!"
   },
   {
    "id": "event_ev003000:1558",
@@ -978,7 +978,7 @@
     121
    ],
    "jp": "‥‥ううん　ちがう",
-   "en": ""
+   "en": "...No, that's not it."
   },
   {
    "id": "event_ev003000:156C",
@@ -986,7 +986,7 @@
     122
    ],
    "jp": "２人とも{h }そっくりだけど\n１人は{h }海斗なんかじゃない‥‥",
-   "en": ""
+   "en": "They look exactly alike,\nbut one of them isn't Kaito..."
   },
   {
    "id": "event_ev003000:15A6",
@@ -994,7 +994,7 @@
     123
    ],
    "jp": "あいつは　わたしや{h }波音のくにを\nほろぼした{h }ちょうほんにん‥‥",
-   "en": ""
+   "en": "He's the one who destroyed\nmy kingdom and Hanon's..."
   },
   {
    "id": "event_ev003000:15E8",
@@ -1002,7 +1002,7 @@
     124
    ],
    "jp": "‥‥ガイトだ！",
-   "en": ""
+   "en": "...Gaito!"
   },
   {
    "id": "event_ev003000:15F8",
@@ -1010,7 +1010,7 @@
     125
    ],
    "jp": "フッフッフッ‥‥",
-   "en": ""
+   "en": "Hehehe..."
   },
   {
    "id": "event_ev003000:160A",
@@ -1018,7 +1018,7 @@
     126
    ],
    "jp": "まだ水妖が{h }あばれてるみたい\nこんどは{h }アクアプレイスのほう？",
-   "en": ""
+   "en": "Looks like water demons are still at it.\nThis time near Aqua Place?"
   },
   {
    "id": "event_ev003000:164A",
@@ -1026,7 +1026,7 @@
     127
    ],
    "jp": "はやく{h }いかなきゃ！",
-   "en": ""
+   "en": "I've gotta hurry!"
   },
   {
    "id": "event_ev003000:1660",
@@ -1034,7 +1034,7 @@
     128
    ],
    "jp": "まだ水妖が{h }あばれてるの？\nつぎは{h }そうごうたいいくかんみたい",
-   "en": ""
+   "en": "Water demons are still running wild?\nLooks like the Sports Center is next."
   },
   {
    "id": "event_ev003000:16A0",
@@ -1042,7 +1042,7 @@
     129
    ],
    "jp": "まってなさい！　水妖！",
-   "en": ""
+   "en": "Just you wait, water demon!"
   },
   {
    "id": "event_ev003000:16B8",
@@ -1050,7 +1050,7 @@
     130
    ],
    "jp": "こんどは{h }サーフィンかいじょうの\nほうが{h }さわがしいみたい！",
-   "en": ""
+   "en": "Now there's a commotion over\nby the surfing contest site!"
   },
   {
    "id": "event_ev003000:16F6",
@@ -1058,7 +1058,7 @@
     131
    ],
    "jp": "たぶん{h }つぎがさいごね！",
-   "en": ""
+   "en": "That's probably the last one!"
   },
   {
    "id": "event_ev003000:1710",
@@ -1066,7 +1066,7 @@
     132
    ],
    "jp": "ふぅ　つかれたぁ‥‥さすがに\nもうこれで{h }おわりかな？",
-   "en": ""
+   "en": "Phew, I'm beat...\nThat's gotta be the end of it, right?"
   },
   {
    "id": "event_ev003000:1748",
@@ -1074,7 +1074,7 @@
     133
    ],
    "jp": "でも　海斗がいる\nはまべに{h }こられてラッキー！",
-   "en": ""
+   "en": "But lucky me, I got to come to\nthe beach where Kaito is!"
   },
   {
    "id": "event_ev003000:1778",
@@ -1082,7 +1082,7 @@
     134
    ],
    "jp": "海斗のこと　たぁーっぷり\nおうえん{h }しなくっちゃね！",
-   "en": ""
+   "en": "I've gotta cheer for Kaito\nsooo much!"
   },
   {
    "id": "event_ev003000:17AE",
@@ -1090,7 +1090,7 @@
     135
    ],
    "jp": "それ　ちょっと{h }むりかも‥‥",
-   "en": ""
+   "en": "That might be a little hard..."
   },
   {
    "id": "event_ev003000:17CC",
@@ -1098,7 +1098,7 @@
     136
    ],
    "jp": "あれを{h }見るんだ　るちあ！",
-   "en": ""
+   "en": "Look at that, Lucia!"
   },
   {
    "id": "event_ev003000:17E8",
@@ -1106,7 +1106,7 @@
     137
    ],
    "jp": "あーっ！　海斗が２人いるーっ！",
-   "en": ""
+   "en": "Ah! There are two Kaitos!"
   },
   {
    "id": "event_ev003000:1808",
@@ -1114,7 +1114,7 @@
     138
    ],
    "jp": "‥‥ううん　ちがう",
-   "en": ""
+   "en": "...No, that's not it."
   },
   {
    "id": "event_ev003000:181C",
@@ -1122,7 +1122,7 @@
     139
    ],
    "jp": "２人とも{h }そっくりだけど\n１人は{h }海斗なんかじゃない‥‥",
-   "en": ""
+   "en": "They look exactly alike,\nbut one of them isn't Kaito..."
   },
   {
    "id": "event_ev003000:1856",
@@ -1130,7 +1130,7 @@
     140
    ],
    "jp": "あいつは　わたしや{h }波音のくにを\nほろぼした{h }ちょうほんにん‥‥",
-   "en": ""
+   "en": "He's the one who destroyed\nmy kingdom and Hanon's..."
   },
   {
    "id": "event_ev003000:1898",
@@ -1138,7 +1138,7 @@
     141
    ],
    "jp": "‥‥ガイトだ！",
-   "en": ""
+   "en": "...Gaito!"
   },
   {
    "id": "event_ev003000:18A8",
@@ -1146,7 +1146,7 @@
     142
    ],
    "jp": "フッフッフッ‥‥",
-   "en": ""
+   "en": "Hehehe..."
   },
   {
    "id": "event_ev003000:18BA",
@@ -1154,7 +1154,7 @@
     143
    ],
    "jp": "まだ水妖が{h }あばれてるようだな\nこんどは{h }アクアプレイスのほうか？",
-   "en": ""
+   "en": "Looks like water demons are still at it.\nNear Aqua Place this time?"
   },
   {
    "id": "event_ev003000:18FE",
@@ -1162,7 +1162,7 @@
     144
    ],
    "jp": "はやく{h }いかなければ！",
-   "en": ""
+   "en": "I have to hurry!"
   },
   {
    "id": "event_ev003000:1916",
@@ -1170,7 +1170,7 @@
     145
    ],
    "jp": "まだ水妖が{h }あばれてるのか？\nつぎは{h }そうごうたいいくかんだな",
-   "en": ""
+   "en": "Water demons still running wild?\nThe Sports Center is next."
   },
   {
    "id": "event_ev003000:1956",
@@ -1178,7 +1178,7 @@
     146
    ],
    "jp": "まっていろ水妖！",
-   "en": ""
+   "en": "Just you wait, water demon!"
   },
   {
    "id": "event_ev003000:1968",
@@ -1186,7 +1186,7 @@
     147
    ],
    "jp": "こんどは{h }サーフィンかいじょうの\nほうが{h }さわがしいようだ",
-   "en": ""
+   "en": "Now there seems to be a commotion\nby the surfing contest site."
   },
   {
    "id": "event_ev003000:19A4",
@@ -1194,7 +1194,7 @@
     148
    ],
    "jp": "きっと{h }つぎがさいごだな！",
-   "en": ""
+   "en": "That must be the last one!"
   },
   {
    "id": "event_ev003000:19C0",
@@ -1202,7 +1202,7 @@
     149
    ],
    "jp": "ふぅ　つかれたぁ‥‥さすがに\nもうこれで{h }おわりかな？",
-   "en": ""
+   "en": "Phew, I'm beat...\nThat's gotta be the end of it, right?"
   },
   {
    "id": "event_ev003000:19F8",
@@ -1210,7 +1210,7 @@
     150
    ],
    "jp": "でも　海斗がいる\nはまべに{h }こられてラッキー！",
-   "en": ""
+   "en": "But lucky me, I got to come to\nthe beach where Kaito is!"
   },
   {
    "id": "event_ev003000:1A28",
@@ -1218,7 +1218,7 @@
     151
    ],
    "jp": "海斗のこと　たぁーっぷり\nおうえん{h }しなくっちゃね！",
-   "en": ""
+   "en": "I've gotta cheer for Kaito\nsooo much!"
   },
   {
    "id": "event_ev003000:1A5E",
@@ -1226,7 +1226,7 @@
     152
    ],
    "jp": "それ　ちょっと{h }むりかも‥‥",
-   "en": ""
+   "en": "That might be a little hard..."
   },
   {
    "id": "event_ev003000:1A7C",
@@ -1234,7 +1234,7 @@
     153
    ],
    "jp": "あれを{h }見るんだ　るちあ！",
-   "en": ""
+   "en": "Look at that, Lucia!"
   },
   {
    "id": "event_ev003000:1A98",
@@ -1242,7 +1242,7 @@
     154
    ],
    "jp": "あーっ！　海斗が２人いるーっ！",
-   "en": ""
+   "en": "Ah! There are two Kaitos!"
   },
   {
    "id": "event_ev003000:1AB8",
@@ -1250,7 +1250,7 @@
     155
    ],
    "jp": "‥‥ううん　ちがう",
-   "en": ""
+   "en": "...No, that's not it."
   },
   {
    "id": "event_ev003000:1ACC",
@@ -1258,7 +1258,7 @@
     156
    ],
    "jp": "２人とも{h }そっくりだけど\n１人は{h }海斗なんかじゃない‥‥",
-   "en": ""
+   "en": "They look exactly alike,\nbut one of them isn't Kaito..."
   },
   {
    "id": "event_ev003000:1B06",
@@ -1266,7 +1266,7 @@
     157
    ],
    "jp": "あいつは　わたしや{h }波音のくにを\nほろぼした{h }ちょうほんにん‥‥",
-   "en": ""
+   "en": "He's the one who destroyed\nmy kingdom and Hanon's..."
   },
   {
    "id": "event_ev003000:1B48",
@@ -1274,7 +1274,7 @@
     158
    ],
    "jp": "‥‥ガイトだ！",
-   "en": ""
+   "en": "...Gaito!"
   },
   {
    "id": "event_ev003000:1B58",
@@ -1282,7 +1282,7 @@
     159
    ],
    "jp": "フッフッフッ‥‥",
-   "en": ""
+   "en": "Hehehe..."
   },
   {
    "id": "event_ev003000:1B6A",
@@ -1290,7 +1290,7 @@
     160
    ],
    "jp": "{h }　　　　エピソード　３１　　　\n　　『ガイトふっかつ』{h }おわり　　",
-   "en": ""
+   "en": "Episode 31\n\"Gaito Returns\" - The End"
   },
   {
    "id": "event_ev003000:1BB0",
@@ -1298,7 +1298,7 @@
     161
    ],
    "jp": "　　　　　　　　　　　　　　　\n　{h }『さいごのしとう』へ{h }つづく　",
-   "en": ""
+   "en": "To be continued in\n\"The Final Battle\""
   }
  ]
 }

@@ -11,7 +11,7 @@
     147
    ],
    "jp": "もうすぐ{h }ガイトさまが\n目ざめてしまいますわ",
-   "en": ""
+   "en": "Lord Gaito will soon\nawaken..."
   },
   {
    "id": "event_ev002200:002E",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "まだ１人もマーメイドプリンセスを\nとらえていないというのに‥‥",
-   "en": ""
+   "en": "And we still haven't captured\na single Mermaid Princess..."
   },
   {
    "id": "event_ev002200:006E",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "こんかいは{h }\nエリルにまかせなさぁ〜い",
-   "en": ""
+   "en": "Leave it to Eriru\nthis tiiime!"
   },
   {
    "id": "event_ev002200:0096",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "くるくる〜っと\nつかまえてくるわ〜",
-   "en": ""
+   "en": "I'll go round and round\nand catch theeem!"
   },
   {
    "id": "event_ev002200:00BA",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "なんだ　ごきげんだな",
-   "en": ""
+   "en": "What's this? You're in a good mood."
   },
   {
    "id": "event_ev002200:00DC",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "きょうの{h }べんきょうかい\nそんなに{h }たのしみなのか？",
-   "en": ""
+   "en": "Are you that excited about\ntoday's study group?"
   },
   {
    "id": "event_ev002200:0112",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "だって　海斗のいえでする\nおべんきょうかいだもん",
-   "en": ""
+   "en": "Well, it's a study group\nat Kaito's house!"
   },
   {
    "id": "event_ev002200:0144",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "なんだか{h }それだけで\nたのしみで‥‥",
-   "en": ""
+   "en": "Just that alone makes me\nso excited..."
   },
   {
    "id": "event_ev002200:016A",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "わたしも{h }リナも{h }いっしょに\nいるってこと{h }わすれないでよねー",
-   "en": ""
+   "en": "Don't forget that Rina and I\nwill be there too!"
   },
   {
    "id": "event_ev002200:01AA",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "それより　るちあ‥‥\n海斗くんは{h }１人ぐらしなんだよ",
-   "en": ""
+   "en": "More importantly, Lucia...\nKaito lives all by himself."
   },
   {
    "id": "event_ev002200:01E0",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "ついでに{h }ばんごはんでも\nつくって{h }あげたら？",
-   "en": ""
+   "en": "Why not make him\ndinner while you're there?"
   },
   {
    "id": "event_ev002200:0210",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "カレーライスでも{h }つくってやれよ\n海斗のヤツ　きっと{h }よろこぶぞ",
-   "en": ""
+   "en": "Make him curry rice or something.\nI bet Kaito would love it."
   },
   {
    "id": "event_ev002200:0252",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "じゃあ　海斗のいえに{h }いくまえに\nざいりょうを{h }かいに{h }いこう！",
-   "en": ""
+   "en": "Then before we go to Kaito's,\nlet's go buy the ingredients!"
   },
   {
    "id": "event_ev002200:0294",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "カレーライスには\nやっぱり{h }おにくが{h }ひつようだよね",
-   "en": ""
+   "en": "Curry rice definitely\nneeds meat!"
   },
   {
    "id": "event_ev002200:02CA",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "おにくやさんへ{h }いかなくっちゃ",
-   "en": ""
+   "en": "I've got to go to the butcher."
   },
   {
    "id": "event_ev002200:02EA",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "おにくを{h }かわなくっちゃ",
-   "en": ""
+   "en": "I've got to buy meat."
   },
   {
    "id": "event_ev002200:0304",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "おにくやさんへ　いそがないとね",
-   "en": ""
+   "en": "I'd better hurry to the butcher."
   },
   {
    "id": "event_ev002200:0324",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "カレーライスの{h }つけあわせには\nサラダが{h }いるよね",
-   "en": ""
+   "en": "For a side dish with curry rice,\nwe need a salad."
   },
   {
    "id": "event_ev002200:0358",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "やおやさんへ{h }いかなくっちゃね",
-   "en": ""
+   "en": "I've got to go to the vegetable shop."
   },
   {
    "id": "event_ev002200:0378",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "やさいを{h }かっておかなくっちゃ",
-   "en": ""
+   "en": "I've got to buy some vegetables."
   },
   {
    "id": "event_ev002200:0398",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "やおやさんへ　いそがなくっちゃ",
-   "en": ""
+   "en": "I'd better hurry to the vegetable shop."
   },
   {
    "id": "event_ev002200:03B8",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "海斗は{h }１人ぐらしだ\nねんのため　おこめも{h }かっておこう",
-   "en": ""
+   "en": "Kaito lives alone.\nI'll buy rice too, just in case."
   },
   {
    "id": "event_ev002200:03F2",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "おこめやさんに\nいかなくっちゃな",
-   "en": ""
+   "en": "I'd better go\nto the rice shop."
   },
   {
    "id": "event_ev002200:0414",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "おこめを{h }かっておくか",
-   "en": ""
+   "en": "I'll buy some rice."
   },
   {
    "id": "event_ev002200:042C",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "早く{h }おこめやさんへ{h }いかないとな",
-   "en": ""
+   "en": "I should hurry to the rice shop."
   },
   {
    "id": "event_ev002200:0450",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "すみませーん\nぎゅうにくを{h }くださーい",
-   "en": ""
+   "en": "Excuse me!\nSome beef, please!"
   },
   {
    "id": "event_ev002200:0478",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "‥‥よーし　海斗のいえで\nおべんきょうかい　がんばるぞーっ！",
-   "en": ""
+   "en": "...All right! I'll do my best\nat the study group at Kaito's!"
   },
   {
    "id": "event_ev002200:04B6",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "すみませーん\nえーっと　キャベツと{h }レタスを‥‥",
-   "en": ""
+   "en": "Excuse me!\nUm, cabbage and lettuce..."
   },
   {
    "id": "event_ev002200:04E8",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "‥‥かいものは{h }こんなものかな",
-   "en": ""
+   "en": "...I guess that's all the shopping."
   },
   {
    "id": "event_ev002200:0508",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "そろそろ{h }海斗くんのいえに\nいかなくっちゃ",
-   "en": ""
+   "en": "I'd better head\nto Kaito's house."
   },
   {
    "id": "event_ev002200:0534",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "すみません\nおこめを{h }１キロください‥‥",
-   "en": ""
+   "en": "Excuse me.\nOne kilo of rice, please..."
   },
   {
    "id": "event_ev002200:055E",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "‥‥さてと\nそろそろ{h }海斗のいえに{h }いくか",
-   "en": ""
+   "en": "...Well then,\nI guess I'll head to Kaito's."
   },
   {
    "id": "event_ev002200:058A",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "海斗のいえに\nいそがなくっちゃ",
-   "en": ""
+   "en": "I've got to hurry\nto Kaito's house."
   },
   {
    "id": "event_ev002200:05AA",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "そろそろ{h }海斗のいえに\nいそがないとね",
-   "en": ""
+   "en": "I'd better hurry\nto Kaito's house."
   },
   {
    "id": "event_ev002200:05D2",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "おべんきょうかいの{h }あとは\nカレーライスを{h }つくって‥‥",
-   "en": ""
+   "en": "After the study group,\nI'll make curry rice..."
   },
   {
    "id": "event_ev002200:060C",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "早く{h }海斗のいえに{h }いかないと\nおべんきょうかいが{h }はじまっちゃう",
-   "en": ""
+   "en": "If I don't hurry to Kaito's,\nthe study group will start!"
   },
   {
    "id": "event_ev002200:0650",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "海斗くんのいえに\nいそがなくっちゃ",
-   "en": ""
+   "en": "I've got to hurry\nto Kaito's house."
   },
   {
    "id": "event_ev002200:0674",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "そろそろ{h }海斗くんのいえへ\nいかないとね",
-   "en": ""
+   "en": "I'd better head\nto Kaito's house."
   },
   {
    "id": "event_ev002200:069E",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "おべんょうかいのあとは\nばんごはん{h }つくりかぁ",
-   "en": ""
+   "en": "After the study group,\nit's making dinner, huh."
   },
   {
    "id": "event_ev002200:06CE",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "いそがないと\nおべんきょうかいに{h }おくれちゃう！",
-   "en": ""
+   "en": "If I don't hurry,\nI'll be late for the study group!"
   },
   {
    "id": "event_ev002200:0700",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "さてと　海斗のいえに{h }いくか‥‥",
-   "en": ""
+   "en": "Well, I'll head to Kaito's..."
   },
   {
    "id": "event_ev002200:0722",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "そろそろ海斗のいえに\nいそがないとな",
-   "en": ""
+   "en": "I'd better hurry\nto Kaito's house."
   },
   {
    "id": "event_ev002200:0748",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "べんきょうかいの{h }あとは‥‥\nばんごはん{h }づくりが{h }あるんだっけ",
-   "en": ""
+   "en": "After the study group...\nwe're making dinner, right?"
   },
   {
    "id": "event_ev002200:078A",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "いそがないと{h }べんきょうかいに\nおくれてしまうぞ",
-   "en": ""
+   "en": "If I don't hurry, I'll be late\nfor the study group."
   },
   {
    "id": "event_ev002200:07BC",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "おべんきょうかいの{h }じかんに\nちゃんと　まにあってる",
-   "en": ""
+   "en": "I'm right on time\nfor the study group."
   },
   {
    "id": "event_ev002200:07FE",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "あれ‥‥？{h }なにか\nむこうがさわがしいような‥‥",
-   "en": ""
+   "en": "Huh...? It sounds like\nsomething's going on over there..."
   },
   {
    "id": "event_ev002200:0830",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "出てらっしゃ〜い\nマーメイドプリンセス〜",
-   "en": ""
+   "en": "Come out, come ouuut,\nMermaid Princess!"
   },
   {
    "id": "event_ev002200:085A",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "あれって{h }もしかして水妖？",
-   "en": ""
+   "en": "Is that a water demon?"
   },
   {
    "id": "event_ev002200:0876",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "こまったなあ\nいそいでるんだけど‥‥",
-   "en": ""
+   "en": "Oh no...\nI'm in a hurry..."
   },
   {
    "id": "event_ev002200:089C",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "しょうがない‥‥",
-   "en": ""
+   "en": "Oh well..."
   },
   {
    "id": "event_ev002200:08AE",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "うふふふふ　マーメイドプリンセス\nみぃつけたぁ！",
-   "en": ""
+   "en": "Hehehehe, I fooound\nthe Mermaid Princess!"
   },
   {
    "id": "event_ev002200:08E0",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "きょうは{h }なんとしても\nつかまって{h }もらうわよぉ〜",
-   "en": ""
+   "en": "Today I'm catching you\nno matter whaaat!"
   },
   {
    "id": "event_ev002200:0914",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "それでもって{h }目をさました\nガイトさまに‥‥",
-   "en": ""
+   "en": "And then, when Lord Gaito\nwakes up..."
   },
   {
    "id": "event_ev002200:0942",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "たーっぷり\nほめられちゃうんだからぁ",
-   "en": ""
+   "en": "he'll praise me\nsuuuper much!"
   },
   {
    "id": "event_ev002200:0968",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "えーーっ　きょうは{h }いいよぉ\nこれから{h }よていがあるし‥‥",
-   "en": ""
+   "en": "Whaaat? Not today, thanks.\nI've got plans..."
   },
   {
    "id": "event_ev002200:09A4",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "そんなこと{h }いわないでぇ〜\nおねがいっ！　あいてしてぇ〜！！",
-   "en": ""
+   "en": "Don't say thaaat!\nPleeease! Play with meee!!"
   },
   {
    "id": "event_ev002200:09E2",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "‥‥しかたないなぁ",
-   "en": ""
+   "en": "...Oh, all right."
   },
   {
    "id": "event_ev002200:09F6",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "ふぅ　まにあったぁ！",
-   "en": ""
+   "en": "Phew, I made it!"
   },
   {
    "id": "event_ev002200:0A0C",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "さぁて　\nおべんきょうしなくっちゃね！",
-   "en": ""
+   "en": "Okay,\ntime to study!"
   },
   {
    "id": "event_ev002200:0A34",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "あれ‥‥？{h }なにか\nむこうがさわがしいような‥‥",
-   "en": ""
+   "en": "Huh...? It sounds like\nsomething's going on over there..."
   },
   {
    "id": "event_ev002200:0A66",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "出てらっしゃ〜い\nマーメイドプリンセス〜",
-   "en": ""
+   "en": "Come out, come ouuut,\nMermaid Princess!"
   },
   {
    "id": "event_ev002200:0A90",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "あれって{h }もしかして水妖？",
-   "en": ""
+   "en": "Is that a water demon?"
   },
   {
    "id": "event_ev002200:0AAC",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "こまったなあ\nいそいでるんだけど‥‥",
-   "en": ""
+   "en": "Oh no...\nI'm in a hurry..."
   },
   {
    "id": "event_ev002200:0AD2",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "しょうがない‥‥",
-   "en": ""
+   "en": "Oh well..."
   },
   {
    "id": "event_ev002200:0AE4",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "うふふふふ　マーメイドプリンセス\nみぃつけたぁ！",
-   "en": ""
+   "en": "Hehehehe, I fooound\nthe Mermaid Princess!"
   },
   {
    "id": "event_ev002200:0B16",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "きょうは{h }なんとしても\nつかまって{h }もらうわよぉ〜",
-   "en": ""
+   "en": "Today I'm catching you\nno matter whaaat!"
   },
   {
    "id": "event_ev002200:0B4A",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "それでもって{h }目をさました\nガイトさまに‥‥",
-   "en": ""
+   "en": "And then, when Lord Gaito\nwakes up..."
   },
   {
    "id": "event_ev002200:0B78",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "たーっぷり\nほめられちゃうんだからぁ",
-   "en": ""
+   "en": "he'll praise me\nsuuuper much!"
   },
   {
    "id": "event_ev002200:0B9E",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "あ　ゴメン\nきょうは{h }パスってことで",
-   "en": ""
+   "en": "Oh, sorry.\nI'll pass today."
   },
   {
    "id": "event_ev002200:0BC4",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "はぁ〜い　わっかりましたぁ\n出なおしま〜す",
-   "en": ""
+   "en": "Okaaay, understood!\nI'll come back laaater!"
   },
   {
    "id": "event_ev002200:0BF0",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "‥‥ってダメよ〜",
-   "en": ""
+   "en": "...As iiif!"
   },
   {
    "id": "event_ev002200:0C02",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "そんなこと{h }いわないでぇ〜\nおねがいっ！　あいてしてぇ〜！！",
-   "en": ""
+   "en": "Don't say thaaat!\nPleeease! Play with meee!!"
   },
   {
    "id": "event_ev002200:0C40",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "ンもぉ　ちょっとだけよぉ",
-   "en": ""
+   "en": "Ugh, fine, just for a little bit."
   },
   {
    "id": "event_ev002200:0C5A",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "ついた‥‥さてと　まずは\nまじめに{h }べんきょうかいだな‥‥",
-   "en": ""
+   "en": "I'm here... All right, first,\na serious study session..."
   },
   {
    "id": "event_ev002200:0C96",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "おや‥‥？{h }なにか\nむこうがさわがしいようだが‥‥",
-   "en": ""
+   "en": "Hm...? It sounds like\nsomething's going on over there..."
   },
   {
    "id": "event_ev002200:0CCA",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "出てらっしゃ〜い\nマーメイドプリンセス〜",
-   "en": ""
+   "en": "Come out, come ouuut,\nMermaid Princess!"
   },
   {
    "id": "event_ev002200:0CF4",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "あれは{h }もしかして水妖だろうか？",
-   "en": ""
+   "en": "Could that be a water demon?"
   },
   {
    "id": "event_ev002200:0D16",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "こまったな\nいそいでるんだが‥‥",
-   "en": ""
+   "en": "This is a problem.\nI'm in a hurry..."
   },
   {
    "id": "event_ev002200:0D38",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "しかたがない‥‥",
-   "en": ""
+   "en": "It can't be helped..."
   },
   {
    "id": "event_ev002200:0D4A",
@@ -659,7 +659,7 @@
     81
    ],
    "jp": "うふふふふ　マーメイドプリンセス\nみぃつけたぁ！",
-   "en": ""
+   "en": "Hehehehe, I fooound\nthe Mermaid Princess!"
   },
   {
    "id": "event_ev002200:0D7C",
@@ -667,7 +667,7 @@
     82
    ],
    "jp": "きょうは{h }なんとしても\nつかまって{h }もらうわよぉ〜",
-   "en": ""
+   "en": "Today I'm catching you\nno matter whaaat!"
   },
   {
    "id": "event_ev002200:0DB0",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "それでもって{h }目をさました\nガイトさまに‥‥",
-   "en": ""
+   "en": "And then, when Lord Gaito\nwakes up..."
   },
   {
    "id": "event_ev002200:0DDE",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "たーっぷり\nほめられちゃうんだからぁ",
-   "en": ""
+   "en": "he'll praise me\nsuuuper much!"
   },
   {
    "id": "event_ev002200:0E04",
@@ -691,7 +691,7 @@
     85
    ],
    "jp": "なんだとっ！　だれが{h }おまえたちの\nおもいどおりに{h }なるものかっ！",
-   "en": ""
+   "en": "What?! As if I'd ever\ndo what you want!"
   },
   {
    "id": "event_ev002200:0E48",
@@ -699,7 +699,7 @@
     86
    ],
    "jp": "（トントントントントン‥‥）",
-   "en": ""
+   "en": "(Chop chop chop chop chop...)"
   },
   {
    "id": "event_ev002200:0E66",
@@ -707,7 +707,7 @@
     87
    ],
    "jp": "おべんきょうかいは\nまだまだ{h }つづいてるけど",
-   "en": ""
+   "en": "The study group is\nstill going on, but"
   },
   {
    "id": "event_ev002200:0E94",
@@ -715,7 +715,7 @@
     88
    ],
    "jp": "おりょうりしてるほうが\nたのしいもんね！",
-   "en": ""
+   "en": "cooking is way\nmore fun!"
   },
   {
    "id": "event_ev002200:0EBE",
@@ -723,7 +723,7 @@
     89
    ],
    "jp": "（トントントントントン‥‥）",
-   "en": ""
+   "en": "(Chop chop chop chop chop...)"
   },
   {
    "id": "event_ev002200:0EDC",
@@ -731,7 +731,7 @@
     90
    ],
    "jp": "いたいっ！　‥‥ゆび{h }きっちゃった",
-   "en": ""
+   "en": "Ow! ...I cut my finger."
   },
   {
    "id": "event_ev002200:0F00",
@@ -739,7 +739,7 @@
     91
    ],
    "jp": "どうした？　だいじょうぶか？",
-   "en": ""
+   "en": "What's wrong? Are you okay?"
   },
   {
    "id": "event_ev002200:0F1E",
@@ -747,7 +747,7 @@
     92
    ],
    "jp": "海斗‥‥どうして！？",
-   "en": ""
+   "en": "Kaito... What are you doing here?!"
   },
   {
    "id": "event_ev002200:0F34",
@@ -755,7 +755,7 @@
     93
    ],
    "jp": "ちょっとようすを{h }見にきたんだよ\n‥‥あっ　ちが{h }出てるじゃないか！",
-   "en": ""
+   "en": "I came to check on you.\n...Hey, you're bleeding!"
   },
   {
    "id": "event_ev002200:0F7A",
@@ -763,7 +763,7 @@
     94
    ],
    "jp": "だいじょうぶだよ\nへーき{h }へーき",
-   "en": ""
+   "en": "I'm fine.\nIt's okay, it's okay."
   },
   {
    "id": "event_ev002200:0F9C",
@@ -771,7 +771,7 @@
     95
    ],
    "jp": "いいから{h }見せてみろよ",
-   "en": ""
+   "en": "Just let me see it."
   },
   {
    "id": "event_ev002200:0FB4",
@@ -779,7 +779,7 @@
     96
    ],
    "jp": "あっ‥‥",
-   "en": ""
+   "en": "Oh..."
   },
   {
    "id": "event_ev002200:0FBE",
@@ -787,7 +787,7 @@
     97
    ],
    "jp": "‥‥‥‥‥‥\n‥‥よし　これで{h }だいじょうぶだ",
-   "en": ""
+   "en": "............\n...There. That should do it."
   },
   {
    "id": "event_ev002200:0FEE",
@@ -795,7 +795,7 @@
     98
    ],
    "jp": "あ‥‥ありがとう",
-   "en": ""
+   "en": "Th-Thank you..."
   },
   {
    "id": "event_ev002200:1000",
@@ -803,7 +803,7 @@
     99
    ],
    "jp": "おまえの{h }つくるカレーライス\nたのしみに{h }してるぜ",
-   "en": ""
+   "en": "I'm looking forward to\nyour curry rice."
   },
   {
    "id": "event_ev002200:1034",
@@ -811,7 +811,7 @@
     100
    ],
    "jp": "うん！わたし\nがんばっちゃうからね！",
-   "en": ""
+   "en": "Yeah! I'm\ngonna do my best!"
   },
   {
    "id": "event_ev002200:105A",
@@ -819,7 +819,7 @@
     101
    ],
    "jp": "るちあ　ちゃんと\nおりょうりしてるかなぁ？",
-   "en": ""
+   "en": "I wonder if Lucia's\ncooking properly."
   },
   {
    "id": "event_ev002200:1086",
@@ -827,7 +827,7 @@
     102
    ],
    "jp": "おしおと{h }おさとうを\nまちがえてたりして",
-   "en": ""
+   "en": "Maybe she mixed up\nthe salt and the sugar."
   },
   {
    "id": "event_ev002200:10B0",
@@ -835,7 +835,7 @@
     103
    ],
    "jp": "いや　それは{h }ないだろう‥‥",
-   "en": ""
+   "en": "No, she wouldn't do that..."
   },
   {
    "id": "event_ev002200:10CE",
@@ -843,7 +843,7 @@
     104
    ],
    "jp": "いくらなんでもなぁ‥‥",
-   "en": ""
+   "en": "Even she wouldn't..."
   },
   {
    "id": "event_ev002200:10E6",
@@ -851,7 +851,7 @@
     105
    ],
    "jp": "‥‥でも　ちょっと{h }ようすを\n見にいくか？",
-   "en": ""
+   "en": "...But should we go\ncheck on her?"
   },
   {
    "id": "event_ev002200:1112",
@@ -867,7 +867,7 @@
     107
    ],
    "jp": "なんだかんだ{h }いっても",
-   "en": ""
+   "en": "Whatever you two say,"
   },
   {
    "id": "event_ev002200:113E",
@@ -875,7 +875,7 @@
     108
    ],
    "jp": "やっぱり{h }２人とも\nしんぱいなのねー",
-   "en": ""
+   "en": "you're both worried\nabout her after all."
   },
   {
    "id": "event_ev002200:1164",
@@ -883,7 +883,7 @@
     109
    ],
    "jp": "波音は　いっしょに{h }\nこないのか？",
-   "en": ""
+   "en": "Hanon, aren't you\ncoming with us?"
   },
   {
    "id": "event_ev002200:1188",
@@ -891,7 +891,7 @@
     110
    ],
    "jp": "わたしはいいよ",
-   "en": ""
+   "en": "I'm fine here."
   },
   {
    "id": "event_ev002200:1198",
@@ -899,7 +899,7 @@
     111
    ],
    "jp": "もうちょっと{h }\nべんきょうしたいから",
-   "en": ""
+   "en": "I want to study\na little more."
   },
   {
    "id": "event_ev002200:11BE",
@@ -907,7 +907,7 @@
     112
    ],
    "jp": "へー　宝生って\nいがいと{h }まじめなんだなぁ",
-   "en": ""
+   "en": "Huh, Hosho, you're surprisingly\nserious about this."
   },
   {
    "id": "event_ev002200:11EA",
@@ -915,7 +915,7 @@
     113
    ],
    "jp": "まあね☆　エヘヘヘヘ‥‥",
-   "en": ""
+   "en": "Well, yeah ☆ Ehehehe..."
   },
   {
    "id": "event_ev002200:1204",
@@ -923,7 +923,7 @@
     114
    ],
    "jp": "（なぁーんてね‥‥）",
-   "en": ""
+   "en": "(Just kidding...)"
   },
   {
    "id": "event_ev002200:121A",
@@ -931,7 +931,7 @@
     115
    ],
    "jp": "（ほんとうは{h }太郎ちゃんに",
-   "en": ""
+   "en": "(The truth is, I'm only"
   },
   {
    "id": "event_ev002200:1236",
@@ -939,7 +939,7 @@
     116
    ],
    "jp": "ほめてほしくて\nがんばってるんだもん）",
-   "en": ""
+   "en": "working hard because I\nwant Taro to praise me.)"
   },
   {
    "id": "event_ev002200:125E",
@@ -947,7 +947,7 @@
     117
    ],
    "jp": "（波音さん‥‥）",
-   "en": ""
+   "en": "(Hanon...)"
   },
   {
    "id": "event_ev002200:1270",
@@ -955,7 +955,7 @@
     118
    ],
    "jp": "（こんかいのテスト{h }\nよくがんばったね）",
-   "en": ""
+   "en": "(You did really well\non this test.)"
   },
   {
    "id": "event_ev002200:129A",
@@ -963,7 +963,7 @@
     119
    ],
    "jp": "（ごほうびに",
-   "en": ""
+   "en": "(As a reward,"
   },
   {
    "id": "event_ev002200:12A8",
@@ -971,7 +971,7 @@
     120
    ],
    "jp": "（ぼくからの{h }キスを\nプレゼントしよう‥‥）",
-   "en": ""
+   "en": "(I'll give you\na kiss...)"
   },
   {
    "id": "event_ev002200:12D6",
@@ -979,7 +979,7 @@
     121
    ],
    "jp": "なぁーーんて{h }ことがっ！",
-   "en": ""
+   "en": "If only something like thaaat!"
   },
   {
    "id": "event_ev002200:12F0",
@@ -987,7 +987,7 @@
     122
    ],
    "jp": "‥‥あるといいなぁ{i21C}",
-   "en": ""
+   "en": "...would happen{i21C}"
   },
   {
    "id": "event_ev002200:1306",
@@ -995,7 +995,7 @@
     123
    ],
    "jp": "よーし　べんきょう{h }がんばろっと！",
-   "en": ""
+   "en": "All right, I'll study hard!"
   },
   {
    "id": "event_ev002200:132A",
@@ -1003,7 +1003,7 @@
     124
    ],
    "jp": "‥‥いいにおいだ",
-   "en": ""
+   "en": "...That smells good."
   },
   {
    "id": "event_ev002200:133C",
@@ -1011,7 +1011,7 @@
     125
    ],
    "jp": "るちあのカレーライス\nたのしみだな",
-   "en": ""
+   "en": "I'm looking forward to\nLucia's curry rice."
   },
   {
    "id": "event_ev002200:1360",
@@ -1019,7 +1019,7 @@
     126
    ],
    "jp": "でも‥‥ちゃんと\nおりょうりしてるかなぁ？",
-   "en": ""
+   "en": "But... I wonder if she's\ncooking properly?"
   },
   {
    "id": "event_ev002200:138C",
@@ -1027,7 +1027,7 @@
     127
    ],
    "jp": "おしおと{h }おさとう\nまちがえてたりして",
-   "en": ""
+   "en": "Maybe she mixed up\nthe salt and the sugar."
   },
   {
    "id": "event_ev002200:13B4",
@@ -1035,7 +1035,7 @@
     128
    ],
    "jp": "わたし‥‥\nちょっとようすを{h }見てくるね",
-   "en": ""
+   "en": "I'll...\ngo check on her."
   },
   {
    "id": "event_ev002200:13DE",
@@ -1043,7 +1043,7 @@
     129
    ],
    "jp": "宝生は{h }\nしんぱいしょうだなぁ‥‥",
-   "en": ""
+   "en": "Hosho sure\nworries a lot..."
   },
   {
    "id": "event_ev002200:1402",
@@ -1051,7 +1051,7 @@
     130
    ],
    "jp": "まったくだ‥‥",
-   "en": ""
+   "en": "She sure does..."
   },
   {
    "id": "event_ev002200:1412",
@@ -1059,7 +1059,7 @@
     131
    ],
    "jp": "さてと　べんきょう\nべんきょうっと‥‥",
-   "en": ""
+   "en": "Okay, back to studying,\nstudying..."
   },
   {
    "id": "event_ev002200:143A",
@@ -1083,7 +1083,7 @@
     134
    ],
    "jp": "‥‥なぁ{h }洞院",
-   "en": ""
+   "en": "...Hey, Toin."
   },
   {
    "id": "event_ev002200:1466",
@@ -1091,7 +1091,7 @@
     135
    ],
    "jp": "オレのこと{h }きらいか？",
-   "en": ""
+   "en": "Do you hate me?"
   },
   {
    "id": "event_ev002200:147E",
@@ -1099,7 +1099,7 @@
     136
    ],
    "jp": "なっ　なんだ　\nいきなりっ！？",
-   "en": ""
+   "en": "Wh-What's that,\nall of a sudden?!"
   },
   {
    "id": "event_ev002200:149E",
@@ -1107,7 +1107,7 @@
     137
    ],
    "jp": "おまえいつも{h }きげんがわるそうな\nかおで{h }だまってるからさぁ",
-   "en": ""
+   "en": "You always look grumpy\nand never say anything."
   },
   {
    "id": "event_ev002200:14DC",
@@ -1115,7 +1115,7 @@
     138
    ],
    "jp": "これは{h }生まれつきだっ！\nほっといてくれっ！",
-   "en": ""
+   "en": "I was born like this!\nLeave me alone!"
   },
   {
    "id": "event_ev002200:150A",
@@ -1123,7 +1123,7 @@
     139
    ],
    "jp": "ごめんごめん　\nオレが{h }わるかったよ",
-   "en": ""
+   "en": "Sorry, sorry.\nMy bad."
   },
   {
    "id": "event_ev002200:1530",
@@ -1131,7 +1131,7 @@
     140
    ],
    "jp": "でも　洞院‥‥おまえ",
-   "en": ""
+   "en": "But Toin... you know,"
   },
   {
    "id": "event_ev002200:1546",
@@ -1139,7 +1139,7 @@
     141
    ],
    "jp": "わらってる{h }\nかおのほうが{h }にあうぜ！",
-   "en": ""
+   "en": "a smiling face\nsuits you better!"
   },
   {
    "id": "event_ev002200:156E",
@@ -1155,7 +1155,7 @@
     143
    ],
    "jp": "‥‥なるべくそうする",
-   "en": ""
+   "en": "...I'll try my best."
   },
   {
    "id": "event_ev002200:1592",
@@ -1163,7 +1163,7 @@
     144
    ],
    "jp": "{h }　　　　エピソード　２３　　　　\n　『こいのじゃまもの』　おわり　",
-   "en": ""
+   "en": "Episode 23\n\"Love's Obstacle\" - The End"
   }
  ]
 }

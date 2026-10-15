@@ -8,7 +8,7 @@
     0
    ],
    "jp": "ねぇねぇ　しってる？",
-   "en": ""
+   "en": "Hey, hey, did you know?"
   },
   {
    "id": "event_ev002500:0016",
@@ -16,7 +16,7 @@
     1
    ],
    "jp": "すいぞくかんから\nにげ出してた{h }ペンギン‥‥",
-   "en": ""
+   "en": "The penguin that ran away\nfrom the aquarium..."
   },
   {
    "id": "event_ev002500:0044",
@@ -24,7 +24,7 @@
     2
    ],
    "jp": "けさ{h }町で\nつかまったんだってね",
-   "en": ""
+   "en": "got caught in town\nthis morning!"
   },
   {
    "id": "event_ev002500:0066",
@@ -32,7 +32,7 @@
     3
    ],
    "jp": "ああ　しってる\nパールピアリの{h }ちかくでだろ？",
-   "en": ""
+   "en": "Yeah, I heard.\nNear Pearl Piari, right?"
   },
   {
    "id": "event_ev002500:0096",
@@ -40,7 +40,7 @@
     4
    ],
    "jp": "たしか　ふくを{h }きていた\nペンギンだったとか‥‥",
-   "en": ""
+   "en": "I think it was a penguin\nwearing clothes..."
   },
   {
    "id": "event_ev002500:00C8",
@@ -48,7 +48,7 @@
     5
    ],
    "jp": "え〜！　けさから{h }ヒッポのすがたを\n見てないんだけど　もしかして‥‥？",
-   "en": ""
+   "en": "Whaaat! I haven't seen Hippo\nsince this morning. Could it be...?"
   },
   {
    "id": "event_ev002500:0110",
@@ -56,7 +56,7 @@
     6
    ],
    "jp": "すいぞくかんの人に\nつかまったのって　‥‥ヒッポ？",
-   "en": ""
+   "en": "The one the aquarium people\ncaught was... Hippo?"
   },
   {
    "id": "event_ev002500:0144",
@@ -64,7 +64,7 @@
     7
    ],
    "jp": "‥‥それは　ありえるな",
-   "en": ""
+   "en": "...That's possible."
   },
   {
    "id": "event_ev002500:015C",
@@ -72,7 +72,7 @@
     8
    ],
    "jp": "きっと　にげたペンギンと\nまちがえられて{h }しまったんだろう",
-   "en": ""
+   "en": "They must have mistaken him\nfor the runaway penguin."
   },
   {
    "id": "event_ev002500:0198",
@@ -80,7 +80,7 @@
     9
    ],
    "jp": "うわぁ〜ん　ヒッポ〜！！",
-   "en": ""
+   "en": "Waaah, Hippooo!!"
   },
   {
    "id": "event_ev002500:01B2",
@@ -88,7 +88,7 @@
     10
    ],
    "jp": "すぐに{h }つれもどして\nあげるからね〜！！",
-   "en": ""
+   "en": "I'll bring you back\nright away!!"
   },
   {
    "id": "event_ev002500:01DC",
@@ -96,7 +96,7 @@
     11
    ],
    "jp": "まずは　にげ出したペンギンを\n見つけなきゃな‥‥",
-   "en": ""
+   "en": "First, we have to find\nthe penguin that ran away..."
   },
   {
    "id": "event_ev002500:020E",
@@ -104,7 +104,7 @@
     12
    ],
    "jp": "まず　にげたペンギンを\n見つけなきゃ！",
-   "en": ""
+   "en": "First, I have to find\nthe runaway penguin!"
   },
   {
    "id": "event_ev002500:0236",
@@ -112,7 +112,7 @@
     13
    ],
    "jp": "ペンギンって\nどこにいるんだろう？",
-   "en": ""
+   "en": "Where could\nthe penguin be?"
   },
   {
    "id": "event_ev002500:025A",
@@ -120,7 +120,7 @@
     14
    ],
    "jp": "うわぁーん！　ヒッポ〜！\nすぐに{h }出してあげるからね〜！！",
-   "en": ""
+   "en": "Waaah! Hippooo!\nI'll get you out right away!!"
   },
   {
    "id": "event_ev002500:0296",
@@ -128,7 +128,7 @@
     15
    ],
    "jp": "ペンギンさぁん　どこにいるの〜！",
-   "en": ""
+   "en": "Mr. Penguin, where are youuu?"
   },
   {
    "id": "event_ev002500:02B8",
@@ -136,7 +136,7 @@
     16
    ],
    "jp": "まずは　にげ出したペンギンを\n見つけ出さなきゃね！",
-   "en": ""
+   "en": "First, I've got to find\nthe penguin that ran away!"
   },
   {
    "id": "event_ev002500:02EC",
@@ -144,7 +144,7 @@
     17
    ],
    "jp": "ペンギンは{h }どこにいるのかなぁ？",
-   "en": ""
+   "en": "Where could the penguin be?"
   },
   {
    "id": "event_ev002500:030E",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "まったく　ヒッポったら\nなに{h }やってんのかしら‥‥",
-   "en": ""
+   "en": "Honestly, what is\nHippo doing..."
   },
   {
    "id": "event_ev002500:0342",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "ペンギンさーん　出てらっしゃーい！",
-   "en": ""
+   "en": "Mr. Penguin, come on ouuut!"
   },
   {
    "id": "event_ev002500:0366",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "まずは　にげ出したペンギンを\n見つけなきゃな‥‥",
-   "en": ""
+   "en": "First, we have to find\nthe penguin that ran away..."
   },
   {
    "id": "event_ev002500:0398",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "ペンギン‥‥",
-   "en": ""
+   "en": "Penguin..."
   },
   {
    "id": "event_ev002500:03A6",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "ヒッポのやつ　にげたペンギンに\nまちがえられるとはなぁ‥‥",
-   "en": ""
+   "en": "I can't believe Hippo got mistaken\nfor a runaway penguin..."
   },
   {
    "id": "event_ev002500:03E2",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "ペンギン‥‥ペンギンは{h }どこだ？",
-   "en": ""
+   "en": "Penguin... Where's the penguin?"
   },
   {
    "id": "event_ev002500:0404",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "ペンギンさん　みぃーつけた！",
-   "en": ""
+   "en": "Found you, Mr. Penguin!"
   },
   {
    "id": "event_ev002500:0422",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "さあ　みんなの{h }ところへ\nもどろうねー",
-   "en": ""
+   "en": "Now let's go back\nto your friends!"
   },
   {
    "id": "event_ev002500:044A",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "ヒッポ　まっててね‥‥",
-   "en": ""
+   "en": "Hippo, wait for me..."
   },
   {
    "id": "event_ev002500:0462",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "すぐに　すいぞくかんまで\nむかえに{h }いくからね",
-   "en": ""
+   "en": "I'll come pick you up\nat the aquarium right away."
   },
   {
    "id": "event_ev002500:0492",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "ペンギンさん　つかまえたー！",
-   "en": ""
+   "en": "Got you, Mr. Penguin!"
   },
   {
    "id": "event_ev002500:04B0",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "ごめんね　あなたが{h }すいぞくかんに\nもどってくれないと　こまっちゃうの",
-   "en": ""
+   "en": "Sorry, but if you don't go back\nto the aquarium, I'm in trouble."
   },
   {
    "id": "event_ev002500:04F8",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "さぁて　まっててね{h }ヒッポ\nすぐ　むかえに{h }いってあげるから",
-   "en": ""
+   "en": "Okay, wait for me, Hippo.\nI'll come get you right away."
   },
   {
    "id": "event_ev002500:0536",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "ふう‥‥つかまえたぞ",
-   "en": ""
+   "en": "Phew... Got you."
   },
   {
    "id": "event_ev002500:054C",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "わるいな　おまえを{h }すいぞくかんに\nつれもどさなきゃ{h }ならないんだ",
-   "en": ""
+   "en": "Sorry, but I have to take\nyou back to the aquarium."
   },
   {
    "id": "event_ev002500:0590",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "ヒッポ　まってろよ‥‥",
-   "en": ""
+   "en": "Hippo, hang on..."
   },
   {
    "id": "event_ev002500:05A8",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "すぐ　すいぞくかんに　むかえに{h }\nいってやるからな‥‥",
-   "en": ""
+   "en": "I'll come get you at\nthe aquarium right away..."
   },
   {
    "id": "event_ev002500:05E0",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "早く　ヒッポを\nむかえに{h }いかなきゃ！",
-   "en": ""
+   "en": "I've got to hurry\nand go get Hippo!"
   },
   {
    "id": "event_ev002500:0608",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "すいぞくかんへ　いそがないと‥‥",
-   "en": ""
+   "en": "I've got to hurry to the aquarium..."
   },
   {
    "id": "event_ev002500:062A",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "ヒッポ〜　まっててねー！",
-   "en": ""
+   "en": "Hippooo, wait for me!"
   },
   {
    "id": "event_ev002500:0644",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "いそいで{h }すいぞくかんへ{h }いかないと",
-   "en": ""
+   "en": "I've got to hurry to the aquarium."
   },
   {
    "id": "event_ev002500:066A",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "早く　ヒッポを\nむかえに{h }いって{h }あげなきゃね",
-   "en": ""
+   "en": "I've got to hurry\nand go get Hippo."
   },
   {
    "id": "event_ev002500:069A",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "さっ　すいぞくかんに\nいってあげなきゃ",
-   "en": ""
+   "en": "Okay, I'd better\ngo to the aquarium."
   },
   {
    "id": "event_ev002500:06C2",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "まったく　ヒッポったら\nなに{h }やってんのかしらね",
-   "en": ""
+   "en": "Honestly, what is\nHippo doing..."
   },
   {
    "id": "event_ev002500:06F4",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "いそいで{h }すいぞくかんへ\nいってあげなきゃ",
-   "en": ""
+   "en": "I'd better hurry\nto the aquarium."
   },
   {
    "id": "event_ev002500:0720",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "早く　ヒッポを\nむかえに{h }いってやらなきゃな",
-   "en": ""
+   "en": "I'd better hurry\nand go get Hippo."
   },
   {
    "id": "event_ev002500:074E",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "すいぞくかんへ{h }いかないとな‥‥",
-   "en": ""
+   "en": "I have to go to the aquarium..."
   },
   {
    "id": "event_ev002500:0770",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "ヒッポ‥‥すぐ{h }むかえに{h }いくからな",
-   "en": ""
+   "en": "Hippo... I'm coming to get you."
   },
   {
    "id": "event_ev002500:0796",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "すいぞくかんへ{h }いそがなきゃな‥‥",
-   "en": ""
+   "en": "I'd better hurry to the aquarium..."
   },
   {
    "id": "event_ev002500:07BA",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "やっと{h }すいぞくかんに{h }ついたよ‥‥",
-   "en": ""
+   "en": "I finally made it to the aquarium..."
   },
   {
    "id": "event_ev002500:07E0",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "さあ　ヒッポを\nむかえに{h }いかなきゃ！",
-   "en": ""
+   "en": "Now, I've got to\ngo get Hippo!"
   },
   {
    "id": "event_ev002500:0808",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "あれ？　むこうが{h }さわがしいな‥‥\nなんのさわぎだろう？",
-   "en": ""
+   "en": "Huh? It's noisy over there...\nWhat's going on?"
   },
   {
    "id": "event_ev002500:0842",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "キャハハハハ",
-   "en": ""
+   "en": "Kyahahahaha!"
   },
   {
    "id": "event_ev002500:0850",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "うみの生きものをこうげきして",
-   "en": ""
+   "en": "By attacking the sea creatures,"
   },
   {
    "id": "event_ev002500:086E",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "マーメイドプリンセスを\nおびき出してあげますわ",
-   "en": ""
+   "en": "we'll lure out\nthe Mermaid Princesses!"
   },
   {
    "id": "event_ev002500:089E",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "つかまえて　ガイトさまに\nさし出したりも　しちゃうんだからぁ",
-   "en": ""
+   "en": "Then we'll catch them and\nhand them over to Lord Gaito!"
   },
   {
    "id": "event_ev002500:08DC",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "すいぞくかんの　いきものを\nつかまえる{h }ですってぇ！",
-   "en": ""
+   "en": "You're going to catch\nthe aquarium's animals?!"
   },
   {
    "id": "event_ev002500:0912",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "いま　とっても{h }いそがしいのに！\nじゃまばっかり！",
-   "en": ""
+   "en": "I'm super busy right now!\nYou're always in the way!"
   },
   {
    "id": "event_ev002500:0946",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "そうは{h }させないわ！",
-   "en": ""
+   "en": "I won't let you!"
   },
   {
    "id": "event_ev002500:095C",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "すいぞくかんに{h }ついたぁ！\nヒッポを{h }むかえに{h }いかなくっちゃね",
-   "en": ""
+   "en": "I'm at the aquarium!\nI've got to go get Hippo."
   },
   {
    "id": "event_ev002500:099E",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "ん？　むこうが{h }さわがしくない？\n‥‥へんね　なんのさわぎかしら",
-   "en": ""
+   "en": "Hm? Isn't it noisy over there?\n...Weird. What's going on?"
   },
   {
    "id": "event_ev002500:09E0",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "キャハハハハ",
-   "en": ""
+   "en": "Kyahahahaha!"
   },
   {
    "id": "event_ev002500:09EE",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "うみのいきものをこうげきして",
-   "en": ""
+   "en": "By attacking the sea creatures,"
   },
   {
    "id": "event_ev002500:0A0C",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "マーメイドプリンセスを\nおびきだしてあげますわ",
-   "en": ""
+   "en": "we'll lure out\nthe Mermaid Princesses!"
   },
   {
    "id": "event_ev002500:0A3C",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "つかまえて　ガイトさまに\nさし出したりも　しちゃうんだからぁ",
-   "en": ""
+   "en": "Then we'll catch them and\nhand them over to Lord Gaito!"
   },
   {
    "id": "event_ev002500:0A7A",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "‥‥あんなこと　いってる",
-   "en": ""
+   "en": "...Listen to them."
   },
   {
    "id": "event_ev002500:0A94",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "まったく　いそがしいのに\nじゃまばっかりなんだから！",
-   "en": ""
+   "en": "Honestly, I'm busy and\nthey're always in the way!"
   },
   {
    "id": "event_ev002500:0ACA",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "すきにはさせないわ！",
-   "en": ""
+   "en": "I won't let you have your way!"
   },
   {
    "id": "event_ev002500:0AE0",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "ついた‥‥すいぞくかんだ\nヒッポを{h }むかえに{h }いかなきゃな",
-   "en": ""
+   "en": "Here... the aquarium.\nI'd better go get Hippo."
   },
   {
    "id": "event_ev002500:0B1C",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "おかしいな‥‥\nなにやら　むこうが{h }さわがしいぞ",
-   "en": ""
+   "en": "That's strange...\nSomething's going on over there."
   },
   {
    "id": "event_ev002500:0B4E",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "キャハハハハ",
-   "en": ""
+   "en": "Kyahahahaha!"
   },
   {
    "id": "event_ev002500:0B5C",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "うみのいきものをこうげきして",
-   "en": ""
+   "en": "By attacking the sea creatures,"
   },
   {
    "id": "event_ev002500:0B7A",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "マーメイドプリンセスを\nおびきだしてあげますわ",
-   "en": ""
+   "en": "we'll lure out\nthe Mermaid Princesses!"
   },
   {
    "id": "event_ev002500:0BAA",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "つかまえて　ガイトさまに\nさし出したりも　しちゃうんだからぁ",
-   "en": ""
+   "en": "Then we'll catch them and\nhand them over to Lord Gaito!"
   },
   {
    "id": "event_ev002500:0BE8",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "あんな{h }かってなことを‥‥",
-   "en": ""
+   "en": "Saying such selfish things..."
   },
   {
    "id": "event_ev002500:0C04",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "まったく‥‥\nこの{h }いそがしいのに",
-   "en": ""
+   "en": "Honestly...\nwhen I'm this busy..."
   },
   {
    "id": "event_ev002500:0C28",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "すきにはさせないぞ！",
-   "en": ""
+   "en": "I won't let you have your way!"
   },
   {
    "id": "event_ev002500:0C3E",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "ヒッポ〜！　よかったぁ\nやっぱり{h }ここに　いたんだぁ‥‥",
-   "en": ""
+   "en": "Hippooo! Thank goodness,\nyou really were here..."
   },
   {
    "id": "event_ev002500:0C78",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "やあ　るちあさん\nどうしたんですか？",
-   "en": ""
+   "en": "Oh, hello, Lucia.\nWhat's the matter?"
   },
   {
    "id": "event_ev002500:0C9E",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "どうしたって‥‥ヒッポのことを\nしんぱいして{h }むかえに{h }きたのに‥‥",
-   "en": ""
+   "en": "What's the matter?! I was worried\nabout you, so I came to get you..."
   },
   {
    "id": "event_ev002500:0CE4",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "ワタシのことなら{h }ヘーキですよ〜",
-   "en": ""
+   "en": "Oh, I'm perfectly fine!"
   },
   {
    "id": "event_ev002500:0D06",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "いつでも{h }パールピアリに\nもどれましたし",
-   "en": ""
+   "en": "I could have gone back to\nPearl Piari anytime."
   },
   {
    "id": "event_ev002500:0D30",
@@ -648,7 +648,7 @@
     80
    ],
    "jp": "それに　このすいぞくかんって\nいごこちが{h }いいんですよね〜",
-   "en": ""
+   "en": "Besides, this aquarium\nis very comfortable."
   },
   {
    "id": "event_ev002500:0D6C",
@@ -656,7 +656,7 @@
     81
    ],
    "jp": "どうせなら　またあとで\nむかえに{h }きてくれますかぁ？",
-   "en": ""
+   "en": "If it's all the same, could you\ncome get me later?"
   },
   {
    "id": "event_ev002500:0DA2",
@@ -664,7 +664,7 @@
     82
    ],
    "jp": "ンもぉ〜！　ヒッポったらぁ！\nじゃあ　一生ここに{h }いなさぁーい！",
-   "en": ""
+   "en": "Ugh! Hippo, you...!\nThen stay here foreverrr!"
   },
   {
    "id": "event_ev002500:0DE4",
@@ -672,7 +672,7 @@
     83
    ],
    "jp": "ヒッポ〜　どこにいるのー？",
-   "en": ""
+   "en": "Hippooo, where are you?"
   },
   {
    "id": "event_ev002500:0E00",
@@ -680,7 +680,7 @@
     84
    ],
    "jp": "やあ　波音さん\nどうしたんですか？",
-   "en": ""
+   "en": "Oh, hello, Hanon.\nWhat's the matter?"
   },
   {
    "id": "event_ev002500:0E24",
@@ -688,7 +688,7 @@
     85
    ],
    "jp": "どうしたって‥‥わざわざ{h }むかえに\nきてやったんじゃないのよ",
-   "en": ""
+   "en": "What's the matter?! I went to the\ntrouble of coming to get you!"
   },
   {
    "id": "event_ev002500:0E62",
@@ -696,7 +696,7 @@
     86
    ],
    "jp": "ワタシのことなら{h }ヘーキですよ〜",
-   "en": ""
+   "en": "Oh, I'm perfectly fine!"
   },
   {
    "id": "event_ev002500:0E84",
@@ -704,7 +704,7 @@
     87
    ],
    "jp": "いつでも{h }パールピアリに\nもどれましたし",
-   "en": ""
+   "en": "I could have gone back to\nPearl Piari anytime."
   },
   {
    "id": "event_ev002500:0EAE",
@@ -712,7 +712,7 @@
     88
    ],
    "jp": "それに　この{h }すいぞくかんって\nいごこちが{h }いいんですよね〜",
-   "en": ""
+   "en": "Besides, this aquarium\nis very comfortable."
   },
   {
    "id": "event_ev002500:0EEC",
@@ -720,7 +720,7 @@
     89
    ],
    "jp": "どうせなら　またあとで\nむかえに{h }きてくれますかぁ？",
-   "en": ""
+   "en": "If it's all the same, could you\ncome get me later?"
   },
   {
    "id": "event_ev002500:0F22",
@@ -728,7 +728,7 @@
     90
    ],
    "jp": "あーあ　あきれて{h }ものが{h }いえないよ\nくるんじゃなかったぁ‥‥",
-   "en": ""
+   "en": "Ugh, I'm too stunned to speak.\nI shouldn't have come..."
   },
   {
    "id": "event_ev002500:0F62",
@@ -736,7 +736,7 @@
     91
    ],
    "jp": "おーい　ヒッポー！　どこだぁ！",
-   "en": ""
+   "en": "Hey, Hippo! Where are you?!"
   },
   {
    "id": "event_ev002500:0F82",
@@ -744,7 +744,7 @@
     92
    ],
    "jp": "やあ　リナさん　どうしたんですか？",
-   "en": ""
+   "en": "Oh, hello, Rina. What's the matter?"
   },
   {
    "id": "event_ev002500:0FA6",
@@ -752,7 +752,7 @@
     93
    ],
    "jp": "おまえが{h }すいぞくかんに\nつれて{h }いかれたというから‥‥",
-   "en": ""
+   "en": "I heard you'd been taken\nto the aquarium..."
   },
   {
    "id": "event_ev002500:0FE0",
@@ -760,7 +760,7 @@
     94
    ],
    "jp": "むかえに{h }きてあげたんだよ",
-   "en": ""
+   "en": "so I came to get you."
   },
   {
    "id": "event_ev002500:0FFC",
@@ -768,7 +768,7 @@
     95
    ],
    "jp": "ワタシのことなら{h }ヘーキですよ〜",
-   "en": ""
+   "en": "Oh, I'm perfectly fine!"
   },
   {
    "id": "event_ev002500:101E",
@@ -776,7 +776,7 @@
     96
    ],
    "jp": "いつでも{h }パールピアリに\nもどれましたし",
-   "en": ""
+   "en": "I could have gone back to\nPearl Piari anytime."
   },
   {
    "id": "event_ev002500:1048",
@@ -784,7 +784,7 @@
     97
    ],
    "jp": "それに　このすいぞくかんって\nいごこちが{h }いいんですよね〜",
-   "en": ""
+   "en": "Besides, this aquarium\nis very comfortable."
   },
   {
    "id": "event_ev002500:1084",
@@ -792,7 +792,7 @@
     98
    ],
    "jp": "どうせなら　またあとで\nむかえに{h }きてくれますかぁ？",
-   "en": ""
+   "en": "If it's all the same, could you\ncome get me later?"
   },
   {
    "id": "event_ev002500:10BA",
@@ -800,7 +800,7 @@
     99
    ],
    "jp": "まったく　おまえというヤツは‥‥",
-   "en": ""
+   "en": "Honestly, you..."
   },
   {
    "id": "event_ev002500:10DC",
@@ -808,7 +808,7 @@
     100
    ],
    "jp": "みんな　おまえのことを\nしんぱいしてるんだ",
-   "en": ""
+   "en": "Everyone's worried\nabout you."
   },
   {
    "id": "event_ev002500:1108",
@@ -816,7 +816,7 @@
     101
    ],
    "jp": "ほら　いいから{h }かえるぞ！",
-   "en": ""
+   "en": "Come on, we're going home!"
   },
   {
    "id": "event_ev002500:1124",
@@ -824,7 +824,7 @@
     102
    ],
    "jp": "そ　そんなぁ〜",
-   "en": ""
+   "en": "B-But..."
   },
   {
    "id": "event_ev002500:1134",
@@ -832,7 +832,7 @@
     103
    ],
    "jp": "{h }　　　　エピソード　２６　　　\n　　『きえたペンギン』　おわり　",
-   "en": ""
+   "en": "Episode 26\n\"The Vanished Penguin\" - The End"
   }
  ]
 }

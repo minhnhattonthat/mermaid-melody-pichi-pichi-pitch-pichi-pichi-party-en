@@ -11,7 +11,7 @@
     119
    ],
    "jp": "もうすぐ{h }うんどうかいだね",
-   "en": ""
+   "en": "Sports day is coming up soon!"
   },
   {
    "id": "event_ev002300:001C",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "わたしたちって『二人三きゃくそう』\nにさんかするんだったよね‥‥",
-   "en": ""
+   "en": "We're in the \"three-legged race,\"\nright...?"
   },
   {
    "id": "event_ev002300:005E",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "太郎ちゃんと{h }はしる二人三きゃく\n‥‥たのしみだなぁ",
-   "en": ""
+   "en": "A three-legged race with my Taro...\nI can't wait!"
   },
   {
    "id": "event_ev002300:0094",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "わたしだって　海斗といっしょに\nはしることに{h }なってるんだからぁ",
-   "en": ""
+   "en": "Well, I'm running\nwith Kaito!"
   },
   {
    "id": "event_ev002300:00D6",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "じゃあ{h }２人とも　しっかりと\nはしりこみをしないとな",
-   "en": ""
+   "en": "Then you two had better\ndo some proper running practice."
   },
   {
    "id": "event_ev002300:010C",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "えーっ！　めんどうだよぉ！\nるちあも{h }そうおもうよねぇ？",
-   "en": ""
+   "en": "Whaaat! That's such a pain!\nDon't you think so too, Lucia?"
   },
   {
    "id": "event_ev002300:0146",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "わたしは{h }すいぞくかんへいって\n学校まで{h }はしりこむつもりだ",
-   "en": ""
+   "en": "I plan to run to the aquarium\nand back to the School."
   },
   {
    "id": "event_ev002300:0192",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "ペアのあいてに\nめいわくを　かけたくないからな",
-   "en": ""
+   "en": "I don't want to cause trouble\nfor my partner."
   },
   {
    "id": "event_ev002300:01C2",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "まって　リナァー！",
-   "en": ""
+   "en": "Wait, Rinaaa!"
   },
   {
    "id": "event_ev002300:01D6",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "わたしも{h }はしるーっ！",
-   "en": ""
+   "en": "I'll run toooo!"
   },
   {
    "id": "event_ev002300:01EE",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "だったら　３人で\nきょうそうしようか",
-   "en": ""
+   "en": "Then let's make it\na race between the three of us."
   },
   {
    "id": "event_ev002300:0214",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "いそげ！　いそげ！\nすいぞくかん！",
-   "en": ""
+   "en": "Hurry! Hurry!\nTo the aquarium!"
   },
   {
    "id": "event_ev002300:0238",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "おりかえしちてんは\nすいぞくかんかぁ‥‥",
-   "en": ""
+   "en": "The turnaround point\nis the aquarium..."
   },
   {
    "id": "event_ev002300:0262",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "ハァハァハァ‥‥\nすいぞくかん！　すいぞくかん！",
-   "en": ""
+   "en": "Huff huff huff...\nAquarium! Aquarium!"
   },
   {
    "id": "event_ev002300:0294",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "今日も{h }海斗と\nいっしょに{h }はしりたかったなぁ",
-   "en": ""
+   "en": "I wish I could have run\nwith Kaito today too..."
   },
   {
    "id": "event_ev002300:02C4",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "おりかえしちてんは\nすいぞくかんかぁ‥‥",
-   "en": ""
+   "en": "The turnaround point\nis the aquarium..."
   },
   {
    "id": "event_ev002300:02EE",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "太郎ちゃーん！\nわたし{h }れんしゅうしてるよー！",
-   "en": ""
+   "en": "Taroooo!\nI'm practiciiing!"
   },
   {
    "id": "event_ev002300:031E",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "すいぞくかん！　すいぞくかん！\nおりかえしちてんは　すいぞくかん！",
-   "en": ""
+   "en": "Aquarium! Aquarium!\nThe turnaround is the aquarium!"
   },
   {
    "id": "event_ev002300:0362",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "きょうも{h }太郎ちゃんと\nはしりたかったなぁ",
-   "en": ""
+   "en": "I wish I could have run\nwith Taro today too..."
   },
   {
    "id": "event_ev002300:038E",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "おりかえしちてんは\nすいぞくかんか‥‥",
-   "en": ""
+   "en": "So the turnaround point\nis the aquarium..."
   },
   {
    "id": "event_ev002300:03B6",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "すいぞくかん‥‥",
-   "en": ""
+   "en": "The aquarium..."
   },
   {
    "id": "event_ev002300:03C8",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "わたしは{h }だれがペアだろうと\nこだわらない‥‥",
-   "en": ""
+   "en": "I don't care who\nmy partner is..."
   },
   {
    "id": "event_ev002300:03F8",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "ハッ　ハッ　ハッ　ハッ‥‥",
-   "en": ""
+   "en": "Hah, hah, hah, hah..."
   },
   {
    "id": "event_ev002300:0414",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "やったぁ！　わたしって\nけっこう{h }はやかったみたい！",
-   "en": ""
+   "en": "Yay! Looks like I'm\npretty fast!"
   },
   {
    "id": "event_ev002300:044A",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "あとは　学校まで\nもどらなくっちゃね！",
-   "en": ""
+   "en": "Now I just have to\nrun back to the School!"
   },
   {
    "id": "event_ev002300:0472",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "うふふ　わたしったら{h }けっこう\n足が{h }はやかったみたい！",
-   "en": ""
+   "en": "Hehe, looks like I'm\na pretty fast runner!"
   },
   {
    "id": "event_ev002300:04AC",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "よーし　このちょうしで\n学校まで{h }もどっちゃうぞぉ！",
-   "en": ""
+   "en": "All right, at this rate,\nI'll run right back to the School!"
   },
   {
    "id": "event_ev002300:04E2",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "ふぅ‥‥ようやく\nすいぞくかんに{h }ついたぞ",
-   "en": ""
+   "en": "Phew... I finally\nmade it to the aquarium."
   },
   {
    "id": "event_ev002300:050E",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "この{h }いきおいのまま\n学校へ{h }もどるか‥‥",
-   "en": ""
+   "en": "I'll keep up this pace\nback to the School..."
   },
   {
    "id": "event_ev002300:053A",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "いっちに　いっちに‥‥\n学校へ{h }いそげっ！",
-   "en": ""
+   "en": "One-two, one-two...\nHurry to the School!"
   },
   {
    "id": "event_ev002300:0566",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "ハァハァハァハァ‥‥\nゴールは　学校！",
-   "en": ""
+   "en": "Huff huff huff huff...\nThe goal is the School!"
   },
   {
    "id": "event_ev002300:058E",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "いっちに　いっちに‥‥\nがんばるぞぉっ！",
-   "en": ""
+   "en": "One-two, one-two...\nI'll do my best!"
   },
   {
    "id": "event_ev002300:05B8",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "ハァハァハァハァ‥‥\n学校まで{h }あと‥‥",
-   "en": ""
+   "en": "Huff huff huff huff...\nJust a little more to the School..."
   },
   {
    "id": "event_ev002300:05E2",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "おいっちに{h }さんし‥‥\nおいっちに{h }さんし‥‥",
-   "en": ""
+   "en": "One-two-three-four...\nOne-two-three-four..."
   },
   {
    "id": "event_ev002300:0612",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "フーッ　フーッ‥‥\n学校まで{h }がんばるわよーっ！",
-   "en": ""
+   "en": "Whew, whew...\nI'll keep going to the School!"
   },
   {
    "id": "event_ev002300:0644",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "学校まで{h }あと‥‥\nれんしゅうとはいえ{h }たいへん！",
-   "en": ""
+   "en": "Still more to the School...\nEven for practice, this is tough!"
   },
   {
    "id": "event_ev002300:0678",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "いっちに　いっちに\nゴールは{h }学校！",
-   "en": ""
+   "en": "One-two, one-two.\nThe goal is the School!"
   },
   {
    "id": "event_ev002300:069E",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "ハッ　ハッ　ハッ　ハッ‥‥\n（もくひょう‥‥学校！）",
-   "en": ""
+   "en": "Hah, hah, hah, hah...\n(Target... the School!)"
   },
   {
    "id": "event_ev002300:06D4",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "学校まで　あと‥‥",
-   "en": ""
+   "en": "Still more to the School..."
   },
   {
    "id": "event_ev002300:06E8",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "‥‥‥‥れんしゅう\nこれで{h }足りるかな？",
-   "en": ""
+   "en": "........Is this\nenough practice?"
   },
   {
    "id": "event_ev002300:0712",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "もうすこし{h }はしりたいな‥‥",
-   "en": ""
+   "en": "I'd like to run a bit more..."
   },
   {
    "id": "event_ev002300:0730",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "やったぁー！\nわたしが１ちゃくで{h }ついたよ！",
-   "en": ""
+   "en": "Yaaay!\nI made it here first!"
   },
   {
    "id": "event_ev002300:075E",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "でも　ここまでやったんだから\nトラックも{h }まわっちゃおっと！",
-   "en": ""
+   "en": "But since I've come this far,\nI'll run around the track too!"
   },
   {
    "id": "event_ev002300:079C",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "らぶぁ〜ずくるくるた〜いむ\nちぇきら〜〜",
-   "en": ""
+   "en": "Loooovers, twirly-whirly tiiime!\nCheck it ouuut!"
   },
   {
    "id": "event_ev002300:07C6",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "なんなの{h }このヘンなうた〜",
-   "en": ""
+   "en": "What is this weird song?"
   },
   {
    "id": "event_ev002300:07E2",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "エリルのワンマンショー\nくるくるアンコールよ〜ん",
-   "en": ""
+   "en": "Eriru's one-girl show,\ntwirly-whirly encore!"
   },
   {
    "id": "event_ev002300:0814",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "エリルのうたにつられて\nマーメイドたち{h }出てきなさ〜い",
-   "en": ""
+   "en": "Lured by Eriru's song,\ncome on out, mermaids!"
   },
   {
    "id": "event_ev002300:084C",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "ちょっとキミ",
-   "en": ""
+   "en": "Excuse me, you there."
   },
   {
    "id": "event_ev002300:085A",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "いまは{h }うんどうかいの\nじゅんび中なんです",
-   "en": ""
+   "en": "We're in the middle of\npreparing for sports day."
   },
   {
    "id": "event_ev002300:0886",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "おまえは‥‥",
-   "en": ""
+   "en": "You are..."
   },
   {
    "id": "event_ev002300:0894",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "エリルのファンか{i21C}\nアンコールは{h }うけつけチュウウ{i21C}",
-   "en": ""
+   "en": "one of Eriru's fans{i21C}\nEncores accepted, smooch{i21C}"
   },
   {
    "id": "event_ev002300:08CA",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "っ！！！",
-   "en": ""
+   "en": "Ngh!!!"
   },
   {
    "id": "event_ev002300:08D4",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "あー！{h }海月先生！",
-   "en": ""
+   "en": "Ah! Mr. Mitsuki!"
   },
   {
    "id": "event_ev002300:08E8",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "水妖ったら{h }じゅんびのじゃまを\nするつもり！",
-   "en": ""
+   "en": "That water demon wants to\nmess up the preparations!"
   },
   {
    "id": "event_ev002300:0916",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "もう{h }ゆるさないんだからぁ！！",
-   "en": ""
+   "en": "I won't forgive you!!"
   },
   {
    "id": "event_ev002300:0936",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "やったわ！\n１ちゃくで{h }ゴールっ！",
-   "en": ""
+   "en": "I did it!\nI reached the goal first!"
   },
   {
    "id": "event_ev002300:095A",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "よーし　ここまでやったんだから\nトラックもまわろっと！",
-   "en": ""
+   "en": "All right, since I've come this far,\nI'll run around the track too!"
   },
   {
    "id": "event_ev002300:0992",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "らぶぁ〜ずくるくるた〜いむ\nちぇきら〜〜",
-   "en": ""
+   "en": "Loooovers, twirly-whirly tiiime!\nCheck it ouuut!"
   },
   {
    "id": "event_ev002300:09BC",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "なんなの{h }このヘンなうた〜",
-   "en": ""
+   "en": "What is this weird song?"
   },
   {
    "id": "event_ev002300:09D8",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "エリルのワンマンショー\nくるくるアンコールよ〜ん",
-   "en": ""
+   "en": "Eriru's one-girl show,\ntwirly-whirly encore!"
   },
   {
    "id": "event_ev002300:0A0A",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "エリルのうたにつられて\nマーメイドたち{h }出てきなさ〜い",
-   "en": ""
+   "en": "Lured by Eriru's song,\ncome on out, mermaids!"
   },
   {
    "id": "event_ev002300:0A42",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "ちょっとキミ",
-   "en": ""
+   "en": "Excuse me, you there."
   },
   {
    "id": "event_ev002300:0A50",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "いまは{h }うんどうかいの\nじゅんび中なんです",
-   "en": ""
+   "en": "We're in the middle of\npreparing for sports day."
   },
   {
    "id": "event_ev002300:0A7C",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "おまえは‥‥",
-   "en": ""
+   "en": "You are..."
   },
   {
    "id": "event_ev002300:0A8A",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "エリルのファンか{i21C}\nアンコールは{h }うけつけチュウウ{i21C}",
-   "en": ""
+   "en": "one of Eriru's fans{i21C}\nEncores accepted, smooch{i21C}"
   },
   {
    "id": "event_ev002300:0AC0",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "っ！！！",
-   "en": ""
+   "en": "Ngh!!!"
   },
   {
    "id": "event_ev002300:0ACA",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "あー！{h }わたしの太郎ちゃんが！！",
-   "en": ""
+   "en": "Aaah! My Taro!!"
   },
   {
    "id": "event_ev002300:0AEC",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "よくも‥よくもわたしの\n太郎ちゃんに　手を出したわね〜！",
-   "en": ""
+   "en": "How dare... how dare you\nlay a hand on my Taro!"
   },
   {
    "id": "event_ev002300:0B26",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "本気で{h }おこったんだからぁ！！",
-   "en": ""
+   "en": "Now I'm really mad!!"
   },
   {
    "id": "event_ev002300:0B46",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "フフッ　１ちゃくで{h }ついたな‥‥",
-   "en": ""
+   "en": "Heh, I made it here first..."
   },
   {
    "id": "event_ev002300:0B68",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "そうだ　トラックをまわって\nもうすこし{h }きたえよう‥‥",
-   "en": ""
+   "en": "I know, I'll run around the track\nand train a little more..."
   },
   {
    "id": "event_ev002300:0BA0",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "らぶぁ〜ずくるくるた〜いむ\nちぇきら〜〜",
-   "en": ""
+   "en": "Loooovers, twirly-whirly tiiime!\nCheck it ouuut!"
   },
   {
    "id": "event_ev002300:0BCA",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "なんだ{h }このヘンなうたは",
-   "en": ""
+   "en": "What is this weird song?"
   },
   {
    "id": "event_ev002300:0BE4",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "エリルのワンマンショー\nくるくるアンコールよ〜ん",
-   "en": ""
+   "en": "Eriru's one-girl show,\ntwirly-whirly encore!"
   },
   {
    "id": "event_ev002300:0C16",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "エリルのうたにつられて\nマーメイドたち{h }出てきなさ〜い",
-   "en": ""
+   "en": "Lured by Eriru's song,\ncome on out, mermaids!"
   },
   {
    "id": "event_ev002300:0C4E",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "ちょっとキミ",
-   "en": ""
+   "en": "Excuse me, you there."
   },
   {
    "id": "event_ev002300:0C5C",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "いまは{h }うんどうかいの\nじゅんび中なんです",
-   "en": ""
+   "en": "We're in the middle of\npreparing for sports day."
   },
   {
    "id": "event_ev002300:0C88",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "おまえは‥‥",
-   "en": ""
+   "en": "You are..."
   },
   {
    "id": "event_ev002300:0C96",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "エリルのファンか{i21C}\nアンコールは{h }うけつけチュウウ{i21C}",
-   "en": ""
+   "en": "one of Eriru's fans{i21C}\nEncores accepted, smooch{i21C}"
   },
   {
    "id": "event_ev002300:0CCC",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "っ！！！",
-   "en": ""
+   "en": "Ngh!!!"
   },
   {
    "id": "event_ev002300:0CD6",
@@ -659,7 +659,7 @@
     81
    ],
    "jp": "海月先生が！",
-   "en": ""
+   "en": "Mr. Mitsuki!"
   },
   {
    "id": "event_ev002300:0CE4",
@@ -667,7 +667,7 @@
     82
    ],
    "jp": "水妖め{h }じゅんびのじゃまを\nするつもりか！",
-   "en": ""
+   "en": "That water demon wants to\nmess up the preparations!"
   },
   {
    "id": "event_ev002300:0D10",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "先生　いまたすけます！！",
-   "en": ""
+   "en": "Mr. Mitsuki, I'll save you!!"
   },
   {
    "id": "event_ev002300:0D2A",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "いちについて‥‥よーい‥‥",
-   "en": ""
+   "en": "On your marks... get set..."
   },
   {
    "id": "event_ev002300:0D46",
@@ -691,7 +691,7 @@
     85
    ],
    "jp": "スタート！",
-   "en": ""
+   "en": "Go!"
   },
   {
    "id": "event_ev002300:0D52",
@@ -699,7 +699,7 @@
     86
    ],
    "jp": "いっちに{h }いっちに！",
-   "en": ""
+   "en": "One-two, one-two!"
   },
   {
    "id": "event_ev002300:0D68",
@@ -707,7 +707,7 @@
     87
    ],
    "jp": "ほら{h }るちあ　もう少しだ\nがんばれよ！",
-   "en": ""
+   "en": "Come on, Lucia, almost there!\nHang in there!"
   },
   {
    "id": "event_ev002300:0D90",
@@ -715,7 +715,7 @@
     88
    ],
    "jp": "うん！　だいじょうぶ\nまだまだ{h }はしれるから！",
-   "en": ""
+   "en": "Yeah! I'm fine.\nI can keep running!"
   },
   {
    "id": "event_ev002300:0DC0",
@@ -723,7 +723,7 @@
     89
    ],
    "jp": "（海斗と{h }いっしょなら\nどこまででも‥‥なぁんてね☆）",
-   "en": ""
+   "en": "(With Kaito, I could run\nforever... Just kidding ☆)"
   },
   {
    "id": "event_ev002300:0DF8",
@@ -731,7 +731,7 @@
     90
    ],
    "jp": "それにしても‥‥るちあが\nこんなに{h }はしれたとはなぁ",
-   "en": ""
+   "en": "Still... I never knew\nyou could run like this, Lucia."
   },
   {
    "id": "event_ev002300:0E2E",
@@ -739,7 +739,7 @@
     91
    ],
    "jp": "おまえのこと　見なおしたぜ！",
-   "en": ""
+   "en": "I'm impressed!"
   },
   {
    "id": "event_ev002300:0E4C",
@@ -747,7 +747,7 @@
     92
    ],
    "jp": "えへへ　うれしいなぁ",
-   "en": ""
+   "en": "Ehehe, that makes me happy."
   },
   {
    "id": "event_ev002300:0E62",
@@ -755,7 +755,7 @@
     93
    ],
    "jp": "（海月先生もぶじだったし）",
-   "en": ""
+   "en": "(And Mr. Mitsuki was okay, too.)"
   },
   {
    "id": "event_ev002300:0E7E",
@@ -763,7 +763,7 @@
     94
    ],
    "jp": "（がんばって　れんしゅうした\nかいがあったよ！）",
-   "en": ""
+   "en": "(All that hard practice\npaid off!)"
   },
   {
    "id": "event_ev002300:0EB0",
@@ -771,7 +771,7 @@
     95
    ],
    "jp": "いっちに{h }いっちにっ！",
-   "en": ""
+   "en": "One-two, one-two!"
   },
   {
    "id": "event_ev002300:0EC8",
@@ -779,7 +779,7 @@
     96
    ],
    "jp": "波音さん　ゴールめざして\nがんばりましょう！",
-   "en": ""
+   "en": "Hanon, let's do our best\nand aim for the goal!"
   },
   {
    "id": "event_ev002300:0EF6",
@@ -787,7 +787,7 @@
     97
    ],
    "jp": "はい！",
-   "en": ""
+   "en": "Okay!"
   },
   {
    "id": "event_ev002300:0EFE",
@@ -795,7 +795,7 @@
     98
    ],
    "jp": "（よかった‥‥太郎ちゃん\nもうなんともないみたい）",
-   "en": ""
+   "en": "(Thank goodness... Taro\nseems perfectly fine now.)"
   },
   {
    "id": "event_ev002300:0F32",
@@ -803,7 +803,7 @@
     99
    ],
    "jp": "それにしても‥‥波音さんは\nはしるのが{h }はやいですね",
-   "en": ""
+   "en": "Still... Hanon, you're\na fast runner."
   },
   {
    "id": "event_ev002300:0F68",
@@ -811,7 +811,7 @@
     100
    ],
    "jp": "これなら　１ちゃくでゴール\nできるかもしれませんね！",
-   "en": ""
+   "en": "At this rate, we might\nfinish in first place!"
   },
   {
    "id": "event_ev002300:0F9E",
@@ -819,7 +819,7 @@
     101
    ],
    "jp": "そんなぁ〜\nわたしなんてまだまだです",
-   "en": ""
+   "en": "Oh, stop iiit...\nI'm not that good."
   },
   {
    "id": "event_ev002300:0FC4",
@@ -827,7 +827,7 @@
     102
    ],
    "jp": "（太郎ちゃんと{h }いっしょなら\nどこまでだって{h }いけるかも{i21C}）",
-   "en": ""
+   "en": "(With my Taro, maybe I could\ngo anywhere{i21C})"
   },
   {
    "id": "event_ev002300:1002",
@@ -835,7 +835,7 @@
     103
    ],
    "jp": "ペースを上げましょう\nしっかりつかまって下さい！",
-   "en": ""
+   "en": "Let's pick up the pace.\nHold on tight!"
   },
   {
    "id": "event_ev002300:1034",
@@ -843,7 +843,7 @@
     104
    ],
    "jp": "はい！　海月先生{i21C}",
-   "en": ""
+   "en": "Okay! Mr. Mitsuki{i21C}"
   },
   {
    "id": "event_ev002300:1048",
@@ -851,7 +851,7 @@
     105
    ],
    "jp": "（リナのいうとおり\nれんしゅうして{h }よかったぁ！）",
-   "en": ""
+   "en": "(Rina was right. I'm so\nglad I practiced!)"
   },
   {
    "id": "event_ev002300:107C",
@@ -859,7 +859,7 @@
     106
    ],
    "jp": "ふう{h }ふう‥‥　はぁ{h }はぁ‥‥",
-   "en": ""
+   "en": "Huff, huff... Pant, pant..."
   },
   {
    "id": "event_ev002300:109C",
@@ -867,7 +867,7 @@
     107
    ],
    "jp": "リナさぁ〜ん\nどこまで{h }はしれば{h }いいんですかぁ〜",
-   "en": ""
+   "en": "Rinaaa...\nHow far do we have to ruuun?"
   },
   {
    "id": "event_ev002300:10D0",
@@ -875,7 +875,7 @@
     108
    ],
    "jp": "まだスタートしたばかりだ\nがんばれ！",
-   "en": ""
+   "en": "We've only just started.\nHang in there!"
   },
   {
    "id": "event_ev002300:10F6",
@@ -883,7 +883,7 @@
     109
    ],
    "jp": "は　はい〜‥‥はしるだなんて\nいわなきゃ{h }よかったぁ〜",
-   "en": ""
+   "en": "Y-Yes... I wish I'd never\nsaid I'd run..."
   },
   {
    "id": "event_ev002300:112E",
@@ -891,7 +891,7 @@
     110
    ],
    "jp": "でも{h }からだは\nうごかしたほうがいいぞ",
-   "en": ""
+   "en": "But you should really\nmove your body."
   },
   {
    "id": "event_ev002300:1156",
@@ -899,7 +899,7 @@
     111
    ],
    "jp": "うんどうぶそくに{h }なるからな",
-   "en": ""
+   "en": "Otherwise you'll get out of shape."
   },
   {
    "id": "event_ev002300:1174",
@@ -907,7 +907,7 @@
     112
    ],
    "jp": "もう　ておくれですぅ〜",
-   "en": ""
+   "en": "It's already too laaate..."
   },
   {
    "id": "event_ev002300:118C",
@@ -915,7 +915,7 @@
     113
    ],
    "jp": "フフフ‥‥さあ{h }いくぞ！",
-   "en": ""
+   "en": "Heh heh... Come on, let's go!"
   },
   {
    "id": "event_ev002300:11A6",
@@ -923,7 +923,7 @@
     114
    ],
    "jp": "（海月先生は{h }ぶじだったし）",
-   "en": ""
+   "en": "(Mr. Mitsuki was okay,)"
   },
   {
    "id": "event_ev002300:11C4",
@@ -931,7 +931,7 @@
     115
    ],
    "jp": "（うんどうかいも{h }ぶじに\nはじまってよかった）",
-   "en": ""
+   "en": "(and I'm glad sports day\ngot started safely.)"
   },
   {
    "id": "event_ev002300:11F4",
@@ -939,7 +939,7 @@
     116
    ],
    "jp": "{h }　　　　エピソード　２４　　　　\n　　『あいのかけあし』　おわり　",
-   "en": ""
+   "en": "Episode 24\n\"Love on the Run\" - The End"
   }
  ]
 }

@@ -144,7 +144,7 @@
     17
    ],
    "jp": "早く{h }おかゆを{h }つくってあげよう\nスーパーに{h }いそがなくては",
-   "en": ""
+   "en": "I'll make him rice porridge soon!\nI must hurry to the supermarket."
   },
   {
    "id": "event_ev001800:033E",
@@ -152,7 +152,7 @@
     18
    ],
    "jp": "びょうきのときは\nおかゆが{h }いちばんだ",
-   "en": ""
+   "en": "When you're sick,\nrice porridge is the best."
   },
   {
    "id": "event_ev001800:0366",
@@ -160,7 +160,7 @@
     19
    ],
    "jp": "カゼぐすりを{h }ください！\nとぉーっても　よくきくのを！！",
-   "en": ""
+   "en": "Cold medicine, please!\nOne that works reeeally well!!"
   },
   {
    "id": "event_ev001800:03A0",
@@ -168,7 +168,7 @@
     20
    ],
    "jp": "さぁ　早くかえらなきゃ！",
-   "en": ""
+   "en": "Okay, I'd better hurry home!"
   },
   {
    "id": "event_ev001800:03BA",
@@ -176,7 +176,7 @@
     21
    ],
    "jp": "すいませーん　リンゴくださーい\nえっと　その{h }いちばん{h }赤いのを！",
-   "en": ""
+   "en": "Excuse meee, some apples, pleeease!\nUm, the reddest one there!"
   },
   {
    "id": "event_ev001800:03FE",
@@ -184,7 +184,7 @@
     22
    ],
    "jp": "よしっと！\nパールピアリに{h }もどろうっと！",
-   "en": ""
+   "en": "All right!\nBack to Pearl Piari!"
   },
   {
    "id": "event_ev001800:042A",
@@ -192,7 +192,7 @@
     23
    ],
    "jp": "おかゆのぐは\nこれとこれと‥‥よし！",
-   "en": ""
+   "en": "For the porridge, I need\nthis and this... Done!"
   },
   {
    "id": "event_ev001800:0450",
@@ -200,7 +200,7 @@
     24
    ],
    "jp": "これで{h }えいようたっぷりの\nおかゆがつくれる！",
-   "en": ""
+   "en": "With these, I can make\na really nourishing porridge!"
   },
   {
    "id": "event_ev001800:0480",
@@ -208,7 +208,7 @@
     25
    ],
    "jp": "いそいで　パールピアリに\nもどるからな！",
-   "en": ""
+   "en": "I'll hurry back\nto Pearl Piari!"
   },
   {
    "id": "event_ev001800:04AA",
@@ -216,7 +216,7 @@
     26
    ],
    "jp": "まっててね{h }ヒッポ\nいますぐ{h }かえるよ！",
-   "en": ""
+   "en": "Wait for me, Hippo!\nI'm coming home right now!"
   },
   {
    "id": "event_ev001800:04D4",
@@ -224,7 +224,7 @@
     27
    ],
    "jp": "くすりを{h }のんだら\nきっとすぐに{h }なおるからね",
-   "en": ""
+   "en": "Once you take the medicine,\nyou'll be better in no time."
   },
   {
    "id": "event_ev001800:0504",
@@ -232,7 +232,7 @@
     28
    ],
    "jp": "いそいで{h }くすりを\nとどけなきゃ！",
-   "en": ""
+   "en": "I've got to hurry\nand bring him the medicine!"
   },
   {
    "id": "event_ev001800:0528",
@@ -240,7 +240,7 @@
     29
    ],
    "jp": "ヒッポ！　このくすりで\n早く{h }よくなって！",
-   "en": ""
+   "en": "Hippo! Take this medicine\nand get better soon!"
   },
   {
    "id": "event_ev001800:0554",
@@ -248,7 +248,7 @@
     30
    ],
    "jp": "このリンゴを{h }すりおろせば\nきっと　たべられるよね‥‥",
-   "en": ""
+   "en": "If I grate this apple,\nI'm sure he can eat it..."
   },
   {
    "id": "event_ev001800:058C",
@@ -256,7 +256,7 @@
     31
    ],
    "jp": "早く{h }ヒッポのところへ\nかえって{h }あげないと‥‥",
-   "en": ""
+   "en": "I have to hurry\nback to Hippo..."
   },
   {
    "id": "event_ev001800:05BE",
@@ -264,7 +264,7 @@
     32
    ],
    "jp": "ヒッポ　早く{h }よくなって‥‥",
-   "en": ""
+   "en": "Hippo, get better soon..."
   },
   {
    "id": "event_ev001800:05DC",
@@ -272,7 +272,7 @@
     33
    ],
    "jp": "早く{h }リンゴをもって\nかえらなくっちゃ！",
-   "en": ""
+   "en": "I've got to hurry\nhome with this apple!"
   },
   {
    "id": "event_ev001800:0606",
@@ -280,7 +280,7 @@
     34
    ],
    "jp": "ヒッポ　もうすこし{h }まってくれよ",
-   "en": ""
+   "en": "Hippo, just wait\na little longer."
   },
   {
    "id": "event_ev001800:0628",
@@ -288,7 +288,7 @@
     35
    ],
    "jp": "カゼ　早く{h }よくなるといいな‥‥",
-   "en": ""
+   "en": "I hope his cold\ngets better soon..."
   },
   {
    "id": "event_ev001800:064A",
@@ -296,7 +296,7 @@
     36
    ],
    "jp": "おかゆで{h }えいようを\nとらせないとな",
-   "en": ""
+   "en": "I have to get some nourishment\ninto him with porridge."
   },
   {
    "id": "event_ev001800:0670",
@@ -304,7 +304,7 @@
     37
    ],
    "jp": "びょうきを{h }なおすには\nまず{h }たべることなんだ‥‥",
-   "en": ""
+   "en": "To get over being sick,\neating comes first..."
   },
   {
    "id": "event_ev001800:06A4",
@@ -312,7 +312,7 @@
     38
    ],
    "jp": "ヒッポ〜！　カゼぐすりだよぉ！？\n早く{h }のんで　のんで〜！！",
-   "en": ""
+   "en": "Hippooo! I've got cold medicine!\nTake it, quick, quick!!"
   },
   {
    "id": "event_ev001800:06E2",
@@ -320,7 +320,7 @@
     39
    ],
    "jp": "ううーん‥‥くるしいですぅ‥‥\nううーん‥‥",
-   "en": ""
+   "en": "Ughhh... I feel awful...\nUghhh..."
   },
   {
    "id": "event_ev001800:0710",
@@ -328,7 +328,7 @@
     40
    ],
    "jp": "やっぱり　すぐには{h }きかないみたい\nどうしよう‥‥",
-   "en": ""
+   "en": "I guess it doesn't work right away.\nWhat do I do..."
   },
   {
    "id": "event_ev001800:0744",
@@ -336,7 +336,7 @@
     41
    ],
    "jp": "そうだ！　こもりうたを\nうたってあげる",
-   "en": ""
+   "en": "I know! I'll sing you\na lullaby."
   },
   {
    "id": "event_ev001800:076C",
@@ -344,7 +344,7 @@
     42
    ],
    "jp": "だから　すこし{h }ねむりなよ\nヒッポ‥‥",
-   "en": ""
+   "en": "So get a little sleep,\nHippo..."
   },
   {
    "id": "event_ev001800:0794",
@@ -352,7 +352,7 @@
     43
    ],
    "jp": "はい　すりリンゴだよ‥‥\nこれなら{h }たべられるでしょ？",
-   "en": ""
+   "en": "Here, grated apple...\nYou can eat this, right?"
   },
   {
    "id": "event_ev001800:07CC",
@@ -360,7 +360,7 @@
     44
    ],
    "jp": "ううーん‥‥波音さん\nありがとうございますぅ‥‥",
-   "en": ""
+   "en": "Ughhh... Hanon,\nthank you so much..."
   },
   {
    "id": "event_ev001800:07FE",
@@ -368,7 +368,7 @@
     45
    ],
    "jp": "波音さんが　すってくれたリンゴ\nとっても{h }おいしいですぅ‥‥",
-   "en": ""
+   "en": "The apple you grated for me, Hanon,\nis very delicious..."
   },
   {
    "id": "event_ev001800:083C",
@@ -376,7 +376,7 @@
     46
    ],
    "jp": "ちゃんと{h }たべてくれてよかった‥‥",
-   "en": ""
+   "en": "I'm so glad he ate it..."
   },
   {
    "id": "event_ev001800:0860",
@@ -384,7 +384,7 @@
     47
    ],
    "jp": "それじゃ　つぎは{h }ぐっすり\nねむらなくっちゃね",
-   "en": ""
+   "en": "Okay, now you need\na good, deep sleep."
   },
   {
    "id": "event_ev001800:0890",
@@ -392,7 +392,7 @@
     48
    ],
    "jp": "ヒッポが{h }ねむるまで\nわたしたちが{h }うたってあげるわ",
-   "en": ""
+   "en": "We'll sing for you, Hippo,\nuntil you fall asleep."
   },
   {
    "id": "event_ev001800:08C6",
@@ -400,7 +400,7 @@
     49
    ],
    "jp": "ほらヒッポ　おかゆが{h }できたぞ",
-   "en": ""
+   "en": "Here, Hippo.\nThe porridge is ready."
   },
   {
    "id": "event_ev001800:08E6",
@@ -408,7 +408,7 @@
     50
    ],
    "jp": "むりしてでも　ちゃんとたべないと\nダメだからな",
-   "en": ""
+   "en": "Even if it's hard,\nyou have to eat properly."
   },
   {
    "id": "event_ev001800:0916",
@@ -416,7 +416,7 @@
     51
    ],
    "jp": "ううーん‥‥リナさん\nどうも　ありがとうございますぅ‥‥",
-   "en": ""
+   "en": "Ughhh... Rina,\nthank you very much..."
   },
   {
    "id": "event_ev001800:0950",
@@ -424,7 +424,7 @@
     52
    ],
    "jp": "リナさんが　つくってくれた{h }おかゆ\nとっても{h }おいしいですぅ‥‥",
-   "en": ""
+   "en": "The porridge you made for me, Rina,\nis very delicious..."
   },
   {
    "id": "event_ev001800:0992",
@@ -432,7 +432,7 @@
     53
    ],
    "jp": "たべてもらえて{h }よかった",
-   "en": ""
+   "en": "I'm glad you ate it."
   },
   {
    "id": "event_ev001800:09AC",
@@ -440,7 +440,7 @@
     54
    ],
    "jp": "えいようも{h }とったことだし\nさあ{h }ヒッポ　すこし{h }ねむるといい",
-   "en": ""
+   "en": "Now that you've got some nourishment,\nget a little sleep, Hippo."
   },
   {
    "id": "event_ev001800:09EC",
@@ -448,7 +448,7 @@
     55
    ],
    "jp": "わたしたちが　子もりうたを\nうたってあげるから‥‥",
-   "en": ""
+   "en": "We'll sing you\na lullaby..."
   },
   {
    "id": "event_ev001800:0A20",
@@ -456,7 +456,7 @@
     56
    ],
    "jp": "るちあさん！\nちょっと{h }きてください",
-   "en": ""
+   "en": "Lucia!\nPlease come here a moment."
   },
   {
    "id": "event_ev001800:0A46",
@@ -464,7 +464,7 @@
     57
    ],
    "jp": "あ　ヒッポ　よくなったんだ\nよかったねぇ",
-   "en": ""
+   "en": "Oh, Hippo, you're better!\nI'm so glad!"
   },
   {
    "id": "event_ev001800:0A70",
@@ -472,7 +472,7 @@
     58
    ],
    "jp": "そんなことより！",
-   "en": ""
+   "en": "Never mind that!"
   },
   {
    "id": "event_ev001800:0A82",
@@ -480,7 +480,7 @@
     59
    ],
    "jp": "ワタシが{h }ちょっと{h }ねこんだだけで\nこの{h }ちらかりよう！",
-   "en": ""
+   "en": "I was in bed for just a little while,\nand look at this mess!"
   },
   {
    "id": "event_ev001800:0ABC",
@@ -488,7 +488,7 @@
     60
    ],
    "jp": "いったい　どこをどうやったら\nこんなことにっ！",
-   "en": ""
+   "en": "How on earth did you\nmake it like this?!"
   },
   {
    "id": "event_ev001800:0AEC",
@@ -496,7 +496,7 @@
     61
    ],
    "jp": "まったく　るちあさんという人は\nくどくどくどくどくどくど‥‥‥‥",
-   "en": ""
+   "en": "Honestly, Lucia, you are...\nnag nag nag nag nag nag........"
   },
   {
    "id": "event_ev001800:0B2E",
@@ -504,7 +504,7 @@
     62
    ],
    "jp": "うえーん！　もうすこし{h }ねこんでて\nくれてたほうが{h }よかったかも〜",
-   "en": ""
+   "en": "Waaah! Maybe it was better when\nhe stayed in bed a bit longer!"
   },
   {
    "id": "event_ev001800:0B72",
@@ -512,7 +512,7 @@
     63
    ],
    "jp": "（でも　よかった　やっぱりヒッポは\nこうじゃないとね）",
-   "en": ""
+   "en": "(But I'm glad. Hippo just\nhas to be like this.)"
   },
   {
    "id": "event_ev001800:0BAA",
@@ -520,7 +520,7 @@
     64
    ],
    "jp": "波音さん　ありがとうございました\nすっかり{h }よくなりましたよ",
-   "en": ""
+   "en": "Thank you very much, Hanon.\nI'm completely better now."
   },
   {
    "id": "event_ev001800:0BE8",
@@ -528,7 +528,7 @@
     65
    ],
    "jp": "ヒッポ　見てみて〜\nこの{h }ウサギリンゴ　かわいいでしょ",
-   "en": ""
+   "en": "Hippo, look, look!\nIsn't this bunny apple cute?"
   },
   {
    "id": "event_ev001800:0C20",
@@ -536,7 +536,7 @@
     66
    ],
    "jp": "‥‥かわいいですね？\nでも　それがどうかしたんですか？",
-   "en": ""
+   "en": "...It's cute, yes?\nBut what about it?"
   },
   {
    "id": "event_ev001800:0C58",
@@ -544,7 +544,7 @@
     67
    ],
    "jp": "すりリンゴを{h }つくるときに\nいーっぱい{h }れんしゅうしたの",
-   "en": ""
+   "en": "I practiced a whooole lot\nwhile I was grating apples."
   },
   {
    "id": "event_ev001800:0C92",
@@ -552,7 +552,7 @@
     68
    ],
    "jp": "うふっ　太郎ちゃんに\nさし入れ{h }するためによ{i21C}",
-   "en": ""
+   "en": "Hehe, so I can bring\nsnacks to my Taro{i21C}"
   },
   {
    "id": "event_ev001800:0CC2",
@@ -560,7 +560,7 @@
     69
    ],
    "jp": "ワタシのためだけじゃ\nなかったんですね‥‥",
-   "en": ""
+   "en": "So it wasn't\njust for me..."
   },
   {
    "id": "event_ev001800:0CEE",
@@ -568,7 +568,7 @@
     70
    ],
    "jp": "しくしく‥‥‥‥",
-   "en": ""
+   "en": "Sniff, sniff........"
   },
   {
    "id": "event_ev001800:0D00",
@@ -576,7 +576,7 @@
     71
    ],
    "jp": "リナさん　ありがとうございます\nおかげで{h }すっかり{h }げんきですよ",
-   "en": ""
+   "en": "Rina, thank you very much.\nThanks to you, I'm all better."
   },
   {
    "id": "event_ev001800:0D42",
@@ -584,7 +584,7 @@
     72
    ],
    "jp": "そうか　よかったな！",
-   "en": ""
+   "en": "I see. That's great!"
   },
   {
    "id": "event_ev001800:0D58",
@@ -592,7 +592,7 @@
     73
    ],
    "jp": "リナさんの{h }おかげです\nそれに{h }くらべて{h }あの２人は‥‥",
-   "en": ""
+   "en": "It's all thanks to you, Rina.\nCompared to you, those two..."
   },
   {
    "id": "event_ev001800:0D92",
@@ -600,7 +600,7 @@
     74
    ],
    "jp": "ヒッポが{h }しらないだけさ\n２人も{h }がんばってたんだよ",
-   "en": ""
+   "en": "You just don't know, Hippo.\nThose two worked hard too."
   },
   {
    "id": "event_ev001800:0DC8",
@@ -608,7 +608,7 @@
     75
    ],
    "jp": "えっ！？　そうなんですか？",
-   "en": ""
+   "en": "What?!\nIs that so?"
   },
   {
    "id": "event_ev001800:0DE4",
@@ -616,7 +616,7 @@
     76
    ],
    "jp": "フフ　そうだよ‥‥",
-   "en": ""
+   "en": "Heh, that's right..."
   },
   {
    "id": "event_ev001800:0DF8",
@@ -624,7 +624,7 @@
     77
    ],
    "jp": "ヒッポにも{h }見せたかったな‥‥",
-   "en": ""
+   "en": "I wish you could have seen it, Hippo..."
   },
   {
    "id": "event_ev001800:0E18",
@@ -632,7 +632,7 @@
     78
    ],
    "jp": "るちあたちが\nしんぱいしていた{h }ようす",
-   "en": ""
+   "en": "How worried Lucia\nand Hanon were."
   },
   {
    "id": "event_ev001800:0E40",
@@ -640,7 +640,7 @@
     79
    ],
    "jp": "{h }　　　　エピソード　１[4009]　　　　\n　『やさしいうたごえ』　おわり　",
-   "en": ""
+   "en": "Episode 1[4009]\n\"A Gentle Song\" - The End"
   }
  ]
 }

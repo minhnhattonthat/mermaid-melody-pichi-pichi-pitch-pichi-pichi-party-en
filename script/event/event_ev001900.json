@@ -10,7 +10,7 @@
     131
    ],
    "jp": "ねえ　ヒッポ見なかった？",
-   "en": ""
+   "en": "Hey, have you seen Hippo?"
   },
   {
    "id": "event_ev001900:001A",
@@ -18,7 +18,7 @@
     1
    ],
    "jp": "ゆきを{h }さがしに　みさきの\nてんぼうだいに{h }いったらしい",
-   "en": ""
+   "en": "I hear he went to Cape Lookout\nto look for snow."
   },
   {
    "id": "event_ev001900:0054",
@@ -26,7 +26,7 @@
     2
    ],
    "jp": "えーっ！　ゆきぃ！？\nこの{h }きせつにぃ？　本気なの？",
-   "en": ""
+   "en": "Whaaat! Snow?!\nIn this season? Is he serious?"
   },
   {
    "id": "event_ev001900:008A",
@@ -34,7 +34,7 @@
     3
    ],
    "jp": "ああ　本気で{h }ゆきを\nさがしてるみたいだぞ",
-   "en": ""
+   "en": "Yeah, he seems to be\nseriously looking for snow."
   },
   {
    "id": "event_ev001900:00B6",
@@ -42,7 +42,7 @@
     4
    ],
    "jp": "なんでも　ふしぎな{h }じょうほうを\n手に入れたらしい‥‥",
-   "en": ""
+   "en": "Apparently he got hold of\nsome mysterious information..."
   },
   {
    "id": "event_ev001900:00EE",
@@ -50,7 +50,7 @@
     5
    ],
    "jp": "そういえば　ヒッポ‥‥",
-   "en": ""
+   "en": "Now that you mention it, Hippo..."
   },
   {
    "id": "event_ev001900:0106",
@@ -58,7 +58,7 @@
     6
    ],
    "jp": "きせつはずれの{h }でんせつが\nどうとかいってた‥‥",
-   "en": ""
+   "en": "was saying something about\nan out-of-season legend..."
   },
   {
    "id": "event_ev001900:0138",
@@ -66,7 +66,7 @@
     7
    ],
    "jp": "さいしょのひとひらが\nふってくる{h }ばしょには‥‥",
-   "en": ""
+   "en": "They say the place where\nthe very first snowflake falls..."
   },
   {
    "id": "event_ev001900:016A",
@@ -74,7 +74,7 @@
     8
    ],
    "jp": "ねがいをかなえる\n力が{h }あるんだそうだ",
-   "en": ""
+   "en": "has the power\nto grant wishes."
   },
   {
    "id": "event_ev001900:0192",
@@ -82,7 +82,7 @@
     9
    ],
    "jp": "それで　てんぼうだいに\nいったのね！",
-   "en": ""
+   "en": "So that's why he went\nto the lookout!"
   },
   {
    "id": "event_ev001900:01B8",
@@ -90,7 +90,7 @@
     10
    ],
    "jp": "たしかにあそこなら　ゆきが\nふるばしょが{h }わかりそうだしね！",
-   "en": ""
+   "en": "From up there, he could surely\ntell where the snow will fall!"
   },
   {
    "id": "event_ev001900:01F6",
@@ -98,7 +98,7 @@
     11
    ],
    "jp": "え〜　だったら{h }わたしが\n手に入れよっと！",
-   "en": ""
+   "en": "Ooh, then I'm gonna\nget it myself!"
   },
   {
    "id": "event_ev001900:0222",
@@ -106,7 +106,7 @@
     12
    ],
    "jp": "ねがいごと　いーっぱい\nかなえるんだからぁ！",
-   "en": ""
+   "en": "I'm gonna make a whooole\nbunch of wishes come true!"
   },
   {
    "id": "event_ev001900:0250",
@@ -114,7 +114,7 @@
     13
    ],
    "jp": "みさきの{h }てんぼうだいに\nいそがなくっちゃ！",
-   "en": ""
+   "en": "I've got to hurry\nto Cape Lookout!"
   },
   {
    "id": "event_ev001900:027E",
@@ -122,7 +122,7 @@
     14
    ],
    "jp": "早くしないと\nヒッポに{h }先をこされちゃうよ！",
-   "en": ""
+   "en": "If I don't hurry,\nHippo will beat me to it!"
   },
   {
    "id": "event_ev001900:02AC",
@@ -130,7 +130,7 @@
     15
    ],
    "jp": "海斗の{h }こいびとになるねがいを\nかなえてもらうんだぁ‥‥",
-   "en": ""
+   "en": "I'll get my wish to be\nKaito's girlfriend granted..."
   },
   {
    "id": "event_ev001900:02E6",
@@ -138,7 +138,7 @@
     16
    ],
    "jp": "いそいで{h }てんぼうだいに\nいかないと！",
-   "en": ""
+   "en": "I've got to hurry\nto the lookout!"
   },
   {
    "id": "event_ev001900:030E",
@@ -146,7 +146,7 @@
     17
    ],
    "jp": "ねがいごとを{h }かなえるんだぁ！",
-   "en": ""
+   "en": "I'm gonna make my wish come true!"
   },
   {
    "id": "event_ev001900:032E",
@@ -154,7 +154,7 @@
     18
    ],
    "jp": "ゆきの{h }ふるばしょで‥‥\n太郎ちゃんとの‥‥ウフフ☆",
-   "en": ""
+   "en": "Where the snow falls...\nme and Taro... Hehehe ☆"
   },
   {
    "id": "event_ev001900:0364",
@@ -162,7 +162,7 @@
     19
    ],
    "jp": "みさきの{h }てんぼうだいに\nいそげー！",
-   "en": ""
+   "en": "Hurry to\nCape Lookout!"
   },
   {
    "id": "event_ev001900:038A",
@@ -170,7 +170,7 @@
     20
    ],
    "jp": "えーっと　みさきの{h }てんぼうだい\nだったよね",
-   "en": ""
+   "en": "Um, it was\nCape Lookout, right?"
   },
   {
    "id": "event_ev001900:03B8",
@@ -178,7 +178,7 @@
     21
    ],
    "jp": "ねがいごとがかなう　か‥‥",
-   "en": ""
+   "en": "A wish that comes true, huh..."
   },
   {
    "id": "event_ev001900:03D4",
@@ -186,7 +186,7 @@
     22
    ],
    "jp": "みさきの{h }てんぼうだい{h }だったよな",
-   "en": ""
+   "en": "It was Cape Lookout, right?"
   },
   {
    "id": "event_ev001900:03F8",
@@ -194,7 +194,7 @@
     23
    ],
    "jp": "きせつはずれに{h }ふるゆきか‥‥\nなんだか{h }すてきだな",
-   "en": ""
+   "en": "Snow falling out of season...\nSounds kind of lovely."
   },
   {
    "id": "event_ev001900:042E",
@@ -202,7 +202,7 @@
     24
    ],
    "jp": "みさきの{h }てんぼうだい{h }か‥‥",
-   "en": ""
+   "en": "Cape Lookout, huh..."
   },
   {
    "id": "event_ev001900:044E",
@@ -210,7 +210,7 @@
     25
    ],
    "jp": "あれ？　どうしたんですかぁ？\nそんなにあわてて〜？",
-   "en": ""
+   "en": "Huh? What's the matter?\nWhy are you in such a rush?"
   },
   {
    "id": "event_ev001900:0482",
@@ -218,7 +218,7 @@
     26
    ],
    "jp": "ゆき　どこに{h }ふりそうかわかる？",
-   "en": ""
+   "en": "Do you know where the snow will fall?"
   },
   {
    "id": "event_ev001900:04A4",
@@ -226,7 +226,7 @@
     27
    ],
    "jp": "もうすぐ{h }学校のほうで\nふりそうな{h }けはいが‥‥",
-   "en": ""
+   "en": "I sense that it's going to\nfall over by the School soon..."
   },
   {
    "id": "event_ev001900:04D6",
@@ -234,7 +234,7 @@
     28
    ],
    "jp": "う〜ん　それとも‥‥",
-   "en": ""
+   "en": "Hmmm, or maybe..."
   },
   {
    "id": "event_ev001900:04EC",
@@ -242,7 +242,7 @@
     29
    ],
    "jp": "わかった　学校ね！",
-   "en": ""
+   "en": "Got it, the School!"
   },
   {
    "id": "event_ev001900:0500",
@@ -250,7 +250,7 @@
     30
    ],
    "jp": "あ　るちあさんも　ねがいごとを\nかなえようとしてるんですね〜！",
-   "en": ""
+   "en": "Oh, Lucia, you're trying to\nget a wish granted too!"
   },
   {
    "id": "event_ev001900:0540",
@@ -258,7 +258,7 @@
     31
    ],
    "jp": "ダメですよ！　ワタシが{h }ねがいを\nかなえてもらうんですから〜",
-   "en": ""
+   "en": "No fair! I'm the one\nwho's getting my wish granted!"
   },
   {
    "id": "event_ev001900:057E",
@@ -266,7 +266,7 @@
     32
    ],
    "jp": "ヒッポは　っと‥‥\nあ　いたいた",
-   "en": ""
+   "en": "Now, where's Hippo...\nOh, there he is."
   },
   {
    "id": "event_ev001900:05A0",
@@ -274,7 +274,7 @@
     33
    ],
    "jp": "う〜ん　ゆきが{h }いちばんはじめに\nふってきそうなのは‥‥",
-   "en": ""
+   "en": "Hmmm, the place where the snow\nwill most likely fall first is..."
   },
   {
    "id": "event_ev001900:05DA",
@@ -282,7 +282,7 @@
     34
    ],
    "jp": "‥‥どうやら{h }学校ですかねぇ",
-   "en": ""
+   "en": "...the School, it seems."
   },
   {
    "id": "event_ev001900:05F8",
@@ -290,7 +290,7 @@
     35
    ],
    "jp": "う〜ん　それとも‥‥",
-   "en": ""
+   "en": "Hmmm, or maybe..."
   },
   {
    "id": "event_ev001900:060E",
@@ -298,7 +298,7 @@
     36
    ],
    "jp": "なるほど　学校ね！",
-   "en": ""
+   "en": "I see, the School!"
   },
   {
    "id": "event_ev001900:0622",
@@ -306,7 +306,7 @@
     37
    ],
    "jp": "あーっ　は　波音さん！",
-   "en": ""
+   "en": "Aaah! H-Hanon!"
   },
   {
    "id": "event_ev001900:063A",
@@ -314,7 +314,7 @@
     38
    ],
    "jp": "ぬすみぎきだなんて\nずるいですよぉ！",
-   "en": ""
+   "en": "Eavesdropping is\nnot fair!"
   },
   {
    "id": "event_ev001900:0660",
@@ -322,7 +322,7 @@
     39
    ],
    "jp": "こいを{h }みのらせるのに\nずるいも{h }なにも{h }ないんです〜",
-   "en": ""
+   "en": "When it comes to love,\nthere's no such thing as fair!"
   },
   {
    "id": "event_ev001900:0698",
@@ -330,7 +330,7 @@
     40
    ],
    "jp": "太郎ちゃんと{h }もーっと{h }なかよく\nなるんだもんねーだ！",
-   "en": ""
+   "en": "I'm gonna get even closer\nto my Taro! So there!"
   },
   {
    "id": "event_ev001900:06D0",
@@ -338,7 +338,7 @@
     41
    ],
    "jp": "ゆきは　どこにふってくるんだ？",
-   "en": ""
+   "en": "Where will the snow fall?"
   },
   {
    "id": "event_ev001900:06F0",
@@ -346,7 +346,7 @@
     42
    ],
    "jp": "そろそろ{h }学校の{h }ほうで\nふりそうですかね〜",
-   "en": ""
+   "en": "I think it'll fall over\nby the School soon..."
   },
   {
    "id": "event_ev001900:071E",
@@ -354,7 +354,7 @@
     43
    ],
    "jp": "う〜ん　それとも‥‥",
-   "en": ""
+   "en": "Hmmm, or maybe..."
   },
   {
    "id": "event_ev001900:0734",
@@ -362,7 +362,7 @@
     44
    ],
    "jp": "‥‥ところで　リナさんは\nなにを{h }おねがいするんですか？",
-   "en": ""
+   "en": "...By the way, Rina,\nwhat are you going to wish for?"
   },
   {
    "id": "event_ev001900:076E",
@@ -370,7 +370,7 @@
     45
    ],
    "jp": "う〜ん　みんなが‥‥‥‥",
-   "en": ""
+   "en": "Hmm, if everyone........"
   },
   {
    "id": "event_ev001900:0788",
@@ -378,7 +378,7 @@
     46
    ],
    "jp": "ワタシはですね　かわいい女の子に\nかこまれてですね‥‥",
-   "en": ""
+   "en": "As for me, I'll be surrounded\nby cute girls, and..."
   },
   {
    "id": "event_ev001900:07C0",
@@ -386,7 +386,7 @@
     47
    ],
    "jp": "‥‥‥‥なかよくなれれば　それで",
-   "en": ""
+   "en": "........could get along,\nthat'd be enough."
   },
   {
    "id": "event_ev001900:07E2",
@@ -394,7 +394,7 @@
     48
    ],
    "jp": "‥‥もう{h }たいへん\nという{h }かんじで‥‥",
-   "en": ""
+   "en": "...it'll be just\nso wonderful..."
   },
   {
    "id": "event_ev001900:080C",
@@ -402,7 +402,7 @@
     49
    ],
    "jp": "‥‥‥‥‥‥\n‥‥‥‥‥‥‥‥いくか",
-   "en": ""
+   "en": "............\n................Let's go."
   },
   {
    "id": "event_ev001900:0832",
@@ -410,7 +410,7 @@
     50
    ],
    "jp": "早く学校に{h }いかないと‥‥",
-   "en": ""
+   "en": "I've got to hurry to the School..."
   },
   {
    "id": "event_ev001900:084E",
@@ -418,7 +418,7 @@
     51
    ],
    "jp": "学校で{h }ゆきがふるのをまって\nおねがいをしないとね！",
-   "en": ""
+   "en": "I'll wait at the School for the snow\nto fall and make my wish!"
   },
   {
    "id": "event_ev001900:0884",
@@ -426,7 +426,7 @@
     52
    ],
    "jp": "早く{h }いかないと\nゆきが{h }ふりはじめちゃうかも",
-   "en": ""
+   "en": "If I don't hurry, the snow\nmight start falling!"
   },
   {
    "id": "event_ev001900:08B4",
@@ -434,7 +434,7 @@
     53
    ],
    "jp": "ねがいごとは{h }きまってるんだから\n早く　早く！",
-   "en": ""
+   "en": "I've already decided my wish,\nso hurry, hurry!"
   },
   {
    "id": "event_ev001900:08E4",
@@ -442,7 +442,7 @@
     54
    ],
    "jp": "太郎ちゃん　まっててねぇ〜☆",
-   "en": ""
+   "en": "Wait for me, Taro ☆"
   },
   {
    "id": "event_ev001900:0902",
@@ -450,7 +450,7 @@
     55
    ],
    "jp": "ダッシュで{h }学校に{h }いかないと\nまにあわないよ〜",
-   "en": ""
+   "en": "I'll never make it unless\nI dash to the School!"
   },
   {
    "id": "event_ev001900:0934",
@@ -458,7 +458,7 @@
     56
    ],
    "jp": "学校でおねがいして　太郎ちゃんと\nもっと{h }なかよくなるんだから！",
-   "en": ""
+   "en": "I'll wish at the School and\nget even closer to Taro!"
   },
   {
    "id": "event_ev001900:0976",
@@ -466,7 +466,7 @@
     57
    ],
    "jp": "学校！　学校！\nいそげぇ〜〜",
-   "en": ""
+   "en": "The School! The School!\nHurryyy!"
   },
   {
    "id": "event_ev001900:0994",
@@ -474,7 +474,7 @@
     58
    ],
    "jp": "‥‥学校{h }だったよな",
-   "en": ""
+   "en": "...It was the School, right?"
   },
   {
    "id": "event_ev001900:09AA",
@@ -482,7 +482,7 @@
     59
    ],
    "jp": "ほんとうに　学校に\nゆきが{h }ふってくるのかな‥‥",
-   "en": ""
+   "en": "Will snow really\nfall at the School...?"
   },
   {
    "id": "event_ev001900:09DC",
@@ -490,7 +490,7 @@
     60
    ],
    "jp": "学校か‥‥\nいそいだほうが{h }いいかな‥‥",
-   "en": ""
+   "en": "The School, huh...\nMaybe I should hurry..."
   },
   {
    "id": "event_ev001900:0A06",
@@ -498,7 +498,7 @@
     61
    ],
    "jp": "とにかく　学校に{h }いってみよう‥‥",
-   "en": ""
+   "en": "Anyway, let's go to the School..."
   },
   {
    "id": "event_ev001900:0A2A",
@@ -506,7 +506,7 @@
     62
    ],
    "jp": "エヘヘ‥‥わたしが{h }いっちばーん！",
-   "en": ""
+   "en": "Hehe... I'm number one!"
   },
   {
    "id": "event_ev001900:0A4E",
@@ -514,7 +514,7 @@
     63
    ],
    "jp": "あれ？　学校に{h }だれかいるみたい",
-   "en": ""
+   "en": "Huh? Looks like someone's\nat the School."
   },
   {
    "id": "event_ev001900:0A70",
@@ -522,7 +522,7 @@
     64
    ],
    "jp": "あーっ！　あれはっ！？",
-   "en": ""
+   "en": "Aaah! Is that...?!"
   },
   {
    "id": "event_ev001900:0A88",
@@ -530,7 +530,7 @@
     65
    ],
    "jp": "うふふ‥‥ここね‥‥",
-   "en": ""
+   "en": "Hehehe... So this is it..."
   },
   {
    "id": "event_ev001900:0A9E",
@@ -538,7 +538,7 @@
     66
    ],
    "jp": "ねがいのかなうばしょ\nというのは‥‥",
-   "en": ""
+   "en": "The place where wishes\ncome true..."
   },
   {
    "id": "event_ev001900:0AC4",
@@ -546,7 +546,7 @@
     67
    ],
    "jp": "わたしの{h }ねがいが{h }かなうまで\nだれにも{h }ふみいれさせはしない‥‥",
-   "en": ""
+   "en": "Until my wish comes true,\nI won't let anyone set foot here..."
   },
   {
    "id": "event_ev001900:0B08",
@@ -562,7 +562,7 @@
     69
    ],
    "jp": "わたしのねがいを{h }水妖なんかに\nじゃまさせないんだからぁ！",
-   "en": ""
+   "en": "I won't let some water demon\nget in the way of my wish!"
   },
   {
    "id": "event_ev001900:0B5C",
@@ -570,7 +570,7 @@
     70
    ],
    "jp": "いくわよ！！",
-   "en": ""
+   "en": "Here I come!!"
   },
   {
    "id": "event_ev001900:0B6A",
@@ -578,7 +578,7 @@
     71
    ],
    "jp": "とうちゃく〜　‥‥うんっ\nゆきは{h }まだ{h }ふってないみたいだね！",
-   "en": ""
+   "en": "Made it! ...Okay,\nlooks like it's not snowing yet!"
   },
   {
    "id": "event_ev001900:0BAA",
@@ -586,7 +586,7 @@
     72
    ],
    "jp": "‥‥あれっ！？\nあんなところに水妖が！",
-   "en": ""
+   "en": "...Huh?!\nThere's a water demon over there!"
   },
   {
    "id": "event_ev001900:0BD2",
@@ -594,7 +594,7 @@
     73
    ],
    "jp": "うふふ‥‥ここね‥‥",
-   "en": ""
+   "en": "Hehehe... So this is it..."
   },
   {
    "id": "event_ev001900:0BE8",
@@ -602,7 +602,7 @@
     74
    ],
    "jp": "ねがいのかなうばしょ\nというのは‥‥",
-   "en": ""
+   "en": "The place where wishes\ncome true..."
   },
   {
    "id": "event_ev001900:0C0E",
@@ -610,7 +610,7 @@
     75
    ],
    "jp": "わたしの{h }ねがいが{h }かなうまで\nだれにも{h }ふみいれさせはしない‥‥",
-   "en": ""
+   "en": "Until my wish comes true,\nI won't let anyone set foot here..."
   },
   {
    "id": "event_ev001900:0C52",
@@ -618,7 +618,7 @@
     76
    ],
    "jp": "なんですって〜！\nわたしの{h }ねがいをさしおいて",
-   "en": ""
+   "en": "What did you say?!\nPutting my wish aside..."
   },
   {
    "id": "event_ev001900:0C82",
@@ -626,7 +626,7 @@
     77
    ],
    "jp": "水妖なんかのねがいを\nかなえさせるもんですか！",
-   "en": ""
+   "en": "As if I'd let a water demon's\nwish come true!"
   },
   {
    "id": "event_ev001900:0CB2",
@@ -634,7 +634,7 @@
     78
    ],
    "jp": "太郎ちゃんと{h }わたしの\nみらいのために‥‥いくわよ！！",
-   "en": ""
+   "en": "For Taro's and my future...\nHere I come!!"
   },
   {
    "id": "event_ev001900:0CEA",
@@ -642,7 +642,7 @@
     79
    ],
    "jp": "まだ{h }ふりはじめてないようだな\nしばらく{h }まっているとしようか",
-   "en": ""
+   "en": "Seems it hasn't started yet.\nI'll wait here a while."
   },
   {
    "id": "event_ev001900:0D2A",
@@ -650,7 +650,7 @@
     80
    ],
    "jp": "‥‥‥‥おや　あれは？",
-   "en": ""
+   "en": "........Hm? What's that?"
   },
   {
    "id": "event_ev001900:0D42",
@@ -658,7 +658,7 @@
     81
    ],
    "jp": "うふふ‥‥ここね‥‥",
-   "en": ""
+   "en": "Hehehe... So this is it..."
   },
   {
    "id": "event_ev001900:0D58",
@@ -666,7 +666,7 @@
     82
    ],
    "jp": "ねがいのかなうばしょ\nというのは‥‥",
-   "en": ""
+   "en": "The place where wishes\ncome true..."
   },
   {
    "id": "event_ev001900:0D7E",
@@ -674,7 +674,7 @@
     83
    ],
    "jp": "わたしの{h }ねがいが{h }かなうまで\nだれにも{h }ふみいれさせはしない‥‥",
-   "en": ""
+   "en": "Until my wish comes true,\nI won't let anyone set foot here..."
   },
   {
    "id": "event_ev001900:0DC2",
@@ -682,7 +682,7 @@
     84
    ],
    "jp": "あんなところに水妖が！\nくっ　このままでは{h }まずい！",
-   "en": ""
+   "en": "A water demon over there!\nUgh, this is bad!"
   },
   {
    "id": "event_ev001900:0DF8",
@@ -690,7 +690,7 @@
     85
    ],
    "jp": "水妖のねがいなど　なにひとつ\nかなえさせてなるものかっ！",
-   "en": ""
+   "en": "I won't let a single one of\na water demon's wishes come true!"
   },
   {
    "id": "event_ev001900:0E32",
@@ -698,7 +698,7 @@
     86
    ],
    "jp": "いくぞ！！",
-   "en": ""
+   "en": "Here I come!!"
   },
   {
    "id": "event_ev001900:0E3E",
@@ -706,7 +706,7 @@
     87
    ],
    "jp": "‥‥もう　ヒッポったら！\nゆきなんか　ふってこないじゃない！",
-   "en": ""
+   "en": "...Geez, Hippo!\nNo snow is falling at all!"
   },
   {
    "id": "event_ev001900:0E7C",
@@ -714,7 +714,7 @@
     88
    ],
    "jp": "せっかく　海斗とのこと\nねがいごと{h }するんだったのに！",
-   "en": ""
+   "en": "And I was gonna make\na wish about me and Kaito!"
   },
   {
    "id": "event_ev001900:0EB4",
@@ -722,7 +722,7 @@
     89
    ],
    "jp": "おい　るちあ　こんなところで\nなに{h }つったってんだ？",
-   "en": ""
+   "en": "Hey, Lucia, what are you\nstanding around here for?"
   },
   {
    "id": "event_ev001900:0EEA",
@@ -730,7 +730,7 @@
     90
    ],
    "jp": "きゃ　きゃあー！　海斗っ！？",
-   "en": ""
+   "en": "Eek, eeeek! Kaito?!"
   },
   {
    "id": "event_ev001900:0F08",
@@ -738,7 +738,7 @@
     91
    ],
    "jp": "おまえが{h }なにやってんのか\nしらないけどさ",
-   "en": ""
+   "en": "I don't know\nwhat you're up to, but"
   },
   {
    "id": "event_ev001900:0F34",
@@ -746,7 +746,7 @@
     92
    ],
    "jp": "そろそろ{h }かえったほうがいいぜ",
-   "en": ""
+   "en": "you'd better head home soon."
   },
   {
    "id": "event_ev001900:0F54",
@@ -754,7 +754,7 @@
     93
    ],
    "jp": "あはははは‥‥そうだね",
-   "en": ""
+   "en": "Ahahaha... You're right."
   },
   {
    "id": "event_ev001900:0F6C",
@@ -762,7 +762,7 @@
     94
    ],
    "jp": "なぁ　オレこれから\nかえるんだけど‥‥",
-   "en": ""
+   "en": "Hey, I'm heading\nhome now..."
   },
   {
    "id": "event_ev001900:0F94",
@@ -770,7 +770,7 @@
     95
    ],
    "jp": "いっしょに{h }かえるか？",
-   "en": ""
+   "en": "Wanna walk home together?"
   },
   {
    "id": "event_ev001900:0FAC",
@@ -778,7 +778,7 @@
     96
    ],
    "jp": "う　うん！",
-   "en": ""
+   "en": "Y-Yeah!"
   },
   {
    "id": "event_ev001900:0FB8",
@@ -786,7 +786,7 @@
     97
    ],
    "jp": "（やったぁ！　これって{h }ねがいが\nかなったのかな！？）",
-   "en": ""
+   "en": "(Yaaay! Does this mean\nmy wish came true?!)"
   },
   {
    "id": "event_ev001900:0FF0",
@@ -794,7 +794,7 @@
     98
    ],
    "jp": "ふぅ‥‥これであとは\nゆきが{h }ふってくるのを‥‥",
-   "en": ""
+   "en": "Phew... Now all that's left\nis to wait for the snow..."
   },
   {
    "id": "event_ev001900:1022",
@@ -802,7 +802,7 @@
     99
    ],
    "jp": "‥‥って　ぜんぜん　ゆきなんか\nふってこないじゃない！",
-   "en": ""
+   "en": "...Wait, there's no snow\nfalling at all!"
   },
   {
    "id": "event_ev001900:105A",
@@ -810,7 +810,7 @@
     100
    ],
    "jp": "せっかく太郎ちゃんと‥‥",
-   "en": ""
+   "en": "And I was going to wish about Taro..."
   },
   {
    "id": "event_ev001900:1074",
@@ -818,7 +818,7 @@
     101
    ],
    "jp": "おや　波音さん　\nここで{h }なにを{h }してたんですか？",
-   "en": ""
+   "en": "Oh, Hanon.\nWhat were you doing here?"
   },
   {
    "id": "event_ev001900:10A8",
@@ -826,7 +826,7 @@
     102
    ],
    "jp": "わっ　たろ‥‥じゃなくて海月先生！",
-   "en": ""
+   "en": "Whoa, Tar... I mean, Mr. Mitsuki!"
   },
   {
    "id": "event_ev001900:10CC",
@@ -834,7 +834,7 @@
     103
    ],
    "jp": "あの　わたし\nゆきの{h }かんさつを{h }してたんです",
-   "en": ""
+   "en": "Um, I was\nobserving the snow."
   },
   {
    "id": "event_ev001900:10FC",
@@ -842,7 +842,7 @@
     104
    ],
    "jp": "ゆき‥‥ですか？\nこの{h }あついのに？",
-   "en": ""
+   "en": "Snow...?\nIn this heat?"
   },
   {
    "id": "event_ev001900:1122",
@@ -850,7 +850,7 @@
     105
    ],
    "jp": "あっ！　ちがいます！",
-   "en": ""
+   "en": "Oh! No, that's not it!"
   },
   {
    "id": "event_ev001900:1138",
@@ -858,7 +858,7 @@
     106
    ],
    "jp": "今日のほうかご　としょかんで\nしらべてたんです！",
-   "en": ""
+   "en": "After school today, I was\nresearching it at the Library!"
   },
   {
    "id": "event_ev001900:116A",
@@ -866,7 +866,7 @@
     107
    ],
    "jp": "そうだったんですか\nそれは{h }かんしんですね‥‥",
-   "en": ""
+   "en": "Is that so?\nThat's admirable..."
   },
   {
    "id": "event_ev001900:119A",
@@ -874,7 +874,7 @@
     108
    ],
    "jp": "なにか{h }おもしろい{h }はっけんは\nありましたか？",
-   "en": ""
+   "en": "Did you discover\nanything interesting?"
   },
   {
    "id": "event_ev001900:11CA",
@@ -882,7 +882,7 @@
     109
    ],
    "jp": "はいっ！　ゆきって{h }ねがいがかなう\nちからが{h }あるらしいんです",
-   "en": ""
+   "en": "Yes! They say snow has\nthe power to grant wishes."
   },
   {
    "id": "event_ev001900:120A",
@@ -890,7 +890,7 @@
     110
    ],
    "jp": "それは{h }おもしろい{h }はなしですね",
-   "en": ""
+   "en": "What an interesting story."
   },
   {
    "id": "event_ev001900:122C",
@@ -898,7 +898,7 @@
     111
    ],
    "jp": "そうだ　じかんはありますか？",
-   "en": ""
+   "en": "Oh, do you have some time?"
   },
   {
    "id": "event_ev001900:124A",
@@ -906,7 +906,7 @@
     112
    ],
    "jp": "すこし{h }おはなしして\nいきましょうか？",
-   "en": ""
+   "en": "Shall we chat\nfor a little while?"
   },
   {
    "id": "event_ev001900:1272",
@@ -914,7 +914,7 @@
     113
    ],
    "jp": "はいっ　よろしく{h }おねがいします！",
-   "en": ""
+   "en": "Yes, I'd love to!"
   },
   {
    "id": "event_ev001900:1296",
@@ -922,7 +922,7 @@
     114
    ],
    "jp": "（やった！　ゆきは{h }ふらないのに\nねがいは　かなっちゃった☆）",
-   "en": ""
+   "en": "(Yay! The snow didn't fall,\nbut my wish came true anyway ☆)"
   },
   {
    "id": "event_ev001900:12D6",
@@ -930,7 +930,7 @@
     115
    ],
    "jp": "‥‥ゆき　ふってこないな‥‥",
-   "en": ""
+   "en": "...The snow isn't falling..."
   },
   {
    "id": "event_ev001900:12F4",
@@ -938,7 +938,7 @@
     116
    ],
    "jp": "どうやら　ヒッポの{h }じょうほうは\nまちがいだったようだ‥‥",
-   "en": ""
+   "en": "It seems Hippo's information\nwas wrong..."
   },
   {
    "id": "event_ev001900:1330",
@@ -946,7 +946,7 @@
     117
    ],
    "jp": "あっ　リナ！　ゆきふってこないね",
-   "en": ""
+   "en": "Oh, Rina! The snow isn't falling, huh."
   },
   {
    "id": "event_ev001900:1352",
@@ -954,7 +954,7 @@
     118
    ],
    "jp": "まったく　ヒッポったら‥‥",
-   "en": ""
+   "en": "Honestly, that Hippo..."
   },
   {
    "id": "event_ev001900:136E",
@@ -970,7 +970,7 @@
     120
    ],
    "jp": "ねえ　リナは　なにを\nおねがいするつもりだったのぉ？",
-   "en": ""
+   "en": "Hey, Rina, what were\nyou going to wish for?"
   },
   {
    "id": "event_ev001900:13AE",
@@ -978,7 +978,7 @@
     121
    ],
    "jp": "やっぱり{h }ねがいごとといえば\nすきな人との{h }ことなんじゃな〜い",
-   "en": ""
+   "en": "A wish has to be about\nthe person you like, riiight?"
   },
   {
    "id": "event_ev001900:13EE",
@@ -986,7 +986,7 @@
     122
    ],
    "jp": "ち　ちがう{h }ちがう！\nかってに{h }きめるな！",
-   "en": ""
+   "en": "N-No, no!\nDon't just decide that!"
   },
   {
    "id": "event_ev001900:141A",
@@ -994,7 +994,7 @@
     123
    ],
    "jp": "ずっと{h }みんなが\nなかよくできればいいなって",
-   "en": ""
+   "en": "I just hoped that everyone\ncould always get along."
   },
   {
    "id": "event_ev001900:1448",
@@ -1002,7 +1002,7 @@
     124
    ],
    "jp": "ふう〜ん‥‥",
-   "en": ""
+   "en": "Hmmm..."
   },
   {
    "id": "event_ev001900:1456",
@@ -1010,7 +1010,7 @@
     125
    ],
    "jp": "じゃあ　ゆきはふらなかったけど\nみんなで{h }おねがいしよっか☆",
-   "en": ""
+   "en": "Then even without the snow,\nlet's all make that wish ☆"
   },
   {
    "id": "event_ev001900:1494",
@@ -1018,7 +1018,7 @@
     126
    ],
    "jp": "うんっ",
-   "en": ""
+   "en": "Yeah!"
   },
   {
    "id": "event_ev001900:149C",
@@ -1026,7 +1026,7 @@
     127
    ],
    "jp": "ありがとう　みんな‥‥",
-   "en": ""
+   "en": "Thanks, everyone..."
   },
   {
    "id": "event_ev001900:14B4",
@@ -1034,7 +1034,7 @@
     128
    ],
    "jp": "（ほんとうに　ずっと{h }みんなが\nなかよく{h }してられますように）",
-   "en": ""
+   "en": "(I really hope everyone\ncan always get along.)"
   },
   {
    "id": "event_ev001900:14F4",
@@ -1042,7 +1042,7 @@
     129
    ],
    "jp": "{h }　　　　エピソード　２０　　　　\n　　『ゆきへのねがい』　おわり　",
-   "en": ""
+   "en": "Episode 20\n\"A Wish for Snow\" - The End"
   }
  ]
 }

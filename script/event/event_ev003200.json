@@ -11,7 +11,7 @@
     111
    ],
    "jp": "『ぴちぴちパーティー』へ\nようこそ！",
-   "en": ""
+   "en": "Welcome to\n\"Pichi Pichi Party\"!"
   },
   {
    "id": "event_ev003200:0026",
@@ -19,7 +19,7 @@
     1
    ],
    "jp": "ここでは　みんなが\nたのしくあそぶための‥‥",
-   "en": ""
+   "en": "Here, so everyone\ncan have lots of fun..."
   },
   {
    "id": "event_ev003200:0054",
@@ -27,7 +27,7 @@
     2
    ],
    "jp": "ゲームの\nあそびかたを‥‥",
-   "en": ""
+   "en": "how to play\nthe game..."
   },
   {
    "id": "event_ev003200:0070",
@@ -35,7 +35,7 @@
     3
    ],
    "jp": "じっさいに{h }あそびながら\nおしえてあげるよ！",
-   "en": ""
+   "en": "we'll show you while\nwe actually play!"
   },
   {
    "id": "event_ev003200:009E",
@@ -43,7 +43,7 @@
     4
    ],
    "jp": "このゲームは『ヒロインポイント』を\n上げながら{h }だれよりもはやく‥‥",
-   "en": ""
+   "en": "In this game, you raise your \"Heroine\nPoints\" and race to be first..."
   },
   {
    "id": "event_ev003200:00E4",
@@ -51,7 +51,7 @@
     5
    ],
    "jp": "『ゴール』をめざす\nボードゲームだよ",
-   "en": ""
+   "en": "to reach the \"Goal\".\nIt's a board game!"
   },
   {
    "id": "event_ev003200:010A",
@@ -59,7 +59,7 @@
     6
    ],
    "jp": "『ヒロインポイント』は‥‥",
-   "en": ""
+   "en": "The \"Heroine Points\"..."
   },
   {
    "id": "event_ev003200:0126",
@@ -67,7 +67,7 @@
     7
    ],
    "jp": "いま{h }下に出たすうじがそうなの",
-   "en": ""
+   "en": "are the number that just\nappeared down below."
   },
   {
    "id": "event_ev003200:0146",
@@ -75,7 +75,7 @@
     8
    ],
    "jp": "『ヒロインポイント』がおおいと\nみりょくてきな女の子ということで",
-   "en": ""
+   "en": "More \"Heroine Points\" means\nyou're a more charming girl, so"
   },
   {
    "id": "event_ev003200:0188",
@@ -83,7 +83,7 @@
     9
    ],
    "jp": "うたうときに{h }みんなをリードする\nいちで{h }うたったり‥‥",
-   "en": ""
+   "en": "you get to sing in the spot\nleading everyone..."
   },
   {
    "id": "event_ev003200:01C2",
@@ -91,7 +91,7 @@
     10
    ],
    "jp": "エピソードのさいごが\nそのヒロインのおはなしになるの",
-   "en": ""
+   "en": "and the end of the episode\nbecomes that heroine's story!"
   },
   {
    "id": "event_ev003200:01F8",
@@ -99,7 +99,7 @@
     11
    ],
    "jp": "つまり{h }そのエピソードの\n『しゅやく』になれるってことよね☆",
-   "en": ""
+   "en": "So you get to be the \"star\"\nof that episode! ☆"
   },
   {
    "id": "event_ev003200:0236",
@@ -107,7 +107,7 @@
     12
    ],
    "jp": "そのために{h }ゴールめざして\n『きょうそう』するわけだな",
-   "en": ""
+   "en": "That's why we \"compete\"\nto reach the Goal."
   },
   {
    "id": "event_ev003200:026E",
@@ -115,7 +115,7 @@
     13
    ],
    "jp": "そうそう‥‥",
-   "en": ""
+   "en": "That's right..."
   },
   {
    "id": "event_ev003200:027C",
@@ -123,7 +123,7 @@
     14
    ],
    "jp": "はじめるまえに{h }ちょっとだけ\nヒントをおしえてあげるね",
-   "en": ""
+   "en": "Before we start, let me\ngive you a little tip."
   },
   {
    "id": "event_ev003200:02B4",
@@ -131,7 +131,7 @@
     15
    ],
    "jp": "このゲームのルーレットは\nちょっとかわってて‥‥",
-   "en": ""
+   "en": "The roulette in this game\nis a bit unusual..."
   },
   {
    "id": "event_ev003200:02E6",
@@ -139,7 +139,7 @@
     16
    ],
    "jp": "うまくねらうと{h }大きなすうじを\n出せるの",
-   "en": ""
+   "en": "If you aim well,\nyou can get big numbers."
   },
   {
    "id": "event_ev003200:0310",
@@ -147,7 +147,7 @@
     17
    ],
    "jp": "大きなオンプが{h }ひくいばしょに\nくるようにＡボタンをおしてみて",
-   "en": ""
+   "en": "Try pressing the A Button when a big\nNote comes to a low spot."
   },
   {
    "id": "event_ev003200:0350",
@@ -155,7 +155,7 @@
     18
    ],
    "jp": "うまくなると{h }あるていどだけど\n出る目をすきにえらべるようになるよ",
-   "en": ""
+   "en": "Once you get good, you can pick\nthe number you get, more or less."
   },
   {
    "id": "event_ev003200:0394",
@@ -163,7 +163,7 @@
     19
    ],
    "jp": "それじゃあ{h }じっさいにゲームを\nあそんでみよう！",
-   "en": ""
+   "en": "Okay, let's actually\nplay the game!"
   },
   {
    "id": "event_ev003200:03C6",
@@ -171,7 +171,7 @@
     20
    ],
    "jp": "ルーレットのオンプは\nはねかえると{h }へんかするの",
-   "en": ""
+   "en": "The roulette Notes\nchange when they bounce."
   },
   {
    "id": "event_ev003200:03F8",
@@ -179,7 +179,7 @@
     21
    ],
    "jp": "オンプは{h }たかさで{h }\nはねるかずが{h }かわるんだよ",
-   "en": ""
+   "en": "How many times a Note\nbounces depends on its height."
   },
   {
    "id": "event_ev003200:042A",
@@ -187,7 +187,7 @@
     22
    ],
    "jp": "大きいかずのオンプをひくいところで\nおせば{h }大きなすうじが出やすいよ",
-   "en": ""
+   "en": "Press when a big-number Note is low,\nand you'll get big numbers more easily."
   },
   {
    "id": "event_ev003200:0470",
@@ -195,7 +195,7 @@
     23
    ],
    "jp": "じょうずになれば{h }いつでも大きな\nすうじを{h }出せるようになるかも！",
-   "en": ""
+   "en": "If you get good, you might be able\nto get big numbers every time!"
   },
   {
    "id": "event_ev003200:04B4",
@@ -203,7 +203,7 @@
     24
    ],
    "jp": "『きがえ』って{h }だいじよ\nきがえると{h }みりょくてきになれるの",
-   "en": ""
+   "en": "\"Changing clothes\" is important!\nNew outfits make you more charming."
   },
   {
    "id": "event_ev003200:04F2",
@@ -211,7 +211,7 @@
     25
    ],
    "jp": "みりょくてきになれば\n『ヒロインポイント』がたかくなるし",
-   "en": ""
+   "en": "Being more charming\nraises your \"Heroine Points\","
   },
   {
    "id": "event_ev003200:052C",
@@ -219,7 +219,7 @@
     26
    ],
    "jp": "いろいろなヒロインのつよさも\nへんかするのよ",
-   "en": ""
+   "en": "and it changes the heroines'\nvarious stats, too."
   },
   {
    "id": "event_ev003200:055A",
@@ -227,7 +227,7 @@
     27
    ],
    "jp": "みどりマスが４つあるところでは\nおかいものができちゃうわよ",
-   "en": ""
+   "en": "Where there are four Green Spaces,\nyou can go shopping!"
   },
   {
    "id": "event_ev003200:0596",
@@ -235,7 +235,7 @@
     28
    ],
    "jp": "青いマスでもときどき\nきせかえアイテムがもらえるわ",
-   "en": ""
+   "en": "Sometimes Blue Spaces give\nyou dress-up items too."
   },
   {
    "id": "event_ev003200:05CA",
@@ -243,7 +243,7 @@
     29
    ],
    "jp": "とことんピッチで入手したきがえは\nきせかえピッチに{h }ついかされるの！",
-   "en": ""
+   "en": "Outfits you get in All-Out Pitch\nare added to Dress-Up Pitch!"
   },
   {
    "id": "event_ev003200:0610",
@@ -251,7 +251,7 @@
     30
    ],
    "jp": "カードは{h }じぶんのばんに１まい\nもらえる　どんどんつかおう",
-   "en": ""
+   "en": "You get one card each turn.\nUse them freely."
   },
   {
    "id": "event_ev003200:064C",
@@ -259,7 +259,7 @@
     31
    ],
    "jp": "カードをつかうときには\nこうかてきな{h }タイミングをねらおう",
-   "en": ""
+   "en": "When you use a card,\naim for the most effective timing."
   },
   {
    "id": "event_ev003200:0688",
@@ -267,7 +267,7 @@
     32
    ],
    "jp": "カードのつかいみちは\n１つだけじゃない　くふうしてみよう",
-   "en": ""
+   "en": "Cards have more than one use.\nGet creative."
   },
   {
    "id": "event_ev003200:06C2",
@@ -275,7 +275,7 @@
     33
    ],
    "jp": "カードは{h }きいろいマスか{h }たまに\n青いマスでも手に入るぞ",
-   "en": ""
+   "en": "You get cards on Yellow Spaces,\nand sometimes on Blue Spaces."
   },
   {
    "id": "event_ev003200:06FC",
@@ -283,7 +283,7 @@
     34
    ],
    "jp": "とうちゃく〜！",
-   "en": ""
+   "en": "We're heeere!"
   },
   {
    "id": "event_ev003200:070C",
@@ -291,7 +291,7 @@
     35
    ],
    "jp": "『もくてきち』についたじゅんばんで\nもらえるボーナスがかわるよ",
-   "en": ""
+   "en": "The bonus you get depends on the\norder you reach the \"Destination\"."
   },
   {
    "id": "event_ev003200:074C",
@@ -299,7 +299,7 @@
     36
    ],
    "jp": "『もくてきち』についたら\nつぎは『ゴール』にいこう！",
-   "en": ""
+   "en": "Once you reach the \"Destination\",\nhead for the \"Goal\" next!"
   },
   {
    "id": "event_ev003200:0782",
@@ -307,7 +307,7 @@
     37
    ],
    "jp": "とうちゃく〜！",
-   "en": ""
+   "en": "We're heeere!"
   },
   {
    "id": "event_ev003200:0792",
@@ -315,7 +315,7 @@
     38
    ],
    "jp": "『もくてきち』についたじゅんばんで\nもらえるボーナスがかわるよ",
-   "en": ""
+   "en": "The bonus you get depends on the\norder you reach the \"Destination\"."
   },
   {
    "id": "event_ev003200:07D2",
@@ -323,7 +323,7 @@
     39
    ],
    "jp": "『もくてきち』についたら\nつぎは『ゴール』にいこう！",
-   "en": ""
+   "en": "Once you reach the \"Destination\",\nhead for the \"Goal\" next!"
   },
   {
    "id": "event_ev003200:0808",
@@ -331,7 +331,7 @@
     40
    ],
    "jp": "とうちゃく",
-   "en": ""
+   "en": "Arrived."
   },
   {
    "id": "event_ev003200:0814",
@@ -339,7 +339,7 @@
     41
    ],
    "jp": "『もくてきち』についたじゅんばんで\nもらえるボーナスがかわるぞ",
-   "en": ""
+   "en": "The bonus you get depends on the\norder you reach the \"Destination\"."
   },
   {
    "id": "event_ev003200:0854",
@@ -347,7 +347,7 @@
     42
    ],
    "jp": "『もくてきち』についたら\nつぎは『ゴール』だな",
-   "en": ""
+   "en": "Once you reach the \"Destination\",\nthe \"Goal\" is next."
   },
   {
    "id": "event_ev003200:0884",
@@ -355,7 +355,7 @@
     43
    ],
    "jp": "{i20C}や{i20D}や{i20E}など{h }ひょうじされたら\nわたしたちのつよさがへんかしてるの",
-   "en": ""
+   "en": "When {i20C}, {i20D}, {i20E} etc. show up,\nit means our stats are changing."
   },
   {
    "id": "event_ev003200:08CA",
@@ -363,7 +363,7 @@
     44
    ],
    "jp": "{i20C}や{i20D}や{i20E}がつよくなると\nバトルなどで{h }ゆうりになれるよ",
-   "en": ""
+   "en": "Stronger {i20C}, {i20D} and {i20E} give\nyou an edge in battles and such!"
   },
   {
    "id": "event_ev003200:0904",
@@ -371,7 +371,7 @@
     45
    ],
    "jp": "つよさは{h }きがえをしても{h }かわるよ",
-   "en": ""
+   "en": "Changing clothes changes your stats too."
   },
   {
    "id": "event_ev003200:0928",
@@ -379,7 +379,7 @@
     46
    ],
    "jp": "つよさが{h }へんかするカードもあるよ",
-   "en": ""
+   "en": "Some cards change your stats too!"
   },
   {
    "id": "event_ev003200:094C",
@@ -387,7 +387,7 @@
     47
    ],
    "jp": "海斗くんや太郎ちゃんたちとペアに\nなると{h }いろんな{h }こうかがおきるのよ",
-   "en": ""
+   "en": "Pairing up with Kaito, Taro and the\nothers has all kinds of effects!"
   },
   {
    "id": "event_ev003200:0994",
@@ -395,7 +395,7 @@
     48
    ],
    "jp": "ペアのときにみどりマスにとまると\n{i21C}なできごとがおきるときがあるわ",
-   "en": ""
+   "en": "If you stop on a Green Space while\npaired, something {i21C} may happen!"
   },
   {
    "id": "event_ev003200:09D8",
@@ -403,7 +403,7 @@
     49
    ],
    "jp": "ペアになって{h }いっしょにいると\n『なかよし』になれるのよ",
-   "en": ""
+   "en": "Staying together as a pair\nbuilds up your \"Friendship\"."
   },
   {
    "id": "event_ev003200:0A12",
@@ -411,7 +411,7 @@
     50
    ],
    "jp": "ペアになって『なかよし』がたかいと\nゴールのときのボーナスがふえるの",
-   "en": ""
+   "en": "If your pair's \"Friendship\" is high,\nyour bonus at the Goal goes up!"
   },
   {
    "id": "event_ev003200:0A58",
@@ -419,7 +419,7 @@
     51
    ],
    "jp": "ゴールのあとは{h }さいごにバトルで\nぎゃくてんのチャンスがあるぞ",
-   "en": ""
+   "en": "After the Goal, there's a final battle\nwith a chance to turn things around."
   },
   {
    "id": "event_ev003200:0A98",
@@ -427,7 +427,7 @@
     52
    ],
    "jp": "ゴールのじゅんばんで１ばんのほうが\nバトルでも{h }ゆうりになるんだ",
-   "en": ""
+   "en": "The earlier you reach the Goal,\nthe bigger your edge in the battle."
   },
   {
    "id": "event_ev003200:0ADA",
@@ -435,7 +435,7 @@
     53
    ],
    "jp": "バトルでは{h }あたえたダメージで\n『ヒロインポイント』がふえるぞ",
-   "en": ""
+   "en": "In battles, damage you deal\nraises your \"Heroine Points\"."
   },
   {
    "id": "event_ev003200:0B1A",
@@ -443,7 +443,7 @@
     54
    ],
    "jp": "バトルでは{h }うけたダメージで\n『ヒロインポイント』がへるんだ",
-   "en": ""
+   "en": "In battles, damage you take\nlowers your \"Heroine Points\"."
   },
   {
    "id": "event_ev003200:0B58",
@@ -451,7 +451,7 @@
     55
    ],
    "jp": "やったあ！　ゴールしたよ\nわたしが１ばん！",
-   "en": ""
+   "en": "Yay! I reached the Goal!\nI'm number one!"
   },
   {
    "id": "event_ev003200:0B84",
@@ -459,7 +459,7 @@
     56
    ],
    "jp": "『もくてきち』とちがって\nだれかが『ゴール』すると‥‥",
-   "en": ""
+   "en": "Unlike the \"Destination\",\nwhen someone reaches the \"Goal\"..."
   },
   {
    "id": "event_ev003200:0BBC",
@@ -467,7 +467,7 @@
     57
    ],
    "jp": "ぜんいんしゅうごうして\nそのエピソードはおわりになるの",
-   "en": ""
+   "en": "everyone gathers, and\nthat episode ends."
   },
   {
    "id": "event_ev003200:0BF4",
@@ -475,7 +475,7 @@
     58
    ],
    "jp": "あとは{h }さいごに\nバトルでうたって‥‥",
-   "en": ""
+   "en": "Then, at the very end,\nwe sing in a battle..."
   },
   {
    "id": "event_ev003200:0C1C",
@@ -483,7 +483,7 @@
     59
    ],
    "jp": "さいしゅうてきな\nそのエピソードのじゅんいをきめるの",
-   "en": ""
+   "en": "to decide the final\nrankings for that episode!"
   },
   {
    "id": "event_ev003200:0C52",
@@ -491,7 +491,7 @@
     60
    ],
    "jp": "波音{h }リナ！\nダンスバトルで{h }しょうぶしよ！",
-   "en": ""
+   "en": "Hanon, Rina!\nLet's face off in a Dance Battle!"
   },
   {
    "id": "event_ev003200:0C80",
@@ -499,7 +499,7 @@
     61
    ],
    "jp": "やったあ！　ゴール！\nわたしが１ばんよ！",
-   "en": ""
+   "en": "Yay! Goal!\nI'm number one!"
   },
   {
    "id": "event_ev003200:0CAA",
@@ -507,7 +507,7 @@
     62
    ],
    "jp": "『もくてきち』とちがって\nだれかが『ゴール』すると‥‥",
-   "en": ""
+   "en": "Unlike the \"Destination\",\nwhen someone reaches the \"Goal\"..."
   },
   {
    "id": "event_ev003200:0CE2",
@@ -515,7 +515,7 @@
     63
    ],
    "jp": "ぜんいんしゅうごうして\nそのエピソードはおわりになるの",
-   "en": ""
+   "en": "everyone gathers, and\nthat episode ends."
   },
   {
    "id": "event_ev003200:0D1A",
@@ -523,7 +523,7 @@
     64
    ],
    "jp": "あとは{h }さいごに\nバトルでうたって‥‥",
-   "en": ""
+   "en": "Then, at the very end,\nwe sing in a battle..."
   },
   {
    "id": "event_ev003200:0D42",
@@ -531,7 +531,7 @@
     65
    ],
    "jp": "さいしゅうてきな\nそのエピソードのじゅんいをきめるの",
-   "en": ""
+   "en": "to decide the final\nrankings for that episode!"
   },
   {
    "id": "event_ev003200:0D78",
@@ -539,7 +539,7 @@
     66
    ],
    "jp": "るちあ{h }リナ！\nダンスバトル　いっくわよ〜！",
-   "en": ""
+   "en": "Lucia, Rina!\nHere comes the Dance Battle!"
   },
   {
    "id": "event_ev003200:0DA6",
@@ -547,7 +547,7 @@
     67
    ],
    "jp": "よし！　ゴール！\nわたしが１ばんだな",
-   "en": ""
+   "en": "All right! Goal!\nI'm number one."
   },
   {
    "id": "event_ev003200:0DCC",
@@ -555,7 +555,7 @@
     68
    ],
    "jp": "『もくてきち』とちがって\nだれかが『ゴール』すると‥‥",
-   "en": ""
+   "en": "Unlike the \"Destination\",\nwhen someone reaches the \"Goal\"..."
   },
   {
    "id": "event_ev003200:0E04",
@@ -563,7 +563,7 @@
     69
    ],
    "jp": "ぜんいんしゅうごうして\nそのエピソードはおわりになるんだ",
-   "en": ""
+   "en": "Everyone gathers, and\nthat episode ends."
   },
   {
    "id": "event_ev003200:0E3E",
@@ -571,7 +571,7 @@
     70
    ],
    "jp": "あとは{h }さいごに\nバトルでうたって‥‥",
-   "en": ""
+   "en": "Then, at the very end,\nwe sing in a battle..."
   },
   {
    "id": "event_ev003200:0E66",
@@ -579,7 +579,7 @@
     71
    ],
    "jp": "さいしゅうてきな{h }そのエピソードの\nじゅんいをきめるんだ",
-   "en": ""
+   "en": "to decide the final rankings\nfor that episode."
   },
   {
    "id": "event_ev003200:0EA0",
@@ -587,7 +587,7 @@
     72
    ],
    "jp": "るちあ{h }波音！\nダンスバトルで{h }きそおう！",
-   "en": ""
+   "en": "Lucia, Hanon!\nLet's compete in a Dance Battle!"
   },
   {
    "id": "event_ev003200:0ECC",
@@ -595,7 +595,7 @@
     73
    ],
    "jp": "こんかいの１ばんは{h }わたしね！",
-   "en": ""
+   "en": "I'm number one this time!"
   },
   {
    "id": "event_ev003200:0EEC",
@@ -603,7 +603,7 @@
     74
    ],
    "jp": "さいしゅうてきな\n『ヒロインポイント』のけっかで",
-   "en": ""
+   "en": "The final \"Heroine Points\"\nresults decide"
   },
   {
    "id": "event_ev003200:0F1E",
@@ -611,7 +611,7 @@
     75
    ],
    "jp": "だれのおはなしで\nおわるかが{h }きまるの",
-   "en": ""
+   "en": "whose story the episode\nends with!"
   },
   {
    "id": "event_ev003200:0F46",
@@ -619,7 +619,7 @@
     76
    ],
    "jp": "くやし〜\nいけるとおもったのに〜",
-   "en": ""
+   "en": "So frustrating!\nI thought I had it!"
   },
   {
    "id": "event_ev003200:0F68",
@@ -627,7 +627,7 @@
     77
    ],
    "jp": "だめだったか‥‥\nつぎは{h }まけないぞ",
-   "en": ""
+   "en": "Didn't work out, huh...\nI won't lose next time."
   },
   {
    "id": "event_ev003200:0F8E",
@@ -635,7 +635,7 @@
     78
    ],
    "jp": "えへへ　やったあ！",
-   "en": ""
+   "en": "Hehe, yay!"
   },
   {
    "id": "event_ev003200:0FA2",
@@ -643,7 +643,7 @@
     79
    ],
    "jp": "つぎのエピソードがあるばあいは\n『ヒロインポイント』のポイントを",
-   "en": ""
+   "en": "If there's another episode,\nyour \"Heroine Points\""
   },
   {
    "id": "event_ev003200:0FE4",
@@ -651,7 +651,7 @@
     80
    ],
    "jp": "『ごうけいヒロインポイント』に\nうつして　０からスタートになるの",
-   "en": ""
+   "en": "move into your \"Total Heroine Points\",\nand you start again from 0."
   },
   {
    "id": "event_ev003200:1026",
@@ -659,7 +659,7 @@
     81
    ],
    "jp": "ゲームのさいごは‥‥",
-   "en": ""
+   "en": "At the end of the game..."
   },
   {
    "id": "event_ev003200:103C",
@@ -667,7 +667,7 @@
     82
    ],
    "jp": "『ごうけいヒロインポイント』の\nかずで{h }しょうぶがきまるんだよ",
-   "en": ""
+   "en": "the winner is decided by\n\"Total Heroine Points\"!"
   },
   {
    "id": "event_ev003200:107C",
@@ -675,7 +675,7 @@
     83
    ],
    "jp": "『ぴちぴちパーティー』が\nどんなゲームかわかった？",
-   "en": ""
+   "en": "Do you get what kind of game\n\"Pichi Pichi Party\" is now?"
   },
   {
    "id": "event_ev003200:10B0",
@@ -683,7 +683,7 @@
     84
    ],
    "jp": "それじゃあ　またね！",
-   "en": ""
+   "en": "Okay, see you later!"
   },
   {
    "id": "event_ev003200:10C6",
@@ -691,7 +691,7 @@
     85
    ],
    "jp": "こんかいの１ばんは{h }わたしね！",
-   "en": ""
+   "en": "I'm number one this time!"
   },
   {
    "id": "event_ev003200:10E6",
@@ -699,7 +699,7 @@
     86
    ],
    "jp": "さいしゅうてきな\n『ヒロインポイント』のけっかで",
-   "en": ""
+   "en": "The final \"Heroine Points\"\nresults decide"
   },
   {
    "id": "event_ev003200:1118",
@@ -707,7 +707,7 @@
     87
    ],
    "jp": "だれのおはなしで\nおわるかが{h }きまるの",
-   "en": ""
+   "en": "whose story the episode\nends with!"
   },
   {
    "id": "event_ev003200:1140",
@@ -715,7 +715,7 @@
     88
    ],
    "jp": "あ〜ん\nいけるとおもったのに〜",
-   "en": ""
+   "en": "Aww...\nI thought I had it!"
   },
   {
    "id": "event_ev003200:1160",
@@ -723,7 +723,7 @@
     89
    ],
    "jp": "だめだったか‥‥\nつぎは{h }まけないぞ",
-   "en": ""
+   "en": "Didn't work out, huh...\nI won't lose next time."
   },
   {
    "id": "event_ev003200:1186",
@@ -731,7 +731,7 @@
     90
    ],
    "jp": "うふふ　やったあ☆",
-   "en": ""
+   "en": "Hehe, yay! ☆"
   },
   {
    "id": "event_ev003200:119A",
@@ -739,7 +739,7 @@
     91
    ],
    "jp": "つぎのエピソードがあるばあいは\n『ヒロインポイント』のポイントを",
-   "en": ""
+   "en": "If there's another episode,\nyour \"Heroine Points\""
   },
   {
    "id": "event_ev003200:11DC",
@@ -747,7 +747,7 @@
     92
    ],
    "jp": "『ごうけいヒロインポイント』に\nうつして　０からスタートになるの",
-   "en": ""
+   "en": "move into your \"Total Heroine Points\",\nand you start again from 0."
   },
   {
    "id": "event_ev003200:121E",
@@ -755,7 +755,7 @@
     93
    ],
    "jp": "ゲームのさいごは‥‥",
-   "en": ""
+   "en": "At the end of the game..."
   },
   {
    "id": "event_ev003200:1234",
@@ -763,7 +763,7 @@
     94
    ],
    "jp": "『ごうけいヒロインポイント』の\nかずで{h }しょうぶがきまるのよ",
-   "en": ""
+   "en": "the winner is decided by\n\"Total Heroine Points\"!"
   },
   {
    "id": "event_ev003200:1272",
@@ -771,7 +771,7 @@
     95
    ],
    "jp": "『ぴちぴちパーティー』が\nどんなゲームかわかった？",
-   "en": ""
+   "en": "Do you get what kind of game\n\"Pichi Pichi Party\" is now?"
   },
   {
    "id": "event_ev003200:12A6",
@@ -779,7 +779,7 @@
     96
    ],
    "jp": "それじゃあ　またね！",
-   "en": ""
+   "en": "Okay, see you later!"
   },
   {
    "id": "event_ev003200:12BC",
@@ -787,7 +787,7 @@
     97
    ],
    "jp": "こんかいの１ばんは{h }わたしだな",
-   "en": ""
+   "en": "I'm number one this time."
   },
   {
    "id": "event_ev003200:12DC",
@@ -795,7 +795,7 @@
     98
    ],
    "jp": "さいしゅうてきな\n『ヒロインポイント』のけっかで",
-   "en": ""
+   "en": "The final \"Heroine Points\"\nresults decide"
   },
   {
    "id": "event_ev003200:130E",
@@ -803,7 +803,7 @@
     99
    ],
    "jp": "だれのおはなしで\nおわるかが{h }きまるんだ",
-   "en": ""
+   "en": "whose story the episode\nends with."
   },
   {
    "id": "event_ev003200:1338",
@@ -811,7 +811,7 @@
     100
    ],
    "jp": "あ〜ん\nいけるとおもったのに〜",
-   "en": ""
+   "en": "Aww...\nI thought I had it!"
   },
   {
    "id": "event_ev003200:1358",
@@ -819,7 +819,7 @@
     101
    ],
    "jp": "だめだったな‥‥\nつぎは{h }まけないわよ",
-   "en": ""
+   "en": "That didn't work out...\nI won't lose next time!"
   },
   {
    "id": "event_ev003200:1380",
@@ -827,7 +827,7 @@
     102
    ],
    "jp": "ふふ　こんかいはもらった",
-   "en": ""
+   "en": "Heh, this one's mine."
   },
   {
    "id": "event_ev003200:139A",
@@ -835,7 +835,7 @@
     103
    ],
    "jp": "つぎのエピソードがあるばあいは\n『ヒロインポイント』のポイントを",
-   "en": ""
+   "en": "If there's another episode,\nyour \"Heroine Points\""
   },
   {
    "id": "event_ev003200:13DC",
@@ -843,7 +843,7 @@
     104
    ],
    "jp": "『ごうけいヒロインポイント』に\nうつして　０からスタートになるんだ",
-   "en": ""
+   "en": "move into your \"Total Heroine Points\",\nand you start again from 0."
   },
   {
    "id": "event_ev003200:1420",
@@ -851,7 +851,7 @@
     105
    ],
    "jp": "ゲームのさいごは‥‥",
-   "en": ""
+   "en": "At the end of the game..."
   },
   {
    "id": "event_ev003200:1436",
@@ -859,7 +859,7 @@
     106
    ],
    "jp": "『ごうけいヒロインポイント』の\nかずで{h }しょうぶがきまるわけだ",
-   "en": ""
+   "en": "the winner is decided by\n\"Total Heroine Points\"."
   },
   {
    "id": "event_ev003200:1476",
@@ -867,7 +867,7 @@
     107
    ],
    "jp": "『ぴちぴちパーティー』が\nどんなゲームかわかったかな？",
-   "en": ""
+   "en": "Do you get what kind of game\n\"Pichi Pichi Party\" is now?"
   },
   {
    "id": "event_ev003200:14AE",
@@ -875,7 +875,7 @@
     108
    ],
    "jp": "それじゃ　またな！",
-   "en": ""
+   "en": "Well then, see you."
   }
  ]
 }
