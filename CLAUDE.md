@@ -31,6 +31,8 @@ Prequel (read-only reference, never modify): H:\translation\batch\projects\merma
 - Debug: tools/debug/mode.lua (mode switch), event.lua (force event), scenes.md.
 
 ## Status
-- Done: phases 0-6 text (all 6866 units translated, reviews b03-b18 fixed), VWF, episode title cards.
-  Running: reviews b19-b34, graphics agents (title, results). Next: reviews b35-b44, gfx groups board/battle/clothes,
-  sysstat + ROM data strings (0x29E710..), name entry, QA tour, release.
+- Done: all phases; v1.0 released locally (release/*.zip, patch SHA-1 636346ed1a64d7169b1484fc47f17b1049ed8367).
+  Text 6866/6866 units English (reviewed, sample review approved); graphics groups in docs/re/graphics.md;
+  VWF with px budget, ext strings (tools/romdata.py), pop-up composer (tools/patches.py), Latin name entry.
+  QA: tools/qa_tour.py; pop-ups via tools/lua/popup.lua. Open: status screen (System > View) and in-story Change
+  Clothes not reached by scripted runs (docs/known_issues.txt).
