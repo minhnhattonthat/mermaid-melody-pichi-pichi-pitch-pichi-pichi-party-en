@@ -17,7 +17,12 @@ def mode(m, frames, mash=60, every=60):
 
 
 def event(ev, frames=4200):
-    return mode("0x0829AD48", frames, 40, 50) + ["--script", "tools/debug/event.lua", "--var", f"EV={ev}"]
+    """Story mode; the episode's first script load is replaced by evNNNNNN (pointer from the ROM's file system)."""
+    return mode("0x0829AD48", frames, 40, 50) + ["--script", "tools/debug/event.lua", "--var", f"EV={ev}",
+                                                  "--var", "EV_FROM=0"]
+
+
+ROM = ["build/mmppp2_en.gba"]
 
 
 SCENES = [
@@ -34,7 +39,8 @@ SCENES = [
     ("linkerror", mode("0x0829AD84", 3000, 0)),
     ("continue_save", mode("0x0829ACC0", 4000)),
     ("sram", mode("0x0829ACAC", 3000, 0)),
-] + [(f"ev{e}", event(e)) for e in (100, 500, 1500, 2500, 3100, 5000, 5100, 5150, 5500, 5600, 5640, 6000, 9000)]
+]
+EVENTS = (100, 500, 1500, 2500, 3100, 5000, 5100, 5150, 5500, 5600, 5640, 6000, 9000)
 
 
 def run(rom, out, name, args):
@@ -52,7 +58,9 @@ def main():
     out = a[a.index("--out") + 1] if "--out" in a else "work/qa/tour"
     only = a[a.index("--only") + 1].split(",") if "--only" in a else None
     jobs = int(a[a.index("--jobs") + 1]) if "--jobs" in a else 3
-    todo = [(n, x) for n, x in SCENES if not only or n in only]
+    ROM[0] = rom
+    scenes = SCENES + [(f"ev{e}", event(e)) for e in EVENTS]
+    todo = [(n, x) for n, x in scenes if not only or n in only]
     bad = 0
     with ThreadPoolExecutor(jobs) as ex:
         for name, rc in ex.map(lambda t: run(rom, out, *t), todo):

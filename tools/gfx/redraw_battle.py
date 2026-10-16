@@ -18,6 +18,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.dirname(HERE)); sys.path.insert(0, HERE)
 import redraw  # noqa: E402
 import pixfont  # noqa: E402
+import gfxfmt as gfx  # noqa: E402
 
 NARROW = "ARIALNB.TTF"   # Arial Narrow Bold: the kana labels are tight, a narrow face keeps full words
 
@@ -261,7 +262,54 @@ def def_bar_icon():
     save(a, im, p)
 
 
+# contest STEP panels: /bastup/c22_NN.bst = 5 contests x 3 states (normal / current step / done); 8bpp tiles
+# (256-colour OBJ, 20 tiles wide, 160x160), stored mirrored (the sprites are h-flipped). The exported PNG is the
+# 4bpp nibble view (tw 40); edit_8bpp converts both ways.
+STEPS = [("Tricky Steps", "Tough Middle Part", "Final Pose"),           # ふりつけ: むずかしいステップ / とちゅうのなんしょ / さいごのキメポーズ
+         ("Read the Recipe", "Seasoning", "Plating"),                   # りょうり: レシピをよむ / あじつけ / もりつけ
+         ("Settle the Idea", "Design Balance", "Finishing Touches"),    # デッサン: イメージをかためる / デザインのバランス / さいごのしあげ
+         ("Play Together", "Race Together", "Frisbee"),                 # じゃれつき: じゃれる / いっしょにかけっこ / フリスビー
+         ("The Opening", "Sing Slowly", "Softer and Softer")]           # やさしく: でだし / ゆっくりとうたう / だんだんちいさく
+
+
+def step_plate(a, k, text):
+    """Plate k (0-2): text box x 52-153, rows 28+32k .. 44+32k (unmirrored); letters keep the original per-row
+    gradient and 1-px outline of this plate state."""
+    x0, y0, x1, y1 = 52, 28 + 32 * k, 153, 44 + 32 * k
+    sub = a[y0:y1, x0:x1]
+    P = int(np.bincount(sub.ravel()).argmax())
+    isP = sub == P
+    nb = np.zeros_like(isP)
+    nb[1:] |= isP[:-1]; nb[:-1] |= isP[1:]; nb[:, 1:] |= isP[:, :-1]; nb[:, :-1] |= isP[:, 1:]
+    O = int(np.bincount(sub[nb & ~isP]).argmax())
+    L = ~isP & (sub != O)
+    grad = nearest({y0 + r: v for r, v in row_modes(sub, L).items()})
+    ink = set(np.unique(sub[L]).tolist()) | {O}
+    sub[:] = P
+    edge = a[y0 + 1:y1 - 1, x1:x1 + 5]              # some kana spill into the plate's rounded right edge
+    edge[np.isin(edge, list(ink))] = P
+    m, cap = tmask(text, 14)
+    assert m.shape[1] + 3 <= x1 - x0, text
+    put(a, x0, y0 + 3 - cap - 1, disc(m, 1), O)
+    put(a, x0 + 1, y0 + 3 - cap, m, grad)
+
+
+def edit_8bpp(path, fn):
+    a4, im = load(path)
+    px = np.array(gfx.tiles_to_pixels(gfx.pixels_to_tiles(a4.tolist(), 4), 8, 20))[:, ::-1].copy()
+    fn(px)
+    raw = gfx.pixels_to_tiles(px[:, ::-1].tolist(), 8)
+    save(np.array(gfx.tiles_to_pixels(raw, 4, a4.shape[1] // 8)), im, path)
+
+
+def step_panels():
+    for n in range(15):
+        texts = STEPS[n // 3]
+        edit_8bpp("/bastup/c22_%02d.bst" % n, lambda a: [step_plate(a, k, t) for k, t in enumerate(texts)])
+
+
 if __name__ == "__main__":
+    step_panels()
     def_bar_icon()
     bg_off()
     bg_def()
