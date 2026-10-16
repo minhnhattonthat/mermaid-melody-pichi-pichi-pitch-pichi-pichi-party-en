@@ -226,7 +226,7 @@
     27
    ],
    "jp": "けほ{h }けほ　すっごいホコリ\n‥‥こんなところに出るんだ",
-   "en": "*Cough, cough* So much dust!\n...So this is where it comes out."
+   "en": "(Cough, cough) So much dust!\n...So this is where it comes out."
   },
   {
    "id": "event_ev005063:0572",
@@ -498,7 +498,7 @@
     61
    ],
    "jp": "けほ{h }けほ　すっごいホコリ\n‥‥こんなところに出るんだ",
-   "en": "*Cough, cough* So much dust!\n...So this is where it comes out."
+   "en": "(Cough, cough) So much dust!\n...So this is where it comes out."
   },
   {
    "id": "event_ev005063:0C3C",
@@ -770,7 +770,7 @@
     95
    ],
    "jp": "ゲホ{h }ゲホ　すっごいホコリだ\nここは？{h }ちかしつだな",
-   "en": "*Cough, cough* So much dust.\nWhere's this? A basement."
+   "en": "(Cough, cough) So much dust.\nWhere's this? A basement."
   },
   {
    "id": "event_ev005063:12E8",

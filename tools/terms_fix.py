@@ -22,6 +22,8 @@ FIXES = [
     (r"Hymn That Wouldn't Start", "Hymn That Won't Start"),
     (r"\b[Tt]he Pearl Piari\b", "Pearl Piari"),
     (r"\bthe Cape Lookout\b", "Cape Lookout"),
+    (r"\*([^*\n]{1,40})\*", lambda m: "(" + m.group(1)[0].upper() + m.group(1)[1:] + ")"),  # SFX style
+    (r"\bKyaa+h?!", "Eek!"),
 ]
 
 
