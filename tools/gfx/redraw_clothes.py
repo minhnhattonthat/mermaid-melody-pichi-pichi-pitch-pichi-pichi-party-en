@@ -93,7 +93,7 @@ def yes_no(a):
     for x0, text in ((0, "Yes"), (32, "No")):
         box = a[17:31, x0 + 4:x0 + 28]  # old kana: rows 1..14 inside the pill border
         box[np.isin(box, (0xc, 0xd, 0xf))] = 0xa
-        m = ttf_mask(text, "arialbd.ttf", 13)
+        m = ttf_mask(text, "LiberationSans-Bold.ttf", 13)
         assert m.shape[1] <= 23, text
         x = x0 + 16 - (m.shape[1] + 1) // 2
         y = 23 - m.shape[0] // 2

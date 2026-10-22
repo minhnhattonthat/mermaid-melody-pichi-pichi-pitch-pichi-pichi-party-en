@@ -20,7 +20,7 @@ import redraw  # noqa: E402
 import pixfont  # noqa: E402
 import gfxfmt as gfx  # noqa: E402
 
-NARROW = "ARIALNB.TTF"   # Arial Narrow Bold: the kana labels are tight, a narrow face keeps full words
+NARROW = "RobotoCondensed-Bold.ttf"   # the kana labels are tight, a narrow face keeps full words
 
 
 # ------------------------------------------------------------------ helpers
@@ -136,8 +136,12 @@ def relabel(a, box, text, size, letters, struct=(), rings=((2, "bg"),), bg=None,
         b = bg
     sub[:] = b
     plate = nearest({y0 + y: int(np.bincount(b[y][b[y] > 0]).argmax()) for y in range(b.shape[0]) if b[y].max()}, 0)
-    m, cap = tmask(text, size, font)
-    w = m.shape[1]
+    while True:     # shrink only the labels that overflow the box
+        m, cap = tmask(text, size, font)
+        w = m.shape[1]
+        if w + 2 * r + pad + 1 <= x1 - x0 or size <= 8:
+            break
+        size -= 1
     if align == "c":
         x = (x0 + x1) // 2 - w // 2
     elif align == "r":
@@ -224,7 +228,7 @@ def call_bar():
     cells = [(0, 96 + 24 * k) for k in range(6)] + [(128, 32 * k) for k in range(6)]
     for (x, y), t in zip(cells, names + names):
         relabel(a, (x, y, x + 128, y + 24), t, 14, letters=[8, 7, 6], struct=[9, 0xf, 0xa, 4], bg=tpl,
-                rings=((3, 4), (1, 0xf)), font="ARLRDBD.TTF", pad=2)
+                rings=((3, 4), (1, 0xf)), font="Nunito-ExtraBold.ttf", pad=2)
     save(a, im, p)
 
 
@@ -289,6 +293,8 @@ def step_plate(a, k, text):
     edge = a[y0 + 1:y1 - 1, x1:x1 + 5]              # some kana spill into the plate's rounded right edge
     edge[np.isin(edge, list(ink))] = P
     m, cap = tmask(text, 14)
+    if m.shape[1] + 3 > x1 - x0:
+        m, cap = tmask(text, 13)
     assert m.shape[1] + 3 <= x1 - x0, text
     put(a, x0, y0 + 3 - cap - 1, disc(m, 1), O)
     put(a, x0 + 1, y0 + 3 - cap, m, grad)

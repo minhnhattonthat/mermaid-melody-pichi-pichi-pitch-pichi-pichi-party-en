@@ -9,7 +9,7 @@ sys.path.insert(0, os.path.dirname(HERE)); sys.path.insert(0, HERE)
 import apply  # noqa: E402
 from PIL import Image, ImageDraw, ImageFont  # noqa: E402
 
-FONTS = "C:/Windows/Fonts/"
+FONTS = os.path.join(apply.ROOT, "fonts") + "/"   # open fonts only, licences beside them (docs/fonts.md)
 
 
 def load(path):
@@ -22,7 +22,7 @@ def save(im, path):
     im.save(os.path.join(apply.EN, apply.name_of(path)))
 
 
-def text_mask(text, font="comicbd.ttf", size=18, thresh=128):
+def text_mask(text, font="Nunito-ExtraBold.ttf", size=18, thresh=128):
     """1-bit mask (list of rows of 0/1) of text rendered without anti-aliasing (BASIC layout)."""
     f = ImageFont.truetype(FONTS + font, size, layout_engine=ImageFont.Layout.BASIC)
     x0, y0, x1, y1 = f.getbbox(text)
@@ -53,7 +53,7 @@ def stamp(im, x, y, m, ink):
                 px[x + xx, y + yy] = ink
 
 
-def outlined(im, cx, cy, text, fill, ring, font="comicbd.ttf", size=18, r=1):
+def outlined(im, cx, cy, text, fill, ring, font="Nunito-ExtraBold.ttf", size=18, r=1):
     """Draw text centred at (cx, cy) with an r-pixel ring."""
     m = text_mask(text, font, size)
     o = dilate(m, r)
@@ -97,7 +97,7 @@ def wrap2(text, maxw, font, size):
 
 def ep_cards():
     """/system/title/evNNNN00.dcg: 208x96 episode title cards, index 0 background, 7 white fill, 1 red ring."""
-    font = "comicbd.ttf"
+    font = "Nunito-ExtraBold.ttf"
     for n, title in enumerate(EPISODES):
         path = "/system/title/ev%04d00.dcg" % n
         orig = load(path)

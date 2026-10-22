@@ -15,7 +15,7 @@ import redraw  # noqa: E402
 import pixfont  # noqa: E402
 
 FONTS = redraw.FONTS
-ROUND = "ARLRDBD.TTF"  # Arial Rounded MT Bold: closest to the game's rounded headings
+ROUND = "Nunito-ExtraBold.ttf"  # rounded, closest to the game's rounded headings
 
 
 # ------------------------------------------------------------------ helpers
@@ -31,13 +31,17 @@ def save(a, im, path):
     redraw.save(out, path)
 
 
-def tmask(text, font, size, thresh=128):
-    """Unantialiased text mask with a fixed vertical frame: returns (mask, cap_top, baseline) in mask rows."""
+def tmask(text, font, size, thresh=128, mono=False):
+    """Unantialiased text mask with a fixed vertical frame: returns (mask, cap_top, baseline) in mask rows.
+    mono: hinted 1-bit rendering instead of thresholding (keeps thin strokes whole at small sizes)."""
     f = ImageFont.truetype(FONTS + font, size, layout_engine=ImageFont.Layout.BASIC)
     asc, desc = f.getmetrics()
     w = int(f.getlength(text)) + 4
     im = Image.new("L", (w, asc + desc + 2), 0)
-    ImageDraw.Draw(im).text((1, 1), text, font=f, fill=255)
+    d = ImageDraw.Draw(im)
+    if mono:
+        d.fontmode = "1"
+    d.text((1, 1), text, font=f, fill=255)
     m = (np.array(im) >= thresh).astype(np.uint8)
     cols = np.nonzero(m.any(0))[0]
     m = m[:, cols.min():cols.max() + 1] if len(cols) else m[:, :0]
@@ -297,7 +301,7 @@ def result_obj():
 
 
 # ------------------------------------------------------------------ staff roll (4bpp, 240x1600)
-SR_FONT, SR_SIZE = "tahoma.ttf", 11
+SR_FONT, SR_SIZE = "DejaVuSansCondensed.ttf", 11
 A, B = 8, 128          # role column, name column
 SL, SM = 10, 128       # song credits: lyrics, music
 T1, T2 = 36, 144      # special thanks: two name columns
@@ -381,7 +385,7 @@ def staff_roll():
     for y, items in staff_lines():
         end = 0
         for x, t in items:
-            m, top, base = tmask(t, SR_FONT, SR_SIZE)
+            m, top, base = tmask(t, SR_FONT, SR_SIZE, mono=True)
             if x == "c":
                 x = 120 - m.shape[1] // 2
             elif x == -1:

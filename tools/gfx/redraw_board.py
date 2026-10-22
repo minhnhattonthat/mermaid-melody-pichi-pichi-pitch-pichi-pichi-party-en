@@ -13,10 +13,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.dirname(HERE)); sys.path.insert(0, HERE)
 import apply  # noqa: E402
 import pixfont  # noqa: E402
-from redraw import EPISODES  # noqa: E402
+from redraw import EPISODES, FONTS  # noqa: E402
 
-FONTS = "C:/Windows/Fonts/"
-BOLD = "tahomabd.ttf"  # hinted mono rendering of Tahoma Bold is crisp at 8-14 px
+BOLD = "DejaVuSansCondensed-Bold.ttf"  # hinted mono rendering is crisp at 8-14 px
 
 
 # ------------------------------------------------------------------ io

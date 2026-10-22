@@ -1,7 +1,8 @@
 # Graphics workstream brief (one group per agent)
 
-Repo: H:\translation\batch\projects\mermaid-melody-pichi-pichi-pitch-pichi-pichi-party. Read CLAUDE.md, glossary.md,
-tools/debug/scenes.md, and the graphics reference H:\translation\batch\.claude\skills\translate-retro-game\references\graphics.md.
+Repo: H:\translation\mermaid-melody-pichi-pichi-pitch-pichi-pichi-party. Read AGENTS.md, glossary.md,
+tools/debug/scenes.md, and the graphics reference $SKILL/references/graphics.md.
+Fonts: only the open fonts in fonts/ (licences in docs/fonts.md), never system fonts.
 Use `python -X utf8`; in Git Bash prefix commands with `MSYS_NO_PATHCONV=1` when passing ROM paths like /system/... .
 Edit/create source only with the file-write/edit tools (no sed, no heredocs into source files).
 

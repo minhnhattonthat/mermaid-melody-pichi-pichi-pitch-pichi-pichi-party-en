@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.dirname(HERE)); sys.path.insert(0, HERE)
 import apply, fs, pixfont  # noqa: E402
 import gfxfmt as gfx  # noqa: E402
 
-FONTS = "C:/Windows/Fonts/"
+FONTS = os.path.join(apply.ROOT, "fonts") + "/"
 
 
 # ------------------------------------------------------------------ io
@@ -115,7 +115,7 @@ def bands(*spec):
 # ------------------------------------------------------------------ menu labels (2D OBJ sheets, 16-px rows)
 # Pill labels (title_obj modes, title_serect): text rows 3-12, fill 8/7/6 by row, outline f; pill indices 9 a b c.
 PILL_TEXT = {0x6, 0x7, 0x8, 0xd, 0xe, 0xf}
-LABEL_FONTS = [("tahomabd.ttf", 11), ("tahomabd.ttf", 10), ("ARIALNB.TTF", 12), ("ARIALNB.TTF", 11)]
+LABEL_FONTS = [("DejaVuSansCondensed-Bold.ttf", 11), ("DejaVuSansCondensed-Bold.ttf", 10), ("RobotoCondensed-Bold.ttf", 12), ("RobotoCondensed-Bold.ttf", 11)]
 
 
 def pill_row(vals):
@@ -149,15 +149,15 @@ def pill_label(a, y0, tx0, tx1, text, align="c"):
 def diff_label(a, x0, y0, text, cx):
     clean = a[y0:y0 + 16, x0 + 90].copy()
     a[y0:y0 + 15, x0 + 20:x0 + 84] = clean[:15, None]
-    m, cap = ttf(text, "tahomabd.ttf", 14)
+    m, cap = ttf(text, "DejaVuSansCondensed-Bold.ttf", 14)
     top = y0 + 11 - cap
     fill = lambda row: 0xf if row - y0 <= 5 else 0xe if row - y0 <= 8 else 0xd
     styled(a, cx - m.shape[1] // 2, top, m, fill, [(2, 0x1)])
 
 
 # Headers (title_menu, title_obj row 0): fill f/a/9/8, outline 2 px of 6 (upper) / 5 (lower), stars at the ends.
-HEAD_FONTS = [("tahomabd.ttf", 13), ("tahomabd.ttf", 12), ("tahomabd.ttf", 11), ("ARIALNB.TTF", 13),
-              ("ARIALNB.TTF", 12)]
+HEAD_FONTS = [("DejaVuSansCondensed-Bold.ttf", 13), ("DejaVuSansCondensed-Bold.ttf", 12), ("DejaVuSansCondensed-Bold.ttf", 11), ("RobotoCondensed-Bold.ttf", 13),
+              ("RobotoCondensed-Bold.ttf", 12)]
 
 
 def header(a, y0, text, xlo=0, xhi=256):
@@ -249,13 +249,13 @@ def aa_text(text, font, size):
 
 def k_logo():
     """Copyright line 1 (OBJ 240x8 at rows 1-8, ramp: 15 paper .. 1 ink). The (C) glyph (x 3-15) moves 3 px left
-    to make room for the English (Arial Narrow 9, anti-aliased onto the ramp)."""
+    to make room for the English (Roboto Condensed 8, cap 6, anti-aliased onto the ramp)."""
     path = "/mode/k_logo/logo.dcg"
     a, pal = load(path)
     cg = a[0:11, 3:16].copy()
     a[0:11, 0:240] = 15
     a[0:11, 0:13] = cg
-    c = aa_text("Kodansha, We've, TV Aichi / Pichi Pichi Pitch Production Committee", "ARIALN.TTF", 9)[:10]
+    c = aa_text("Kodansha, We've, TV Aichi / Pichi Pichi Pitch Production Committee", "RobotoCondensed-Regular.ttf", 8)[:10]
     assert 13 + c.shape[1] <= 241, c.shape
     idx = np.rint(15 - c * 14).astype(np.uint8)
     h, w = idx.shape
@@ -269,7 +269,7 @@ def press_start():
     path = "/mode/title/title_logo01.dcg"
     a, pal = load(path)
     a[0:16, 0:160] = 0
-    m, cap = ttf("Press START!", "tahomabd.ttf", 15)
+    m, cap = ttf("Press START!", "DejaVuSansCondensed-Bold.ttf", 15)
     fill = lambda row: 0xa if row <= 6 else 0x9 if row <= 8 else 0x8 if row <= 10 else 0x7
     inner = lambda row: 0x2 if row <= 8 else 0x1
     styled(a, 77 - m.shape[1] // 2, 12 - cap, m, fill, [(1, inner), (1, 0x1)], shadow=(-1, 2, 0xb, {0}))
@@ -305,7 +305,7 @@ def name_entry():
         for y in range(y0 + 1, y1):
             t = (y - y0) / (y1 - y0)
             a[y, x] = nearest(pal, top * (1 - t) + bot * t, used)
-    m, cap = ttf("Name your cartridge!", "tahomabd.ttf", 15)
+    m, cap = ttf("Name your cartridge!", "DejaVuSansCondensed-Bold.ttf", 15)
     top = 25 - cap
     ink = lambda row: ring[min(max(row, 13), 27)]
     styled(a, 120 - m.shape[1] // 2, top, m, white, [(1, ink)], shadow=(1, 1, ink))
@@ -397,7 +397,7 @@ def logo_party(c, P, col):
     text = "Pichi Pichi Party"
     size = 34
     while True:
-        m = ttf(text, "BAUHS93.TTF", size)[0]
+        m = ttf(text, "Nunito-Black.ttf", size)[0]
         if m.shape[1] <= bx1 - bx0 - 6:
             break
         size -= 1
@@ -428,10 +428,10 @@ def logo_pitch(c, ok, P, col):
     lab, _ = ndimage.label(ndimage.binary_fill_holes((c != 0) & win))
     cloud = lab == lab[24, 128]
     # big line "Pichi Pichi Pitch" (rows 21-39) and "Mermaid Melody" above it, both centred on screen x 120
-    big = pixfont.trim_rows(ttf("Pichi Pichi Pitch", "BAUHS93.TTF", 21)[0])
+    big = pixfont.trim_rows(ttf("Pichi Pichi Pitch", "Nunito-Black.ttf", 21)[0])
     bx, by = 120 - big.shape[1] // 2, 40 - big.shape[0]
     text = "Mermaid Melody"
-    ms = [ttf(ch, "BAUHS93.TTF", 13)[0] if ch != " " else np.zeros((1, 4), np.uint8) for ch in text]
+    ms = [ttf(ch, "Nunito-Black.ttf", 13)[0] if ch != " " else np.zeros((1, 4), np.uint8) for ch in text]
     ms = [g[:np.nonzero(g.any(1))[0].max() + 1] if g.any() else g for g in ms]   # drop empty descender rows
     w = sum(g.shape[1] for g in ms) + len(ms) - 1
     hh = max(g.shape[0] for g in ms)

@@ -7,28 +7,22 @@ Style of the kana: 1-px white strokes (223) with a dark drop shadow (2) right/be
 import os, sys
 
 import numpy as np
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.dirname(HERE)); sys.path.insert(0, HERE)
-import apply, redraw_title, romdata  # noqa: E402
+import apply, font_glyphs, redraw_title, romdata  # noqa: E402
 
 PATH = "/mode/title/name.imb"
 WHITE, SHADOW = 223, 2
 COLS = [24, 40, 55, 72, 87, 111, 127, 143, 159, 175, 200, 216]   # kana cell centres (x), from gfx/orig
 ROWS = [71, 87, 103, 119, 135]                                   # (y)
-FONT = ImageFont.truetype("C:/Windows/Fonts/msgothic.ttc", 14)   # embedded 1-bit bitmap strike: 1-px strokes
 
 
 def glyph(ch):
-    """-> (mask, top) ; top = row offset of the mask in a line box whose cap height is centred."""
-    im = Image.new("L", (24, 24), 0)
-    d = ImageDraw.Draw(im)
-    d.fontmode = "1"
-    if ch != "'":                   # full-width forms are kana-sized; the full-width apostrophe is a stray tick
-        ch = chr(ord(ch) + 0xFEE0)
-    d.text((4, 2), ch, font=FONT, fill=255)
-    m = np.array(im) > 127
+    """-> (mask, top) ; top = row offset of the mask in the 12-row line box of the English text font
+    (tools/font_glyphs.py: 1-px strokes, cap height 8), so the grid matches the name as the game prints it."""
+    m = np.array([[c == "#" for c in r] for r in font_glyphs.G[ch]])
     ys, xs = np.nonzero(m)
     return m[ys.min():ys.max() + 1, xs.min():xs.max() + 1], ys.min()
 
@@ -63,7 +57,7 @@ def name_grid():
             if c >= len(row):
                 continue
             m, top = glyph(row[c])
-            x, y = cx - m.shape[1] // 2, cy - 5 + (top - base)   # cap height ~10 centred on the kana centre
+            x, y = cx - m.shape[1] // 2, cy - 4 + (top - base)   # cap height 8 centred on the kana centre
             ys, xs = np.nonzero(m)
             for dy, dx in ((0, 1), (1, 0), (1, 1)):
                 a[ys + y + dy, xs + x + dx] = SHADOW
