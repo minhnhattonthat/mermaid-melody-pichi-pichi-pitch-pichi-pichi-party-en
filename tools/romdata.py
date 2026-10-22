@@ -65,6 +65,13 @@ def patch_rom(rom):
         if off in JP_CHECK:
             assert list(struct.unpack_from("<%dH" % len(JP_CHECK[off]), rom, off)) == JP_CHECK[off], hex(off)
         struct.pack_into("<%dH" % n, rom, off, *slot(en, n))
+    # status header builder 0x08032B88 writes エピソード as immediates 0x220-0x222 into row[1..3]:
+    # rewrite to row[1] = ext "Episode ", row[2..3] = ext "" (zero width)
+    e, z = ext("Episode ") & 0xFF, ext("") & 0xFF
+    assert z > e
+    old = struct.unpack_from("<7H", rom, 0x32B88)
+    assert old == (0x2088, 0x0080, 0x8048, 0x3001, 0x8088, 0x3001, 0x80C8), [hex(x) for x in old]
+    struct.pack_into("<7H", rom, 0x32B88, 0x2081, 0x0200, 0x3000 | e, 0x8048, 0x3000 | (z - e), 0x8088, 0x80C8)
 
 
 def sysstat_markup(jp_markup_codes, label, unit):
