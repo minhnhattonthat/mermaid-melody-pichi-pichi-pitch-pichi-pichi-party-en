@@ -1,7 +1,7 @@
 # Mermaid Melody Pichi Pichi Pitch: Pichi Pichi Party English translation
 
 Unofficial English fan translation of **Mermaid Melody Pichi Pichi Pitch: Pichi Pichi Party** (Game Boy Advance,
-Konami, 2004): the source text and tools that build the patch.
+Konami, 2003): the source text and tools that build the patch.
 
 **Just want to play?** Download the patch from [Releases](../../releases) and follow its README. This repository holds
 no game data you can play; you need your own dump of the Japanese game.

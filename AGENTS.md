@@ -1,4 +1,4 @@
-# Mermaid Melody Pichi Pichi Pitch: Pichi Pichi Party (GBA, Konami 2004) English translation
+# Mermaid Melody Pichi Pichi Pitch: Pichi Pichi Party (GBA, Konami 2003) English translation
 
 Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.json; other agents: `<SKILL_DIR>/SKILL.md`; `$SKILL` = the directory holding its SKILL.md). Read it before ROM, text or QA work.
 

@@ -1,4 +1,4 @@
-# RE notes: Mermaid Melody Pichi Pichi Pitch: Pichi Pichi Party (GBA, Konami 2004, AGB-BM8J)
+# RE notes: Mermaid Melody Pichi Pichi Pitch: Pichi Pichi Party (GBA, Konami 2003, AGB-BM8J)
 
 Base ROM: `rom/Mermaid Melody - Pichi Pichi Pitch - Pichi Pichi Party (Japan).gba`, 16 MiB,
 SHA-1 79571b4d16098ff04f2c9ddb3880d67a01ade4a7. Header title PICHIPICHI2, code BM8J.
