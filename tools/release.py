@@ -1,13 +1,13 @@
 """Release: check -> build -> smoke -> leftover-Japanese scan -> BPS (re-applied and verified) -> README -> zip.
     python -X utf8 tools/release.py [--no-smoke]
-Never publishes anything; the zip stays local (release/<slug>_en.zip = patch + README).
+Never publishes anything; the zip stays local (release/Mermaid_Melody_Pichi_Pichi_Party_EN_v<version>.zip = patch + README).
 """
 import hashlib, os, subprocess, sys, zipfile, zlib
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-SKILL = r"H:\translation\batch\.claude\skills\translate-retro-game"
-SLUG = "mermaid-melody-pichi-pichi-pitch-pichi-pichi-party"
+SKILL = os.environ.get("SKILL", os.path.join(os.path.expanduser("~"), ".claude", "plugins", "marketplaces",
+                                             "retro-translation", "skills", "translate-retro-game"))
 VERSION = "1.0"
 PY = [sys.executable, "-X", "utf8"]
 
@@ -48,7 +48,7 @@ def main():
         issues=open(os.path.join(ROOT, "docs", "known_issues.txt"), encoding="utf-8").read().rstrip())
     rp = os.path.join(rel, "README.txt")
     open(rp, "w", encoding="utf-8", newline="\r\n").write(readme)
-    zp = os.path.join(rel, f"{SLUG}_en.zip")
+    zp = os.path.join(rel, f"Mermaid_Melody_Pichi_Pichi_Party_EN_v{VERSION}.zip")
     with zipfile.ZipFile(zp, "w", zipfile.ZIP_DEFLATED) as z:
         z.write(patch, os.path.basename(patch))
         z.write(rp, "README.txt")

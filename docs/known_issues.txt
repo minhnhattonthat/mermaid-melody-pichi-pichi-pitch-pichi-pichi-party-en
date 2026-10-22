@@ -1,6 +1,7 @@
-- The System > "View" status screen (card and item effect rows such as "Minimum move 3 spaces",
-  "Slow roulette 2 turns") and the in-story Change Clothes screen were translated but could not be
-  reached by the automated test runs, so their layout was not checked on screen.
+- The in-story Change Clothes screen was translated but could not be reached by the automated test
+  runs, so its layout was not checked on screen. Of the System > "View" status screen only the episode
+  header and points page were checked (from a player savestate), not the card and item effect rows;
+  its counter reads "1 turns" because the unit is fixed text.
 - Some board graphics were only checked as images, not during play: the episode goal pieces
   (Goal!, 1st Place, bonuses), the Success!/Failed... roulette results, several battle headers
   (Eriru/Izuru/Yuri/Gaito attack bars, Cooking, Playing) and the highlighted/finished states of the

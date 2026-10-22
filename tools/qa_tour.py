@@ -7,7 +7,8 @@ from concurrent.futures import ThreadPoolExecutor
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-S = r"H:\translation\batch\.claude\skills\translate-retro-game\scripts"
+S = os.path.join(os.environ.get("SKILL", os.path.join(os.path.expanduser("~"), ".claude", "plugins", "marketplaces",
+                                                      "retro-translation", "skills", "translate-retro-game")), "scripts")
 MODE = "tools/debug/mode.lua"
 
 

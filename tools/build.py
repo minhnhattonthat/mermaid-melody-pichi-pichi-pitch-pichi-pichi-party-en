@@ -11,7 +11,6 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 ORIG = os.path.join(ROOT, "rom", "Mermaid Melody - Pichi Pichi Pitch - Pichi Pichi Party (Japan).gba")
-ORIG_SHA1 = "79571b4d16098ff04f2c9ddb3880d67a01ade4a7"
 SIZE = 0x2000000
 TEXT_LO, GFX_LO = 0x1000000, 0x1800000
 
@@ -33,10 +32,9 @@ class Alloc:
 
 
 def load_orig():
-    d = open(ORIG, "rb").read()
-    if hashlib.sha1(d).hexdigest() != ORIG_SHA1:
-        sys.exit("base ROM hash mismatch: use the unpatched original")
-    return d
+    import check_rom
+    check_rom.check()
+    return open(ORIG, "rb").read()
 
 
 def build(marker=False, qa=None):

@@ -1,6 +1,6 @@
 # Scene list (debug tool)
 
-`EMU = python -X utf8 H:/translation/batch/.claude/skills/translate-retro-game/scripts/emu.py <rom>`
+`EMU = python -X utf8 $SKILL/scripts/emu.py <rom>`
 All from a cold boot. `tools/debug/mode.lua --var MODE=<struct> [--var AT=2150]` switches the game mode through the
 mode manager (IWRAM 0x03006300 {current, next, phase=2}) and clears the retail flag 0x0201E968.
 `tools/routes/mainmenu.txt` reaches the main menu (title -> START x3).

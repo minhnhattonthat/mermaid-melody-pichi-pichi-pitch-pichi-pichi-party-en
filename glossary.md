@@ -4,7 +4,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 Copied whole from the prequel repo (Mermaid Melody Pichi Pichi Pitch, rhythm game); this game's own terms are in
 "Pichi Pichi Party terms" at the end. Lyrics shared with the prequel must use the prequel's English.
 
-## Rulings (pre-approved by the user, 2026-10)
+## Rulings (pre-approved by the user, 2026-10; options and reasons in docs/decisions.md)
 - Honorifics: dropped; convey closeness through register. ねーちゃん/にーちゃん -> "Sis"/"Bro" style address.
 - Name order: Western (given name first).
 - Romanisation source: official English localisation (Del Rey manga / English dub) where it exists, else modified Hepburn.

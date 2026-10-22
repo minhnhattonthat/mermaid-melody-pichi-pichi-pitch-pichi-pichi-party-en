@@ -4,6 +4,16 @@ Base ROM: `rom/Mermaid Melody - Pichi Pichi Pitch - Pichi Pichi Party (Japan).gb
 SHA-1 79571b4d16098ff04f2c9ddb3880d67a01ade4a7. Header title PICHIPICHI2, code BM8J.
 Different engine from the prequel (sibling repo): only the glossary and the English glyph art carry over.
 
+Mark every finding with how far it is proven: **verified** (and how: decoded known string, corrupt-and-boot test,
+breakpoint hit, roundtrip test) or **guess** (and why). Promote a guess before code depends on it. Addresses are for
+the dump in `rom.sha1` unless a note says otherwise.
+
+| File | Covers | State |
+|---|---|---|
+| README.md (this file) | file system, text encoding, fonts, renderer, event scripts | verified unless marked |
+| graphics.md | graphics text index per group | verified (seen in game or offline preview, as noted) |
+| gfx_title.md, gfx_board.md, gfx_battle.md, gfx_results.md, gfx_clothes.md, gfx_name.md | per-group graphics reports | verified unless marked |
+
 ## Game
 Board game (sugoroku) with story events, mini-game "battles", cards, items, clothes. Text is font-rendered
 (dialogue, menus, cards, items); title/menus also have graphics text.
