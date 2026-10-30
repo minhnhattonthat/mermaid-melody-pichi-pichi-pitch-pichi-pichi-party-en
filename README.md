@@ -9,6 +9,21 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
+## Translation status
+
+| Part | Status |
+|---|---|
+| Story (all 32 episodes, each heroine's version), board events, battles, help text | Translated |
+| Cards, items, clothes, menus | Translated |
+| Title logo and graphics with text (mode select, episode title cards, board, battle, results, dress-up, copyright screen) | Translated |
+| Song lyrics | Translated (same English as the [first game's translation](https://github.com/minhnhattonthat/mermaid-melody-pichi-pichi-pitch-en)) |
+| Name entry | Translated (Latin letters; a name entered in kana on a Japanese save still shows as kana) |
+| Staff roll | Translated (some staff-name readings are best guesses) |
+
+Known issues: the in-story Change Clothes screen and some board graphics were not checked during play; a few labels use
+compact wording ("7 left", "Here!", "Guard Rhythm"); the status screen reads "1 turns". Full list:
+[docs/known_issues.txt](docs/known_issues.txt).
+
 ## What's here
 
 | Path | What it is |
